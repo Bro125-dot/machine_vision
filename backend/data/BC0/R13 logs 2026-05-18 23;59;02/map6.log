@@ -1,0 +1,1590 @@
+2026-04-27 19:53:36  Vol : URUS_PA2_BC0_R13_INT_2026 Skid: 221 Calcul Vol : 659 Color: 99.
+2026-04-27 19:53:36  ---------------------------
+2026-04-27 19:58:26  Default Volume : Skid_Frame_Primer Skid: 101.
+2026-04-27 19:58:28  Vol : Skid_Frame_Primer Skid: 101 Calcul Vol : 640 Color: 1.
+2026-04-27 19:58:28  ---------------------------
+2026-04-27 19:58:33  Default Volume : DEFAULT Skid: 101.
+2026-04-27 19:58:34  Vol : DEFAULT Skid: 101 Calcul Vol : 640 Color: 1.
+2026-04-27 19:58:34  ---------------------------
+2026-04-27 20:02:52  URUS_BC_INT " Skid: 193 Paint : 501.
+2026-04-27 20:07:49  URUS_PR_INT " Skid: 193 Paint : 498.
+2026-04-27 20:11:47  Vol : URUS_PA2_PR0_INT_2025 Skid: 148 Calcul Vol : 552 Color: 1.
+2026-04-27 20:11:47  ---------------------------
+2026-04-27 20:16:48  URUS_BC_INT " Skid: 101 Paint : 605.
+2026-04-27 20:21:29  Vol : HURACAN_BC0_R13_INT Skid: 80 Calcul Vol : 315 Color: 5.
+2026-04-27 20:21:29  ---------------------------
+2026-04-27 20:27:44  Vol : URUS_PA2_BC0_R13_INT_2026 Skid: 230 Calcul Vol : 556 Color: 5.
+2026-04-27 20:27:44  ---------------------------
+2026-04-27 20:34:36  URUS_PR_INT " Skid: 148 Paint : 498.
+2026-04-27 20:41:03  Vol : URUS_PA2_BC0_R13_INT_2026 Skid: 210 Calcul Vol : 563 Color: 131.
+2026-04-27 20:41:03  ---------------------------
+2026-04-27 20:42:55  TEMERARIO_BC_INT " Skid: 230 Paint : 269.
+2026-04-27 20:42:55 --- Trajectory INT --- 
+2026-04-27 20:42:55  HURACAN_AP_BC0_INT " Skid: 230 Paint : 269.
+2026-04-27 20:42:55 --- --- 
+2026-04-27 20:44:30  Vol : URUS_PA2_PR0_INT_2025 Skid: 61 Calcul Vol : 563 Color: 3.
+2026-04-27 20:44:30  ---------------------------
+2026-04-27 20:48:09  URUS_BC_INT " Skid: 230 Paint : 502.
+2026-04-27 20:59:00  URUS_BC_INT " Skid: 61 Paint : 509.
+2026-04-27 21:03:57  URUS_PR_INT " Skid: 61 Paint : 510.
+2026-04-28 03:53:13  Vol : URUS_PA2_BC0_R13_INT_2026 Skid: 33 Calcul Vol : 604 Color: 7.
+2026-04-28 03:53:13  ---------------------------
+2026-04-28 04:00:19  Vol : HURACAN_PRIM_R13_INT Skid: 245 Calcul Vol : 315 Color: 1.
+2026-04-28 04:00:19  ---------------------------
+2026-04-28 04:06:07  Vol : HURACAN_BC0_R13_INT Skid: 79 Calcul Vol : 335 Color: 6.
+2026-04-28 04:06:07  ---------------------------
+2026-04-28 04:15:52  Vol : URUS_PA2_PR0_INT_2025 Skid: 153 Calcul Vol : 552 Color: 1.
+2026-04-28 04:15:53  ---------------------------
+2026-04-28 05:28:48 --- Trajectory EXT --- 
+2026-04-28 05:28:48  URUS_PA2_PR0_R12_EXT1 " Skid: 16793 Paint : 215.
+2026-04-28 05:30:31  URUS_PA2_PR0_R12_EXT2 " Skid: 16793 Paint : 264.
+2026-04-28 05:30:31 ---   --- 
+2026-04-28 05:53:50  Vol : URUS_PA2_BC0_R13_INT_2026 Skid: 193 Calcul Vol : 496 Color: 27.
+2026-04-28 05:53:50  ---------------------------
+2026-04-28 05:58:19  URUS_BC_INT " Skid: 245 Paint : 551.
+2026-04-28 06:01:57  TEMERARIO_PR_INT " Skid: 79 Paint : 264.
+2026-04-28 06:15:52  Vol : URUS_PA2_PR0_INT_2025 Skid: 126 Calcul Vol : 552 Color: 1.
+2026-04-28 06:15:52  ---------------------------
+2026-04-28 06:22:57  URUS_PR_INT " Skid: 153 Paint : 498.
+2026-04-28 06:25:04  Vol : URUS_PA2_BC0_R13_INT_2026 Skid: 148 Calcul Vol : 547 Color: 8.
+2026-04-28 06:25:04  ---------------------------
+2026-04-28 06:30:31  Vol : HURACAN_PRIM_R13_INT Skid: 68 Calcul Vol : 316 Color: 3.
+2026-04-28 06:30:31  ---------------------------
+2026-04-28 06:32:12  URUS_BC_INT " Skid: 126 Paint : 443.
+2026-04-28 06:36:07  Vol : HURACAN_BC0_R13_INT Skid: 139 Calcul Vol : 172 Color: 74.
+2026-04-28 06:36:07  ---------------------------
+2026-04-28 06:37:45  URUS_PR_INT " Skid: 126 Paint : 498.
+2026-04-28 06:41:46  Vol : URUS_PA2_PR0_INT_2025 Skid: 51 Calcul Vol : 552 Color: 1.
+2026-04-28 06:41:46  ---------------------------
+2026-04-28 06:48:10  URUS_BC_INT " Skid: 68 Paint : 493.
+2026-04-28 06:57:29  Vol : HURACAN_BC0_R13_INT Skid: 232 Calcul Vol : 337 Color: 35.
+2026-04-28 06:57:29  ---------------------------
+2026-04-28 06:57:56  TEMERARIO_PR_INT " Skid: 139 Paint : 263.
+2026-04-28 07:01:26  Vol : HURACAN_BC0_R13_INT Skid: 207 Calcul Vol : 315 Color: 22.
+2026-04-28 07:01:26  ---------------------------
+2026-04-28 07:01:52  TEMERARIO_BC_INT " Skid: 51 Paint : 72.
+2026-04-28 07:01:52 --- Trajectory INT REP --- 
+2026-04-28 07:01:52  HURACAN_BC0_R13_INT AP REP " Skid: 51 Paint : 72.
+2026-04-28 07:01:52 --- --- 
+2026-04-28 07:07:17  URUS_PR_INT " Skid: 51 Paint : 497.
+2026-04-28 07:08:17  Vol : HURACAN_PRIM_R13_INT Skid: 208 Calcul Vol : 315 Color: 2.
+2026-04-28 07:08:17  ---------------------------
+2026-04-28 07:15:26  TEMERARIO_BC_INT " Skid: 232 Paint : 288.
+2026-04-28 07:15:26 --- Trajectory INT --- 
+2026-04-28 07:15:26  HURACAN_AP_BC0_INT " Skid: 232 Paint : 288.
+2026-04-28 07:15:26 --- --- 
+2026-04-28 07:18:17  Vol : HURACAN_BC0_R13_INT Skid: 168 Calcul Vol : 475 Color: 5.
+2026-04-28 07:18:17  ---------------------------
+2026-04-28 07:20:51  TEMERARIO_BC_INT " Skid: 208 Paint : 265.
+2026-04-28 07:20:51 --- Trajectory INT --- 
+2026-04-28 07:20:51  HURACAN_AP_BC0_INT " Skid: 208 Paint : 265.
+2026-04-28 07:20:51 --- --- 
+2026-04-28 07:25:12  Vol : URUS_PA2_PR0_INT_2025 Skid: 37 Calcul Vol : 563 Color: 3.
+2026-04-28 07:25:12  ---------------------------
+2026-04-28 07:25:44  TEMERARIO_PR_INT " Skid: 208 Paint : 264.
+2026-04-28 07:36:21  Vol : URUS_PA2_PR0_INT_2025 Skid: 223 Calcul Vol : 552 Color: 1.
+2026-04-28 07:36:21  ---------------------------
+2026-04-28 07:38:13  TEMERARIO_BC_INT " Skid: 37 Paint : 255.
+2026-04-28 07:38:13 --- Trajectory INT --- 
+2026-04-28 07:38:13  HURACAN_CFK_BC0_INT " Skid: 37 Paint : 255.
+2026-04-28 07:38:13 --- --- 
+2026-04-28 07:43:58  URUS_PR_INT " Skid: 37 Paint : 510.
+2026-04-28 07:45:09  Vol : HURACAN_BC0_R13_INT Skid: 138 Calcul Vol : 364 Color: 19.
+2026-04-28 07:45:09  ---------------------------
+2026-04-28 07:49:10  Vol : URUS_PA2_PR0_INT_2025 Skid: 31 Calcul Vol : 563 Color: 3.
+2026-04-28 07:49:10  ---------------------------
+2026-04-28 07:53:02  URUS_PR_INT " Skid: 223 Paint : 497.
+2026-04-28 07:53:49  Vol : URUS_PA2_BC0_R13_INT_2026 Skid: 5 Calcul Vol : 567 Color: 29.
+2026-04-28 07:53:49  ---------------------------
+2026-04-28 07:58:49  Vol : HURACAN_PRIM_R13_INT Skid: 59 Calcul Vol : 316 Color: 2.
+2026-04-28 07:58:49  ---------------------------
+2026-04-28 08:01:12  TEMERARIO_BC_INT " Skid: 31 Paint : 313.
+2026-04-28 08:01:12 --- Trajectory INT --- 
+2026-04-28 08:01:12  HURACAN_AP_BC0_INT " Skid: 31 Paint : 313.
+2026-04-28 08:01:12 --- --- 
+2026-04-28 08:03:43  Vol : HURACAN_PRIM_R13_INT Skid: 131 Calcul Vol : 316 Color: 1.
+2026-04-28 08:03:43  ---------------------------
+2026-04-28 08:06:13  URUS_PR_INT " Skid: 5 Paint : 509.
+2026-04-28 08:12:10  Vol : HURACAN_BC0_R13_INT Skid: 20 Calcul Vol : 294 Color: 52.
+2026-04-28 08:12:10  ---------------------------
+2026-04-28 08:12:23  URUS_BC_INT " Skid: 59 Paint : 513.
+2026-04-28 08:16:00  TEMERARIO_PR_INT " Skid: 131 Paint : 264.
+2026-04-28 08:16:17  Vol : URUS_PA2_PR0_INT_2025 Skid: 220 Calcul Vol : 563 Color: 3.
+2026-04-28 08:16:17  ---------------------------
+2026-04-28 08:19:53  TEMERARIO_PR_INT " Skid: 131 Paint : 263.
+2026-04-28 08:21:26  Vol : HURACAN_PRIM_R13_INT Skid: 244 Calcul Vol : 316 Color: 3.
+2026-04-28 08:21:26  ---------------------------
+2026-04-28 08:26:20  Vol : URUS_PA2_BC0_HGL Skid: 61 Calcul Vol : 216 Color: 5.
+2026-04-28 08:26:20  ---------------------------
+2026-04-28 08:28:32  TEMERARIO_BC_INT " Skid: 220 Paint : 244.
+2026-04-28 08:28:32 --- Trajectory INT --- 
+2026-04-28 08:28:32  HURACAN_AP_BC0_INT " Skid: 220 Paint : 244.
+2026-04-28 08:28:32 --- --- 
+2026-04-28 08:30:39  Vol : URUS_PA2_PR0_INT_2025 Skid: 38 Calcul Vol : 552 Color: 1.
+2026-04-28 08:30:39  ---------------------------
+2026-04-28 08:34:06  URUS_PR_INT " Skid: 244 Paint : 509.
+2026-04-28 08:34:45  Vol : URUS_PA2_PR0_INT_2025 Skid: 158 Calcul Vol : 552 Color: 1.
+2026-04-28 08:34:45  ---------------------------
+2026-04-28 08:37:49  TEMERARIO_PR_INT " Skid: 61 Paint : 263.
+2026-04-28 08:38:33  Vol : URUS_PA2_BC0_R13_INT_2026 Skid: 153 Calcul Vol : 555 Color: 5.
+2026-04-28 08:38:33  ---------------------------
+2026-04-28 08:41:39  URUS_PA2_R13_HGL_INT_EXT " Skid: 38 Paint : 263.
+2026-04-28 08:42:24  Vol : HURACAN_PRIM_R13_INT Skid: 204 Calcul Vol : 315 Color: 2.
+2026-04-28 08:42:24  ---------------------------
+2026-04-28 08:46:12  Vol : HURACAN_PRIM_R13_INT Skid: 81 Calcul Vol : 315 Color: 3.
+2026-04-28 08:46:12  ---------------------------
+2026-04-28 08:52:39  URUS_PR_INT " Skid: 158 Paint : 497.
+2026-04-28 08:52:58  Vol : URUS_PA2_BC0_R13_INT_2026 Skid: 126 Calcul Vol : 610 Color: 60.
+2026-04-28 08:52:58  ---------------------------
+2026-04-28 08:57:38  URUS_PR_INT " Skid: 153 Paint : 498.
+2026-04-28 09:02:35  URUS_BC_INT " Skid: 204 Paint : 502.
+2026-04-28 09:02:52  Vol : URUS_PA2_PR0_INT_2025 Skid: 133 Calcul Vol : 563 Color: 3.
+2026-04-28 09:02:52  ---------------------------
+2026-04-28 09:06:54  TEMERARIO_PR_INT " Skid: 81 Paint : 260.
+2026-04-28 09:07:32  Vol : HURACAN_PRIM_R13_INT Skid: 74 Calcul Vol : 311 Color: 2.
+2026-04-28 09:07:32  ---------------------------
+2026-04-28 09:10:20  TEMERARIO_PR_INT " Skid: 81 Paint : 264.
+2026-04-28 09:16:25  URUS_BC_INT " Skid: 126 Paint : 556.
+2026-04-28 09:16:47  Vol : HURACAN_BC0_R13_INT Skid: 245 Calcul Vol : 304 Color: 106.
+2026-04-28 09:16:47  ---------------------------
+2026-04-28 09:21:17  Vol : URUS_PA2_PR0_INT_2025 Skid: 222 Calcul Vol : 552 Color: 1.
+2026-04-28 09:21:17  ---------------------------
+2026-04-28 09:25:28  URUS_PR_INT " Skid: 74 Paint : 508.
+2026-04-28 09:25:50  Vol : HURACAN_BC0_R13_INT Skid: 68 Calcul Vol : 349 Color: 7.
+2026-04-28 09:25:50  ---------------------------
+2026-04-28 09:29:09  TEMERARIO_PR_INT " Skid: 74 Paint : 262.
+2026-04-28 09:30:44  Vol : URUS_PA2_BC0_R13_INT_2026 Skid: 51 Calcul Vol : 556 Color: 5.
+2026-04-28 09:30:44  ---------------------------
+2026-04-28 09:34:51  Vol : HURACAN_PRIM_R13_INT Skid: 96 Calcul Vol : 315 Color: 1.
+2026-04-28 09:34:51  ---------------------------
+2026-04-28 09:36:26  TEMERARIO_BC_INT " Skid: 222 Paint : 254.
+2026-04-28 09:36:26 --- Trajectory INT --- 
+2026-04-28 09:36:26  HURACAN_AP_BC0_INT " Skid: 222 Paint : 254.
+2026-04-28 09:36:26 --- --- 
+2026-04-28 09:39:51  Vol : URUS_PA2_BC0_R13_INT_2026 Skid: 37 Calcul Vol : 553 Color: 52.
+2026-04-28 09:39:51  ---------------------------
+2026-04-28 09:41:15  URUS_PR_INT " Skid: 68 Paint : 498.
+2026-04-28 09:48:45  Vol : URUS_PA2_PR0_INT_2025 Skid: 84 Calcul Vol : 552 Color: 1.
+2026-04-28 09:48:45  ---------------------------
+2026-04-28 09:50:31  URUS_BC_INT " Skid: 96 Paint : 502.
+2026-04-28 09:54:09  TEMERARIO_PR_INT " Skid: 37 Paint : 264.
+2026-04-28 09:59:18  URUS_BC_INT " Skid: 37 Paint : 498.
+2026-04-28 10:00:09  Default Volume : HURACAN_SP_BC0_R13_INT Skid: 57.
+2026-04-28 10:00:11  Vol : HURACAN_SP_BC0_R13_INT Skid: 57 Calcul Vol : 640 Color: 29.
+2026-04-28 10:00:11  ---------------------------
+2026-04-28 10:08:44  Vol : URUS_PA2_BC0_R13_INT_2026 Skid: 31 Calcul Vol : 472 Color: 21.
+2026-04-28 10:08:44  ---------------------------
+2026-04-28 10:12:36  URUS_PR_INT " Skid: 84 Paint : 497.
+2026-04-28 10:22:44  Vol : HURACAN_PRIM_R13_INT Skid: 230 Calcul Vol : 316 Color: 3.
+2026-04-28 10:22:44  ---------------------------
+2026-04-28 10:35:07  TEMERARIO_PR_INT " Skid: 57 Paint : 277.
+2026-04-28 10:41:29  Vol : URUS_PA2_BC0_R13_INT_2026 Skid: 223 Calcul Vol : 505 Color: 11.
+2026-04-28 10:41:29  ---------------------------
+2026-04-28 10:45:52  URUS_BC_INT " Skid: 230 Paint : 417.
+2026-04-28 10:46:09  Vol : URUS_PA2_PR0_INT_2025 Skid: 167 Calcul Vol : 563 Color: 3.
+2026-04-28 10:46:09  ---------------------------
+2026-04-28 10:49:29  TEMERARIO_PR_INT " Skid: 230 Paint : 264.
+2026-04-28 10:58:30  Vol : URUS_PA2_BC0_R13_INT_2026 Skid: 220 Calcul Vol : 604 Color: 7.
+2026-04-28 10:58:30  ---------------------------
+2026-04-28 11:10:11  Vol : HURACAN_BC0_R13_INT Skid: 131 Calcul Vol : 301 Color: 5.
+2026-04-28 11:10:11  ---------------------------
+2026-04-28 11:14:22  URUS_BC_INT " Skid: 167 Paint : 451.
+2026-04-28 11:16:32  Vol : URUS_PA2_PR0_INT_2025 Skid: 49 Calcul Vol : 552 Color: 1.
+2026-04-28 11:16:32  ---------------------------
+2026-04-28 11:21:02  URUS_PR_INT " Skid: 220 Paint : 508.
+2026-04-28 11:25:58  URUS_BC_INT " Skid: 220 Paint : 551.
+2026-04-28 11:30:48  Vol : URUS_PA2_BC0_R13_INT_2026 Skid: 158 Calcul Vol : 504 Color: 11.
+2026-04-28 11:30:48  ---------------------------
+2026-04-28 11:35:21  Vol : URUS_PA2_BC0_HGL Skid: 38 Calcul Vol : 216 Color: 5.
+2026-04-28 11:35:21  ---------------------------
+2026-04-28 11:39:51  URUS_PR_INT " Skid: 49 Paint : 498.
+2026-04-28 11:40:10  Vol : URUS_PA2_PR0_INT_2025 Skid: 233 Calcul Vol : 555 Color: 2.
+2026-04-28 11:40:10  ---------------------------
+2026-04-28 11:44:52  Vol : URUS_PA2_BC0_R13_INT_2026 Skid: 133 Calcul Vol : 515 Color: 28.
+2026-04-28 11:44:52  ---------------------------
+2026-04-28 11:49:01  Vol : URUS_PA2_BC0_R13_INT_2026 Skid: 222 Calcul Vol : 523 Color: 64.
+2026-04-28 11:49:01  ---------------------------
+2026-04-28 11:51:38  URUS_BC_INT " Skid: 38 Paint : 449.
+2026-04-28 11:54:59  URUS_PA2_R13_HGL_INT_EXT " Skid: 233 Paint : 449.
+2026-04-28 12:02:11  URUS_PR_INT " Skid: 133 Paint : 500.
+2026-04-28 12:02:28  Vol : URUS_PA2_PR0_INT_2025 Skid: 161 Calcul Vol : 563 Color: 3.
+2026-04-28 12:02:28  ---------------------------
+2026-04-28 12:07:21  URUS_BC_INT " Skid: 222 Paint : 461.
+2026-04-28 12:12:17  URUS_BC_INT " Skid: 222 Paint : 468.
+2026-04-28 12:12:35  Vol : URUS_PA2_BC0_R13_INT_2026 Skid: 84 Calcul Vol : 556 Color: 5.
+2026-04-28 12:12:35  ---------------------------
+2026-04-28 12:17:14  Vol : URUS_PA2_PR0_INT_2025 Skid: 36 Calcul Vol : 552 Color: 1.
+2026-04-28 12:17:14  ---------------------------
+2026-04-28 12:30:50  URUS_PR_INT " Skid: 161 Paint : 509.
+2026-04-28 12:31:08  Vol : URUS_PA2_PR0_INT_2025 Skid: 4 Calcul Vol : 462 Color: 3.
+2026-04-28 12:31:08  ---------------------------
+2026-04-28 12:39:49  URUS_BC_INT " Skid: 36 Paint : 502.
+2026-04-28 12:44:46  URUS_PR_INT " Skid: 36 Paint : 498.
+2026-04-28 12:45:06  Vol : HURACAN_BC0_R13_INT Skid: 138 Calcul Vol : 310 Color: 20.
+2026-04-28 12:45:06  ---------------------------
+2026-04-28 12:49:37  Vol : URUS_PA2_BC0_HGL Skid: 61 Calcul Vol : 216 Color: 5.
+2026-04-28 12:49:37  ---------------------------
+2026-04-28 12:53:13 --- Trajectory --- 
+2026-04-28 12:53:13 Prog : URUS_PA2_PR0_INT_2025 & OPT_1 12292 Skid: 4 Paint : 408.
+2026-04-28 12:53:13 ------ Trajectory Consuption URUS PA2 SPORT INT PRIMER ------ 
+2026-04-28 12:53:13  URUS_PA2SPORT_PR0_R13_INT " Skid: 4 Paint : 408.
+2026-04-28 12:53:13 --------------   --------------   -------------- 
+2026-04-28 12:54:14  Vol : URUS_PA2_PR0_INT_2025 Skid: 29 Calcul Vol : 555 Color: 2.
+2026-04-28 12:54:14  ---------------------------
+2026-04-28 12:59:11  Vol : HURACAN_BC0_R13_INT Skid: 20 Calcul Vol : 314 Color: 53.
+2026-04-28 12:59:11  ---------------------------
+2026-04-28 13:04:01  TEMERARIO_BC_INT " Skid: 61 Paint : 259.
+2026-04-28 13:04:01 --- Trajectory INT --- 
+2026-04-28 13:04:01  HURACAN_AP_BC0_INT " Skid: 61 Paint : 259.
+2026-04-28 13:04:01 --- --- 
+2026-04-28 13:06:29  Vol : HURACAN_PRIM_R13_INT Skid: 206 Calcul Vol : 315 Color: 3.
+2026-04-28 13:06:29  ---------------------------
+2026-04-28 13:07:15  URUS_PA2_R13_HGL_INT_EXT " Skid: 29 Paint : 259.
+2026-04-28 13:14:27  URUS_PR_INT " Skid: 20 Paint : 500.
+2026-04-28 13:16:21  Vol : URUS_PA2_PR0_INT_2025 Skid: 50 Calcul Vol : 552 Color: 1.
+2026-04-28 13:16:21  ---------------------------
+2026-04-28 13:18:34  TEMERARIO_BC_INT " Skid: 20 Paint : 264.
+2026-04-28 13:18:34 --- Trajectory INT --- 
+2026-04-28 13:18:34  HURACAN_AP_BC0_INT " Skid: 20 Paint : 264.
+2026-04-28 13:18:34 --- --- 
+2026-04-28 13:20:36  Vol : URUS_PA2_BC0_HGL Skid: 167 Calcul Vol : 216 Color: 5.
+2026-04-28 13:20:36  ---------------------------
+2026-04-28 13:24:54  Vol : URUS_PA2_PR0_INT_2025 Skid: 60 Calcul Vol : 555 Color: 4.
+2026-04-28 13:24:54  ---------------------------
+2026-04-28 13:28:08  TEMERARIO_PR_INT " Skid: 206 Paint : 262.
+2026-04-28 13:33:51  Vol : HURACAN_BC0_R13_INT Skid: 230 Calcul Vol : 349 Color: 7.
+2026-04-28 13:33:51  ---------------------------
+2026-04-28 13:41:38  URUS_PA2_R13_HGL_INT_EXT " Skid: 60 Paint : 262.
+2026-04-28 13:43:31  Vol : HURACAN_BC0_R13_INT Skid: 244 Calcul Vol : 292 Color: 21.
+2026-04-28 13:43:31  ---------------------------
+2026-04-28 13:49:13  Vol : URUS_PA2_PR0_INT_2025 Skid: 50 Calcul Vol : 552 Color: 1.
+2026-04-28 13:49:13  ---------------------------
+2026-04-28 13:50:20  URUS_PR_INT " Skid: 230 Paint : 501.
+2026-04-28 13:52:26  Vol : URUS_PA2_BC0_R13_INT_2026 Skid: 37 Calcul Vol : 526 Color: 53.
+2026-04-28 13:52:26  ---------------------------
+2026-04-28 13:56:14  Vol : URUS_PA2_BC0_R13_INT_2026 Skid: 49 Calcul Vol : 547 Color: 8.
+2026-04-28 13:56:14  ---------------------------
+2026-04-28 14:01:22  TEMERARIO_BC_INT " Skid: 50 Paint : 241.
+2026-04-28 14:01:22 --- Trajectory INT --- 
+2026-04-28 14:01:22  HURACAN_AP_BC0_INT " Skid: 50 Paint : 241.
+2026-04-28 14:01:22 --- --- 
+2026-04-28 14:01:29  Vol : HURACAN_BC0_R13_BLACK_ROOF Skid: 207 Calcul Vol : 303 Color: 5.
+2026-04-28 14:01:29  ---------------------------
+2026-04-28 14:04:56  Vol : URUS_PA2_PR0_INT_2025 Skid: 117 Calcul Vol : 552 Color: 1.
+2026-04-28 14:04:56  ---------------------------
+2026-04-28 14:06:24  URUS_PR_INT " Skid: 37 Paint : 498.
+2026-04-28 14:12:30  URUS_BC_INT " Skid: 49 Paint : 471.
+2026-04-28 14:17:25  URUS_BC_INT " Skid: 207 Paint : 493.
+2026-04-28 14:22:53  Default Volume : Skid_Frame_Primer Skid: 109.
+2026-04-28 14:22:55  Vol : Skid_Frame_Primer Skid: 109 Calcul Vol : 640 Color: 1.
+2026-04-28 14:22:55  ---------------------------
+2026-04-28 14:23:00  Default Volume : DEFAULT Skid: 109.
+2026-04-28 14:23:01  Vol : DEFAULT Skid: 109 Calcul Vol : 640 Color: 1.
+2026-04-28 14:23:01  ---------------------------
+2026-04-28 14:28:36  URUS_PR_INT " Skid: 117 Paint : 497.
+2026-04-28 14:30:38  Vol : HURACAN_BC0_R13_INT Skid: 12 Calcul Vol : 299 Color: 8.
+2026-04-28 14:30:38  ---------------------------
+2026-04-28 14:34:53  Vol : URUS_PA2_BC0_HGL Skid: 161 Calcul Vol : 216 Color: 5.
+2026-04-28 14:34:53  ---------------------------
+2026-04-28 14:43:11  Vol : URUS_PA2_BC0_R13_INT_2026 Skid: 233 Calcul Vol : 563 Color: 131.
+2026-04-28 14:43:11  ---------------------------
+2026-04-28 14:49:56  Vol : HURACAN_PRIM_R13_INT Skid: 166 Calcul Vol : 316 Color: 1.
+2026-04-28 14:49:56  ---------------------------
+2026-04-28 14:57:48  URUS_PA2_R13_HGL_INT_EXT " Skid: 161 Paint : 497.
+2026-04-28 14:59:48  Vol : URUS_PA2_BC0_R13_INT_2026 Skid: 36 Calcul Vol : 547 Color: 8.
+2026-04-28 14:59:48  ---------------------------
+2026-04-28 15:04:09  Vol : URUS_PA2_PR0_INT_2025 Skid: 24 Calcul Vol : 552 Color: 1.
+2026-04-28 15:04:09  ---------------------------
+2026-04-28 15:05:40  URUS_BC_INT " Skid: 166 Paint : 509.
+2026-04-28 15:09:01  Vol : URUS_PA2_BC0_R13_INT_2026 Skid: 31 Calcul Vol : 500 Color: 22.
+2026-04-28 15:09:01  ---------------------------
+2026-04-28 15:09:25  TEMERARIO_PR_INT " Skid: 166 Paint : 264.
+2026-04-28 15:16:28  Vol : HURACAN_BC0_R13_INT Skid: 168 Calcul Vol : 475 Color: 5.
+2026-04-28 15:16:28  ---------------------------
+2026-04-28 15:20:58  File Access Error
+2026-04-28 15:20:58  File Access Error
+2026-04-28 15:20:58  Vol : HURACAN_BC0_R13_BLACK_ROOF Skid: 14 Calcul Vol : 650 Color: 5.
+2026-04-28 15:20:58  ---------------------------
+2026-04-28 15:21:58  URUS_BC_INT " Skid: 24 Paint : 493.
+2026-04-28 15:25:19  Vol : URUS_PA2_PR0_INT_2025 Skid: 150 Calcul Vol : 456 Color: 1.
+2026-04-28 15:25:19  ---------------------------
+2026-04-28 15:26:57  URUS_PR_INT " Skid: 31 Paint : 498.
+2026-04-28 15:30:26  Vol : URUS_PA2SPORT_R13_INT Skid: 142 Calcul Vol : 555 Color: 15.
+2026-04-28 15:30:26  ---------------------------
+2026-04-28 15:30:32  Vol : URUS_PA2SPORT_R13_EXT Skid: 142 Calcul Vol : 408 Color: 15.
+2026-04-28 15:30:32  ---------------------------
+2026-04-28 15:30:38  Vol : URUS_PA2SPORT_R13_EXTII Skid: 142 Calcul Vol : 383 Color: 15.
+2026-04-28 15:30:38  ---------------------------
+2026-04-28 15:31:53  URUS_BC_INT " Skid: 168 Paint : 446.
+2026-04-28 15:36:06  TEMERARIO_BC_INT " Skid: 168 Paint : 255.
+2026-04-28 15:36:06 --- Trajectory INT --- 
+2026-04-28 15:36:06  HURACAN_CFK_BC0_INT " Skid: 168 Paint : 255.
+2026-04-28 15:36:06 --- --- 
+2026-04-28 15:40:01  Default Volume : Skid_Frame_Primer Skid: 22.
+2026-04-28 15:40:03  Vol : Skid_Frame_Primer Skid: 22 Calcul Vol : 640 Color: 1.
+2026-04-28 15:40:03  ---------------------------
+2026-04-28 15:40:08  Default Volume : DEFAULT Skid: 22.
+2026-04-28 15:40:09  Vol : DEFAULT Skid: 22 Calcul Vol : 640 Color: 1.
+2026-04-28 15:40:09  ---------------------------
+2026-04-28 15:42:52  Vol : URUS_PA2_BC0_R13_INT_2026 Skid: 133 Calcul Vol : 567 Color: 29.
+2026-04-28 15:42:52  ---------------------------
+2026-04-28 15:46:28  Vol : URUS_PA2_BC0_R13_INT_2026 Skid: 38 Calcul Vol : 496 Color: 27.
+2026-04-28 15:46:28  ---------------------------
+2026-04-28 15:49:10 --- Trajectory --- 
+2026-04-28 15:49:10 Prog : URUS_PA2_PR0_INT_2025 & OPT_1 12290 Skid: 142 Paint : 403.
+2026-04-28 15:49:10 ------ Trajectory Consuption URUS PA2 SPORT INT PRIMER ------ 
+2026-04-28 15:49:10  URUS_PA2SPORT_PR0_R13_INT " Skid: 142 Paint : 403.
+2026-04-28 15:49:10 --------------   --------------   -------------- 
+2026-04-28 15:51:40  File Access Error
+2026-04-28 15:51:40  Vol : URUS_PA2_BC0_R13_INT_2026 Skid: 21 Calcul Vol : 19640 Color: 9.
+2026-04-28 15:51:40  ---------------------------
+2026-04-28 15:54:41 --- Trajectory --- 
+2026-04-28 15:54:41 Prog : URUS_PA2SPORT_R13_INT & OPT_1 24577 Skid: 142 Paint : 502.
+2026-04-28 15:58:52 --- Trajectory --- 
+2026-04-28 15:58:52 Prog : URUS_PA2SPORT_R13_EXT & OPT_1 24577 Skid: 142 Paint : 354.
+2026-04-28 16:00:57 Prog : URUS_PA2SPORT_R13_EXTII & OPT_1 24577 Skid: 142 Paint : 339 . 
+2026-04-28 16:01:41  Vol : HURACAN_PRIM_R13_INT Skid: 152 Calcul Vol : 316 Color: 3.
+2026-04-28 16:01:41  ---------------------------
+2026-04-28 16:12:48  URUS_BC_INT " Skid: 38 Paint : 512.
+2026-04-28 16:13:56  Vol : URUS_PA2_BC0_R13_INT_2026 Skid: 29 Calcul Vol : 598 Color: 89.
+2026-04-28 16:13:56  ---------------------------
+2026-04-28 16:18:34  URUS_BC_INT " Skid: 21 Paint : 442.
+2026-04-28 16:18:50  Vol : URUS_PA2_PR0_INT_2025 Skid: 208 Calcul Vol : 563 Color: 3.
+2026-04-28 16:18:50  ---------------------------
+2026-04-28 16:23:28  URUS_BC_INT " Skid: 152 Paint : 428.
+2026-04-28 16:24:18  Vol : HURACAN_BC0_R13_INT Skid: 203 Calcul Vol : 180 Color: 15.
+2026-04-28 16:24:18  ---------------------------
+2026-04-28 16:27:38  TEMERARIO_PR_INT " Skid: 152 Paint : 263.
+2026-04-28 16:37:15  Vol : HURACAN_BC0_R13_INT Skid: 81 Calcul Vol : 365 Color: 19.
+2026-04-28 16:37:15  ---------------------------
+2026-04-28 16:38:52  URUS_BC_INT " Skid: 208 Paint : 545.
+2026-04-28 16:40:51  Vol : HURACAN_PRIM_R13_INT Skid: 63 Calcul Vol : 234 Color: 2.
+2026-04-28 16:40:51  ---------------------------
+2026-04-28 16:44:42  URUS_PR_INT " Skid: 203 Paint : 510.
+2026-04-28 16:45:03  Vol : URUS_PA2_BC0_R13_INT_2026 Skid: 50 Calcul Vol : 521 Color: 13.
+2026-04-28 16:45:03  ---------------------------
+2026-04-28 16:47:06  TEMERARIO_BC_INT " Skid: 203 Paint : 87.
+2026-04-28 16:47:06 --- Trajectory INT REP --- 
+2026-04-28 16:47:06  HURACAN_BC0_R13_INT AP REP " Skid: 203 Paint : 87.
+2026-04-28 16:47:06 --- --- 
+2026-04-28 16:50:01  Vol : URUS_PA2_PR0_INT_2025 Skid: 85 Calcul Vol : 563 Color: 3.
+2026-04-28 16:50:01  ---------------------------
+2026-04-28 16:55:58  TEMERARIO_BC_INT " Skid: 63 Paint : 314.
+2026-04-28 16:55:58 --- Trajectory INT --- 
+2026-04-28 16:55:58  HURACAN_AP_BC0_INT " Skid: 63 Paint : 314.
+2026-04-28 16:55:58 --- --- 
+2026-04-28 16:57:55  Vol : URUS_PA2_BC0_R13_INT_2026 Skid: 60 Calcul Vol : 470 Color: 41.
+2026-04-28 16:57:55  ---------------------------
+2026-04-28 16:58:53  TEMERARIO_PR_INT " Skid: 50 Paint : 102.
+2026-04-28 17:02:01  Vol : HURACAN_PRIM_R13_INT Skid: 9 Calcul Vol : 316 Color: 2.
+2026-04-28 17:02:01  ---------------------------
+2026-04-28 17:06:26  URUS_BC_INT " Skid: 85 Paint : 468.
+2026-04-28 17:06:43  Vol : URUS_PA2_BC0_R13_Plastic Skid: 259 Calcul Vol : 154 Color: 29.
+2026-04-28 17:06:43  ---------------------------
+2026-04-28 17:11:24  URUS_PR_INT " Skid: 85 Paint : 510.
+2026-04-28 17:16:44  Vol : URUS_PA2_PR0_INT_2025 Skid: 33 Calcul Vol : 552 Color: 1.
+2026-04-28 17:16:44  ---------------------------
+2026-04-28 17:20:36  URUS_BC_INT " Skid: 9 Paint : 415.
+2026-04-28 17:20:53  Vol : URUS_PA2_BC0_HGL Skid: 167 Calcul Vol : 216 Color: 5.
+2026-04-28 17:20:53  ---------------------------
+2026-04-28 17:24:13  TEMERARIO_PR_INT " Skid: 259 Paint : 264.
+2026-04-28 17:46:08 --- Trajectory Consumption URUS Plastics --- 
+2026-04-28 17:46:08  URUS_PA2_BC0_R13_Plastic " Skid: 259 Paint : 103.
+2026-04-28 17:46:08 ---   --- 
+2026-04-28 17:50:23  Vol : HURACAN_BC0_R13_INT Skid: 166 Calcul Vol : 301 Color: 5.
+2026-04-28 17:50:23  ---------------------------
+2026-04-28 17:53:59  Vol : HURACAN_BC0_R13_BLACK_ROOF Skid: 230 Calcul Vol : 306 Color: 5.
+2026-04-28 17:53:59  ---------------------------
+2026-04-28 17:54:51  URUS_PR_INT " Skid: 167 Paint : 498.
+2026-04-28 17:58:04  URUS_PA2_R13_HGL_INT_EXT " Skid: 167 Paint : 498.
+2026-04-28 18:05:27  Vol : URUS_PA2_BC0_R13_INT_2026 Skid: 61 Calcul Vol : 166 Color: 98.
+2026-04-28 18:05:27  ---------------------------
+2026-04-28 18:09:06  Vol : URUS_PA2_PR0_INT_2025 Skid: 148 Calcul Vol : 552 Color: 1.
+2026-04-28 18:09:06  ---------------------------
+2026-04-28 18:13:51  Vol : URUS_PA2_BC0_R13_INT_2026 Skid: 24 Calcul Vol : 624 Color: 67.
+2026-04-28 18:13:51  ---------------------------
+2026-04-28 18:22:01  Vol : HURACAN_BC0_R13_INT Skid: 244 Calcul Vol : 315 Color: 22.
+2026-04-28 18:22:01  ---------------------------
+2026-04-28 18:26:01  Vol : HURACAN_PRIM_R13_INT Skid: 52 Calcul Vol : 316 Color: 3.
+2026-04-28 18:26:01  ---------------------------
+2026-04-28 18:27:19  URUS_PR_INT " Skid: 24 Paint : 498.
+2026-04-28 18:32:15  URUS_BC_INT " Skid: 24 Paint : 570.
+2026-04-28 18:33:37  Vol : URUS_PA2_BC0_R13_INT_2026 Skid: 61 Calcul Vol : 479 Color: 98.
+2026-04-28 18:33:37  ---------------------------
+2026-04-28 18:39:52  Default Volume : Skid_Frame_Primer Skid: 240.
+2026-04-28 18:39:53  Vol : Skid_Frame_Primer Skid: 240 Calcul Vol : 640 Color: 1.
+2026-04-28 18:39:53  ---------------------------
+2026-04-28 18:39:58  Default Volume : DEFAULT Skid: 240.
+2026-04-28 18:40:00  Vol : DEFAULT Skid: 240 Calcul Vol : 640 Color: 1.
+2026-04-28 18:40:00  ---------------------------
+2026-04-28 18:40:12  TEMERARIO_BC_INT " Skid: 52 Paint : 264.
+2026-04-28 18:40:12 --- Trajectory INT --- 
+2026-04-28 18:40:12  HURACAN_AP_BC0_INT " Skid: 52 Paint : 264.
+2026-04-28 18:40:12 --- --- 
+2026-04-28 18:44:00  TEMERARIO_PR_INT " Skid: 61 Paint : 263.
+2026-04-28 18:48:03  Vol : HURACAN_BC0_R13_INT Skid: 96 Calcul Vol : 325 Color: 65.
+2026-04-28 18:48:03  ---------------------------
+2026-04-28 18:50:20  URUS_BC_INT " Skid: 61 Paint : 426.
+2026-04-28 18:51:30  Vol : URUS_PA2_BC0_R13_INT_2026 Skid: 208 Calcul Vol : 577 Color: 6.
+2026-04-28 18:51:30  ---------------------------
+2026-04-28 18:55:40  Vol : URUS_PA2_PR0_INT_2025 Skid: 153 Calcul Vol : 563 Color: 3.
+2026-04-28 18:55:40  ---------------------------
+2026-04-28 19:02:10  Vol : URUS_PA2_BC0_R13_INT_2026 Skid: 161 Calcul Vol : 514 Color: 24.
+2026-04-28 19:02:10  ---------------------------
+2026-04-28 19:06:40  Vol : HURACAN_BC0_R13_INT Skid: 156 Calcul Vol : 362 Color: 145.
+2026-04-28 19:06:40  ---------------------------
+2026-04-28 19:08:16  TEMERARIO_BC_INT " Skid: 208 Paint : 275.
+2026-04-28 19:08:16 --- Trajectory INT --- 
+2026-04-28 19:08:16  HURACAN_AP_BC0_INT " Skid: 208 Paint : 275.
+2026-04-28 19:08:16 --- --- 
+2026-04-28 19:10:46  Vol : URUS_PA2_PR0_INT_2025 Skid: 103 Calcul Vol : 555 Color: 2.
+2026-04-28 19:10:46  ---------------------------
+2026-04-28 19:13:28  URUS_BC_INT " Skid: 208 Paint : 524.
+2026-04-28 19:20:17  URUS_PR_INT " Skid: 161 Paint : 509.
+2026-04-28 19:20:35  Vol : URUS_PA2_BC0_R13_INT_2026 Skid: 85 Calcul Vol : 587 Color: 32.
+2026-04-28 19:20:35  ---------------------------
+2026-04-28 19:25:13  URUS_BC_INT " Skid: 156 Paint : 460.
+2026-04-28 19:25:29  Vol : HURACAN_PRIM_R13_INT Skid: 59 Calcul Vol : 316 Color: 1.
+2026-04-28 19:25:29  ---------------------------
+2026-04-28 19:29:17  TEMERARIO_BC_INT " Skid: 156 Paint : 313.
+2026-04-28 19:29:17 --- Trajectory INT --- 
+2026-04-28 19:29:17  HURACAN_AP_BC0_INT " Skid: 156 Paint : 313.
+2026-04-28 19:29:17 --- --- 
+2026-04-28 19:41:25  URUS_BC_INT " Skid: 59 Paint : 532.
+2026-04-28 19:44:56  Vol : URUS_PA2_PR0_INT_2025 Skid: 103 Calcul Vol : 555 Color: 2.
+2026-04-28 19:44:56  ---------------------------
+2026-04-28 19:47:00  TEMERARIO_PR_INT " Skid: 59 Paint : 263.
+2026-04-28 19:51:29  Default Volume : HURACAN_SP_BC0_R13_INT Skid: 57.
+2026-04-28 19:51:30  Vol : HURACAN_SP_BC0_R13_INT Skid: 57 Calcul Vol : 640 Color: 28.
+2026-04-28 19:51:30  ---------------------------
+2026-04-28 19:55:15  Default Volume : Skid_Frame_Primer Skid: 39.
+2026-04-28 19:55:16  Vol : Skid_Frame_Primer Skid: 39 Calcul Vol : 640 Color: 1.
+2026-04-28 19:55:16  ---------------------------
+2026-04-28 19:55:21  Default Volume : DEFAULT Skid: 39.
+2026-04-28 19:55:23  Vol : DEFAULT Skid: 39 Calcul Vol : 640 Color: 1.
+2026-04-28 19:55:23  ---------------------------
+2026-04-28 20:01:14  Vol : HURACAN_BC0_R13_INT Skid: 9 Calcul Vol : 293 Color: 9.
+2026-04-28 20:01:14  ---------------------------
+2026-04-28 20:01:31  URUS_PR_INT " Skid: 103 Paint : 501.
+2026-04-28 20:15:57  TEMERARIO_PR_INT " Skid: 39 Paint : 332.
+2026-04-28 20:16:38  Vol : URUS_PA2_PR0_INT_2025 Skid: 79 Calcul Vol : 552 Color: 1.
+2026-04-28 20:16:38  ---------------------------
+2026-04-28 20:21:47  Vol : HURACAN_BC0_R13_INT Skid: 206 Calcul Vol : 339 Color: 98.
+2026-04-28 20:21:47  ---------------------------
+2026-04-28 20:28:03  Vol : HURACAN_BC0_R13_INT Skid: 9 Calcul Vol : 293 Color: 9.
+2026-04-28 20:28:03  ---------------------------
+2026-04-28 20:31:18  Vol : URUS_PA2_PR0_INT_2025 Skid: 130 Calcul Vol : 563 Color: 3.
+2026-04-28 20:31:18  ---------------------------
+2026-04-28 20:31:45  URUS_PR_INT " Skid: 206 Paint : 497.
+2026-04-28 20:34:51  Vol : URUS_PA2_BC0_HGL Skid: 33 Calcul Vol : 216 Color: 5.
+2026-04-28 20:34:51  ---------------------------
+2026-04-28 20:36:18  TEMERARIO_BC_INT " Skid: 206 Paint : 290.
+2026-04-28 20:36:18 --- Trajectory INT --- 
+2026-04-28 20:36:18  HURACAN_AP_BC0_INT " Skid: 206 Paint : 290.
+2026-04-28 20:36:18 --- --- 
+2026-04-28 20:37:45  Vol : HURACAN_BC0_R13_INT Skid: 81 Calcul Vol : 310 Color: 20.
+2026-04-28 20:37:45  ---------------------------
+2026-04-28 20:41:27  Vol : URUS_PA2_BC0_R13_INT_2026 Skid: 148 Calcul Vol : 556 Color: 5.
+2026-04-28 20:41:27  ---------------------------
+2026-04-28 20:47:12  URUS_PR_INT " Skid: 33 Paint : 508.
+2026-04-28 20:50:23  URUS_PA2_R13_HGL_INT_EXT " Skid: 81 Paint : 508.
+2026-04-28 20:55:22  TEMERARIO_BC_INT " Skid: 148 Paint : 259.
+2026-04-28 20:55:22 --- Trajectory INT --- 
+2026-04-28 20:55:22  HURACAN_AP_BC0_INT " Skid: 148 Paint : 259.
+2026-04-28 20:55:22 --- --- 
+2026-04-28 21:00:07  URUS_BC_INT " Skid: 148 Paint : 502.
+2026-04-29 03:45:08  Vol : URUS_PA2_BC0_R13_INT_2026 Skid: 60 Calcul Vol : 512 Color: 42.
+2026-04-29 03:45:08  ---------------------------
+2026-04-29 03:45:14  Vol : URUS_PA2_BC0_R13_INT_2026 Skid: 26 Calcul Vol : 533 Color: 12.
+2026-04-29 03:45:14  ---------------------------
+2026-04-29 03:49:03  Vol : URUS_PA2_PR0_INT_2025 Skid: 193 Calcul Vol : 563 Color: 3.
+2026-04-29 03:49:03  ---------------------------
+2026-04-29 03:51:12  URUS_BC_INT " Skid: 26 Paint : 479.
+2026-04-29 04:07:48  Vol : URUS_PA2_BC0_R13_INT_2026 Skid: 85 Calcul Vol : 480 Color: 33.
+2026-04-29 04:07:48  ---------------------------
+2026-04-29 04:59:22 --- Trajectory EXT --- 
+2026-04-29 04:59:22  URUS_PA2_PR0_R12_EXT1 " Skid: 16794 Paint : 215.
+2026-04-29 05:01:05  URUS_PA2_PR0_R12_EXT2 " Skid: 16794 Paint : 264.
+2026-04-29 05:01:05 ---   --- 
+2026-04-29 05:41:45  Vol : URUS_PA2_PR0_INT_2025 Skid: 204 Calcul Vol : 552 Color: 1.
+2026-04-29 05:41:45  ---------------------------
+2026-04-29 05:46:39  URUS_BC_INT " Skid: 193 Paint : 459.
+2026-04-29 05:49:30  Vol : HURACAN_BC0_R13_INT Skid: 66 Calcul Vol : 366 Color: 27.
+2026-04-29 05:49:30  ---------------------------
+2026-04-29 05:51:36  URUS_PR_INT " Skid: 193 Paint : 510.
+2026-04-29 05:58:19  Vol : URUS_PA2_PR0_INT_2025 Skid: 237 Calcul Vol : 552 Color: 1.
+2026-04-29 05:58:19  ---------------------------
+2026-04-29 06:00:36  URUS_BC_INT " Skid: 204 Paint : 425.
+2026-04-29 06:06:15  URUS_PR_INT " Skid: 66 Paint : 498.
+2026-04-29 06:07:41  Vol : HURACAN_BC0_R13_INT Skid: 152 Calcul Vol : 335 Color: 23.
+2026-04-29 06:07:41  ---------------------------
+2026-04-29 06:10:23  TEMERARIO_BC_INT " Skid: 237 Paint : 317.
+2026-04-29 06:10:23 --- Trajectory INT --- 
+2026-04-29 06:10:23  HURACAN_AP_BC0_INT " Skid: 237 Paint : 317.
+2026-04-29 06:10:23 --- --- 
+2026-04-29 06:11:57  Vol : URUS_PA2_PR0_INT_2025 Skid: 36 Calcul Vol : 552 Color: 1.
+2026-04-29 06:11:57  ---------------------------
+2026-04-29 06:15:31  URUS_PR_INT " Skid: 237 Paint : 498.
+2026-04-29 06:16:24  Vol : URUS_PA2_BC0_R13_INT_2026 Skid: 33 Calcul Vol : 491 Color: 66.
+2026-04-29 06:16:24  ---------------------------
+2026-04-29 06:21:21  Vol : HURACAN_PRIM_R13_INT Skid: 210 Calcul Vol : 315 Color: 1.
+2026-04-29 06:21:21  ---------------------------
+2026-04-29 06:23:46  TEMERARIO_BC_INT " Skid: 36 Paint : 284.
+2026-04-29 06:23:46 --- Trajectory INT --- 
+2026-04-29 06:23:46  HURACAN_AP_BC0_INT " Skid: 36 Paint : 284.
+2026-04-29 06:23:46 --- --- 
+2026-04-29 06:28:57  Vol : HURACAN_PRIM_R13_INT Skid: 68 Calcul Vol : 315 Color: 1.
+2026-04-29 06:28:57  ---------------------------
+2026-04-29 06:28:59  URUS_PR_INT " Skid: 36 Paint : 498.
+2026-04-29 06:33:34  Vol : HURACAN_BC0_R13_INT Skid: 206 Calcul Vol : 358 Color: 85.
+2026-04-29 06:33:34  ---------------------------
+2026-04-29 06:41:59  URUS_BC_INT " Skid: 210 Paint : 436.
+2026-04-29 06:44:58  Vol : HURACAN_PRIM_R13_INT Skid: 51 Calcul Vol : 315 Color: 3.
+2026-04-29 06:44:58  ---------------------------
+2026-04-29 06:45:37  TEMERARIO_PR_INT " Skid: 68 Paint : 263.
+2026-04-29 06:51:02  TEMERARIO_PR_INT " Skid: 206 Paint : 259.
+2026-04-29 06:56:55  TEMERARIO_BC_INT " Skid: 206 Paint : 306.
+2026-04-29 06:56:55 --- Trajectory INT --- 
+2026-04-29 06:56:55  HURACAN_AP_BC0_INT " Skid: 206 Paint : 306.
+2026-04-29 06:56:55 --- --- 
+2026-04-29 06:57:16  Vol : HURACAN_BC0_R13_INT Skid: 52 Calcul Vol : 291 Color: 21.
+2026-04-29 06:57:16  ---------------------------
+2026-04-29 07:02:19  Vol : URUS_PA2_PR0_INT_2025 Skid: 126 Calcul Vol : 552 Color: 1.
+2026-04-29 07:02:19  ---------------------------
+2026-04-29 07:05:27  TEMERARIO_PR_INT " Skid: 51 Paint : 262.
+2026-04-29 07:11:19  Default Volume : HURACAN_SP_BC0_R13_INT Skid: 57.
+2026-04-29 07:11:20  Vol : HURACAN_SP_BC0_R13_INT Skid: 57 Calcul Vol : 640 Color: 29.
+2026-04-29 07:11:20  ---------------------------
+2026-04-29 07:15:51  Vol : URUS_PA2_PR0_INT_2025 Skid: 221 Calcul Vol : 552 Color: 1.
+2026-04-29 07:15:51  ---------------------------
+2026-04-29 07:20:27  Vol : URUS_PA2_BC0_R13_INT_2026 Skid: 167 Calcul Vol : 515 Color: 28.
+2026-04-29 07:20:27  ---------------------------
+2026-04-29 07:21:57  TEMERARIO_BC_INT " Skid: 126 Paint : 242.
+2026-04-29 07:21:57 --- Trajectory INT --- 
+2026-04-29 07:21:57  HURACAN_AP_BC0_INT " Skid: 126 Paint : 242.
+2026-04-29 07:21:57 --- --- 
+2026-04-29 07:25:48  Vol : HURACAN_PRIM_R13_INT Skid: 84 Calcul Vol : 315 Color: 3.
+2026-04-29 07:25:48  ---------------------------
+2026-04-29 07:27:02  URUS_PR_INT " Skid: 57 Paint : 498.
+2026-04-29 07:30:31  Vol : URUS_PA2_BC0_R13_INT_2026 Skid: 161 Calcul Vol : 590 Color: 25.
+2026-04-29 07:30:31  ---------------------------
+2026-04-29 07:33:32  TEMERARIO_PR_INT " Skid: 221 Paint : 277.
+2026-04-29 07:34:55  Vol : URUS_PA2_PR0_INT_2025 Skid: 37 Calcul Vol : 555 Color: 2.
+2026-04-29 07:34:55  ---------------------------
+2026-04-29 07:38:20  URUS_PR_INT " Skid: 167 Paint : 498.
+2026-04-29 07:39:23  Vol : URUS_PA2_BC0_R13_INT_2026 Skid: 79 Calcul Vol : 547 Color: 8.
+2026-04-29 07:39:23  ---------------------------
+2026-04-29 07:43:49  URUS_BC_INT " Skid: 84 Paint : 460.
+2026-04-29 07:44:35  Vol : URUS_PA2_PR0_INT_2025 Skid: 220 Calcul Vol : 563 Color: 3.
+2026-04-29 07:44:35  ---------------------------
+2026-04-29 07:47:34  TEMERARIO_PR_INT " Skid: 161 Paint : 263.
+2026-04-29 07:49:11  Vol : HURACAN_PRIM_R13_INT Skid: 49 Calcul Vol : 316 Color: 2.
+2026-04-29 07:49:11  ---------------------------
+2026-04-29 07:52:56  URUS_BC_INT " Skid: 37 Paint : 536.
+2026-04-29 07:57:53  URUS_PR_INT " Skid: 79 Paint : 501.
+2026-04-29 07:58:12  Vol : HURACAN_PRIM_R13_INT Skid: 133 Calcul Vol : 316 Color: 2.
+2026-04-29 07:58:12  ---------------------------
+2026-04-29 08:02:49  URUS_BC_INT " Skid: 220 Paint : 493.
+2026-04-29 08:03:06  Vol : HURACAN_BC0_R13_INT Skid: 20 Calcul Vol : 247 Color: 52.
+2026-04-29 08:03:06  ---------------------------
+2026-04-29 08:07:48  URUS_PR_INT " Skid: 49 Paint : 510.
+2026-04-29 08:08:06  Vol : URUS_PA2_PR0_INT_2025 Skid: 50 Calcul Vol : 563 Color: 3.
+2026-04-29 08:08:06  ---------------------------
+2026-04-29 08:11:27  TEMERARIO_PR_INT " Skid: 49 Paint : 264.
+2026-04-29 08:12:40  Vol : URUS_PA2_BC0_R13_INT_2026 Skid: 193 Calcul Vol : 604 Color: 7.
+2026-04-29 08:12:40  ---------------------------
+2026-04-29 08:17:13  Vol : HURACAN_PRIM_R13_INT Skid: 208 Calcul Vol : 316 Color: 1.
+2026-04-29 08:17:13  ---------------------------
+2026-04-29 08:18:09  TEMERARIO_PR_INT " Skid: 20 Paint : 264.
+2026-04-29 08:21:52  Vol : URUS_PA2_BC0_R13_INT_2026 Skid: 204 Calcul Vol : 443 Color: 38.
+2026-04-29 08:21:52  ---------------------------
+2026-04-29 08:25:18  TEMERARIO_BC_INT " Skid: 50 Paint : 144.
+2026-04-29 08:25:18 --- Trajectory INT REP --- 
+2026-04-29 08:25:18  HURACAN_BC0_R13_INT AP REP " Skid: 50 Paint : 144.
+2026-04-29 08:25:18 --- --- 
+2026-04-29 08:30:13  URUS_PR_INT " Skid: 193 Paint : 509.
+2026-04-29 08:30:35  Vol : URUS_PA2_PR0_INT_2025 Skid: 29 Calcul Vol : 555 Color: 2.
+2026-04-29 08:30:35  ---------------------------
+2026-04-29 08:35:10  URUS_BC_INT " Skid: 208 Paint : 551.
+2026-04-29 08:39:14  TEMERARIO_PR_INT " Skid: 204 Paint : 264.
+2026-04-29 08:39:54  Vol : URUS_PA2_PR0_INT_2025 Skid: 38 Calcul Vol : 552 Color: 1.
+2026-04-29 08:39:54  ---------------------------
+2026-04-29 08:43:58  URUS_BC_INT " Skid: 204 Paint : 389.
+2026-04-29 08:52:51  URUS_PR_INT " Skid: 29 Paint : 501.
+2026-04-29 08:56:40  Vol : HURACAN_PRIM_R13_INT Skid: 148 Calcul Vol : 315 Color: 1.
+2026-04-29 08:56:40  ---------------------------
+2026-04-29 09:01:54  URUS_PR_INT " Skid: 38 Paint : 497.
+2026-04-29 09:02:28  Vol : URUS_PA2_BC0_R13_INT_2026 Skid: 237 Calcul Vol : 504 Color: 11.
+2026-04-29 09:02:28  ---------------------------
+2026-04-29 09:07:07  Vol : URUS_PA2_PR0_INT_2025 Skid: 223 Calcul Vol : 563 Color: 3.
+2026-04-29 09:07:07  ---------------------------
+2026-04-29 09:11:28  Vol : HURACAN_BC0_R13_INT Skid: 59 Calcul Vol : 301 Color: 5.
+2026-04-29 09:11:28  ---------------------------
+2026-04-29 09:12:18  TEMERARIO_PR_INT " Skid: 148 Paint : 264.
+2026-04-29 09:16:26  Vol : HURACAN_PRIM_R13_INT Skid: 158 Calcul Vol : 316 Color: 2.
+2026-04-29 09:16:26  ---------------------------
+2026-04-29 09:21:08  URUS_BC_INT " Skid: 237 Paint : 451.
+2026-04-29 09:27:03  URUS_PR_INT " Skid: 59 Paint : 509.
+2026-04-29 09:31:35  Vol : URUS_PA2_BC0_R13_INT_2026 Skid: 130 Calcul Vol : 472 Color: 21.
+2026-04-29 09:31:35  ---------------------------
+2026-04-29 09:35:20  Vol : HURACAN_PRIM_R13_INT Skid: 155 Calcul Vol : 315 Color: 2.
+2026-04-29 09:35:20  ---------------------------
+2026-04-29 09:36:51  TEMERARIO_PR_INT " Skid: 158 Paint : 264.
+2026-04-29 09:40:26  Vol : HURACAN_BC0_R13_INT Skid: 210 Calcul Vol : 299 Color: 8.
+2026-04-29 09:40:26  ---------------------------
+2026-04-29 09:47:35  URUS_BC_INT " Skid: 155 Paint : 418.
+2026-04-29 09:48:48  Vol : URUS_PA2_PR0_INT_2025 Skid: 35 Calcul Vol : 563 Color: 3.
+2026-04-29 09:48:48  ---------------------------
+2026-04-29 09:51:12  TEMERARIO_PR_INT " Skid: 210 Paint : 264.
+2026-04-29 09:54:51  Vol : URUS_PA2_BC0_R13_INT_2026 Skid: 36 Calcul Vol : 547 Color: 8.
+2026-04-29 09:54:51  ---------------------------
+2026-04-29 09:59:42  Default Volume : TEM_PR_R13_RACING_INT Skid: 202.
+2026-04-29 09:59:43  Vol : TEM_PR_R13_RACING_INT Skid: 202 Calcul Vol : 640 Color: 2.
+2026-04-29 09:59:43  ---------------------------
+2026-04-29 10:06:39  URUS_PR_INT " Skid: 36 Paint : 510.
+2026-04-29 10:07:54  Vol : URUS_PA2_BC0_HGL Skid: 103 Calcul Vol : 216 Color: 5.
+2026-04-29 10:07:54  ---------------------------
+2026-04-29 10:11:33  Vol : URUS_PA2_PR0_INT_2025 Skid: 24 Calcul Vol : 552 Color: 1.
+2026-04-29 10:11:33  ---------------------------
+2026-04-29 10:11:38  URUS_BC_INT " Skid: 202 Paint : 493.
+2026-04-29 10:16:21  Vol : URUS_PA2_BC0_R13_INT_2026 Skid: 221 Calcul Vol : 556 Color: 5.
+2026-04-29 10:16:21  ---------------------------
+2026-04-29 10:18:32 --- Trajectory INT --- 
+2026-04-29 10:18:32  HURACAN_PRIM_INT " Skid: 202 Paint : 574.
+2026-04-29 10:18:32 --- --- --- --- 
+2026-04-29 10:20:12  Vol : URUS_PA2_BC0_R13_INT_2026 Skid: 126 Calcul Vol : 504 Color: 11.
+2026-04-29 10:20:12  ---------------------------
+2026-04-29 10:23:07  URUS_PA2_R13_HGL_INT_EXT " Skid: 24 Paint : 574.
+2026-04-29 10:24:37  Vol : URUS_PA2_BC0_R13_INT_2026 Skid: 153 Calcul Vol : 472 Color: 21.
+2026-04-29 10:24:37  ---------------------------
+2026-04-29 10:28:14  URUS_PR_INT " Skid: 221 Paint : 498.
+2026-04-29 10:29:08  Vol : URUS_PA2_BC0_R13_INT_2026 Skid: 220 Calcul Vol : 570 Color: 34.
+2026-04-29 10:29:08  ---------------------------
+2026-04-29 10:33:11  URUS_BC_INT " Skid: 126 Paint : 502.
+2026-04-29 10:38:05  URUS_BC_INT " Skid: 153 Paint : 451.
+2026-04-29 10:43:00  URUS_BC_INT " Skid: 220 Paint : 418.
+2026-04-29 10:47:54  URUS_BC_INT " Skid: 220 Paint : 516.
+2026-04-29 10:53:50  Vol : URUS_PA2_BC0_HGL Skid: 37 Calcul Vol : 216 Color: 5.
+2026-04-29 10:53:50  ---------------------------
+2026-04-29 10:57:38  Vol : HURACAN_PRIM_R13_INT Skid: 233 Calcul Vol : 315 Color: 1.
+2026-04-29 10:57:38  ---------------------------
+2026-04-29 11:01:27  Vol : URUS_PA2_BC0_R13_INT_2026 Skid: 50 Calcul Vol : 592 Color: 23.
+2026-04-29 11:01:27  ---------------------------
+2026-04-29 11:07:58  URUS_PA2_R13_HGL_INT_EXT " Skid: 233 Paint : 516.
+2026-04-29 11:11:42  TEMERARIO_PR_INT " Skid: 233 Paint : 263.
+2026-04-29 11:12:51  Vol : HURACAN_BC0_R13_INT Skid: 68 Calcul Vol : 366 Color: 27.
+2026-04-29 11:12:51  ---------------------------
+2026-04-29 11:20:09  URUS_BC_INT " Skid: 50 Paint : 538.
+2026-04-29 11:20:30  Vol : HURACAN_BC0_R13_BLACK_ROOF Skid: 206 Calcul Vol : 306 Color: 5.
+2026-04-29 11:20:30  ---------------------------
+2026-04-29 11:25:22  Vol : URUS_PA2_PR0_INT_2025 Skid: 74 Calcul Vol : 563 Color: 3.
+2026-04-29 11:25:22  ---------------------------
+2026-04-29 11:28:09  TEMERARIO_BC_INT " Skid: 68 Paint : 316.
+2026-04-29 11:28:09 --- Trajectory INT --- 
+2026-04-29 11:28:09  HURACAN_AP_BC0_INT " Skid: 68 Paint : 316.
+2026-04-29 11:28:09 --- --- 
+2026-04-29 11:33:22  Vol : URUS_PA2_BC0_R13_INT_2026 Skid: 29 Calcul Vol : 541 Color: 73.
+2026-04-29 11:33:22  ---------------------------
+2026-04-29 11:41:01  Default Volume : HURACAN_SP_BC0_R13_INT Skid: 14.
+2026-04-29 11:41:02  Vol : HURACAN_SP_BC0_R13_INT Skid: 14 Calcul Vol : 640 Color: 28.
+2026-04-29 11:41:02  ---------------------------
+2026-04-29 11:42:49  URUS_PR_INT " Skid: 74 Paint : 508.
+2026-04-29 11:44:50  Default Volume : TEM_PR_R13_RACING_INT Skid: 139.
+2026-04-29 11:44:51  Vol : TEM_PR_R13_RACING_INT Skid: 139 Calcul Vol : 640 Color: 2.
+2026-04-29 11:44:51  ---------------------------
+2026-04-29 11:51:55  URUS_BC_INT " Skid: 29 Paint : 487.
+2026-04-29 11:57:04  Vol : HURACAN_BC0_R13_INT Skid: 52 Calcul Vol : 315 Color: 22.
+2026-04-29 11:57:04  ---------------------------
+2026-04-29 12:01:56  Vol : URUS_PA2_BC0_R13_INT_2026 Skid: 167 Calcul Vol : 567 Color: 29.
+2026-04-29 12:01:56  ---------------------------
+2026-04-29 12:11:01  TEMERARIO_PR_INT " Skid: 139 Paint : 332.
+2026-04-29 12:15:14  Vol : HURACAN_PRIM_R13_INT Skid: 203 Calcul Vol : 316 Color: 1.
+2026-04-29 12:15:14  ---------------------------
+2026-04-29 12:19:04  File Access Error
+2026-04-29 12:19:05  Vol : URUS_PA2_BC0_R13_INT_2026 Skid: 150 Calcul Vol : 19654 Color: 8.
+2026-04-29 12:19:05  ---------------------------
+2026-04-29 12:23:48  TEMERARIO_BC_INT " Skid: 167 Paint : 264.
+2026-04-29 12:23:48 --- Trajectory INT --- 
+2026-04-29 12:23:48  HURACAN_AP_BC0_INT " Skid: 167 Paint : 264.
+2026-04-29 12:23:48 --- --- 
+2026-04-29 12:25:37  Default Volume : TEM_PR_R13_RACING_INT Skid: 139.
+2026-04-29 12:25:39  Vol : TEM_PR_R13_RACING_INT Skid: 139 Calcul Vol : 640 Color: 2.
+2026-04-29 12:25:39  ---------------------------
+2026-04-29 12:28:51  Vol : URUS_PA2_BC0_R13_INT_2026 Skid: 38 Calcul Vol : 496 Color: 27.
+2026-04-29 12:28:51  ---------------------------
+2026-04-29 12:28:53  URUS_BC_INT " Skid: 203 Paint : 513.
+2026-04-29 12:32:39  Vol : HURACAN_BC0_R13_INT Skid: 20 Calcul Vol : 262 Color: 53.
+2026-04-29 12:32:39  ---------------------------
+2026-04-29 12:33:20  TEMERARIO_PR_INT " Skid: 150 Paint : 263.
+2026-04-29 12:38:08  URUS_BC_INT " Skid: 150 Paint : 440.
+2026-04-29 12:40:34  Vol : HURACAN_BC0_R13_INT Skid: 84 Calcul Vol : 344 Color: 28.
+2026-04-29 12:40:34  ---------------------------
+2026-04-29 12:46:35 --- Trajectory INT --- 
+2026-04-29 12:46:35  HURACAN_PRIM_INT " Skid: 38 Paint : 563.
+2026-04-29 12:46:35 --- --- --- --- 
+2026-04-29 12:47:28  Vol : URUS_PA2_PR0_INT_2025 Skid: 232 Calcul Vol : 563 Color: 3.
+2026-04-29 12:47:28  ---------------------------
+2026-04-29 12:51:54  URUS_BC_INT " Skid: 20 Paint : 443.
+2026-04-29 12:52:49  File Access Error
+2026-04-29 12:52:50  Vol : URUS_PA2_BC0_R13_INT_2026 Skid: 4 Calcul Vol : 18612 Color: 136.
+2026-04-29 12:52:50  ---------------------------
+2026-04-29 12:56:12  TEMERARIO_BC_INT " Skid: 20 Paint : 153.
+2026-04-29 12:56:12 --- Trajectory INT REP --- 
+2026-04-29 12:56:12  HURACAN_BC0_R13_INT AP REP " Skid: 20 Paint : 153.
+2026-04-29 12:56:12 --- --- 
+2026-04-29 12:57:29  Vol : URUS_PA2_BC0_R13_INT_2026 Skid: 223 Calcul Vol : 578 Color: 6.
+2026-04-29 12:57:29  ---------------------------
+2026-04-29 13:01:45  Vol : URUS_PA2_BC0_R13_INT_2026 Skid: 35 Calcul Vol : 472 Color: 21.
+2026-04-29 13:01:45  ---------------------------
+2026-04-29 13:04:38  TEMERARIO_BC_INT " Skid: 232 Paint : 294.
+2026-04-29 13:04:38 --- Trajectory INT --- 
+2026-04-29 13:04:38  HURACAN_AP_BC0_INT " Skid: 232 Paint : 294.
+2026-04-29 13:04:38 --- --- 
+2026-04-29 13:10:13  URUS_PR_INT " Skid: 4 Paint : 509.
+2026-04-29 13:12:27  Vol : URUS_PA2_PR0_INT_2025 Skid: 168 Calcul Vol : 563 Color: 3.
+2026-04-29 13:12:27  ---------------------------
+2026-04-29 13:16:34  URUS_BC_INT " Skid: 223 Paint : 418.
+2026-04-29 13:21:33  URUS_BC_INT " Skid: 35 Paint : 524.
+2026-04-29 13:27:23  URUS_BC_INT " Skid: 35 Paint : 418.
+2026-04-29 13:27:40  Vol : HURACAN_PRIM_R13_INT Skid: 138 Calcul Vol : 315 Color: 3.
+2026-04-29 13:27:40  ---------------------------
+2026-04-29 13:36:12  URUS_PR_INT " Skid: 168 Paint : 509.
+2026-04-29 13:44:07  Vol : URUS_PA2_BC0_R13_INT_2026 Skid: 130 Calcul Vol : 500 Color: 22.
+2026-04-29 13:44:07  ---------------------------
+2026-04-29 13:47:08  TEMERARIO_PR_INT " Skid: 138 Paint : 264.
+2026-04-29 13:49:04  Vol : URUS_PA2_PR0_INT_2025 Skid: 207 Calcul Vol : 552 Color: 1.
+2026-04-29 13:49:04  ---------------------------
+2026-04-29 13:56:10  Vol : HURACAN_BC0_R13_INT Skid: 208 Calcul Vol : 349 Color: 105.
+2026-04-29 13:56:10  ---------------------------
+2026-04-29 14:01:48  URUS_BC_INT " Skid: 207 Paint : 446.
+2026-04-29 14:04:23  Vol : URUS_PA2_BC0_R13_INT_2026 Skid: 61 Calcul Vol : 659 Color: 99.
+2026-04-29 14:04:23  ---------------------------
+2026-04-29 14:07:37  URUS_PR_INT " Skid: 207 Paint : 498.
+2026-04-29 14:08:53  Vol : URUS_PA2_PR0_INT_2025 Skid: 245 Calcul Vol : 552 Color: 1.
+2026-04-29 14:08:53  ---------------------------
+2026-04-29 14:12:35  Vol : URUS_PA2_BC0_R13_INT_2026 Skid: 103 Calcul Vol : 598 Color: 89.
+2026-04-29 14:12:35  ---------------------------
+2026-04-29 14:16:10  TEMERARIO_BC_INT " Skid: 208 Paint : 299.
+2026-04-29 14:16:10 --- Trajectory INT --- 
+2026-04-29 14:16:10  HURACAN_AP_BC0_INT " Skid: 208 Paint : 299.
+2026-04-29 14:16:10 --- --- 
+2026-04-29 14:24:41  Vol : HURACAN_PRIM_R13_INT Skid: 134 Calcul Vol : 315 Color: 1.
+2026-04-29 14:24:41  ---------------------------
+2026-04-29 14:29:08  URUS_BC_INT " Skid: 245 Paint : 604.
+2026-04-29 14:29:24  Vol : URUS_PA2_BC0_R13_INT_2026 Skid: 74 Calcul Vol : 604 Color: 7.
+2026-04-29 14:29:24  ---------------------------
+2026-04-29 14:34:07  URUS_PR_INT " Skid: 103 Paint : 498.
+2026-04-29 14:34:25  Vol : URUS_PA2_BC0_R13_INT_2026 Skid: 24 Calcul Vol : 496 Color: 27.
+2026-04-29 14:34:25  ---------------------------
+2026-04-29 14:39:03  URUS_BC_INT " Skid: 103 Paint : 545.
+2026-04-29 14:39:19  Vol : HURACAN_BC0_R13_INT Skid: 203 Calcul Vol : 271 Color: 11.
+2026-04-29 14:39:19  ---------------------------
+2026-04-29 14:43:40  Vol : URUS_PA2_PR0_INT_2025 Skid: 131 Calcul Vol : 563 Color: 3.
+2026-04-29 14:43:40  ---------------------------
+2026-04-29 14:46:32  TEMERARIO_PR_INT " Skid: 74 Paint : 263.
+2026-04-29 14:51:31  URUS_BC_INT " Skid: 24 Paint : 551.
+2026-04-29 14:56:26  URUS_BC_INT " Skid: 203 Paint : 443.
+2026-04-29 14:57:17  Vol : URUS_PA2_BC0_R13_INT_2026 Skid: 153 Calcul Vol : 559 Color: 120.
+2026-04-29 14:57:17  ---------------------------
+2026-04-29 15:00:53  Vol : URUS_PA2_PR0_INT_2025 Skid: 96 Calcul Vol : 563 Color: 3.
+2026-04-29 15:00:53  ---------------------------
+2026-04-29 15:05:27  URUS_PR_INT " Skid: 131 Paint : 509.
+2026-04-29 15:10:09  Vol : URUS_PA2_BC0_R13_INT_2026 Skid: 220 Calcul Vol : 537 Color: 35.
+2026-04-29 15:10:09  ---------------------------
+2026-04-29 15:14:09  Vol : HURACAN_PRIM_R13_INT Skid: 230 Calcul Vol : 316 Color: 1.
+2026-04-29 15:14:09  ---------------------------
+2026-04-29 15:16:09  URUS_BC_INT " Skid: 96 Paint : 505.
+2026-04-29 15:19:09  Vol : URUS_PA2_BC0_R13_INT_2026 Skid: 237 Calcul Vol : 504 Color: 11.
+2026-04-29 15:19:09  ---------------------------
+2026-04-29 15:21:08  URUS_PR_INT " Skid: 96 Paint : 510.
+2026-04-29 15:23:15  Vol : URUS_PA2_BC0_R13_INT_2026 Skid: 37 Calcul Vol : 549 Color: 54.
+2026-04-29 15:23:15  ---------------------------
+2026-04-29 15:27:49  Vol : URUS_PA2_PR0_INT_2025 Skid: 51 Calcul Vol : 555 Color: 2.
+2026-04-29 15:27:49  ---------------------------
+2026-04-29 15:30:09  URUS_BC_INT " Skid: 230 Paint : 483.
+2026-04-29 15:33:46  TEMERARIO_PR_INT " Skid: 237 Paint : 264.
+2026-04-29 15:36:21  Default Volume : HURACAN_SP_BC0_R13_INT Skid: 14.
+2026-04-29 15:36:23  Vol : HURACAN_SP_BC0_R13_INT Skid: 14 Calcul Vol : 640 Color: 29.
+2026-04-29 15:36:23  ---------------------------
+2026-04-29 15:39:10  URUS_BC_INT " Skid: 37 Paint : 450.
+2026-04-29 15:40:17  Vol : URUS_PA2_BC0_HGL Skid: 232 Calcul Vol : 216 Color: 5.
+2026-04-29 15:40:17  ---------------------------
+2026-04-29 15:44:04  URUS_BC_INT " Skid: 37 Paint : 496.
+2026-04-29 15:45:29  Vol : HURACAN_PRIM_R13_INT Skid: 166 Calcul Vol : 315 Color: 1.
+2026-04-29 15:45:29  ---------------------------
+2026-04-29 15:51:20  URUS_PR_INT " Skid: 51 Paint : 501.
+2026-04-29 15:51:38  Vol : URUS_PA2SPORT_R13_INT Skid: 117 Calcul Vol : 551 Color: 15.
+2026-04-29 15:51:38  ---------------------------
+2026-04-29 15:51:44  Vol : URUS_PA2SPORT_R13_EXT Skid: 117 Calcul Vol : 402 Color: 15.
+2026-04-29 15:51:44  ---------------------------
+2026-04-29 15:51:50  Vol : URUS_PA2SPORT_R13_EXTII Skid: 117 Calcul Vol : 380 Color: 15.
+2026-04-29 15:51:50  ---------------------------
+2026-04-29 16:00:39  TEMERARIO_PR_INT " Skid: 232 Paint : 278.
+2026-04-29 16:00:57  Vol : URUS_PA2_BC0_R13_INT_2026 Skid: 147 Calcul Vol : 577 Color: 6.
+2026-04-29 16:00:57  ---------------------------
+2026-04-29 16:03:39  URUS_PA2_R13_HGL_INT_EXT " Skid: 232 Paint : 278.
+2026-04-29 16:14:54  Vol : URUS_PA2_PR0_INT_2025 Skid: 49 Calcul Vol : 552 Color: 1.
+2026-04-29 16:14:54  ---------------------------
+2026-04-29 16:18:59  TEMERARIO_PR_INT " Skid: 117 Paint : 264.
+2026-04-29 16:19:21  Vol : URUS_PA2_BC0_R13_INT_2026 Skid: 168 Calcul Vol : 604 Color: 7.
+2026-04-29 16:19:21  ---------------------------
+2026-04-29 16:24:17 --- Trajectory --- 
+2026-04-29 16:24:17 Prog : URUS_PA2SPORT_R13_INT & OPT_1 24577 Skid: 117 Paint : 498.
+2026-04-29 16:27:33 --- Trajectory --- 
+2026-04-29 16:27:33 Prog : URUS_PA2SPORT_R13_EXT & OPT_1 24577 Skid: 117 Paint : 348.
+2026-04-29 16:29:38 Prog : URUS_PA2SPORT_R13_EXTII & OPT_1 24577 Skid: 117 Paint : 331 . 
+2026-04-29 16:34:25  Vol : URUS_PA2_PR0_INT_2025 Skid: 33 Calcul Vol : 563 Color: 3.
+2026-04-29 16:34:25  ---------------------------
+2026-04-29 16:35:53  URUS_BC_INT " Skid: 49 Paint : 524.
+2026-04-29 16:40:51  URUS_PR_INT " Skid: 168 Paint : 498.
+2026-04-29 16:43:46  Vol : HURACAN_BC0_R13_INT Skid: 148 Calcul Vol : 362 Color: 145.
+2026-04-29 16:43:46  ---------------------------
+2026-04-29 16:45:47  URUS_BC_INT " Skid: 168 Paint : 551.
+2026-04-29 16:51:56  Vol : URUS_PA2_BC0_R13_INT_2026 Skid: 245 Calcul Vol : 521 Color: 15.
+2026-04-29 16:51:56  ---------------------------
+2026-04-29 16:54:38  URUS_PR_INT " Skid: 33 Paint : 509.
+2026-04-29 17:00:26  File Access Error
+2026-04-29 17:00:27  Vol : URUS_PA2_BC0_R13_INT_2026 Skid: 4 Calcul Vol : 13736 Color: 137.
+2026-04-29 17:00:27  ---------------------------
+2026-04-29 17:12:59  URUS_BC_INT " Skid: 245 Paint : 466.
+2026-04-29 17:16:42  Vol : HURACAN_BC0_R13_INT Skid: 148 Calcul Vol : 313 Color: 68.
+2026-04-29 17:16:42  ---------------------------
+2026-04-29 17:19:45  Vol : HURACAN_PRIM_R13_INT Skid: 133 Calcul Vol : 315 Color: 3.
+2026-04-29 17:19:45  ---------------------------
+2026-04-29 17:23:22  Vol : URUS_PA2_BC0_R13_INT_2026 Skid: 35 Calcul Vol : 501 Color: 22.
+2026-04-29 17:23:22  ---------------------------
+2026-04-29 17:26:57  URUS_BC_INT " Skid: 4 Paint : 336.
+2026-04-29 17:27:49  Vol : HURACAN_BC0_R13_INT Skid: 134 Calcul Vol : 301 Color: 5.
+2026-04-29 17:27:49  ---------------------------
+2026-04-29 17:34:25  Vol : URUS_PA2_BC0_HGL Skid: 131 Calcul Vol : 216 Color: 5.
+2026-04-29 17:34:25  ---------------------------
+2026-04-29 17:38:01  TEMERARIO_BC_INT " Skid: 133 Paint : 263.
+2026-04-29 17:38:01 --- Trajectory INT --- 
+2026-04-29 17:38:01  HURACAN_AP_BC0_INT " Skid: 133 Paint : 263.
+2026-04-29 17:38:01 --- --- 
+2026-04-29 17:41:57  TEMERARIO_PR_INT " Skid: 35 Paint : 263.
+2026-04-29 17:48:17  URUS_BC_INT " Skid: 134 Paint : 445.
+2026-04-29 17:48:32  Vol : HURACAN_BC0_R13_INT Skid: 233 Calcul Vol : 309 Color: 68.
+2026-04-29 17:48:32  ---------------------------
+2026-04-29 17:55:57  Vol : URUS_PA2_PR0_INT_2025 Skid: 60 Calcul Vol : 552 Color: 1.
+2026-04-29 17:55:57  ---------------------------
+2026-04-29 17:56:05  URUS_PA2_R13_HGL_INT_EXT " Skid: 131 Paint : 445.
+2026-04-29 18:04:01  Vol : HURACAN_BC0_R13_INT Skid: 84 Calcul Vol : 291 Color: 29.
+2026-04-29 18:04:01  ---------------------------
+2026-04-29 18:07:19  TEMERARIO_BC_INT " Skid: 60 Paint : 258.
+2026-04-29 18:07:19 --- Trajectory INT --- 
+2026-04-29 18:07:19  HURACAN_AP_CFK_BC0_INT " Skid: 60 Paint : 258.
+2026-04-29 18:07:19 --- --- 
+2026-04-29 18:10:32  Vol : URUS_PA2_PR0_INT_2025 Skid: 5 Calcul Vol : 552 Color: 1.
+2026-04-29 18:10:32  ---------------------------
+2026-04-29 18:12:08  URUS_PR_INT " Skid: 60 Paint : 498.
+2026-04-29 18:14:02  Vol : URUS_PA2_BC0_R13_INT_2026 Skid: 96 Calcul Vol : 578 Color: 6.
+2026-04-29 18:14:02  ---------------------------
+2026-04-29 18:20:33  TEMERARIO_BC_INT " Skid: 5 Paint : 239.
+2026-04-29 18:20:33 --- Trajectory INT --- 
+2026-04-29 18:20:33  HURACAN_AP_BC0_INT " Skid: 5 Paint : 239.
+2026-04-29 18:20:33 --- --- 
+2026-04-29 18:21:44  Vol : URUS_PA2_BC0_R13_INT_2026 Skid: 51 Calcul Vol : 510 Color: 39.
+2026-04-29 18:21:44  ---------------------------
+2026-04-29 18:25:49  URUS_PR_INT " Skid: 96 Paint : 498.
+2026-04-29 18:28:41  Vol : URUS_PA2_BC0_R13_INT_2026 Skid: 33 Calcul Vol : 472 Color: 21.
+2026-04-29 18:28:41  ---------------------------
+2026-04-29 18:32:55  URUS_BC_INT " Skid: 96 Paint : 524.
+2026-04-29 18:37:29  Vol : HURACAN_PRIM_R13_INT Skid: 59 Calcul Vol : 315 Color: 3.
+2026-04-29 18:37:29  ---------------------------
+2026-04-29 18:40:51  Vol : URUS_PA2_BC0_R13_INT_2026 Skid: 49 Calcul Vol : 556 Color: 5.
+2026-04-29 18:40:51  ---------------------------
+2026-04-29 18:44:20  File Access Error
+2026-04-29 18:44:21  Vol : URUS_PA2_PR0_INT_2025 Skid: 212 Calcul Vol : 650 Color: 4.
+2026-04-29 18:44:21  ---------------------------
+2026-04-29 18:44:50  URUS_BC_INT " Skid: 33 Paint : 457.
+2026-04-29 18:48:03  Vol : HURACAN_BC0_R13_INT Skid: 166 Calcul Vol : 271 Color: 11.
+2026-04-29 18:48:03  ---------------------------
+2026-04-29 18:49:45  URUS_BC_INT " Skid: 59 Paint : 418.
+2026-04-29 18:54:11  TEMERARIO_PR_INT " Skid: 49 Paint : 263.
+2026-04-29 18:59:08  URUS_BC_INT " Skid: 49 Paint : 502.
+2026-04-29 19:05:28 --- Trajectory --- 
+2026-04-29 19:05:28 Prog : URUS_PA2_PR0_INT_2025 & OPT_1 40962 Skid: 212 Paint : -1.
+2026-04-29 19:05:28 ------ Trajectory Consuption URUS PA2PA2S REP INT PRIMER ------ 
+2026-04-29 19:05:28  URUS_PA2_PR0_R13_INT REP " Skid: 212 Paint : -1.
+2026-04-29 19:05:28 --------------   --------------   -------------- 
+2026-04-29 19:14:36  Vol : URUS_PA2_PR0_INT_2025 Skid: 193 Calcul Vol : 552 Color: 1.
+2026-04-29 19:14:36  ---------------------------
+2026-04-29 19:23:10  Vol : HURACAN_BC0_R13_INT Skid: 138 Calcul Vol : 335 Color: 23.
+2026-04-29 19:23:10  ---------------------------
+2026-04-29 19:26:34  Vol : HURACAN_PRIM_R13_INT Skid: 210 Calcul Vol : 315 Color: 1.
+2026-04-29 19:26:34  ---------------------------
+2026-04-29 19:29:00  URUS_PR_INT " Skid: 193 Paint : 498.
+2026-04-29 19:35:16  Vol : URUS_PA2_BC0_R13_INT_2026 Skid: 232 Calcul Vol : 527 Color: 44.
+2026-04-29 19:35:16  ---------------------------
+2026-04-29 19:37:40  TEMERARIO_BC_INT " Skid: 210 Paint : 285.
+2026-04-29 19:37:40 --- Trajectory INT --- 
+2026-04-29 19:37:40  HURACAN_AP_BC0_INT " Skid: 210 Paint : 285.
+2026-04-29 19:37:40 --- --- 
+2026-04-29 19:38:47  Vol : URUS_PA2_PR0_INT_2025 Skid: 202 Calcul Vol : 563 Color: 3.
+2026-04-29 19:38:47  ---------------------------
+2026-04-29 19:41:18  TEMERARIO_PR_INT " Skid: 210 Paint : 264.
+2026-04-29 19:51:48  URUS_BC_INT " Skid: 202 Paint : 474.
+2026-04-29 19:56:47  URUS_PR_INT " Skid: 202 Paint : 509.
+2026-04-29 20:05:23  Vol : URUS_PA2_PR0_INT_2025 Skid: 48 Calcul Vol : 552 Color: 1.
+2026-04-29 20:05:23  ---------------------------
+2026-04-29 20:08:56  Vol : URUS_PA2_BC0_R13_INT_2026 Skid: 60 Calcul Vol : 555 Color: 5.
+2026-04-29 20:08:56  ---------------------------
+2026-04-29 20:12:57  Vol : HURACAN_BC0_R13_INT Skid: 52 Calcul Vol : 292 Color: 21.
+2026-04-29 20:12:57  ---------------------------
+2026-04-29 20:19:47  URUS_PR_INT " Skid: 60 Paint : 498.
+2026-04-29 20:24:43  URUS_BC_INT " Skid: 60 Paint : 502.
+2026-04-29 20:32:00  TEMERARIO_BC_INT " Skid: 52 Paint : 242.
+2026-04-29 20:32:00 --- Trajectory INT --- 
+2026-04-29 20:32:00  HURACAN_AP_BC0_INT " Skid: 52 Paint : 242.
+2026-04-29 20:32:00 --- --- 
+2026-04-29 20:33:00  Vol : HURACAN_BC0_R13_INT Skid: 230 Calcul Vol : 300 Color: 106.
+2026-04-29 20:33:00  ---------------------------
+2026-04-29 20:36:33  Vol : URUS_PA2_BC0_R13_INT_2026 Skid: 212 Calcul Vol : 289 Color: 16.
+2026-04-29 20:36:33  ---------------------------
+2026-04-29 20:40:13  Vol : URUS_PA2_BC0_R13_INT_2026 Skid: 5 Calcul Vol : 491 Color: 66.
+2026-04-29 20:40:13  ---------------------------
+2026-04-29 20:44:10  Vol : HURACAN_BC0_R13_INT Skid: 59 Calcul Vol : 307 Color: 12.
+2026-04-29 20:44:10  ---------------------------
+2026-04-29 20:48:25  Vol : URUS_PA2_BC0_R13_INT_2026 Skid: 131 Calcul Vol : 570 Color: 34.
+2026-04-29 20:48:25  ---------------------------
+2026-04-29 20:49:32  TEMERARIO_BC_INT " Skid: 230 Paint : 250.
+2026-04-29 20:49:32 --- Trajectory INT --- 
+2026-04-29 20:49:32  HURACAN_AP_CFK_BC0_INT " Skid: 230 Paint : 250.
+2026-04-29 20:49:32 --- --- 
+2026-04-29 20:59:58  URUS_BC_INT " Skid: 59 Paint : 435.
+2026-04-29 21:14:35  URUS_BC_INT " Skid: 131 Paint : 516.
+2026-04-30 03:21:17  Vol : URUS_PA2_BC0_R13_INT_2026 Skid: 193 Calcul Vol : 547 Color: 8.
+2026-04-30 03:21:17  ---------------------------
+2026-04-30 03:26:05  Vol : URUS_PA2_PR0_INT_2025 Skid: 31 Calcul Vol : 552 Color: 1.
+2026-04-30 03:26:05  ---------------------------
+2026-04-30 03:30:45  Vol : URUS_PA2_BC0_R13_INT_2026 Skid: 48 Calcul Vol : 504 Color: 11.
+2026-04-30 03:30:45  ---------------------------
+2026-04-30 03:35:00  Vol : HURACAN_PRIM_R13_INT Skid: 79 Calcul Vol : 315 Color: 1.
+2026-04-30 03:35:00  ---------------------------
+2026-04-30 04:50:12 --- Trajectory EXT --- 
+2026-04-30 04:50:12  URUS_PA2_PR0_R12_EXT1 " Skid: 16795 Paint : 215.
+2026-04-30 04:51:55  URUS_PA2_PR0_R12_EXT2 " Skid: 16795 Paint : 263.
+2026-04-30 04:51:55 ---   --- 
+2026-04-30 05:57:12  Vol : HURACAN_BC0_R13_BLACK_ROOF Skid: 59 Calcul Vol : 306 Color: 5.
+2026-04-30 05:57:12  ---------------------------
+2026-04-30 06:01:41  URUS_BC_INT " Skid: 31 Paint : 493.
+2026-04-30 06:01:58  Vol : URUS_PA2_PR0_INT_2025 Skid: 139 Calcul Vol : 552 Color: 1.
+2026-04-30 06:01:58  ---------------------------
+2026-04-30 06:06:38  URUS_PR_INT " Skid: 48 Paint : 498.
+2026-04-30 06:11:36  URUS_BC_INT " Skid: 79 Paint : 451.
+2026-04-30 06:15:15  TEMERARIO_PR_INT " Skid: 59 Paint : 263.
+2026-04-30 06:15:27  Vol : HURACAN_BC0_R13_INT Skid: 210 Calcul Vol : 304 Color: 106.
+2026-04-30 06:15:27  ---------------------------
+2026-04-30 06:19:24  Vol : HURACAN_PRIM_R13_INT Skid: 36 Calcul Vol : 316 Color: 2.
+2026-04-30 06:19:24  ---------------------------
+2026-04-30 06:25:04  URUS_PR_INT " Skid: 139 Paint : 497.
+2026-04-30 06:35:46  Vol : URUS_PA2_BC0_R13_INT_2026 Skid: 33 Calcul Vol : 500 Color: 22.
+2026-04-30 06:35:46  ---------------------------
+2026-04-30 06:42:01  Vol : HURACAN_PRIM_R13_INT Skid: 204 Calcul Vol : 316 Color: 3.
+2026-04-30 06:42:01  ---------------------------
+2026-04-30 06:42:15  TEMERARIO_BC_INT " Skid: 36 Paint : 252.
+2026-04-30 06:42:15 --- Trajectory INT --- 
+2026-04-30 06:42:15  HURACAN_AP_BC0_INT " Skid: 36 Paint : 252.
+2026-04-30 06:42:15 --- --- 
+2026-04-30 06:47:40  Vol : URUS_PA2_PR0_INT_2025 Skid: 167 Calcul Vol : 563 Color: 3.
+2026-04-30 06:47:40  ---------------------------
+2026-04-30 06:49:22  TEMERARIO_PR_INT " Skid: 33 Paint : 263.
+2026-04-30 06:53:02  Vol : URUS_PA2_BC0_R13_INT_2026 Skid: 131 Calcul Vol : 537 Color: 35.
+2026-04-30 06:53:02  ---------------------------
+2026-04-30 06:55:41  URUS_BC_INT " Skid: 204 Paint : 445.
+2026-04-30 06:56:50  Vol : URUS_PA2_PR0_INT_2025 Skid: 221 Calcul Vol : 552 Color: 1.
+2026-04-30 06:56:50  ---------------------------
+2026-04-30 06:59:18  TEMERARIO_PR_INT " Skid: 167 Paint : 264.
+2026-04-30 07:04:43  URUS_PR_INT " Skid: 131 Paint : 509.
+2026-04-30 07:09:38  URUS_BC_INT " Skid: 131 Paint : 483.
+2026-04-30 07:10:45  Vol : HURACAN_BC0_R13_INT Skid: 148 Calcul Vol : 310 Color: 69.
+2026-04-30 07:10:45  ---------------------------
+2026-04-30 07:14:15  Vol : URUS_PA2_PR0_INT_2025 Skid: 103 Calcul Vol : 552 Color: 1.
+2026-04-30 07:14:15  ---------------------------
+2026-04-30 07:15:34  URUS_PR_INT " Skid: 221 Paint : 498.
+2026-04-30 07:19:40  Vol : URUS_PA2_BC0_R13_INT_2026 Skid: 202 Calcul Vol : 479 Color: 98.
+2026-04-30 07:19:40  ---------------------------
+2026-04-30 07:35:43  Vol : URUS_PA2_PR0_INT_2025 Skid: 150 Calcul Vol : 552 Color: 1.
+2026-04-30 07:35:43  ---------------------------
+2026-04-30 07:39:17  TEMERARIO_BC_INT " Skid: 103 Paint : 258.
+2026-04-30 07:39:17 --- Trajectory INT --- 
+2026-04-30 07:39:17  HURACAN_AP_BC0_INT " Skid: 103 Paint : 258.
+2026-04-30 07:39:17 --- --- 
+2026-04-30 07:44:14  URUS_PR_INT " Skid: 202 Paint : 498.
+2026-04-30 07:44:44  Vol : URUS_PA2_PR0_INT_2025 Skid: 223 Calcul Vol : 552 Color: 1.
+2026-04-30 07:44:44  ---------------------------
+2026-04-30 07:49:25  URUS_BC_INT " Skid: 202 Paint : 426.
+2026-04-30 07:49:41  Vol : URUS_PA2_PR0_INT_2025 Skid: 74 Calcul Vol : 563 Color: 3.
+2026-04-30 07:49:41  ---------------------------
+2026-04-30 07:54:20  Vol : HURACAN_BC0_R13_INT Skid: 233 Calcul Vol : 306 Color: 69.
+2026-04-30 07:54:20  ---------------------------
+2026-04-30 07:58:34  URUS_PR_INT " Skid: 150 Paint : 498.
+2026-04-30 08:04:38 --- Trajectory EXT --- 
+2026-04-30 08:04:38  URUS_PA2_PR0_R13_EXT1 " Skid: 150 Paint : 367.
+2026-04-30 08:13:21  Vol : HURACAN_PRIM_R13_INT Skid: 50 Calcul Vol : 316 Color: 1.
+2026-04-30 08:13:21  ---------------------------
+2026-04-30 08:17:54  URUS_PR_INT " Skid: 74 Paint : 498.
+2026-04-30 08:23:59  URUS_PR_INT " Skid: 233 Paint : 509.
+2026-04-30 08:24:17  Vol : HURACAN_BC0_R13_INT Skid: 133 Calcul Vol : 340 Color: 28.
+2026-04-30 08:24:17  ---------------------------
+2026-04-30 08:28:06  TEMERARIO_BC_INT " Skid: 233 Paint : 255.
+2026-04-30 08:28:06 --- Trajectory INT --- 
+2026-04-30 08:28:06  HURACAN_AP_CFK_BC0_INT " Skid: 233 Paint : 255.
+2026-04-30 08:28:06 --- --- 
+2026-04-30 08:28:51  Vol : HURACAN_PRIM_R13_INT Skid: 245 Calcul Vol : 316 Color: 2.
+2026-04-30 08:28:51  ---------------------------
+2026-04-30 08:33:53  Vol : HURACAN_BC0_R13_INT Skid: 138 Calcul Vol : 275 Color: 23.
+2026-04-30 08:33:53  ---------------------------
+2026-04-30 08:36:47  TEMERARIO_PR_INT " Skid: 50 Paint : 262.
+2026-04-30 08:38:47  Vol : HURACAN_PRIM_R13_INT Skid: 38 Calcul Vol : 315 Color: 3.
+2026-04-30 08:38:47  ---------------------------
+2026-04-30 08:43:12  Vol : URUS_PA2_PR0_INT_2025 Skid: 126 Calcul Vol : 563 Color: 3.
+2026-04-30 08:43:12  ---------------------------
+2026-04-30 08:43:54  TEMERARIO_BC_INT " Skid: 245 Paint : 290.
+2026-04-30 08:43:54 --- Trajectory INT --- 
+2026-04-30 08:43:54  HURACAN_AP_CFK_BC0_INT " Skid: 245 Paint : 290.
+2026-04-30 08:43:54 --- --- 
+2026-04-30 08:47:22  TEMERARIO_PR_INT " Skid: 138 Paint : 264.
+2026-04-30 08:52:24  Vol : URUS_PA2_BC0_R13_INT_2026 Skid: 232 Calcul Vol : 449 Color: 45.
+2026-04-30 08:52:24  ---------------------------
+2026-04-30 08:53:25  TEMERARIO_BC_INT " Skid: 38 Paint : 199.
+2026-04-30 08:53:25 --- Trajectory INT REP --- 
+2026-04-30 08:53:25  HURACAN_BC0_R13_INT AP REP " Skid: 38 Paint : 199.
+2026-04-30 08:53:25 --- --- 
+2026-04-30 08:56:28  Vol : HURACAN_PRIM_R13_INT Skid: 85 Calcul Vol : 316 Color: 1.
+2026-04-30 08:56:28  ---------------------------
+2026-04-30 08:56:53  TEMERARIO_PR_INT " Skid: 126 Paint : 264.
+2026-04-30 09:00:37  Vol : HURACAN_BC0_R13_INT Skid: 52 Calcul Vol : 315 Color: 22.
+2026-04-30 09:00:37  ---------------------------
+2026-04-30 09:02:00  URUS_PR_INT " Skid: 126 Paint : 510.
+2026-04-30 09:04:58  Vol : URUS_PA2_BC0_R13_INT_2026 Skid: 139 Calcul Vol : 504 Color: 11.
+2026-04-30 09:04:58  ---------------------------
+2026-04-30 09:10:04  Vol : URUS_PA2_PR0_INT_2025 Skid: 168 Calcul Vol : 552 Color: 1.
+2026-04-30 09:10:04  ---------------------------
+2026-04-30 09:11:02  URUS_BC_INT " Skid: 85 Paint : 394.
+2026-04-30 09:14:40  TEMERARIO_PR_INT " Skid: 52 Paint : 263.
+2026-04-30 09:15:05  Vol : HURACAN_BC0_R13_INT Skid: 79 Calcul Vol : 301 Color: 5.
+2026-04-30 09:15:05  ---------------------------
+2026-04-30 09:18:59  TEMERARIO_BC_INT " Skid: 139 Paint : 264.
+2026-04-30 09:18:59 --- Trajectory INT --- 
+2026-04-30 09:18:59  HURACAN_AP_BC0_INT " Skid: 139 Paint : 264.
+2026-04-30 09:18:59 --- --- 
+2026-04-30 09:19:23  Vol : HURACAN_PRIM_R13_INT Skid: 96 Calcul Vol : 316 Color: 2.
+2026-04-30 09:19:23  ---------------------------
+2026-04-30 09:23:41  Vol : HURACAN_BC0_R13_INT Skid: 204 Calcul Vol : 349 Color: 7.
+2026-04-30 09:23:41  ---------------------------
+2026-04-30 09:25:17  URUS_BC_INT " Skid: 168 Paint : 449.
+2026-04-30 09:28:39  Vol : URUS_PA2_PR0_INT_2025 Skid: 29 Calcul Vol : 552 Color: 1.
+2026-04-30 09:28:39  ---------------------------
+2026-04-30 09:30:22  URUS_PR_INT " Skid: 79 Paint : 498.
+2026-04-30 09:38:33  Vol : URUS_PA2_PR0_INT_2025 Skid: 86 Calcul Vol : 456 Color: 1.
+2026-04-30 09:38:33  ---------------------------
+2026-04-30 09:41:29  TEMERARIO_PR_INT " Skid: 204 Paint : 263.
+2026-04-30 09:42:55  Vol : URUS_PA2_BC0_R13_INT_2026 Skid: 31 Calcul Vol : 541 Color: 26.
+2026-04-30 09:42:55  ---------------------------
+2026-04-30 09:50:54  URUS_PR_INT " Skid: 29 Paint : 498.
+2026-04-30 09:59:01  Vol : URUS_PA2_BC0_HGL Skid: 167 Calcul Vol : 216 Color: 5.
+2026-04-30 09:59:01  ---------------------------
+2026-04-30 10:09:15 --- Trajectory --- 
+2026-04-30 10:09:15 Prog : URUS_PA2_PR0_INT_2025 & OPT_1 12352 Skid: 86 Paint : 403.
+2026-04-30 10:09:15 ------ Trajectory Consuption URUS PA2 SPORT INT PRIMER ------ 
+2026-04-30 10:09:15  URUS_PA2SPORT_PR0_R13_INT " Skid: 86 Paint : 403.
+2026-04-30 10:09:15 --------------   --------------   -------------- 
+2026-04-30 10:14:39 --- Trajectory EXT --- 
+2026-04-30 10:14:39  URUS_PA2_PR0_R13_EXT1 " Skid: 86 Paint : 367.
+2026-04-30 10:16:24  URUS_PA2_PR0_R13_EXT2 " Skid: 86 Paint : 423.
+2026-04-30 10:16:24 ---   --- 
+2026-04-30 10:17:29  Vol : URUS_PA2_BC0_R13_INT_2026 Skid: 221 Calcul Vol : 547 Color: 8.
+2026-04-30 10:17:29  ---------------------------
+2026-04-30 10:22:06  URUS_BC_INT " Skid: 31 Paint : 487.
+2026-04-30 10:22:21  Vol : HURACAN_BC0_R13_INT Skid: 84 Calcul Vol : 345 Color: 28.
+2026-04-30 10:22:21  ---------------------------
+2026-04-30 10:29:11  URUS_PA2_R13_HGL_INT_EXT " Skid: 167 Paint : 487.
+2026-04-30 10:31:39  Vol : URUS_PA2_BC0_R13_INT_2026 Skid: 103 Calcul Vol : 556 Color: 5.
+2026-04-30 10:31:39  ---------------------------
+2026-04-30 10:37:35  URUS_BC_INT " Skid: 84 Paint : 493.
+2026-04-30 10:41:40  TEMERARIO_BC_INT " Skid: 84 Paint : 295.
+2026-04-30 10:41:40 --- Trajectory INT --- 
+2026-04-30 10:41:40  HURACAN_AP_BC0_INT " Skid: 84 Paint : 295.
+2026-04-30 10:41:40 --- --- 
+2026-04-30 10:41:49  Vol : URUS_PA2_BC0_R13_INT_2026 Skid: 223 Calcul Vol : 556 Color: 5.
+2026-04-30 10:41:49  ---------------------------
+2026-04-30 10:51:37  Vol : HURACAN_BC0_R13_INT Skid: 36 Calcul Vol : 350 Color: 62.
+2026-04-30 10:51:37  ---------------------------
+2026-04-30 10:53:04  URUS_BC_INT " Skid: 103 Paint : 501.
+2026-04-30 11:00:32  Vol : HURACAN_PRIM_R13_INT Skid: 220 Calcul Vol : 316 Color: 1.
+2026-04-30 11:00:32  ---------------------------
+2026-04-30 11:01:54  URUS_BC_INT " Skid: 223 Paint : 501.
+2026-04-30 11:09:30  Vol : URUS_PA2_BC0_R13_INT_2026 Skid: 150 Calcul Vol : 556 Color: 5.
+2026-04-30 11:09:30  ---------------------------
+2026-04-30 11:10:11  TEMERARIO_BC_INT " Skid: 36 Paint : 299.
+2026-04-30 11:10:11 --- Trajectory INT --- 
+2026-04-30 11:10:11  HURACAN_AP_BC0_INT " Skid: 36 Paint : 299.
+2026-04-30 11:10:11 --- --- 
+2026-04-30 11:18:54  TEMERARIO_PR_INT " Skid: 220 Paint : 264.
+2026-04-30 11:20:09  Vol : URUS_PA2_BC0_R13_INT_2026 Skid: 126 Calcul Vol : 515 Color: 28.
+2026-04-30 11:20:09  ---------------------------
+2026-04-30 11:25:39  Vol : URUS_PA2_PR0_INT_2025 Skid: 81 Calcul Vol : 563 Color: 3.
+2026-04-30 11:25:39  ---------------------------
+2026-04-30 11:27:33  URUS_BC_INT " Skid: 150 Paint : 502.
+2026-04-30 11:30:43  Vol : URUS_PA2_BC0_R13_INT_2026 Skid: 74 Calcul Vol : 604 Color: 7.
+2026-04-30 11:30:43  ---------------------------
+2026-04-30 11:35:06  Default Volume : TEM_PR_R13_RACING_INT Skid: 61.
+2026-04-30 11:35:07  Vol : TEM_PR_R13_RACING_INT Skid: 61 Calcul Vol : 640 Color: 2.
+2026-04-30 11:35:07  ---------------------------
+2026-04-30 11:37:51  URUS_BC_INT " Skid: 81 Paint : 461.
+2026-04-30 11:39:26  Vol : HURACAN_BC0_R13_INT Skid: 50 Calcul Vol : 301 Color: 5.
+2026-04-30 11:39:26  ---------------------------
+2026-04-30 11:42:48  URUS_PR_INT " Skid: 74 Paint : 509.
+2026-04-30 11:47:43  URUS_BC_INT " Skid: 74 Paint : 551.
+2026-04-30 11:53:05  Vol : URUS_PA2_PR0_INT_2025 Skid: 37 Calcul Vol : 563 Color: 3.
+2026-04-30 11:53:05  ---------------------------
+2026-04-30 11:56:59  Vol : URUS_PA2_BC0_R13_INT_2026 Skid: 168 Calcul Vol : 504 Color: 11.
+2026-04-30 11:56:59  ---------------------------
+2026-04-30 11:59:16 --- Trajectory INT --- 
+2026-04-30 11:59:16  HURACAN_PRIM_INT " Skid: 50 Paint : 563.
+2026-04-30 11:59:16 --- --- --- --- 
+2026-04-30 12:01:12  Vol : URUS_PA2_PR0_INT_2025 Skid: 35 Calcul Vol : 552 Color: 1.
+2026-04-30 12:01:12  ---------------------------
+2026-04-30 12:06:37  Vol : URUS_PA2_BC0_R13_INT_2026 Skid: 207 Calcul Vol : 624 Color: 97.
+2026-04-30 12:06:37  ---------------------------
+2026-04-30 12:08:39  URUS_PR_INT " Skid: 168 Paint : 509.
+2026-04-30 12:14:08  URUS_BC_INT " Skid: 168 Paint : 450.
+2026-04-30 12:15:01  Vol : URUS_PA2_PR0_INT_2025 Skid: 153 Calcul Vol : 552 Color: 1.
+2026-04-30 12:15:01  ---------------------------
+2026-04-30 12:25:59  URUS_PR_INT " Skid: 207 Paint : 498.
+2026-04-30 12:26:44  Vol : URUS_PA2_BC0_R13_INT_2026 Skid: 202 Calcul Vol : 626 Color: 85.
+2026-04-30 12:26:44  ---------------------------
+2026-04-30 12:31:26  URUS_BC_INT " Skid: 207 Paint : 569.
+2026-04-30 12:31:41  Vol : HURACAN_PRIM_R13_INT Skid: 66 Calcul Vol : 316 Color: 3.
+2026-04-30 12:31:41  ---------------------------
+2026-04-30 12:41:47  URUS_PR_INT " Skid: 153 Paint : 497.
+2026-04-30 12:42:05  Vol : URUS_PA2_BC0_HGL Skid: 86 Calcul Vol : 216 Color: 5.
+2026-04-30 12:42:05  ---------------------------
+2026-04-30 12:49:14  Vol : URUS_PA2_PR0_INT_2025 Skid: 158 Calcul Vol : 552 Color: 1.
+2026-04-30 12:49:14  ---------------------------
+2026-04-30 12:50:50  URUS_BC_INT " Skid: 66 Paint : 571.
+2026-04-30 12:54:28  TEMERARIO_PR_INT " Skid: 66 Paint : 264.
+2026-04-30 12:57:51  Vol : HURACAN_BC0_R13_INT Skid: 38 Calcul Vol : 325 Color: 34.
+2026-04-30 12:57:51  ---------------------------
+2026-04-30 13:01:45  Vol : HURACAN_PRIM_R13_INT Skid: 152 Calcul Vol : 316 Color: 3.
+2026-04-30 13:01:45  ---------------------------
+2026-04-30 13:01:59  URUS_PA2_R13_HGL_INT_EXT " Skid: 86 Paint : 264.
+2026-04-30 13:17:12  Vol : HURACAN_BC0_R13_INT Skid: 133 Calcul Vol : 287 Color: 29.
+2026-04-30 13:17:12  ---------------------------
+2026-04-30 13:22:57  TEMERARIO_BC_INT " Skid: 152 Paint : 276.
+2026-04-30 13:22:57 --- Trajectory INT --- 
+2026-04-30 13:22:57  HURACAN_AP_BC0_INT " Skid: 152 Paint : 276.
+2026-04-30 13:22:57 --- --- 
+2026-04-30 13:24:59  Vol : URUS_PA2_PR0_INT_2025 Skid: 105 Calcul Vol : 563 Color: 3.
+2026-04-30 13:24:59  ---------------------------
+2026-04-30 13:26:25  TEMERARIO_PR_INT " Skid: 152 Paint : 264.
+2026-04-30 13:35:44  Vol : URUS_PA2_PR0_INT_2025 Skid: 155 Calcul Vol : 552 Color: 1.
+2026-04-30 13:35:44  ---------------------------
+2026-04-30 13:35:57  TEMERARIO_BC_INT " Skid: 133 Paint : 237.
+2026-04-30 13:35:57 --- Trajectory INT --- 
+2026-04-30 13:35:57  HURACAN_AP_CFK_BC0_INT " Skid: 133 Paint : 237.
+2026-04-30 13:35:57 --- --- 
+2026-04-30 13:40:32  Vol : URUS_PA2_BC0_R13_INT_2026 Skid: 29 Calcul Vol : 624 Color: 97.
+2026-04-30 13:40:32  ---------------------------
+2026-04-30 13:43:25  URUS_PR_INT " Skid: 105 Paint : 509.
+2026-04-30 13:44:32  Vol : URUS_PA2_BC0_R13_INT_2026 Skid: 167 Calcul Vol : 480 Color: 98.
+2026-04-30 13:44:32  ---------------------------
+2026-04-30 13:52:57  Vol : URUS_PA2_PR0_INT_2025 Skid: 158 Calcul Vol : 552 Color: 1.
+2026-04-30 13:52:57  ---------------------------
+2026-04-30 13:57:21  URUS_PR_INT " Skid: 29 Paint : 498.
+2026-04-30 13:57:39  Vol : URUS_PA2_BC0_R13_INT_2026 Skid: 81 Calcul Vol : 533 Color: 12.
+2026-04-30 13:57:39  ---------------------------
+2026-04-30 14:02:17  URUS_BC_INT " Skid: 167 Paint : 569.
+2026-04-30 14:02:34  Vol : HURACAN_PRIM_R13_INT Skid: 51 Calcul Vol : 315 Color: 1.
+2026-04-30 14:02:34  ---------------------------
+2026-04-30 14:07:11  URUS_BC_INT " Skid: 167 Paint : 426.
+2026-04-30 14:07:28  Vol : HURACAN_BC0_R13_INT Skid: 85 Calcul Vol : 366 Color: 27.
+2026-04-30 14:07:28  ---------------------------
+2026-04-30 14:16:22  URUS_PR_INT " Skid: 158 Paint : 497.
+2026-04-30 14:25:29  URUS_BC_INT " Skid: 51 Paint : 479.
+2026-04-30 14:25:55  Vol : HURACAN_PRIM_R13_INT Skid: 244 Calcul Vol : 315 Color: 1.
+2026-04-30 14:25:55  ---------------------------
+2026-04-30 14:29:06  TEMERARIO_PR_INT " Skid: 85 Paint : 264.
+2026-04-30 14:33:28  TEMERARIO_BC_INT " Skid: 85 Paint : 316.
+2026-04-30 14:33:28 --- Trajectory INT --- 
+2026-04-30 14:33:28  HURACAN_AP_BC0_INT " Skid: 85 Paint : 316.
+2026-04-30 14:33:28 --- --- 
+2026-04-30 14:35:02  Vol : HURACAN_BC0_R13_INT Skid: 210 Calcul Vol : 196 Color: 106.
+2026-04-30 14:35:02  ---------------------------
+2026-04-30 14:40:08  Vol : URUS_PA2_PR0_INT_2025 Skid: 208 Calcul Vol : 552 Color: 1.
+2026-04-30 14:40:08  ---------------------------
+2026-04-30 14:45:08  Vol : URUS_PA2_BC0_R13_INT_2026 Skid: 35 Calcul Vol : 556 Color: 5.
+2026-04-30 14:45:08  ---------------------------
+2026-04-30 14:47:15  TEMERARIO_PR_INT " Skid: 244 Paint : 262.
+2026-04-30 14:51:02  Vol : URUS_PA2_BC0_HGL Skid: 37 Calcul Vol : 216 Color: 5.
+2026-04-30 14:51:02  ---------------------------
+2026-04-30 14:55:01  TEMERARIO_BC_INT " Skid: 210 Paint : 94.
+2026-04-30 14:55:01 --- Trajectory INT REP --- 
+2026-04-30 14:55:01  HURACAN_BC0_R13_INT AP REP " Skid: 210 Paint : 94.
+2026-04-30 14:55:01 --- --- 
+2026-04-30 14:55:11  Vol : HURACAN_PRIM_R13_INT Skid: 49 Calcul Vol : 316 Color: 1.
+2026-04-30 14:55:11  ---------------------------
+2026-04-30 15:04:43  URUS_PR_INT " Skid: 35 Paint : 498.
+2026-04-30 15:05:00  Vol : HURACAN_BC0_R13_INT Skid: 84 Calcul Vol : 291 Color: 29.
+2026-04-30 15:05:00  ---------------------------
+2026-04-30 15:09:39  URUS_BC_INT " Skid: 35 Paint : 502.
+2026-04-30 15:09:54  Vol : URUS_PA2_BC0_R13_INT_2026 Skid: 153 Calcul Vol : 556 Color: 5.
+2026-04-30 15:09:54  ---------------------------
+2026-04-30 15:13:36  URUS_PA2_R13_HGL_INT_EXT " Skid: 49 Paint : 502.
+2026-04-30 15:14:28  Vol : URUS_PA2_PR0_INT_2025 Skid: 203 Calcul Vol : 555 Color: 2.
+2026-04-30 15:14:28  ---------------------------
+2026-04-30 15:17:19  TEMERARIO_PR_INT " Skid: 49 Paint : 263.
+2026-04-30 15:23:29  Vol : URUS_PA2_PR0_INT_2025 Skid: 230 Calcul Vol : 552 Color: 1.
+2026-04-30 15:23:29  ---------------------------
+2026-04-30 15:23:56  TEMERARIO_BC_INT " Skid: 153 Paint : 240.
+2026-04-30 15:23:56 --- Trajectory INT --- 
+2026-04-30 15:23:56  HURACAN_AP_BC0_INT " Skid: 153 Paint : 240.
+2026-04-30 15:23:56 --- --- 
+2026-04-30 15:35:39  Vol : URUS_PA2_BC0_R13_INT_2026 Skid: 126 Calcul Vol : 567 Color: 29.
+2026-04-30 15:35:39  ---------------------------
+2026-04-30 15:39:33  URUS_BC_INT " Skid: 203 Paint : 501.
+2026-04-30 15:44:39  URUS_PR_INT " Skid: 203 Paint : 501.
+2026-04-30 15:44:57  Vol : HURACAN_BC0_R13_INT Skid: 66 Calcul Vol : 349 Color: 7.
+2026-04-30 15:44:57  ---------------------------
+2026-04-30 15:50:33  Vol : URUS_PA2_PR0_INT_2025 Skid: 48 Calcul Vol : 563 Color: 3.
+2026-04-30 15:50:33  ---------------------------
+2026-04-30 15:55:06  Vol : URUS_PA2_BC0_HGL Skid: 105 Calcul Vol : 216 Color: 5.
+2026-04-30 15:55:06  ---------------------------
+2026-04-30 15:56:58  URUS_BC_INT " Skid: 126 Paint : 513.
+2026-04-30 16:03:28  Vol : URUS_PA2_PR0_INT_2025 Skid: 230 Calcul Vol : 552 Color: 1.
+2026-04-30 16:03:28  ---------------------------
+2026-04-30 16:05:46  Vol : URUS_PA2_BC0_R13_INT_2026 Skid: 155 Calcul Vol : 556 Color: 5.
+2026-04-30 16:05:46  ---------------------------
+2026-04-30 16:09:13  Vol : URUS_PA2_PR0_INT_2025 Skid: 130 Calcul Vol : 563 Color: 3.
+2026-04-30 16:09:13  ---------------------------
+2026-04-30 16:12:27  URUS_PR_INT " Skid: 105 Paint : 508.
+2026-04-30 16:15:39  URUS_PA2_R13_HGL_INT_EXT " Skid: 105 Paint : 508.
+2026-04-30 16:17:17  Vol : URUS_PA2_BC0_R13_INT_2026 Skid: 158 Calcul Vol : 443 Color: 38.
+2026-04-30 16:17:17  ---------------------------
+2026-04-30 16:24:13  URUS_PR_INT " Skid: 155 Paint : 498.
+2026-04-30 16:24:32  Vol : HURACAN_PRIM_R13_INT Skid: 134 Calcul Vol : 315 Color: 3.
+2026-04-30 16:24:32  ---------------------------
+2026-04-30 16:30:25  URUS_BC_INT " Skid: 155 Paint : 502.
+2026-04-30 16:42:24  Vol : URUS_PA2_PR0_INT_2025 Skid: 130 Calcul Vol : 563 Color: 3.
+2026-04-30 16:42:24  ---------------------------
+2026-04-30 16:44:13  URUS_BC_INT " Skid: 134 Paint : 389.
+2026-04-30 16:48:14  TEMERARIO_PR_INT " Skid: 134 Paint : 259.
+2026-04-30 16:49:42  Vol : URUS_PA2_PR0_INT_2025 Skid: 166 Calcul Vol : 552 Color: 1.
+2026-04-30 16:49:42  ---------------------------
+2026-04-30 16:57:40  Vol : HURACAN_BC0_R13_INT Skid: 51 Calcul Vol : 301 Color: 5.
+2026-04-30 16:57:40  ---------------------------
+2026-04-30 16:57:45  URUS_PR_INT " Skid: 130 Paint : 508.
+2026-04-30 17:01:37  Vol : HURACAN_PRIM_R13_INT Skid: 193 Calcul Vol : 311 Color: 3.
+2026-04-30 17:01:37  ---------------------------
+2026-04-30 17:05:58  Vol : URUS_PA2_BC0_R13_INT_2026 Skid: 208 Calcul Vol : 547 Color: 8.
+2026-04-30 17:05:58  ---------------------------
+2026-04-30 17:17:56  Vol : URUS_PA2_PR0_INT_2025 Skid: 166 Calcul Vol : 552 Color: 1.
+2026-04-30 17:17:56  ---------------------------
+2026-04-30 17:19:58  TEMERARIO_PR_INT " Skid: 208 Paint : 263.
+2026-04-30 17:20:41  Vol : HURACAN_BC0_R13_INT Skid: 38 Calcul Vol : 337 Color: 35.
+2026-04-30 17:20:41  ---------------------------
+2026-04-30 17:24:57  URUS_BC_INT " Skid: 208 Paint : 493.
+2026-04-30 17:29:42  Vol : URUS_PA2_BC0_R13_INT_2026 Skid: 167 Calcul Vol : 659 Color: 99.
+2026-04-30 17:29:42  ---------------------------
+2026-04-30 17:32:09  URUS_PR_INT " Skid: 38 Paint : 498.
+2026-04-30 17:33:24  Vol : URUS_PA2_PR0_INT_2025 Skid: 245 Calcul Vol : 552 Color: 1.
+2026-04-30 17:33:24  ---------------------------
+2026-04-30 17:36:15  TEMERARIO_BC_INT " Skid: 38 Paint : 288.
+2026-04-30 17:36:15 --- Trajectory INT --- 
+2026-04-30 17:36:15  HURACAN_AP_BC0_INT " Skid: 38 Paint : 288.
+2026-04-30 17:36:15 --- --- 
+2026-04-30 17:37:12  Vol : HURACAN_BC0_R13_INT Skid: 244 Calcul Vol : 300 Color: 10.
+2026-04-30 17:37:12  ---------------------------
+2026-04-30 17:41:42  Vol : URUS_PA2_PR0_INT_2025 Skid: 96 Calcul Vol : 563 Color: 3.
+2026-04-30 17:41:42  ---------------------------
+2026-04-30 17:46:15  URUS_BC_INT " Skid: 245 Paint : 604.
+2026-04-30 17:52:43  URUS_PR_INT " Skid: 245 Paint : 497.
+2026-04-30 18:06:33  URUS_PR_INT " Skid: 96 Paint : 509.
+2026-04-30 18:12:29  Vol : HURACAN_PRIM_R13_INT Skid: 237 Calcul Vol : 315 Color: 3.
+2026-04-30 18:12:29  ---------------------------
+2026-04-30 18:20:02  Vol : URUS_PA2_BC0_R13_INT_2026 Skid: 48 Calcul Vol : 553 Color: 52.
+2026-04-30 18:20:02  ---------------------------
+2026-04-30 18:25:10  TEMERARIO_PR_INT " Skid: 237 Paint : 264.
+2026-04-30 18:27:44  Vol : URUS_PA2_PR0_INT_2025 Skid: 79 Calcul Vol : 563 Color: 3.
+2026-04-30 18:27:44  ---------------------------
+2026-04-30 18:31:51  Vol : URUS_PA2_BC0_R13_INT_2026 Skid: 203 Calcul Vol : 632 Color: 62.
+2026-04-30 18:31:51  ---------------------------
+2026-04-30 18:35:16  URUS_BC_INT " Skid: 48 Paint : 498.
+2026-04-30 18:36:00  Vol : HURACAN_BC0_R13_INT Skid: 152 Calcul Vol : 336 Color: 23.
+2026-04-30 18:36:00  ---------------------------
+2026-04-30 18:40:12  Vol : HURACAN_PRIM_R13_INT Skid: 139 Calcul Vol : 316 Color: 3.
+2026-04-30 18:40:12  ---------------------------
+2026-04-30 18:44:07  URUS_PR_INT " Skid: 203 Paint : 509.
+2026-04-30 18:44:21  Vol : URUS_PA2_BC0_R13_INT_2026 Skid: 230 Calcul Vol : 555 Color: 5.
+2026-04-30 18:44:21  ---------------------------
+2026-04-30 18:49:06  URUS_BC_INT " Skid: 152 Paint : 578.
+2026-04-30 18:49:10  Vol : URUS_PA2_BC0_R13_INT_2026 Skid: 37 Calcul Vol : 553 Color: 52.
+2026-04-30 18:49:10  ---------------------------
+2026-04-30 18:53:10  TEMERARIO_BC_INT " Skid: 139 Paint : 285.
+2026-04-30 18:53:10 --- Trajectory INT --- 
+2026-04-30 18:53:11  HURACAN_AP_BC0_INT " Skid: 139 Paint : 285.
+2026-04-30 18:53:11 --- --- 
+2026-04-30 18:53:13  Vol : URUS_PA2_BC0_R13_INT_2026 Skid: 105 Calcul Vol : 592 Color: 23.
+2026-04-30 18:53:13  ---------------------------
+2026-04-30 18:58:34  Vol : URUS_PA2_BC0_R13_INT_2026 Skid: 130 Calcul Vol : 577 Color: 6.
+2026-04-30 18:58:34  ---------------------------
+2026-04-30 19:07:50  Vol : HURACAN_PRIM_R13_INT Skid: 139 Calcul Vol : 316 Color: 3.
+2026-04-30 19:07:50  ---------------------------
+2026-04-30 19:09:20  URUS_BC_INT " Skid: 105 Paint : 498.
+2026-04-30 19:11:26  Vol : URUS_PA2_BC0_R13_INT_2026 Skid: 230 Calcul Vol : 556 Color: 5.
+2026-04-30 19:11:26  ---------------------------
+2026-04-30 19:24:24  URUS_BC_INT " Skid: 130 Paint : 538.
+2026-04-30 19:35:54  URUS_BC_INT " Skid: 139 Paint : 524.
+2026-04-30 19:41:15  Vol : HURACAN_BC0_R13_INT Skid: 20 Calcul Vol : 294 Color: 52.
+2026-04-30 19:41:15  ---------------------------
+2026-04-30 19:43:25  TEMERARIO_PR_INT " Skid: 230 Paint : 263.
+2026-04-30 19:46:45  Vol : URUS_PA2_PR0_INT_2025 Skid: 221 Calcul Vol : 563 Color: 3.
+2026-04-30 19:46:45  ---------------------------
+2026-04-30 19:48:55  URUS_BC_INT " Skid: 230 Paint : 502.
+2026-04-30 19:52:39  Vol : HURACAN_BC0_R13_INT Skid: 49 Calcul Vol : 366 Color: 27.
+2026-04-30 19:52:39  ---------------------------
+2026-04-30 19:56:37  Vol : URUS_PA2_BC0_R13_INT_2026 Skid: 245 Calcul Vol : 504 Color: 11.
+2026-04-30 19:56:37  ---------------------------
+2026-04-30 19:58:34  TEMERARIO_BC_INT " Skid: 221 Paint : 244.
+2026-04-30 19:58:34 --- Trajectory INT --- 
+2026-04-30 19:58:34  HURACAN_AP_BC0_INT " Skid: 221 Paint : 244.
+2026-04-30 19:58:34 --- --- 
+2026-04-30 20:03:23  URUS_PR_INT " Skid: 49 Paint : 509.
+2026-04-30 20:07:33  TEMERARIO_BC_INT " Skid: 245 Paint : 317.
+2026-04-30 20:07:33 --- Trajectory INT --- 
+2026-04-30 20:07:33  HURACAN_AP_BC0_INT " Skid: 245 Paint : 317.
+2026-04-30 20:07:33 --- --- 
+2026-04-30 20:09:28  Vol : URUS_PA2_PR0_INT_2025 Skid: 206 Calcul Vol : 552 Color: 1.
+2026-04-30 20:09:28  ---------------------------
+2026-04-30 20:12:41  URUS_BC_INT " Skid: 245 Paint : 451.
+2026-04-30 20:12:58  Vol : URUS_PA2_BC0_R13_INT_2026 Skid: 96 Calcul Vol : 553 Color: 52.
+2026-04-30 20:12:58  ---------------------------
+2026-04-30 20:20:08  Vol : URUS_PA2_BC0_R13_INT_2026 Skid: 166 Calcul Vol : 496 Color: 27.
+2026-04-30 20:20:08  ---------------------------
+2026-04-30 20:27:06  URUS_PR_INT " Skid: 96 Paint : 498.
+2026-04-30 20:31:47  URUS_BC_INT " Skid: 96 Paint : 498.
+2026-04-30 20:35:02  Vol : HURACAN_BC0_R13_INT Skid: 134 Calcul Vol : 528 Color: 6.
+2026-04-30 20:35:02  ---------------------------
+2026-04-30 20:39:29  Vol : HURACAN_BC0_R13_INT Skid: 237 Calcul Vol : 349 Color: 7.
+2026-04-30 20:39:29  ---------------------------
+2026-04-30 20:46:33  URUS_BC_INT " Skid: 134 Paint : 443.
+2026-04-30 20:48:45  Vol : URUS_PA2_BC0_R13_INT_2026 Skid: 163 Calcul Vol : 583 Color: 56.
+2026-04-30 20:48:45  ---------------------------
+2026-04-30 20:50:45  TEMERARIO_BC_INT " Skid: 134 Paint : 288.
+2026-04-30 20:50:45 --- Trajectory INT --- 
+2026-04-30 20:50:45  HURACAN_CFK_BC0_INT " Skid: 134 Paint : 288.
+2026-04-30 20:50:45 --- --- 
+2026-04-30 20:53:12  Vol : HURACAN_PRIM_R13_INT Skid: 61 Calcul Vol : 316 Color: 1.
+2026-04-30 20:53:12  ---------------------------
+2026-04-30 21:02:39  Vol : URUS_PA2_PR0_INT_2025 Skid: 122 Calcul Vol : 563 Color: 3.
+2026-04-30 21:02:39  ---------------------------
+2026-04-30 21:07:51  Vol : URUS_PA2_PR0_INT_2025 Skid: 21 Calcul Vol : 555 Color: 2.
+2026-04-30 21:07:51  ---------------------------
+2026-04-30 21:09:31  URUS_BC_INT " Skid: 61 Paint : 529.
+2026-04-30 21:13:08  TEMERARIO_PR_INT " Skid: 61 Paint : 264.
+2026-04-30 21:48:44  URUS_PR_INT " Skid: 21 Paint : 509.
+2026-04-30 21:53:43  URUS_PR_INT " Skid: 21 Paint : 501.
+2026-05-04 04:00:37 --- Trajectory EXT --- 
+2026-05-04 04:00:37  URUS_PA2_PR0_R12_EXT1 " Skid: 16796 Paint : 36.
+2026-05-04 04:02:22  URUS_PA2_PR0_R12_EXT2 " Skid: 16796 Paint : 0.
+2026-05-04 04:02:22 ---   --- 
+2026-05-04 05:02:25  Vol : URUS_PA2_BC0_R13_INT_2026 Skid: 108 Calcul Vol : 547 Color: 8.
+2026-05-04 05:02:25  ---------------------------
+2026-05-04 05:17:56  URUS_BC_INT " Skid: 108 Paint : 493.
+2026-05-04 05:54:31  Vol : URUS_PA2_PR0_INT_2025 Skid: 60 Calcul Vol : 552 Color: 1.
+2026-05-04 05:54:31  ---------------------------
+2026-05-04 05:58:01  Vol : URUS_PA2_PR0_INT_2025 Skid: 168 Calcul Vol : 552 Color: 1.
+2026-05-04 05:58:01  ---------------------------
+2026-05-04 06:01:34  Vol : URUS_PA2_PR0_INT_2025 Skid: 35 Calcul Vol : 563 Color: 3.
+2026-05-04 06:01:34  ---------------------------
+2026-05-04 06:05:16  Vol : HURACAN_PRIM_R13_INT Skid: 29 Calcul Vol : 315 Color: 1.
+2026-05-04 06:05:16  ---------------------------
+2026-05-04 06:09:38  URUS_PR_INT " Skid: 168 Paint : 499.
+2026-05-04 06:10:50  Vol : HURACAN_PRIM_R13_INT Skid: 74 Calcul Vol : 315 Color: 3.
+2026-05-04 06:10:50  ---------------------------
+2026-05-04 06:14:38  URUS_PR_INT " Skid: 168 Paint : 498.
+2026-05-04 06:14:50  Vol : URUS_PA2_BC0_HGL Skid: 79 Calcul Vol : 216 Color: 5.
+2026-05-04 06:14:50  ---------------------------
+2026-05-04 06:21:13  URUS_PR_INT " Skid: 35 Paint : 509.
+2026-05-04 06:25:38  Vol : HURACAN_PRIM_R13_INT Skid: 81 Calcul Vol : 315 Color: 3.
+2026-05-04 06:25:38  ---------------------------
+2026-05-04 06:32:21  TEMERARIO_PR_INT " Skid: 74 Paint : 264.
+2026-05-04 06:35:24  Vol : URUS_PA2_PR0_INT_2025 Skid: 155 Calcul Vol : 552 Color: 1.
+2026-05-04 06:35:24  ---------------------------
+2026-05-04 06:36:03  TEMERARIO_PR_INT " Skid: 79 Paint : 263.
+2026-05-04 06:39:19  URUS_PA2_R13_HGL_INT_EXT " Skid: 81 Paint : 263.
+2026-05-04 06:43:02  TEMERARIO_PR_INT " Skid: 81 Paint : 263.
+2026-05-04 06:43:36  Vol : URUS_PA2_BC0_R13_INT_2026 Skid: 221 Calcul Vol : 515 Color: 28.
+2026-05-04 06:43:36  ---------------------------
+2026-05-04 06:48:49  Vol : HURACAN_PRIM_R13_INT Skid: 153 Calcul Vol : 315 Color: 2.
+2026-05-04 06:48:49  ---------------------------
+2026-05-04 06:50:46  URUS_PR_INT " Skid: 155 Paint : 498.
+2026-05-04 06:52:37  Vol : HURACAN_PRIM_R13_INT Skid: 50 Calcul Vol : 315 Color: 3.
+2026-05-04 06:52:37  ---------------------------
+2026-05-04 06:57:16  Vol : HURACAN_BC0_R13_INT Skid: 61 Calcul Vol : 290 Color: 13.
+2026-05-04 06:57:16  ---------------------------
+2026-05-04 06:59:49  URUS_BC_INT " Skid: 153 Paint : 461.
+2026-05-04 07:03:26  TEMERARIO_PR_INT " Skid: 50 Paint : 264.
+2026-05-04 07:05:02  Vol : URUS_PA2_BC0_R13_INT_2026 Skid: 206 Calcul Vol : 555 Color: 5.
+2026-05-04 07:05:02  ---------------------------
+2026-05-04 07:07:53  TEMERARIO_PR_INT " Skid: 61 Paint : 263.
+2026-05-04 07:09:36  Vol : URUS_PA2_PR0_INT_2025 Skid: 208 Calcul Vol : 563 Color: 3.
+2026-05-04 07:09:36  ---------------------------
+2026-05-04 07:18:15  Vol : HURACAN_PRIM_R13_INT Skid: 31 Calcul Vol : 315 Color: 3.
+2026-05-04 07:18:15  ---------------------------
+2026-05-04 07:20:50  URUS_BC_INT " Skid: 208 Paint : 502.
+2026-05-04 07:25:58  URUS_PR_INT " Skid: 208 Paint : 509.
+2026-05-04 07:26:24  Vol : URUS_PA2_PR0_INT_2025 Skid: 150 Calcul Vol : 552 Color: 1.
+2026-05-04 07:26:24  ---------------------------
+2026-05-04 07:33:41  TEMERARIO_PR_INT " Skid: 31 Paint : 262.
+2026-05-04 07:34:25  Vol : URUS_PA2_PR0_INT_2025 Skid: 103 Calcul Vol : 563 Color: 3.
+2026-05-04 07:34:25  ---------------------------
+2026-05-04 07:38:40  Vol : URUS_PA2_BC0_R13_INT_2026 Skid: 48 Calcul Vol : 526 Color: 53.
+2026-05-04 07:38:40  ---------------------------
+2026-05-04 07:41:50  URUS_PR_INT " Skid: 150 Paint : 498.
+2026-05-04 07:42:40  Vol : URUS_PA2_PR0_INT_2025 Skid: 130 Calcul Vol : 563 Color: 3.
+2026-05-04 07:42:40  ---------------------------
+2026-05-04 07:46:44  Vol : HURACAN_BC0_R13_INT Skid: 20 Calcul Vol : 314 Color: 53.
+2026-05-04 07:46:44  ---------------------------
+2026-05-04 07:50:55  URUS_PR_INT " Skid: 103 Paint : 509.
+2026-05-04 07:51:02  Vol : HURACAN_PRIM_R13_INT Skid: 207 Calcul Vol : 316 Color: 3.
+2026-05-04 07:51:02  ---------------------------
+2026-05-04 07:55:35  Vol : URUS_PA2_BC0_HGL Skid: 60 Calcul Vol : 216 Color: 5.
+2026-05-04 07:55:35  ---------------------------
+2026-05-04 07:58:38  URUS_BC_INT " Skid: 130 Paint : 471.
+2026-05-04 08:00:29  Vol : URUS_PA2_PR0_INT_2025 Skid: 222 Calcul Vol : 555 Color: 2.
+2026-05-04 08:00:29  ---------------------------
+2026-05-04 08:03:36  URUS_PR_INT " Skid: 20 Paint : 510.
+2026-05-04 08:04:38  Vol : URUS_PA2_BC0_R13_INT_2026 Skid: 168 Calcul Vol : 555 Color: 5.
+2026-05-04 08:04:38  ---------------------------
+2026-05-04 08:07:43  TEMERARIO_BC_INT " Skid: 207 Paint : 264.
+2026-05-04 08:07:43 --- Trajectory INT --- 
+2026-05-04 08:07:43  HURACAN_AP_BC0_INT " Skid: 207 Paint : 264.
+2026-05-04 08:07:43 --- --- 
+2026-05-04 08:08:24  Vol : HURACAN_PRIM_R13_INT Skid: 223 Calcul Vol : 316 Color: 3.
+2026-05-04 08:08:24  ---------------------------
+2026-05-04 08:11:59  TEMERARIO_PR_INT " Skid: 60 Paint : 264.
+2026-05-04 08:15:46  Vol : URUS_PA2_BC0_R13_INT_2026 Skid: 35 Calcul Vol : 577 Color: 6.
+2026-05-04 08:15:46  ---------------------------
+2026-05-04 08:18:28  URUS_PA2_R13_HGL_INT_EXT " Skid: 222 Paint : 264.
+2026-05-04 08:23:35  URUS_PR_INT " Skid: 168 Paint : 501.
+2026-05-04 08:24:43  Vol : URUS_PA2_PR0_INT_2025 Skid: 131 Calcul Vol : 563 Color: 3.
+2026-05-04 08:24:43  ---------------------------
+2026-05-04 08:28:40  URUS_BC_INT " Skid: 223 Paint : 502.
+2026-05-04 08:28:55  Vol : URUS_PA2_BC0_R13_INT_2026 Skid: 37 Calcul Vol : 526 Color: 53.
+2026-05-04 08:28:55  ---------------------------
+2026-05-04 08:32:17  TEMERARIO_PR_INT " Skid: 35 Paint : 264.
+2026-05-04 08:33:26  Vol : URUS_PA2_PR0_INT_2025 Skid: 245 Calcul Vol : 563 Color: 3.
+2026-05-04 08:33:26  ---------------------------
+2026-05-04 08:37:29  URUS_BC_INT " Skid: 35 Paint : 524.
+2026-05-04 08:37:47  Vol : HURACAN_BC0_R13_INT Skid: 29 Calcul Vol : 301 Color: 5.
+2026-05-04 08:37:47  ---------------------------
+2026-05-04 08:42:23  Vol : URUS_PA2_BC0_R13_INT_2026 Skid: 96 Calcul Vol : 526 Color: 53.
+2026-05-04 08:42:23  ---------------------------
+2026-05-04 08:46:17  URUS_PR_INT " Skid: 37 Paint : 508.
+2026-05-04 08:51:13  URUS_BC_INT " Skid: 245 Paint : 471.
+2026-05-04 08:56:11  URUS_PR_INT " Skid: 29 Paint : 510.
+2026-05-04 09:00:50  Vol : URUS_PA2_PR0_INT_2025 Skid: 230 Calcul Vol : 552 Color: 1.
+2026-05-04 09:00:50  ---------------------------
+2026-05-04 09:05:16  URUS_BC_INT " Skid: 96 Paint : 470.
+2026-05-04 09:10:00  Vol : URUS_PA2_BC0_R13_INT_2026 Skid: 155 Calcul Vol : 522 Color: 13.
+2026-05-04 09:10:00  ---------------------------
+2026-05-04 09:18:13  Vol : HURACAN_BC0_R13_INT Skid: 193 Calcul Vol : 364 Color: 19.
+2026-05-04 09:18:13  ---------------------------
+2026-05-04 09:22:03  URUS_PR_INT " Skid: 230 Paint : 497.
+2026-05-04 09:22:34  Vol : URUS_PA2_PR0_INT_2025 Skid: 158 Calcul Vol : 563 Color: 3.
+2026-05-04 09:22:34  ---------------------------
+2026-05-04 09:27:04  Vol : HURACAN_BC0_R13_INT Skid: 139 Calcul Vol : 335 Color: 23.
+2026-05-04 09:27:04  ---------------------------
+2026-05-04 09:31:04  URUS_BC_INT " Skid: 155 Paint : 467.
+2026-05-04 09:39:03  TEMERARIO_BC_INT " Skid: 158 Paint : 314.
+2026-05-04 09:39:03 --- Trajectory INT --- 
+2026-05-04 09:39:03  HURACAN_AP_BC0_INT " Skid: 158 Paint : 314.
+2026-05-04 09:39:03 --- --- 
+2026-05-04 09:40:28  Vol : HURACAN_PRIM_R13_INT Skid: 145 Calcul Vol : 315 Color: 3.
+2026-05-04 09:40:28  ---------------------------
+2026-05-04 09:44:11  URUS_PR_INT " Skid: 158 Paint : 510.
+2026-05-04 09:49:58  TEMERARIO_BC_INT " Skid: 139 Paint : 285.
+2026-05-04 09:49:58 --- Trajectory INT --- 
+2026-05-04 09:49:58  HURACAN_AP_BC0_INT " Skid: 139 Paint : 285.
+2026-05-04 09:49:58 --- --- 
+2026-05-04 09:50:43  Vol : URUS_PA2_BC0_R13_INT_2026 Skid: 150 Calcul Vol : 560 Color: 105.
+2026-05-04 09:50:43  ---------------------------
+2026-05-04 09:55:56  Vol : URUS_PA2_PR0_INT_2025 Skid: 119 Calcul Vol : 552 Color: 1.
+2026-05-04 09:55:56  ---------------------------
+2026-05-04 10:07:05  Vol : URUS_PA2_BC0_HGL Skid: 208 Calcul Vol : 216 Color: 5.
+2026-05-04 10:07:05  ---------------------------
+2026-05-04 10:09:45  TEMERARIO_PR_INT " Skid: 145 Paint : 263.
+2026-05-04 10:15:44  Vol : URUS_PA2_BC0_R13_INT_2026 Skid: 103 Calcul Vol : 563 Color: 19.
+2026-05-04 10:15:44  ---------------------------
+2026-05-04 10:17:34  URUS_BC_INT " Skid: 119 Paint : 506.
+2026-05-04 10:22:39  URUS_PR_INT " Skid: 208 Paint : 498.
+2026-05-04 10:25:18  Vol : URUS_PA2_PR0_INT_2025 Skid: 203 Calcul Vol : 552 Color: 1.
+2026-05-04 10:25:18  ---------------------------
+2026-05-04 10:26:17  URUS_PA2_R13_HGL_INT_EXT " Skid: 208 Paint : 498.
+2026-05-04 10:37:15  Vol : URUS_PA2_BC0_R13_INT_2026 Skid: 222 Calcul Vol : 474 Color: 40.
+2026-05-04 10:37:15  ---------------------------
+2026-05-04 10:41:40  URUS_BC_INT " Skid: 103 Paint : 507.
+2026-05-04 10:41:57  Vol : URUS_PA2_BC0_R13_INT_2026 Skid: 130 Calcul Vol : 605 Color: 7.
+2026-05-04 10:41:57  ---------------------------
+2026-05-04 10:50:49  URUS_PR_INT " Skid: 203 Paint : 498.
+2026-05-04 10:52:37  Vol : URUS_PA2_BC0_R13_INT_2026 Skid: 79 Calcul Vol : 604 Color: 7.
+2026-05-04 10:52:37  ---------------------------
+2026-05-04 10:59:56  URUS_BC_INT " Skid: 222 Paint : 420.
+2026-05-04 11:01:03  Default Volume : TEM_PR_R13_RACING_INT Skid: 5.
+2026-05-04 11:01:05  Vol : TEM_PR_R13_RACING_INT Skid: 5 Calcul Vol : 640 Color: 2.
+2026-05-04 11:01:05  ---------------------------
+2026-05-04 11:05:26  URUS_BC_INT " Skid: 130 Paint : 551.
+2026-05-04 11:10:21  Vol : URUS_PA2_BC0_R13_INT_2026 Skid: 221 Calcul Vol : 567 Color: 29.
+2026-05-04 11:10:21  ---------------------------
+2026-05-04 11:14:15  URUS_BC_INT " Skid: 79 Paint : 551.
+2026-05-04 11:14:30  Vol : URUS_PA2_PR0_INT_2025 Skid: 138 Calcul Vol : 552 Color: 1.
+2026-05-04 11:14:30  ---------------------------
+2026-05-04 11:19:03  Vol : URUS_PA2_BC0_R13_INT_2026 Skid: 131 Calcul Vol : 578 Color: 6.
+2026-05-04 11:19:03  ---------------------------
+2026-05-04 11:24:24 --- Trajectory INT --- 
+2026-05-04 11:24:24  HURACAN_PRIM_INT " Skid: 5 Paint : 573.
+2026-05-04 11:24:24 --- --- --- --- 
+2026-05-04 11:25:03  Vol : HURACAN_BC0_R13_INT Skid: 31 Calcul Vol : 335 Color: 23.
+2026-05-04 11:25:03  ---------------------------
+2026-05-04 11:29:31  Vol : HURACAN_PRIM_R13_INT Skid: 220 Calcul Vol : 316 Color: 1.
+2026-05-04 11:29:31  ---------------------------
+2026-05-04 11:30:56  URUS_BC_INT " Skid: 138 Paint : 513.
+2026-05-04 11:35:55  URUS_PR_INT " Skid: 131 Paint : 498.
+2026-05-04 11:38:58  Vol : URUS_PA2_BC0_HGL Skid: 230 Calcul Vol : 216 Color: 5.
+2026-05-04 11:38:58  ---------------------------
+2026-05-04 11:40:51  URUS_BC_INT " Skid: 31 Paint : 524.
+2026-05-04 11:42:44  Vol : URUS_PA2_BC0_R13_INT_2026 Skid: 60 Calcul Vol : 496 Color: 27.
+2026-05-04 11:42:44  ---------------------------
+2026-05-04 11:45:14  TEMERARIO_BC_INT " Skid: 220 Paint : 284.
+2026-05-04 11:45:14 --- Trajectory INT --- 
+2026-05-04 11:45:14  HURACAN_AP_BC0_INT " Skid: 220 Paint : 284.
+2026-05-04 11:45:14 --- --- 
+2026-05-04 11:46:41  Vol : URUS_PA2_BC0_R13_INT_2026 Skid: 245 Calcul Vol : 631 Color: 17.
+2026-05-04 11:46:41  ---------------------------
+2026-05-04 11:48:53  TEMERARIO_PR_INT " Skid: 220 Paint : 263.
+2026-05-04 11:51:08  Vol : URUS_PA2_PR0_INT_2025 Skid: 210 Calcul Vol : 552 Color: 1.
+2026-05-04 11:51:08  ---------------------------
+2026-05-04 11:55:29  Vol : HURACAN_BC0_R13_INT Skid: 148 Calcul Vol : 314 Color: 68.
+2026-05-04 11:55:29  ---------------------------
+2026-05-04 11:56:07  URUS_PA2_R13_HGL_INT_EXT " Skid: 60 Paint : 263.
+2026-05-04 11:59:42  Vol : URUS_PA2_BC0_HGL Skid: 158 Calcul Vol : 216 Color: 5.
+2026-05-04 11:59:42  ---------------------------
+2026-05-04 12:01:11  URUS_BC_INT " Skid: 245 Paint : 443.
+2026-05-04 12:06:06  URUS_BC_INT " Skid: 210 Paint : 578.
+2026-05-04 12:08:15  Vol : HURACAN_BC0_R13_INT Skid: 207 Calcul Vol : 365 Color: 19.
+2026-05-04 12:08:15  ---------------------------
+2026-05-04 12:11:03  URUS_PR_INT " Skid: 148 Paint : 498.
+2026-05-04 12:15:10  TEMERARIO_BC_INT " Skid: 158 Paint : 263.
+2026-05-04 12:15:10 --- Trajectory INT --- 
+2026-05-04 12:15:10  HURACAN_AP_BC0_INT " Skid: 158 Paint : 263.
+2026-05-04 12:15:10 --- --- 
+2026-05-04 12:17:58  Vol : URUS_PA2SPORT_R13_INT Skid: 86 Calcul Vol : 555 Color: 26.
+2026-05-04 12:17:58  ---------------------------
+2026-05-04 12:18:03  Vol : URUS_PA2SPORT_R13_EXT Skid: 86 Calcul Vol : 408 Color: 26.
+2026-05-04 12:18:03  ---------------------------
+2026-05-04 12:18:09  Vol : URUS_PA2SPORT_R13_EXTII Skid: 86 Calcul Vol : 383 Color: 26.
+2026-05-04 12:18:09  ---------------------------
+2026-05-04 12:18:21  URUS_PA2_R13_HGL_INT_EXT " Skid: 158 Paint : 263.

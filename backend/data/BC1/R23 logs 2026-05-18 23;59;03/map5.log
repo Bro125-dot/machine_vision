@@ -1,0 +1,1602 @@
+2026-05-07 06:52:39  URUS_BC_EXT2 " Skid: 139 Paint : 236.
+2026-05-07 06:52:48  Default Volume : TEM_BC0_R13_EXT Skid: 208.
+2026-05-07 06:52:50  Prog : TEM_BC0_R13_EXT Skid: 208 Calcul Vol : 640 Color: 106.
+2026-05-07 06:52:50  ---------------------------
+2026-05-07 06:52:55  Default Volume : DEFAULT Skid: 208.
+2026-05-07 06:52:56  Prog : DEFAULT Skid: 208 Calcul Vol : 640 Color: 106.
+2026-05-07 06:52:56  ---------------------------
+2026-05-07 06:55:30  URUS_PR_EXT1 " Skid: 139 Paint : 374.
+2026-05-07 06:57:11  URUS_PR_EXT2 " Skid: 259 Paint : 426.
+2026-05-07 06:58:22  Prog : URUS_PA2_PR0_R13_EXT_2025 Skid: 202 Calcul Vol : 436 Color: 4.
+2026-05-07 06:58:22  ---------------------------
+2026-05-07 06:58:28  Prog : URUS_PA2_PR0_R13_EXT_2025II Skid: 202 Calcul Vol : 442 Color: 4.
+2026-05-07 06:58:28  ---------------------------
+2026-05-07 07:00:06  URUS_BC_PLA " Skid: 152 Paint : 89.
+2026-05-07 07:03:15 --- Trajectory EXT --- 
+2026-05-07 07:03:15  HURACAN_PRIM_EXT " Skid: 46 Paint : 443.
+2026-05-07 07:03:15 --- --- --- --- 
+2026-05-07 07:03:54  Prog : URUS_PA2_BC0_R13_EXT_2025 Skid: 233 Calcul Vol : 322 Color: 29.
+2026-05-07 07:03:54  ---------------------------
+2026-05-07 07:04:00  Prog : URUS_PA2_BC0_R13_EXT_2025II Skid: 233 Calcul Vol : 281 Color: 29.
+2026-05-07 07:04:00  ---------------------------
+2026-05-07 07:07:30  Default Volume : TEM_PRIM_R13_EXT Skid: 168.
+2026-05-07 07:07:32  Prog : TEM_PRIM_R13_EXT Skid: 168 Calcul Vol : 640 Color: 1.
+2026-05-07 07:07:32  ---------------------------
+2026-05-07 07:07:45  HURACAN_BC0_R13_PLA_2 " Skid: 166 Paint : 303.
+2026-05-07 07:07:45 ---  --- 
+2026-05-07 07:10:40  URUS_PR_EXT1 " Skid: 166 Paint : 355.
+2026-05-07 07:11:33  Prog : URUS_PA2_BC23_Plastic Skid: 2 Calcul Vol : 305 Color: 29.
+2026-05-07 07:11:33  ---------------------------
+2026-05-07 07:12:20  URUS_PR_EXT2 " Skid: 208 Paint : 391.
+2026-05-07 07:15:59 --- Trajectory EXT --- 
+2026-05-07 07:15:59  HURACAN_AP_BC0_R13_EXT1 " Skid: 208 Paint : 375.
+2026-05-07 07:17:54  HURACAN_AP_BC0_R13_EXT2 " Skid: 208 Paint : 200.
+2026-05-07 07:17:54 --- --- 
+2026-05-07 07:24:59  URUS_BC_EXT1 " Skid: 233 Paint : 251.
+2026-05-07 07:26:52  URUS_BC_EXT2 " Skid: 168 Paint : 230.
+2026-05-07 07:27:08  Prog : URUS_PA2_PR0_R13_EXT_2025 Skid: 202 Calcul Vol : 436 Color: 4.
+2026-05-07 07:27:08  ---------------------------
+2026-05-07 07:27:14  Prog : URUS_PA2_PR0_R13_EXT_2025II Skid: 202 Calcul Vol : 442 Color: 4.
+2026-05-07 07:27:14  ---------------------------
+2026-05-07 07:29:19 --- Trajectory EXT --- 
+2026-05-07 07:29:19  HURACAN_PRIM_EXT " Skid: 2 Paint : 443.
+2026-05-07 07:29:19 --- --- --- --- 
+2026-05-07 07:29:42  Prog : URUS_PA2_BC0_R13_EXT_2025 Skid: 105 Calcul Vol : 480 Color: 27.
+2026-05-07 07:29:42  ---------------------------
+2026-05-07 07:29:48  Prog : URUS_PA2_BC0_R13_EXT_2025II Skid: 105 Calcul Vol : 470 Color: 27.
+2026-05-07 07:29:48  ---------------------------
+2026-05-07 07:33:20  Prog : URUS_PA2_PR0_R13_EXT_2025 Skid: 103 Calcul Vol : 453 Color: 1.
+2026-05-07 07:33:20  ---------------------------
+2026-05-07 07:33:26  Prog : URUS_PA2_PR0_R13_EXT_2025II Skid: 103 Calcul Vol : 477 Color: 1.
+2026-05-07 07:33:26  ---------------------------
+2026-05-07 07:34:47  URUS_BC_PLA " Skid: 2 Paint : 249.
+2026-05-07 07:36:47  Default Volume : TEM_BC0_R13_EXT Skid: 63.
+2026-05-07 07:36:48  Prog : TEM_BC0_R13_EXT Skid: 63 Calcul Vol : 640 Color: 6.
+2026-05-07 07:36:48  ---------------------------
+2026-05-07 07:36:54  Default Volume : DEFAULT Skid: 63.
+2026-05-07 07:36:55  Prog : DEFAULT Skid: 63 Calcul Vol : 640 Color: 6.
+2026-05-07 07:36:55  ---------------------------
+2026-05-07 07:41:15  Prog : URUS_PA2_PR0_R13_EXT_2025 Skid: 84 Calcul Vol : 453 Color: 1.
+2026-05-07 07:41:15  ---------------------------
+2026-05-07 07:41:16  URUS_PR_EXT1 " Skid: 202 Paint : 355.
+2026-05-07 07:41:21  Prog : URUS_PA2_PR0_R13_EXT_2025II Skid: 84 Calcul Vol : 477 Color: 1.
+2026-05-07 07:41:21  ---------------------------
+2026-05-07 07:42:56  URUS_PR_EXT2 " Skid: 105 Paint : 395.
+2026-05-07 07:45:22  Default Volume : TEM_BC0_R13_EXT Skid: 130.
+2026-05-07 07:45:23  Prog : TEM_BC0_R13_EXT Skid: 130 Calcul Vol : 640 Color: 52.
+2026-05-07 07:45:23  ---------------------------
+2026-05-07 07:45:28  Default Volume : DEFAULT Skid: 130.
+2026-05-07 07:45:30  Prog : DEFAULT Skid: 130 Calcul Vol : 640 Color: 52.
+2026-05-07 07:45:30  ---------------------------
+2026-05-07 07:46:24  URUS_BC_EXT1 " Skid: 105 Paint : 372.
+2026-05-07 07:48:00  URUS_BC_EXT2 " Skid: 103 Paint : 418.
+2026-05-07 07:49:28  Default Volume : TEM_PRIM_R13_EXT Skid: 36.
+2026-05-07 07:49:29  Prog : TEM_PRIM_R13_EXT Skid: 36 Calcul Vol : 640 Color: 3.
+2026-05-07 07:49:29  ---------------------------
+2026-05-07 07:51:41  URUS_PR_EXT1 " Skid: 103 Paint : 374.
+2026-05-07 07:53:22  URUS_PR_EXT2 " Skid: 63 Paint : 427.
+2026-05-07 07:53:30  Prog : URUS_PA2_BC0_R13_EXT_2025 Skid: 145 Calcul Vol : 446 Color: 21.
+2026-05-07 07:53:30  ---------------------------
+2026-05-07 07:53:36  Prog : URUS_PA2_BC0_R13_EXT_2025II Skid: 145 Calcul Vol : 429 Color: 21.
+2026-05-07 07:53:36  ---------------------------
+2026-05-07 07:55:27 --- Trajectory EXT --- 
+2026-05-07 07:55:27  HURACAN_AP_BC0_R13_EXT1 rep " Skid: 63 Paint : 61.
+2026-05-07 07:56:25  HURACAN_AP_BC0_R13_EXT2 rep " Skid: 63 Paint : 23.
+2026-05-07 07:56:25 --- --- 
+2026-05-07 07:58:23  Prog : URUS_PA2_PR0_R13_EXT_2025 Skid: 37 Calcul Vol : 453 Color: 3.
+2026-05-07 07:58:23  ---------------------------
+2026-05-07 07:58:29  Prog : URUS_PA2_PR0_R13_EXT_2025II Skid: 37 Calcul Vol : 477 Color: 3.
+2026-05-07 07:58:29  ---------------------------
+2026-05-07 08:00:48  URUS_PR_EXT1 " Skid: 84 Paint : 374.
+2026-05-07 08:02:15  Prog : URUS_PA2_BC0_R13_EXT_2025 Skid: 96 Calcul Vol : 359 Color: 8.
+2026-05-07 08:02:15  ---------------------------
+2026-05-07 08:02:21  Prog : URUS_PA2_BC0_R13_EXT_2025II Skid: 96 Calcul Vol : 306 Color: 8.
+2026-05-07 08:02:21  ---------------------------
+2026-05-07 08:02:29  URUS_PR_EXT2 " Skid: 130 Paint : 426.
+2026-05-07 08:06:34  Default Volume : TEM_PRIM_R13_EXT Skid: 153.
+2026-05-07 08:06:35  Prog : TEM_PRIM_R13_EXT Skid: 153 Calcul Vol : 640 Color: 3.
+2026-05-07 08:06:35  ---------------------------
+2026-05-07 08:07:50 --- Trajectory EXT --- 
+2026-05-07 08:07:50  HURACAN_AP_BC0_R13_EXT1 " Skid: 130 Paint : 477.
+2026-05-07 08:09:51  HURACAN_AP_BC0_R13_EXT2 " Skid: 130 Paint : 297.
+2026-05-07 08:09:51 --- --- 
+2026-05-07 08:10:40  Prog : HURACAN_BC0_R23_PLA Skid: 110 Calcul Vol : 517 Color: 149.
+2026-05-07 08:10:40  ---------------------------
+2026-05-07 08:12:19 --- Trajectory EXT --- 
+2026-05-07 08:12:19  HURACAN_PRIM_EXT " Skid: 145 Paint : 443.
+2026-05-07 08:12:19 --- --- --- --- 
+2026-05-07 08:14:50  Default Volume : TEM_BC0_R13_EXT Skid: 232.
+2026-05-07 08:14:51  Prog : TEM_BC0_R13_EXT Skid: 232 Calcul Vol : 640 Color: 149.
+2026-05-07 08:14:51  ---------------------------
+2026-05-07 08:14:56  Default Volume : DEFAULT Skid: 232.
+2026-05-07 08:14:58  Prog : DEFAULT Skid: 232 Calcul Vol : 640 Color: 149.
+2026-05-07 08:14:58  ---------------------------
+2026-05-07 08:16:55  URUS_BC_EXT1 " Skid: 145 Paint : 341.
+2026-05-07 08:18:45  URUS_BC_EXT2 " Skid: 37 Paint : 376.
+2026-05-07 08:21:08  Default Volume : TEM_PRIM_R13_EXT Skid: 221.
+2026-05-07 08:21:10  Prog : TEM_PRIM_R13_EXT Skid: 221 Calcul Vol : 640 Color: 3.
+2026-05-07 08:21:10  ---------------------------
+2026-05-07 08:22:00  URUS_PR_EXT1 " Skid: 37 Paint : 374.
+2026-05-07 08:23:41  URUS_PR_EXT2 " Skid: 96 Paint : 425.
+2026-05-07 08:24:34  Default Volume : TEM_BC0_R13_EXT Skid: 29.
+2026-05-07 08:24:35  Prog : TEM_BC0_R13_EXT Skid: 29 Calcul Vol : 640 Color: 53.
+2026-05-07 08:24:35  ---------------------------
+2026-05-07 08:24:40  Default Volume : DEFAULT Skid: 29.
+2026-05-07 08:24:42  Prog : DEFAULT Skid: 29 Calcul Vol : 640 Color: 53.
+2026-05-07 08:24:42  ---------------------------
+2026-05-07 08:26:48  URUS_BC_EXT1 " Skid: 96 Paint : 276.
+2026-05-07 08:28:24  URUS_BC_EXT2 " Skid: 153 Paint : 255.
+2026-05-07 08:31:00 --- Trajectory EXT --- 
+2026-05-07 08:31:00  HURACAN_PRIM_EXT " Skid: 153 Paint : 443.
+2026-05-07 08:31:00 --- --- --- --- 
+2026-05-07 08:31:17  Prog : URUS_PA2_PR0_R13_EXT_2025 Skid: 244 Calcul Vol : 436 Color: 2.
+2026-05-07 08:31:17  ---------------------------
+2026-05-07 08:31:23  Prog : URUS_PA2_PR0_R13_EXT_2025II Skid: 244 Calcul Vol : 442 Color: 2.
+2026-05-07 08:31:23  ---------------------------
+2026-05-07 08:34:45  Prog : URUS_PA2_BC23_Plastic Skid: 186 Calcul Vol : 405 Color: 66.
+2026-05-07 08:34:45  ---------------------------
+2026-05-07 08:36:37  HURACAN_BC0_R13_PLA_2 " Skid: 232 Paint : 385.
+2026-05-07 08:36:37 ---  --- 
+2026-05-07 08:38:22  Prog : URUS_PA2_BC0_R13_EXT_2025 Skid: 222 Calcul Vol : 447 Color: 66.
+2026-05-07 08:38:22  ---------------------------
+2026-05-07 08:38:28  Prog : URUS_PA2_BC0_R13_EXT_2025II Skid: 222 Calcul Vol : 357 Color: 66.
+2026-05-07 08:38:28  ---------------------------
+2026-05-07 08:39:47 --- Trajectory EXT --- 
+2026-05-07 08:39:47  HURACAN_AP_BC0_R13_EXT1 " Skid: 232 Paint : 449.
+2026-05-07 08:41:58  HURACAN_AP_BC0_R13_EXT2 " Skid: 232 Paint : 306.
+2026-05-07 08:41:58 --- --- 
+2026-05-07 08:42:03  Prog : URUS_PA2_PR0_R13_EXT_2025 Skid: 33 Calcul Vol : 453 Color: 1.
+2026-05-07 08:42:03  ---------------------------
+2026-05-07 08:42:09  Prog : URUS_PA2_PR0_R13_EXT_2025II Skid: 33 Calcul Vol : 477 Color: 1.
+2026-05-07 08:42:09  ---------------------------
+2026-05-07 08:46:56  Prog : URUS_PA2_BC0_R13_EXT_2025 Skid: 139 Calcul Vol : 275 Color: 13.
+2026-05-07 08:46:56  ---------------------------
+2026-05-07 08:47:02  Prog : URUS_PA2_BC0_R13_EXT_2025II Skid: 139 Calcul Vol : 225 Color: 13.
+2026-05-07 08:47:02  ---------------------------
+2026-05-07 08:47:30 --- Trajectory EXT --- 
+2026-05-07 08:47:30  HURACAN_PRIM_EXT " Skid: 29 Paint : 443.
+2026-05-07 08:47:30 --- --- --- --- 
+2026-05-07 08:50:43 --- Trajectory EXT --- 
+2026-05-07 08:50:43  HURACAN_AP_BC0_R13_EXT1 rep " Skid: 29 Paint : 156.
+2026-05-07 08:52:33  Default Volume : TEM_PRIM_R13_EXT Skid: 81.
+2026-05-07 08:52:35  Prog : TEM_PRIM_R13_EXT Skid: 81 Calcul Vol : 640 Color: 2.
+2026-05-07 08:52:35  ---------------------------
+2026-05-07 08:52:37  HURACAN_AP_BC0_R13_EXT2 rep " Skid: 29 Paint : 188.
+2026-05-07 08:52:37 --- --- 
+2026-05-07 08:55:07  URUS_PR_EXT1 " Skid: 244 Paint : 355.
+2026-05-07 08:56:48  URUS_PR_EXT2 " Skid: 186 Paint : 391.
+2026-05-07 08:57:24  Prog : URUS_PA2_BC23_Plastic Skid: 67 Calcul Vol : 190 Color: 42.
+2026-05-07 08:57:24  ---------------------------
+2026-05-07 09:01:53  Prog : URUS_PA2_BC0_R13_EXT_2025 Skid: 193 Calcul Vol : 373 Color: 42.
+2026-05-07 09:01:53  ---------------------------
+2026-05-07 09:01:59  Prog : URUS_PA2_BC0_R13_EXT_2025II Skid: 193 Calcul Vol : 359 Color: 42.
+2026-05-07 09:01:59  ---------------------------
+2026-05-07 09:02:03  URUS_BC_PLA " Skid: 222 Paint : 357.
+2026-05-07 09:04:24  URUS_BC_EXT1 " Skid: 222 Paint : 354.
+2026-05-07 09:05:59  URUS_BC_EXT2 " Skid: 33 Paint : 305.
+2026-05-07 09:06:48  Prog : URUS_PA2_PR0_R13_EXT_2025 Skid: 68 Calcul Vol : 453 Color: 3.
+2026-05-07 09:06:48  ---------------------------
+2026-05-07 09:06:54  Prog : URUS_PA2_PR0_R13_EXT_2025II Skid: 68 Calcul Vol : 477 Color: 3.
+2026-05-07 09:06:54  ---------------------------
+2026-05-07 09:09:17  URUS_PR_EXT1 " Skid: 33 Paint : 374.
+2026-05-07 09:10:58  URUS_PR_EXT2 " Skid: 139 Paint : 428.
+2026-05-07 09:11:40  Prog : URUS_PA2_BC0_R13_EXT_2025 Skid: 59 Calcul Vol : 151 Color: 76.
+2026-05-07 09:11:40  ---------------------------
+2026-05-07 09:11:46  Prog : URUS_PA2_BC0_R13_EXT_2025II Skid: 59 Calcul Vol : 233 Color: 76.
+2026-05-07 09:11:46  ---------------------------
+2026-05-07 09:14:06  URUS_BC_EXT1 " Skid: 139 Paint : 200.
+2026-05-07 09:16:08  URUS_BC_EXT2 " Skid: 81 Paint : 171.
+2026-05-07 09:16:39  Prog : URUS_PA2_PR0_R13_EXT_2025 Skid: 204 Calcul Vol : 453 Color: 1.
+2026-05-07 09:16:39  ---------------------------
+2026-05-07 09:16:45  Prog : URUS_PA2_PR0_R13_EXT_2025II Skid: 204 Calcul Vol : 477 Color: 1.
+2026-05-07 09:16:45  ---------------------------
+2026-05-07 09:18:34 --- Trajectory EXT --- 
+2026-05-07 09:18:34  HURACAN_PRIM_EXT " Skid: 67 Paint : 443.
+2026-05-07 09:18:34 --- --- --- --- 
+2026-05-07 09:25:21  Default Volume : TEM_PRIM_R13_EXT Skid: 35.
+2026-05-07 09:25:22  Prog : TEM_PRIM_R13_EXT Skid: 35 Calcul Vol : 640 Color: 3.
+2026-05-07 09:25:22  ---------------------------
+2026-05-07 09:52:49  URUS_BC_EXT1 " Skid: 193 Paint : 281.
+2026-05-07 09:54:52  URUS_BC_EXT2 " Skid: 193 Paint : 316.
+2026-05-07 09:55:44  Prog : URUS_PA2_BC23_Plastic Skid: 67 Calcul Vol : 190 Color: 42.
+2026-05-07 09:55:44  ---------------------------
+2026-05-07 09:58:56  URUS_PR_EXT1 " Skid: 68 Paint : 375.
+2026-05-07 10:00:36  URUS_PR_EXT2 " Skid: 59 Paint : 427.
+2026-05-07 10:01:24  Default Volume : TEM_BC0_R13_EXT Skid: 163.
+2026-05-07 10:01:26  Prog : TEM_BC0_R13_EXT Skid: 163 Calcul Vol : 640 Color: 6.
+2026-05-07 10:01:26  ---------------------------
+2026-05-07 10:01:31  Default Volume : DEFAULT Skid: 163.
+2026-05-07 10:01:32  Prog : DEFAULT Skid: 163 Calcul Vol : 640 Color: 6.
+2026-05-07 10:01:32  ---------------------------
+2026-05-07 10:02:09  URUS_PA2_BC0_R13_EXT1 REP " Skid: 59 Paint : 101.
+2026-05-07 10:04:13  URUS_PA2_BC0_R13_EXT2 REP " Skid: 59 Paint : 62.
+2026-05-07 10:08:00  URUS_PR_EXT1 " Skid: 204 Paint : 374.
+2026-05-07 10:09:10  Prog : URUS_PA2_PR0_R13_EXT_2025 Skid: 20 Calcul Vol : 453 Color: 1.
+2026-05-07 10:09:10  ---------------------------
+2026-05-07 10:09:16  Prog : URUS_PA2_PR0_R13_EXT_2025II Skid: 20 Calcul Vol : 477 Color: 1.
+2026-05-07 10:09:16  ---------------------------
+2026-05-07 10:09:41  URUS_PR_EXT2 " Skid: 204 Paint : 425.
+2026-05-07 10:12:39  Prog : URUS_PA2_BC0_R13_EXT_2025 Skid: 202 Calcul Vol : 449 Color: 41.
+2026-05-07 10:12:39  ---------------------------
+2026-05-07 10:12:45  Prog : URUS_PA2_BC0_R13_EXT_2025II Skid: 202 Calcul Vol : 414 Color: 41.
+2026-05-07 10:12:45  ---------------------------
+2026-05-07 10:15:46 --- Trajectory EXT --- 
+2026-05-07 10:15:46  HURACAN_PRIM_EXT " Skid: 35 Paint : 443.
+2026-05-07 10:15:46 --- --- --- --- 
+2026-05-07 10:16:13  Prog : URUS_PA2_PR0_R13_EXT_2025 Skid: 49 Calcul Vol : 453 Color: 3.
+2026-05-07 10:16:13  ---------------------------
+2026-05-07 10:16:19  Prog : URUS_PA2_PR0_R13_EXT_2025II Skid: 49 Calcul Vol : 477 Color: 3.
+2026-05-07 10:16:19  ---------------------------
+2026-05-07 10:19:47  URUS_BC_PLA " Skid: 163 Paint : 140.
+2026-05-07 10:20:32  Prog : URUS_PA2_BC23_Plastic Skid: 101 Calcul Vol : 539 Color: 41.
+2026-05-07 10:20:32  ---------------------------
+2026-05-07 10:21:30 --- Trajectory EXT --- 
+2026-05-07 10:21:30  HURACAN_R13_EXT1 " Skid: 163 Paint : 170.
+2026-05-07 10:22:49  HURACAN_R13_EXT2 " Skid: 163 Paint : 110.
+2026-05-07 10:22:49 --- --- 
+2026-05-07 10:24:48  Default Volume : TEM_PRIM_R13_EXT Skid: 158.
+2026-05-07 10:24:49  Prog : TEM_PRIM_R13_EXT Skid: 158 Calcul Vol : 640 Color: 2.
+2026-05-07 10:24:49  ---------------------------
+2026-05-07 10:27:11  URUS_PR_EXT1 " Skid: 20 Paint : 374.
+2026-05-07 10:28:51  Prog : URUS_PA2_BC0_R13_EXT_2025 Skid: 103 Calcul Vol : 359 Color: 8.
+2026-05-07 10:28:51  ---------------------------
+2026-05-07 10:28:52  URUS_PR_EXT2 " Skid: 20 Paint : 432.
+2026-05-07 10:28:57  Prog : URUS_PA2_BC0_R13_EXT_2025II Skid: 103 Calcul Vol : 306 Color: 8.
+2026-05-07 10:28:57  ---------------------------
+2026-05-07 10:37:51  Default Volume : TEM_PRIM_R13_EXT Skid: 150.
+2026-05-07 10:37:52  Prog : TEM_PRIM_R13_EXT Skid: 150 Calcul Vol : 640 Color: 3.
+2026-05-07 10:37:52  ---------------------------
+2026-05-07 10:40:28  URUS_BC_EXT1 " Skid: 202 Paint : 353.
+2026-05-07 10:42:03  URUS_BC_EXT2 " Skid: 49 Paint : 365.
+2026-05-07 10:44:33  Default Volume : TEM_BC0_R13_EXT Skid: 168.
+2026-05-07 10:44:34  Prog : TEM_BC0_R13_EXT Skid: 168 Calcul Vol : 640 Color: 8.
+2026-05-07 10:44:34  ---------------------------
+2026-05-07 10:44:40  Default Volume : DEFAULT Skid: 168.
+2026-05-07 10:44:41  Prog : DEFAULT Skid: 168 Calcul Vol : 640 Color: 8.
+2026-05-07 10:44:41  ---------------------------
+2026-05-07 10:45:36  URUS_PR_EXT1 " Skid: 49 Paint : 374.
+2026-05-07 10:47:17  URUS_PR_EXT2 " Skid: 49 Paint : 426.
+2026-05-07 10:49:12  Prog : URUS_PA2_PR0_R13_EXT_2025 Skid: 134 Calcul Vol : 485 Color: 3.
+2026-05-07 10:49:12  ---------------------------
+2026-05-07 10:49:18  Prog : URUS_PA2_PR0_R13_EXT_2025II Skid: 134 Calcul Vol : 477 Color: 3.
+2026-05-07 10:49:18  ---------------------------
+2026-05-07 10:54:00 --- Trajectory EXT --- 
+2026-05-07 10:54:00  HURACAN_PRIM_EXT " Skid: 103 Paint : 443.
+2026-05-07 10:54:00 --- --- --- --- 
+2026-05-07 10:56:13  Prog : URUS_PA2_BC0_R13_EXT_2025 Skid: 37 Calcul Vol : 450 Color: 23.
+2026-05-07 10:56:13  ---------------------------
+2026-05-07 10:56:19  Prog : URUS_PA2_BC0_R13_EXT_2025II Skid: 37 Calcul Vol : 381 Color: 23.
+2026-05-07 10:56:19  ---------------------------
+2026-05-07 10:57:50  Prog : URUS_PA2_BC23_Plastic Skid: 253 Calcul Vol : 343 Color: 23.
+2026-05-07 10:57:50  ---------------------------
+2026-05-07 10:58:35  URUS_BC_EXT1 " Skid: 103 Paint : 276.
+2026-05-07 11:00:11  URUS_BC_EXT2 " Skid: 150 Paint : 258.
+2026-05-07 11:02:47 --- Trajectory EXT --- 
+2026-05-07 11:02:47  HURACAN_PRIM_EXT " Skid: 168 Paint : 443.
+2026-05-07 11:02:47 --- --- --- --- 
+2026-05-07 11:03:10  Prog : URUS_PA2_BC0_R13_EXT_2025 Skid: 84 Calcul Vol : 362 Color: 5.
+2026-05-07 11:03:10  ---------------------------
+2026-05-07 11:03:16  Prog : URUS_PA2_BC0_R13_EXT_2025II Skid: 84 Calcul Vol : 306 Color: 5.
+2026-05-07 11:03:16  ---------------------------
+2026-05-07 11:05:44 --- Trajectory EXT --- 
+2026-05-07 11:05:44  HURACAN_R13_EXT1 " Skid: 168 Paint : 153.
+2026-05-07 11:07:11  Prog : URUS_PA2_BC23_Plastic Skid: 175 Calcul Vol : 50 Color: 54.
+2026-05-07 11:07:11  ---------------------------
+2026-05-07 11:07:16  HURACAN_R13_EXT2 " Skid: 168 Paint : 124.
+2026-05-07 11:07:16 --- --- 
+2026-05-07 11:11:09  Prog : URUS_PA2_BC23_Plastic Skid: 22 Calcul Vol : 371 Color: 55.
+2026-05-07 11:11:09  ---------------------------
+2026-05-07 11:11:21  URUS_PR_EXT1 " Skid: 134 Paint : 406.
+2026-05-07 11:13:02  URUS_PR_EXT2 " Skid: 37 Paint : 425.
+2026-05-07 11:15:17  Prog : URUS_PA2_BC0_R13_EXT_2025 Skid: 52 Calcul Vol : 362 Color: 55.
+2026-05-07 11:15:17  ---------------------------
+2026-05-07 11:15:23  Prog : URUS_PA2_BC0_R13_EXT_2025II Skid: 52 Calcul Vol : 395 Color: 55.
+2026-05-07 11:15:23  ---------------------------
+2026-05-07 11:16:24  URUS_BC_EXT1 " Skid: 37 Paint : 362.
+2026-05-07 11:18:20  URUS_BC_EXT2 " Skid: 253 Paint : 330.
+2026-05-07 11:18:51  Prog : URUS_PA2_PR0_R13_EXT_2025 Skid: 126 Calcul Vol : 436 Color: 2.
+2026-05-07 11:18:51  ---------------------------
+2026-05-07 11:18:57  Prog : URUS_PA2_PR0_R13_EXT_2025II Skid: 126 Calcul Vol : 442 Color: 2.
+2026-05-07 11:18:57  ---------------------------
+2026-05-07 11:21:32  URUS_BC_PLA " Skid: 84 Paint : 281.
+2026-05-07 11:23:19  Prog : URUS_PA2_BC0_R13_EXT_2025 Skid: 212 Calcul Vol : 50 Color: 76.
+2026-05-07 11:23:19  ---------------------------
+2026-05-07 11:23:25  Prog : URUS_PA2_BC0_R13_EXT_2025II Skid: 212 Calcul Vol : 50 Color: 76.
+2026-05-07 11:23:25  ---------------------------
+2026-05-07 11:25:28  URUS_BC_EXT1 " Skid: 84 Paint : 279.
+2026-05-07 11:27:03  URUS_BC_EXT2 " Skid: 175 Paint : 255.
+2026-05-07 11:28:03  Prog : HURACAN_BC0_R23_PLA Skid: 39 Calcul Vol : 528 Color: 52.
+2026-05-07 11:28:03  ---------------------------
+2026-05-07 11:29:39  URUS_BC_PLA " Skid: 22 Paint : 0.
+2026-05-07 11:32:13  Default Volume : TEM_BC0_R13_EXT Skid: 152.
+2026-05-07 11:32:14  Prog : TEM_BC0_R13_EXT Skid: 152 Calcul Vol : 640 Color: 52.
+2026-05-07 11:32:14  ---------------------------
+2026-05-07 11:32:19  Default Volume : DEFAULT Skid: 152.
+2026-05-07 11:32:21  Prog : DEFAULT Skid: 152 Calcul Vol : 640 Color: 52.
+2026-05-07 11:32:21  ---------------------------
+2026-05-07 11:34:10  URUS_BC_PLA " Skid: 52 Paint : 316.
+2026-05-07 11:41:36  Default Volume : TEM_PRIM_R13_EXT Skid: 230.
+2026-05-07 11:41:38  Prog : TEM_PRIM_R13_EXT Skid: 230 Calcul Vol : 640 Color: 3.
+2026-05-07 11:41:38  ---------------------------
+2026-05-07 11:43:02  URUS_BC_EXT1 " Skid: 52 Paint : 284.
+2026-05-07 11:44:37  URUS_BC_EXT2 " Skid: 126 Paint : 348.
+2026-05-07 11:46:36  Prog : URUS_PA2_BC23_Plastic Skid: 180 Calcul Vol : 161 Color: 22.
+2026-05-07 11:46:36  ---------------------------
+2026-05-07 11:47:55  URUS_PR_EXT1 " Skid: 126 Paint : 355.
+2026-05-07 11:49:35  URUS_PR_EXT2 " Skid: 212 Paint : 392.
+2026-05-07 11:50:33  URUS_PA2_BC0_R13_EXT1 REP " Skid: 212 Paint : 0.
+2026-05-07 11:50:49  Prog : URUS_PA2_BC0_R13_EXT_2025 Skid: 145 Calcul Vol : 285 Color: 22.
+2026-05-07 11:50:49  ---------------------------
+2026-05-07 11:50:55  Prog : URUS_PA2_BC0_R13_EXT_2025II Skid: 145 Calcul Vol : 285 Color: 22.
+2026-05-07 11:50:55  ---------------------------
+2026-05-07 11:51:43  URUS_PA2_BC0_R13_EXT2 REP " Skid: 212 Paint : 0.
+2026-05-07 11:54:51  Prog : URUS_PA2_PR0_R13_EXT_2025 Skid: 66 Calcul Vol : 453 Color: 1.
+2026-05-07 11:54:51  ---------------------------
+2026-05-07 11:54:57  Prog : URUS_PA2_PR0_R13_EXT_2025II Skid: 66 Calcul Vol : 477 Color: 1.
+2026-05-07 11:54:57  ---------------------------
+2026-05-07 11:56:56  HURACAN_BC0_R13_PLA_2 " Skid: 152 Paint : 384.
+2026-05-07 11:56:56 ---  --- 
+2026-05-07 11:59:04  Prog : HURACAN_BC0_R23_PLA Skid: 71 Calcul Vol : 351 Color: 53.
+2026-05-07 11:59:04  ---------------------------
+2026-05-07 12:00:09 --- Trajectory EXT --- 
+2026-05-07 12:00:09  HURACAN_AP_BC0_R13_EXT1 " Skid: 152 Paint : 477.
+2026-05-07 12:02:03  HURACAN_AP_BC0_R13_EXT2 " Skid: 152 Paint : 294.
+2026-05-07 12:02:03 --- --- 
+2026-05-07 12:03:32  Default Volume : TEM_BC0_R13_EXT Skid: 130.
+2026-05-07 12:03:33  Prog : TEM_BC0_R13_EXT Skid: 130 Calcul Vol : 640 Color: 53.
+2026-05-07 12:03:33  ---------------------------
+2026-05-07 12:03:38  Default Volume : DEFAULT Skid: 130.
+2026-05-07 12:03:40  Prog : DEFAULT Skid: 130 Calcul Vol : 640 Color: 53.
+2026-05-07 12:03:40  ---------------------------
+2026-05-07 12:04:31 --- Trajectory EXT --- 
+2026-05-07 12:04:31  HURACAN_PRIM_EXT " Skid: 180 Paint : 443.
+2026-05-07 12:04:31 --- --- --- --- 
+2026-05-07 12:07:26  Prog : URUS_PA2_PR0_R13_EXT_2025 Skid: 206 Calcul Vol : 453 Color: 1.
+2026-05-07 12:07:26  ---------------------------
+2026-05-07 12:07:32  Prog : URUS_PA2_PR0_R13_EXT_2025II Skid: 206 Calcul Vol : 477 Color: 1.
+2026-05-07 12:07:32  ---------------------------
+2026-05-07 12:08:03  URUS_BC_PLA " Skid: 145 Paint : 109.
+2026-05-07 12:11:47  URUS_BC_EXT1 " Skid: 145 Paint : 204.
+2026-05-07 12:11:49  Prog : URUS_PA2_BC0_R13_EXT_2025 Skid: 244 Calcul Vol : 314 Color: 9.
+2026-05-07 12:11:49  ---------------------------
+2026-05-07 12:11:55  Prog : URUS_PA2_BC0_R13_EXT_2025II Skid: 244 Calcul Vol : 293 Color: 9.
+2026-05-07 12:11:55  ---------------------------
+2026-05-07 12:13:23  URUS_BC_EXT2 " Skid: 66 Paint : 233.
+2026-05-07 12:16:33  Prog : URUS_PA2_BC0_R13_EXT_2025 Skid: 33 Calcul Vol : 362 Color: 5.
+2026-05-07 12:16:33  ---------------------------
+2026-05-07 12:16:39  Prog : URUS_PA2_BC0_R13_EXT_2025II Skid: 33 Calcul Vol : 306 Color: 5.
+2026-05-07 12:16:39  ---------------------------
+2026-05-07 12:16:52  URUS_PR_EXT1 " Skid: 66 Paint : 374.
+2026-05-07 12:18:33  URUS_PR_EXT2 " Skid: 71 Paint : 432.
+2026-05-07 12:20:40  Prog : URUS_PA2_PR0_R13_EXT_2025 Skid: 5 Calcul Vol : 453 Color: 3.
+2026-05-07 12:20:40  ---------------------------
+2026-05-07 12:20:46  Prog : URUS_PA2_PR0_R13_EXT_2025II Skid: 5 Calcul Vol : 477 Color: 3.
+2026-05-07 12:20:46  ---------------------------
+2026-05-07 12:22:51  HURACAN_BC0_R13_PLA_2 " Skid: 130 Paint : 257.
+2026-05-07 12:22:51 ---  --- 
+2026-05-07 12:25:54  Prog : URUS_PA2_BC23_Plastic Skid: 169 Calcul Vol : 409 Color: 98.
+2026-05-07 12:25:54  ---------------------------
+2026-05-07 12:26:01 --- Trajectory EXT --- 
+2026-05-07 12:26:01  HURACAN_AP_BC0_R13_EXT1 " Skid: 130 Paint : 264.
+2026-05-07 12:27:55  HURACAN_AP_BC0_R13_EXT2 " Skid: 130 Paint : 183.
+2026-05-07 12:27:55 --- --- 
+2026-05-07 12:29:25  Prog : URUS_PA2_BC0_R13_EXT_2025 Skid: 68 Calcul Vol : 310 Color: 98.
+2026-05-07 12:29:25  ---------------------------
+2026-05-07 12:29:31  Prog : URUS_PA2_BC0_R13_EXT_2025II Skid: 68 Calcul Vol : 286 Color: 98.
+2026-05-07 12:29:31  ---------------------------
+2026-05-07 12:30:25  URUS_PR_EXT1 " Skid: 206 Paint : 374.
+2026-05-07 12:32:05  URUS_PR_EXT2 " Skid: 244 Paint : 422.
+2026-05-07 12:36:30  URUS_BC_EXT1 " Skid: 244 Paint : 238.
+2026-05-07 12:38:14  URUS_BC_EXT2 " Skid: 33 Paint : 242.
+2026-05-07 12:39:55  Prog : HURACAN_BC0_R23_PLA Skid: 97 Calcul Vol : 498 Color: 28.
+2026-05-07 12:39:55  ---------------------------
+2026-05-07 12:41:25  URUS_BC_EXT1 " Skid: 33 Paint : 279.
+2026-05-07 12:43:01  URUS_BC_EXT2 " Skid: 5 Paint : 254.
+2026-05-07 12:43:50  Default Volume : TEM_BC0_R13_EXT Skid: 153.
+2026-05-07 12:43:51  Prog : TEM_BC0_R13_EXT Skid: 153 Calcul Vol : 640 Color: 28.
+2026-05-07 12:43:51  ---------------------------
+2026-05-07 12:43:56  Default Volume : DEFAULT Skid: 153.
+2026-05-07 12:43:58  Prog : DEFAULT Skid: 153 Calcul Vol : 640 Color: 28.
+2026-05-07 12:43:58  ---------------------------
+2026-05-07 12:46:30  URUS_PR_EXT1 " Skid: 5 Paint : 374.
+2026-05-07 12:48:11  URUS_PR_EXT2 " Skid: 169 Paint : 426.
+2026-05-07 12:48:44  Prog : URUS_PA2_BC23_Plastic Skid: 101 Calcul Vol : 539 Color: 41.
+2026-05-07 12:48:44  ---------------------------
+2026-05-07 12:53:22  URUS_BC_PLA " Skid: 68 Paint : 355.
+2026-05-07 12:53:43  Prog : URUS_PA2_PR0_R13_EXT_2025 Skid: 51 Calcul Vol : 436 Color: 2.
+2026-05-07 12:53:43  ---------------------------
+2026-05-07 12:53:49  Prog : URUS_PA2_PR0_R13_EXT_2025II Skid: 51 Calcul Vol : 442 Color: 2.
+2026-05-07 12:53:49  ---------------------------
+2026-05-07 12:55:43  URUS_BC_EXT1 " Skid: 68 Paint : 231.
+2026-05-07 12:57:18  URUS_BC_EXT2 " Skid: 68 Paint : 234.
+2026-05-07 12:58:28  Default Volume : TEM_BC0_R13_EXT Skid: 81.
+2026-05-07 12:58:29  Prog : TEM_BC0_R13_EXT Skid: 81 Calcul Vol : 640 Color: 9.
+2026-05-07 12:58:29  ---------------------------
+2026-05-07 12:58:34  Default Volume : DEFAULT Skid: 81.
+2026-05-07 12:58:36  Prog : DEFAULT Skid: 81 Calcul Vol : 640 Color: 9.
+2026-05-07 12:58:36  ---------------------------
+2026-05-07 13:03:13  Prog : URUS_PA2_BC0_R13_EXT_2025 Skid: 204 Calcul Vol : 359 Color: 8.
+2026-05-07 13:03:13  ---------------------------
+2026-05-07 13:03:19  Prog : URUS_PA2_BC0_R13_EXT_2025II Skid: 204 Calcul Vol : 306 Color: 8.
+2026-05-07 13:03:19  ---------------------------
+2026-05-07 13:03:46  HURACAN_BC0_R13_PLA_2 " Skid: 97 Paint : 379.
+2026-05-07 13:03:46 ---  --- 
+2026-05-07 13:07:33  Prog : URUS_PA2_BC0_R13_EXT_2025 Skid: 59 Calcul Vol : 143 Color: 77.
+2026-05-07 13:07:33  ---------------------------
+2026-05-07 13:07:39  Prog : URUS_PA2_BC0_R13_EXT_2025II Skid: 59 Calcul Vol : 196 Color: 77.
+2026-05-07 13:07:39  ---------------------------
+2026-05-07 13:09:51 --- Trajectory EXT --- 
+2026-05-07 13:09:51  HURACAN_AP_BC0_R13_EXT1 " Skid: 153 Paint : 520.
+2026-05-07 13:11:45  HURACAN_AP_BC0_R13_EXT2 " Skid: 153 Paint : 290.
+2026-05-07 13:11:45 --- --- 
+2026-05-07 13:12:01  Default Volume : TEM_PRIM_R13_EXT Skid: 167.
+2026-05-07 13:12:02  Prog : TEM_PRIM_R13_EXT Skid: 167 Calcul Vol : 640 Color: 1.
+2026-05-07 13:12:02  ---------------------------
+2026-05-07 13:16:49  URUS_BC_PLA " Skid: 51 Paint : 482.
+2026-05-07 13:19:17  URUS_PR_EXT1 " Skid: 51 Paint : 355.
+2026-05-07 13:20:57  URUS_PR_EXT2 " Skid: 81 Paint : 390.
+2026-05-07 13:22:14  Prog : URUS_PA2_BC0_R13_EXT_2025 Skid: 49 Calcul Vol : 362 Color: 6.
+2026-05-07 13:22:14  ---------------------------
+2026-05-07 13:22:20  Prog : URUS_PA2_BC0_R13_EXT_2025II Skid: 49 Calcul Vol : 305 Color: 6.
+2026-05-07 13:22:20  ---------------------------
+2026-05-07 13:23:04 --- Trajectory EXT --- 
+2026-05-07 13:23:04  HURACAN_R13_EXT1 " Skid: 81 Paint : 149.
+2026-05-07 13:24:27  HURACAN_R13_EXT2 " Skid: 81 Paint : 109.
+2026-05-07 13:24:27 --- --- 
+2026-05-07 13:28:24  URUS_BC_EXT1 " Skid: 204 Paint : 276.
+2026-05-07 13:30:30  URUS_BC_EXT2 " Skid: 59 Paint : 258.
+2026-05-07 13:31:55  URUS_PA2_BC0_R13_EXT1 REP " Skid: 59 Paint : 92.
+2026-05-07 13:33:14  URUS_PA2_BC0_R13_EXT2 REP " Skid: 59 Paint : 50.
+2026-05-07 13:34:54  Prog : URUS_PA2_BC23_Plastic Skid: 259 Calcul Vol : 178 Color: 27.
+2026-05-07 13:34:54  ---------------------------
+2026-05-07 13:36:44 --- Trajectory EXT --- 
+2026-05-07 13:36:44  HURACAN_PRIM_EXT " Skid: 167 Paint : 443.
+2026-05-07 13:36:44 --- --- --- --- 
+2026-05-07 13:49:58  Prog : URUS_PA2_BC23_Plastic Skid: 240 Calcul Vol : 529 Color: 28.
+2026-05-07 13:49:58  ---------------------------
+2026-05-07 13:50:53  URUS_BC_EXT1 " Skid: 49 Paint : 277.
+2026-05-07 13:52:40  URUS_BC_EXT2 " Skid: 259 Paint : 258.
+2026-05-07 13:53:29  Prog : URUS_PA2_BC0_R13_EXT_2025 Skid: 134 Calcul Vol : 489 Color: 28.
+2026-05-07 13:53:29  ---------------------------
+2026-05-07 13:53:35  Prog : URUS_PA2_BC0_R13_EXT_2025II Skid: 134 Calcul Vol : 366 Color: 28.
+2026-05-07 13:53:35  ---------------------------
+2026-05-07 13:55:25  URUS_BC_PLA " Skid: 259 Paint : 128.
+2026-05-07 13:57:49  Prog : HURACAN_BC0_R23_PLA Skid: 164 Calcul Vol : 348 Color: 103.
+2026-05-07 13:57:49  ---------------------------
+2026-05-07 14:04:15  Prog : URUS_PA2_BC23_Plastic Skid: 98 Calcul Vol : 246 Color: 62.
+2026-05-07 14:04:15  ---------------------------
+2026-05-07 14:07:29  URUS_BC_PLA " Skid: 134 Paint : 467.
+2026-05-07 14:07:49  Prog : URUS_PA2_BC0_R13_EXT_2025 Skid: 166 Calcul Vol : 264 Color: 62.
+2026-05-07 14:07:49  ---------------------------
+2026-05-07 14:07:55  Prog : URUS_PA2_BC0_R13_EXT_2025II Skid: 166 Calcul Vol : 290 Color: 62.
+2026-05-07 14:07:55  ---------------------------
+2026-05-07 14:12:55  Prog : URUS_PA2_BC23_Plastic Skid: 113 Calcul Vol : 370 Color: 62.
+2026-05-07 14:12:55  ---------------------------
+2026-05-07 14:19:22  Prog : URUS_PA2_BC0_R13_EXT_2025 Skid: 126 Calcul Vol : 318 Color: 62.
+2026-05-07 14:19:22  ---------------------------
+2026-05-07 14:19:28  Prog : URUS_PA2_BC0_R13_EXT_2025II Skid: 126 Calcul Vol : 290 Color: 62.
+2026-05-07 14:19:28  ---------------------------
+2026-05-07 14:20:04  URUS_BC_EXT1 " Skid: 134 Paint : 402.
+2026-05-07 14:21:40  URUS_BC_EXT2 " Skid: 164 Paint : 314.
+2026-05-07 14:24:32  HURACAN_BC0_R13_PLA_2 " Skid: 98 Paint : 284.
+2026-05-07 14:24:32 ---  --- 
+2026-05-07 14:25:53  Default Volume : TEM_BC0_R13_EXT Skid: 232.
+2026-05-07 14:25:54  Prog : TEM_BC0_R13_EXT Skid: 232 Calcul Vol : 640 Color: 150.
+2026-05-07 14:25:54  ---------------------------
+2026-05-07 14:26:00  Default Volume : DEFAULT Skid: 232.
+2026-05-07 14:26:01  Prog : DEFAULT Skid: 232 Calcul Vol : 640 Color: 150.
+2026-05-07 14:26:01  ---------------------------
+2026-05-07 14:27:18  URUS_BC_PLA " Skid: 166 Paint : 199.
+2026-05-07 14:28:11  Prog : HURACAN_BC0_R23_PLA Skid: 110 Calcul Vol : 522 Color: 150.
+2026-05-07 14:28:11  ---------------------------
+2026-05-07 14:31:31  URUS_BC_EXT1 " Skid: 166 Paint : 185.
+2026-05-07 14:33:06  URUS_BC_EXT2 " Skid: 113 Paint : 238.
+2026-05-07 14:34:21  Default Volume : TEM_BC0_R13_EXT Skid: 150.
+2026-05-07 14:34:23  Prog : TEM_BC0_R13_EXT Skid: 150 Calcul Vol : 640 Color: 7.
+2026-05-07 14:34:23  ---------------------------
+2026-05-07 14:34:28  Default Volume : DEFAULT Skid: 150.
+2026-05-07 14:34:30  Prog : DEFAULT Skid: 150 Calcul Vol : 640 Color: 7.
+2026-05-07 14:34:30  ---------------------------
+2026-05-07 14:36:59  URUS_BC_PLA " Skid: 126 Paint : 318.
+2026-05-07 14:41:10  Default Volume : TEM_PRIM_R13_EXT Skid: 245.
+2026-05-07 14:41:12  Prog : TEM_PRIM_R13_EXT Skid: 245 Calcul Vol : 640 Color: 3.
+2026-05-07 14:41:12  ---------------------------
+2026-05-07 14:41:23  URUS_BC_EXT1 " Skid: 126 Paint : 239.
+2026-05-07 14:42:59  URUS_BC_EXT2 " Skid: 232 Paint : 234.
+2026-05-07 14:46:21 --- Trajectory EXT --- 
+2026-05-07 14:46:21  HURACAN_AP_BC0_R13_EXT1 " Skid: 232 Paint : 398.
+2026-05-07 14:48:15  HURACAN_AP_BC0_R13_EXT2 " Skid: 232 Paint : 275.
+2026-05-07 14:48:15 --- --- 
+2026-05-07 14:48:17  Prog : URUS_PA2_BC0_R13_EXT_2025 Skid: 206 Calcul Vol : 359 Color: 8.
+2026-05-07 14:48:17  ---------------------------
+2026-05-07 14:48:24  Prog : URUS_PA2_BC0_R13_EXT_2025II Skid: 206 Calcul Vol : 306 Color: 8.
+2026-05-07 14:48:24  ---------------------------
+2026-05-07 14:52:19  Prog : HURACAN_BC0_R23_PLA Skid: 157 Calcul Vol : 260 Color: 21.
+2026-05-07 14:52:19  ---------------------------
+2026-05-07 14:52:29  HURACAN_BC0_R13_PLA_2 " Skid: 150 Paint : 383.
+2026-05-07 14:52:29 ---  --- 
+2026-05-07 14:54:10 --- Trajectory EXT --- 
+2026-05-07 14:54:10  HURACAN_R13_EXT1 " Skid: 150 Paint : 141.
+2026-05-07 14:55:38  HURACAN_R13_EXT2 " Skid: 150 Paint : 106.
+2026-05-07 14:55:38 --- --- 
+2026-05-07 14:55:58  Default Volume : TEM_BC0_R13_EXT Skid: 35.
+2026-05-07 14:56:00  Prog : TEM_BC0_R13_EXT Skid: 35 Calcul Vol : 640 Color: 21.
+2026-05-07 14:56:00  ---------------------------
+2026-05-07 14:56:05  Default Volume : DEFAULT Skid: 35.
+2026-05-07 14:56:06  Prog : DEFAULT Skid: 35 Calcul Vol : 640 Color: 21.
+2026-05-07 14:56:06  ---------------------------
+2026-05-07 14:58:55 --- Trajectory EXT --- 
+2026-05-07 14:58:55  HURACAN_PRIM_EXT " Skid: 245 Paint : 443.
+2026-05-07 14:58:55 --- --- --- --- 
+2026-05-07 15:00:17  Prog : URUS_PA2_PR0_R13_EXT_2025 Skid: 133 Calcul Vol : 453 Color: 3.
+2026-05-07 15:00:17  ---------------------------
+2026-05-07 15:00:23  Prog : URUS_PA2_PR0_R13_EXT_2025II Skid: 133 Calcul Vol : 477 Color: 3.
+2026-05-07 15:00:23  ---------------------------
+2026-05-07 15:13:38  URUS_BC_EXT1 " Skid: 206 Paint : 276.
+2026-05-07 15:15:13  URUS_BC_EXT2 " Skid: 157 Paint : 251.
+2026-05-07 15:16:11  Prog : URUS_PA2_PR0_R13_EXT_2025 Skid: 80 Calcul Vol : 453 Color: 1.
+2026-05-07 15:16:11  ---------------------------
+2026-05-07 15:16:17  Prog : URUS_PA2_PR0_R13_EXT_2025II Skid: 80 Calcul Vol : 477 Color: 1.
+2026-05-07 15:16:17  ---------------------------
+2026-05-07 15:19:10  HURACAN_BC0_R13_PLA_2 " Skid: 35 Paint : 191.
+2026-05-07 15:19:10 ---  --- 
+2026-05-07 15:21:28  Prog : URUS_PA2_BC23_Plastic Skid: 22 Calcul Vol : 297 Color: 56.
+2026-05-07 15:21:28  ---------------------------
+2026-05-07 15:22:29 --- Trajectory EXT --- 
+2026-05-07 15:22:29  HURACAN_AP_BC0_R13_EXT1 " Skid: 35 Paint : 319.
+2026-05-07 15:24:23  HURACAN_AP_BC0_R13_EXT2 " Skid: 35 Paint : 240.
+2026-05-07 15:24:23 --- --- 
+2026-05-07 15:25:05  Prog : URUS_PA2_BC0_R13_EXT_2025 Skid: 52 Calcul Vol : 308 Color: 56.
+2026-05-07 15:25:05  ---------------------------
+2026-05-07 15:25:11  Prog : URUS_PA2_BC0_R13_EXT_2025II Skid: 52 Calcul Vol : 216 Color: 56.
+2026-05-07 15:25:11  ---------------------------
+2026-05-07 15:26:52  URUS_PR_EXT1 " Skid: 133 Paint : 374.
+2026-05-07 15:28:33  URUS_PR_EXT2 " Skid: 133 Paint : 427.
+2026-05-07 15:29:12  Prog : URUS_PA2_BC0_R13_EXT_2025 Skid: 212 Calcul Vol : 50 Color: 77.
+2026-05-07 15:29:12  ---------------------------
+2026-05-07 15:29:18  Prog : URUS_PA2_BC0_R13_EXT_2025II Skid: 212 Calcul Vol : 50 Color: 77.
+2026-05-07 15:29:18  ---------------------------
+2026-05-07 15:33:31  Default Volume : TEM_PRIM_R13_EXT Skid: 48.
+2026-05-07 15:33:33  Prog : TEM_PRIM_R13_EXT Skid: 48 Calcul Vol : 640 Color: 1.
+2026-05-07 15:33:33  ---------------------------
+2026-05-07 15:37:44  Prog : HURACAN_BC0_R23_PLA Skid: 46 Calcul Vol : 398 Color: 98.
+2026-05-07 15:37:44  ---------------------------
+2026-05-07 15:38:44  URUS_PR_EXT1 " Skid: 80 Paint : 374.
+2026-05-07 15:40:25  URUS_PR_EXT2 " Skid: 80 Paint : 429.
+2026-05-07 15:42:48  Default Volume : TEM_BC0_R13_EXT Skid: 230.
+2026-05-07 15:42:49  Prog : TEM_BC0_R13_EXT Skid: 230 Calcul Vol : 640 Color: 98.
+2026-05-07 15:42:49  ---------------------------
+2026-05-07 15:42:54  Default Volume : DEFAULT Skid: 230.
+2026-05-07 15:42:56  Prog : DEFAULT Skid: 230 Calcul Vol : 640 Color: 98.
+2026-05-07 15:42:56  ---------------------------
+2026-05-07 15:47:18  Default Volume : TEM_BC0_R13_EXT Skid: 208.
+2026-05-07 15:47:19  Prog : TEM_BC0_R13_EXT Skid: 208 Calcul Vol : 640 Color: 106.
+2026-05-07 15:47:19  ---------------------------
+2026-05-07 15:47:24  Default Volume : DEFAULT Skid: 208.
+2026-05-07 15:47:26  Prog : DEFAULT Skid: 208 Calcul Vol : 640 Color: 106.
+2026-05-07 15:47:26  ---------------------------
+2026-05-07 15:47:57  URUS_BC_PLA " Skid: 52 Paint : 243.
+2026-05-07 15:50:18  URUS_BC_EXT1 " Skid: 52 Paint : 225.
+2026-05-07 15:51:53  URUS_BC_EXT2 " Skid: 212 Paint : 164.
+2026-05-07 15:52:54  URUS_PA2_BC0_R13_EXT1 REP " Skid: 212 Paint : 0.
+2026-05-07 15:52:57  Prog : URUS_PA2_PR0_R13_EXT_2025 Skid: 210 Calcul Vol : 453 Color: 1.
+2026-05-07 15:52:57  ---------------------------
+2026-05-07 15:53:03  Prog : URUS_PA2_PR0_R13_EXT_2025II Skid: 210 Calcul Vol : 477 Color: 1.
+2026-05-07 15:53:03  ---------------------------
+2026-05-07 15:54:08  URUS_PA2_BC0_R13_EXT2 REP " Skid: 212 Paint : 0.
+2026-05-07 15:57:43  Default Volume : TEM_BC0_R13_EXT Skid: 156.
+2026-05-07 15:57:45  Prog : TEM_BC0_R13_EXT Skid: 156 Calcul Vol : 640 Color: 99.
+2026-05-07 15:57:45  ---------------------------
+2026-05-07 15:57:50  Default Volume : DEFAULT Skid: 156.
+2026-05-07 15:57:52  Prog : DEFAULT Skid: 156 Calcul Vol : 640 Color: 99.
+2026-05-07 15:57:52  ---------------------------
+2026-05-07 15:58:35 --- Trajectory EXT --- 
+2026-05-07 15:58:35  HURACAN_PRIM_EXT " Skid: 48 Paint : 443.
+2026-05-07 15:58:35 --- --- --- --- 
+2026-05-07 16:02:00  Prog : HURACAN_BC0_R23_PLA Skid: 39 Calcul Vol : 344 Color: 53.
+2026-05-07 16:02:00  ---------------------------
+2026-05-07 16:07:01  Prog : URUS_PA2_PR0_R13_EXT_2025 Skid: 221 Calcul Vol : 453 Color: 1.
+2026-05-07 16:07:01  ---------------------------
+2026-05-07 16:07:07  Prog : URUS_PA2_PR0_R13_EXT_2025II Skid: 221 Calcul Vol : 477 Color: 1.
+2026-05-07 16:07:07  ---------------------------
+2026-05-07 16:07:40  HURACAN_BC0_R13_PLA_2 " Skid: 230 Paint : 286.
+2026-05-07 16:07:40 ---  --- 
+2026-05-07 16:11:18 --- Trajectory EXT --- 
+2026-05-07 16:11:18  HURACAN_AP_BC0_R13_EXT1 " Skid: 230 Paint : 375.
+2026-05-07 16:13:12  HURACAN_AP_BC0_R13_EXT2 " Skid: 230 Paint : 261.
+2026-05-07 16:13:12 --- --- 
+2026-05-07 16:23:16  URUS_PR_EXT1 " Skid: 210 Paint : 374.
+2026-05-07 16:24:15  Default Volume : TEM_BC0_R13_EXT Skid: 208.
+2026-05-07 16:24:16  Prog : TEM_BC0_R13_EXT Skid: 208 Calcul Vol : 640 Color: 106.
+2026-05-07 16:24:16  ---------------------------
+2026-05-07 16:24:21  Default Volume : DEFAULT Skid: 208.
+2026-05-07 16:24:23  Prog : DEFAULT Skid: 208 Calcul Vol : 640 Color: 106.
+2026-05-07 16:24:23  ---------------------------
+2026-05-07 16:24:57  URUS_PR_EXT2 " Skid: 156 Paint : 425.
+2026-05-07 16:27:15  Prog : URUS_PA2_BC23_Plastic Skid: 101 Calcul Vol : 526 Color: 42.
+2026-05-07 16:27:15  ---------------------------
+2026-05-07 16:28:18 --- Trajectory EXT --- 
+2026-05-07 16:28:18  HURACAN_AP_BC0_R13_EXT1 " Skid: 156 Paint : 398.
+2026-05-07 16:28:56  Default Volume : DEFAULT Skid: 101.
+2026-05-07 16:28:58  Prog : DEFAULT Skid: 101 Calcul Vol : 640 Color: 42.
+2026-05-07 16:28:58  ---------------------------
+2026-05-07 16:30:12  HURACAN_AP_BC0_R13_EXT2 " Skid: 156 Paint : 277.
+2026-05-07 16:30:12 --- --- 
+2026-05-07 16:31:53  Prog : URUS_PA2_BC0_R13_EXT_2025 Skid: 202 Calcul Vol : 456 Color: 42.
+2026-05-07 16:31:53  ---------------------------
+2026-05-07 16:31:59  Prog : URUS_PA2_BC0_R13_EXT_2025II Skid: 202 Calcul Vol : 359 Color: 42.
+2026-05-07 16:31:59  ---------------------------
+2026-05-07 16:34:06  HURACAN_BC0_R13_PLA_2 " Skid: 221 Paint : 244.
+2026-05-07 16:34:06 ---  --- 
+2026-05-07 16:36:28  Prog : URUS_PA2_BC23_Plastic Skid: 169 Calcul Vol : 477 Color: 85.
+2026-05-07 16:36:28  ---------------------------
+2026-05-07 16:37:29  URUS_PR_EXT1 " Skid: 221 Paint : 374.
+2026-05-07 16:39:10  URUS_PR_EXT2 " Skid: 208 Paint : 426.
+2026-05-07 16:40:02  Prog : URUS_PA2_BC0_R13_EXT_2025 Skid: 68 Calcul Vol : 311 Color: 85.
+2026-05-07 16:40:02  ---------------------------
+2026-05-07 16:40:08  Prog : URUS_PA2_BC0_R13_EXT_2025II Skid: 68 Calcul Vol : 341 Color: 85.
+2026-05-07 16:40:08  ---------------------------
+2026-05-07 16:41:40 --- Trajectory EXT --- 
+2026-05-07 16:41:40  HURACAN_AP_BC0_R13_EXT1 rep " Skid: 208 Paint : 182.
+2026-05-07 16:43:31  HURACAN_AP_BC0_R13_EXT2 rep " Skid: 208 Paint : 45.
+2026-05-07 16:43:31 --- --- 
+2026-05-07 16:44:36  Prog : URUS_PA2_PR0_R13_EXT_2025 Skid: 60 Calcul Vol : 453 Color: 1.
+2026-05-07 16:44:36  ---------------------------
+2026-05-07 16:44:42  Prog : URUS_PA2_PR0_R13_EXT_2025II Skid: 60 Calcul Vol : 477 Color: 1.
+2026-05-07 16:44:42  ---------------------------
+2026-05-07 16:49:22  Default Volume : TEM_BC0_R13_EXT Skid: 152.
+2026-05-07 16:49:23  Prog : TEM_BC0_R13_EXT Skid: 152 Calcul Vol : 640 Color: 53.
+2026-05-07 16:49:23  ---------------------------
+2026-05-07 16:49:28  Default Volume : DEFAULT Skid: 152.
+2026-05-07 16:49:30  Prog : DEFAULT Skid: 152 Calcul Vol : 640 Color: 53.
+2026-05-07 16:49:30  ---------------------------
+2026-05-07 16:49:56  URUS_BC_PLA " Skid: 202 Paint : 472.
+2026-05-07 16:52:17  URUS_BC_EXT1 " Skid: 202 Paint : 364.
+2026-05-07 16:53:52  URUS_BC_EXT2 " Skid: 169 Paint : 322.
+2026-05-07 16:57:46  Default Volume : TEM_PRIM_R13_EXT Skid: 38.
+2026-05-07 16:57:48  Prog : TEM_PRIM_R13_EXT Skid: 38 Calcul Vol : 640 Color: 3.
+2026-05-07 16:57:48  ---------------------------
+2026-05-07 16:59:05  URUS_BC_PLA " Skid: 68 Paint : 425.
+2026-05-07 17:01:15  Prog : URUS_PA2_BC23_Plastic Skid: 64 Calcul Vol : 224 Color: 27.
+2026-05-07 17:01:16  ---------------------------
+2026-05-07 17:01:25  URUS_BC_EXT1 " Skid: 68 Paint : 232.
+2026-05-07 17:03:01  URUS_BC_EXT2 " Skid: 60 Paint : 287.
+2026-05-07 17:05:17  Prog : URUS_PA2_BC0_R13_EXT_2025 Skid: 20 Calcul Vol : 395 Color: 27.
+2026-05-07 17:05:17  ---------------------------
+2026-05-07 17:05:23  Prog : URUS_PA2_BC0_R13_EXT_2025II Skid: 20 Calcul Vol : 470 Color: 27.
+2026-05-07 17:05:23  ---------------------------
+2026-05-07 17:06:19  URUS_PR_EXT1 " Skid: 60 Paint : 374.
+2026-05-07 17:08:00  URUS_PR_EXT2 " Skid: 152 Paint : 425.
+2026-05-07 17:10:51  Default Volume : TEM_PRIM_R13_EXT Skid: 195.
+2026-05-07 17:10:52  Prog : TEM_PRIM_R13_EXT Skid: 195 Calcul Vol : 640 Color: 1.
+2026-05-07 17:10:52  ---------------------------
+2026-05-07 17:11:50 --- Trajectory EXT --- 
+2026-05-07 17:11:50  HURACAN_AP_BC0_R13_EXT1 " Skid: 152 Paint : 264.
+2026-05-07 17:13:51  HURACAN_AP_BC0_R13_EXT2 " Skid: 152 Paint : 190.
+2026-05-07 17:13:51 --- --- 
+2026-05-07 17:15:35  Prog : URUS_PA2_BC23_Plastic Skid: 180 Calcul Vol : 245 Color: 50.
+2026-05-07 17:15:35  ---------------------------
+2026-05-07 17:16:19 --- Trajectory EXT --- 
+2026-05-07 17:16:19  HURACAN_PRIM_EXT " Skid: 64 Paint : 443.
+2026-05-07 17:16:19 --- --- --- --- 
+2026-05-07 17:20:30  URUS_BC_PLA " Skid: 20 Paint : 177.
+2026-05-07 17:24:49  URUS_BC_EXT1 " Skid: 20 Paint : 286.
+2026-05-07 17:25:03  Prog : URUS_PA2_BC23_Plastic Skid: 240 Calcul Vol : 459 Color: 29.
+2026-05-07 17:25:03  ---------------------------
+2026-05-07 17:26:25  URUS_BC_EXT2 " Skid: 195 Paint : 422.
+2026-05-07 17:28:34  Prog : HURACAN_BC0_R23_PLA Skid: 97 Calcul Vol : 378 Color: 29.
+2026-05-07 17:28:34  ---------------------------
+2026-05-07 17:29:01 --- Trajectory EXT --- 
+2026-05-07 17:29:01  HURACAN_PRIM_EXT " Skid: 180 Paint : 443.
+2026-05-07 17:29:01 --- --- --- --- 
+2026-05-07 17:33:26  URUS_BC_PLA " Skid: 180 Paint : 196.
+2026-05-07 17:36:04  Prog : URUS_PA2_PR0_R13_EXT_2025 Skid: 148 Calcul Vol : 453 Color: 3.
+2026-05-07 17:36:04  ---------------------------
+2026-05-07 17:36:10  Prog : URUS_PA2_PR0_R13_EXT_2025II Skid: 148 Calcul Vol : 477 Color: 3.
+2026-05-07 17:36:10  ---------------------------
+2026-05-07 17:41:15  Prog : URUS_PA2_BC0_R13_EXT_2025 Skid: 80 Calcul Vol : 358 Color: 50.
+2026-05-07 17:41:15  ---------------------------
+2026-05-07 17:41:21  Prog : URUS_PA2_BC0_R13_EXT_2025II Skid: 80 Calcul Vol : 270 Color: 50.
+2026-05-07 17:41:21  ---------------------------
+2026-05-07 17:44:40  URUS_BC_PLA " Skid: 240 Paint : 403.
+2026-05-07 17:52:26  Prog : HURACAN_BC0_R23_PLA Skid: 234 Calcul Vol : 344 Color: 5.
+2026-05-07 17:52:26  ---------------------------
+2026-05-07 17:54:54  HURACAN_BC0_R13_PLA_2 " Skid: 148 Paint : 271.
+2026-05-07 17:54:54 ---  --- 
+2026-05-07 17:57:54  Default Volume : TEM_BC0_R13_EXT Skid: 167.
+2026-05-07 17:57:55  Prog : TEM_BC0_R13_EXT Skid: 167 Calcul Vol : 640 Color: 5.
+2026-05-07 17:57:55  ---------------------------
+2026-05-07 17:58:00  Default Volume : DEFAULT Skid: 167.
+2026-05-07 17:58:02  Prog : DEFAULT Skid: 167 Calcul Vol : 640 Color: 5.
+2026-05-07 17:58:02  ---------------------------
+2026-05-07 17:58:18  URUS_PR_EXT1 " Skid: 148 Paint : 374.
+2026-05-07 17:59:59  URUS_PR_EXT2 " Skid: 80 Paint : 424.
+2026-05-07 18:01:36  Prog : URUS_PA2_BC23_Plastic Skid: 253 Calcul Vol : 219 Color: 61.
+2026-05-07 18:01:36  ---------------------------
+2026-05-07 18:03:06  URUS_BC_EXT1 " Skid: 80 Paint : 286.
+2026-05-07 18:04:41  URUS_BC_EXT2 " Skid: 80 Paint : 212.
+2026-05-07 18:06:50  Prog : URUS_PA2_BC0_R13_EXT_2025 Skid: 51 Calcul Vol : 313 Color: 61.
+2026-05-07 18:06:50  ---------------------------
+2026-05-07 18:06:56  Prog : URUS_PA2_BC0_R13_EXT_2025II Skid: 51 Calcul Vol : 243 Color: 61.
+2026-05-07 18:06:56  ---------------------------
+2026-05-07 18:11:16  Prog : URUS_PA2_BC0_R13_EXT_2025 Skid: 134 Calcul Vol : 345 Color: 29.
+2026-05-07 18:11:16  ---------------------------
+2026-05-07 18:11:22  Prog : URUS_PA2_BC0_R13_EXT_2025II Skid: 134 Calcul Vol : 281 Color: 29.
+2026-05-07 18:11:22  ---------------------------
+2026-05-07 18:16:12  Prog : URUS_PA2_PR0_R13_EXT_2025 Skid: 233 Calcul Vol : 485 Color: 1.
+2026-05-07 18:16:12  ---------------------------
+2026-05-07 18:16:18  Prog : URUS_PA2_PR0_R13_EXT_2025II Skid: 233 Calcul Vol : 477 Color: 1.
+2026-05-07 18:16:18  ---------------------------
+2026-05-07 18:16:52  HURACAN_BC0_R13_PLA_2 " Skid: 234 Paint : 240.
+2026-05-07 18:16:52 ---  --- 
+2026-05-07 18:30:36 --- Trajectory EXT --- 
+2026-05-07 18:30:36  HURACAN_AP_BC0_R13_EXT1 " Skid: 167 Paint : 340.
+2026-05-07 18:32:15  Prog : URUS_PA2_BC0_R13_EXT_2025 Skid: 210 Calcul Vol : 362 Color: 5.
+2026-05-07 18:32:15  ---------------------------
+2026-05-07 18:32:21  Prog : URUS_PA2_BC0_R13_EXT_2025II Skid: 210 Calcul Vol : 306 Color: 5.
+2026-05-07 18:32:21  ---------------------------
+2026-05-07 18:32:30  HURACAN_AP_BC0_R13_EXT2 " Skid: 167 Paint : 182.
+2026-05-07 18:32:30 --- --- 
+2026-05-07 18:35:36  URUS_BC_PLA " Skid: 51 Paint : 170.
+2026-05-07 18:37:29  Default Volume : TEM_BC0_R13_EXT Skid: 153.
+2026-05-07 18:37:30  Prog : TEM_BC0_R13_EXT Skid: 153 Calcul Vol : 640 Color: 29.
+2026-05-07 18:37:30  ---------------------------
+2026-05-07 18:37:35  Default Volume : DEFAULT Skid: 153.
+2026-05-07 18:37:37  Prog : DEFAULT Skid: 153 Calcul Vol : 640 Color: 29.
+2026-05-07 18:37:37  ---------------------------
+2026-05-07 18:39:34  URUS_BC_EXT1 " Skid: 51 Paint : 230.
+2026-05-07 18:41:10  URUS_BC_EXT2 " Skid: 134 Paint : 196.
+2026-05-07 18:42:07  Default Volume : TEM_PRIM_R13_EXT Skid: 131.
+2026-05-07 18:42:09  Prog : TEM_PRIM_R13_EXT Skid: 131 Calcul Vol : 640 Color: 1.
+2026-05-07 18:42:09  ---------------------------
+2026-05-07 18:44:26  URUS_BC_EXT1 " Skid: 134 Paint : 274.
+2026-05-07 18:46:02  URUS_BC_EXT2 " Skid: 233 Paint : 229.
+2026-05-07 18:47:11  Prog : URUS_PA2_BC0_R13_EXT_2025 Skid: 60 Calcul Vol : 362 Color: 5.
+2026-05-07 18:47:11  ---------------------------
+2026-05-07 18:47:17  Prog : URUS_PA2_BC0_R13_EXT_2025II Skid: 60 Calcul Vol : 306 Color: 5.
+2026-05-07 18:47:17  ---------------------------
+2026-05-07 18:49:33  URUS_PR_EXT1 " Skid: 233 Paint : 406.
+2026-05-07 18:51:13  URUS_PR_EXT2 " Skid: 233 Paint : 428.
+2026-05-07 18:59:09  URUS_BC_EXT1 " Skid: 210 Paint : 279.
+2026-05-07 19:01:08  URUS_BC_EXT2 " Skid: 153 Paint : 260.
+2026-05-07 19:01:58  Prog : URUS_PA2_BC0_R13_EXT_2025 Skid: 221 Calcul Vol : 322 Color: 105.
+2026-05-07 19:01:58  ---------------------------
+2026-05-07 19:02:04  Prog : URUS_PA2_BC0_R13_EXT_2025II Skid: 221 Calcul Vol : 341 Color: 105.
+2026-05-07 19:02:04  ---------------------------
+2026-05-07 19:03:52  Prog : URUS_PA2_BC23_Plastic Skid: 186 Calcul Vol : 331 Color: 105.
+2026-05-07 19:03:52  ---------------------------
+2026-05-07 19:04:20 --- Trajectory EXT --- 
+2026-05-07 19:04:20  HURACAN_AP_BC0_R13_EXT1 " Skid: 153 Paint : 324.
+2026-05-07 19:06:13  HURACAN_AP_BC0_R13_EXT2 " Skid: 153 Paint : 163.
+2026-05-07 19:06:13 --- --- 
+2026-05-07 19:08:41 --- Trajectory EXT --- 
+2026-05-07 19:08:41  HURACAN_PRIM_EXT " Skid: 60 Paint : 443.
+2026-05-07 19:08:41 --- --- --- --- 
+2026-05-07 19:13:17  URUS_BC_EXT1 " Skid: 60 Paint : 279.
+2026-05-07 19:14:53  URUS_BC_EXT2 " Skid: 60 Paint : 256.
+2026-05-07 19:22:35  Prog : URUS_PA2_BC0_R13_EXT_2025 Skid: 66 Calcul Vol : 480 Color: 27.
+2026-05-07 19:22:35  ---------------------------
+2026-05-07 19:22:41  Prog : URUS_PA2_BC0_R13_EXT_2025II Skid: 66 Calcul Vol : 470 Color: 27.
+2026-05-07 19:22:41  ---------------------------
+2026-05-07 19:31:47  URUS_BC_EXT1 " Skid: 221 Paint : 243.
+2026-05-07 19:33:54  URUS_BC_EXT2 " Skid: 186 Paint : 289.
+2026-05-07 19:36:44  Prog : URUS_PA2_PR0_R13_EXT_2025 Skid: 139 Calcul Vol : 453 Color: 1.
+2026-05-07 19:36:44  ---------------------------
+2026-05-07 19:36:50  Prog : URUS_PA2_PR0_R13_EXT_2025II Skid: 139 Calcul Vol : 477 Color: 1.
+2026-05-07 19:36:50  ---------------------------
+2026-05-07 19:37:37  URUS_BC_PLA " Skid: 186 Paint : 279.
+2026-05-07 19:50:57  URUS_BC_EXT1 " Skid: 66 Paint : 372.
+2026-05-07 19:52:33  URUS_BC_EXT2 " Skid: 139 Paint : 424.
+2026-05-07 19:57:45  Default Volume : TEM_BC0_R13_EXT Skid: 38.
+2026-05-07 19:57:47  Prog : TEM_BC0_R13_EXT Skid: 38 Calcul Vol : 640 Color: 7.
+2026-05-07 19:57:47  ---------------------------
+2026-05-07 19:57:52  Default Volume : DEFAULT Skid: 38.
+2026-05-07 19:57:54  Prog : DEFAULT Skid: 38 Calcul Vol : 640 Color: 7.
+2026-05-07 19:57:54  ---------------------------
+2026-05-07 19:58:16  URUS_PR_EXT1 " Skid: 139 Paint : 374.
+2026-05-07 19:59:57  URUS_PR_EXT2 " Skid: 139 Paint : 425.
+2026-05-07 20:01:31  Prog : HURACAN_BC0_R23_PLA Skid: 157 Calcul Vol : 215 Color: 22.
+2026-05-07 20:01:31  ---------------------------
+2026-05-07 20:07:27  Default Volume : TEM_BC0_R13_EXT Skid: 35.
+2026-05-07 20:07:28  Prog : TEM_BC0_R13_EXT Skid: 35 Calcul Vol : 640 Color: 22.
+2026-05-07 20:07:28  ---------------------------
+2026-05-07 20:07:33  Default Volume : DEFAULT Skid: 35.
+2026-05-07 20:07:35  Prog : DEFAULT Skid: 35 Calcul Vol : 640 Color: 22.
+2026-05-07 20:07:35  ---------------------------
+2026-05-07 20:11:16  Prog : URUS_PA2_PR0_R13_EXT_2025 Skid: 105 Calcul Vol : 453 Color: 1.
+2026-05-07 20:11:16  ---------------------------
+2026-05-07 20:11:22  Prog : URUS_PA2_PR0_R13_EXT_2025II Skid: 105 Calcul Vol : 477 Color: 1.
+2026-05-07 20:11:22  ---------------------------
+2026-05-07 20:15:00 --- Trajectory EXT --- 
+2026-05-07 20:15:00  HURACAN_R13_EXT1 " Skid: 38 Paint : 141.
+2026-05-07 20:16:26  HURACAN_R13_EXT2 " Skid: 38 Paint : 108.
+2026-05-07 20:16:26 --- --- 
+2026-05-07 20:18:49  Prog : URUS_PA2_BC23_Plastic Skid: 2 Calcul Vol : 208 Color: 55.
+2026-05-07 20:18:49  ---------------------------
+2026-05-07 20:21:08  HURACAN_BC0_R13_PLA_2 " Skid: 35 Paint : 144.
+2026-05-07 20:21:08 ---  --- 
+2026-05-07 20:22:29  Prog : URUS_PA2_BC0_R13_EXT_2025 Skid: 5 Calcul Vol : 294 Color: 55.
+2026-05-07 20:22:29  ---------------------------
+2026-05-07 20:22:35  Prog : URUS_PA2_BC0_R13_EXT_2025II Skid: 5 Calcul Vol : 395 Color: 55.
+2026-05-07 20:22:35  ---------------------------
+2026-05-07 20:26:45 --- Trajectory EXT --- 
+2026-05-07 20:26:45  HURACAN_AP_BC0_R13_EXT1 " Skid: 35 Paint : 191.
+2026-05-07 20:28:39  HURACAN_AP_BC0_R13_EXT2 " Skid: 35 Paint : 104.
+2026-05-07 20:28:39 --- --- 
+2026-05-07 20:29:04  Prog : HURACAN_BC0_R23_PLA Skid: 46 Calcul Vol : 395 Color: 85.
+2026-05-07 20:29:04  ---------------------------
+2026-05-07 20:31:09  URUS_PR_EXT1 " Skid: 105 Paint : 375.
+2026-05-07 20:32:50  URUS_PR_EXT2 " Skid: 105 Paint : 420.
+2026-05-07 20:35:45  Default Volume : TEM_BC0_R13_EXT Skid: 230.
+2026-05-07 20:35:46  Prog : TEM_BC0_R13_EXT Skid: 230 Calcul Vol : 640 Color: 85.
+2026-05-07 20:35:46  ---------------------------
+2026-05-07 20:35:51  Default Volume : DEFAULT Skid: 230.
+2026-05-07 20:35:53  Prog : DEFAULT Skid: 230 Calcul Vol : 640 Color: 85.
+2026-05-07 20:35:53  ---------------------------
+2026-05-07 20:37:51  URUS_BC_PLA " Skid: 2 Paint : 158.
+2026-05-07 20:40:09  Default Volume : TEM_PRIM_R13_EXT Skid: 96.
+2026-05-07 20:40:11  Prog : TEM_PRIM_R13_EXT Skid: 96 Calcul Vol : 640 Color: 1.
+2026-05-07 20:40:11  ---------------------------
+2026-05-07 20:44:52  URUS_BC_EXT1 " Skid: 5 Paint : 215.
+2026-05-07 20:46:28  URUS_BC_EXT2 " Skid: 46 Paint : 343.
+2026-05-07 20:51:40  HURACAN_BC0_R13_PLA_2 " Skid: 230 Paint : 279.
+2026-05-07 20:51:40 ---  --- 
+2026-05-07 20:55:30 --- Trajectory EXT --- 
+2026-05-07 20:55:30  HURACAN_AP_BC0_R13_EXT1 " Skid: 230 Paint : 398.
+2026-05-07 20:57:24  HURACAN_AP_BC0_R13_EXT2 " Skid: 230 Paint : 281.
+2026-05-07 20:57:24 --- --- 
+2026-05-07 20:59:52 --- Trajectory EXT --- 
+2026-05-07 20:59:52  HURACAN_PRIM_EXT " Skid: 96 Paint : 443.
+2026-05-07 20:59:52 --- --- --- --- 
+2026-05-07 21:34:41  Default Volume : TEM_BC0_R13_EXT Skid: 12.
+2026-05-07 21:34:42  Prog : TEM_BC0_R13_EXT Skid: 12 Calcul Vol : 640 Color: 15.
+2026-05-07 21:34:42  ---------------------------
+2026-05-07 21:34:47  Default Volume : DEFAULT Skid: 12.
+2026-05-07 21:34:49  Prog : DEFAULT Skid: 12 Calcul Vol : 640 Color: 15.
+2026-05-07 21:34:49  ---------------------------
+2026-05-07 21:54:35 --- Trajectory EXT --- 
+2026-05-07 21:54:35  HURACAN_AP_BC0_R13_EXT1 " Skid: 12 Paint : 287.
+2026-05-07 21:56:30  HURACAN_AP_BC0_R13_EXT2 " Skid: 12 Paint : 174.
+2026-05-07 21:56:30 --- --- 
+2026-05-08 03:08:21  Prog : URUS_PA2_BC0_R13_EXT_2025 Skid: 26 Calcul Vol : 322 Color: 88.
+2026-05-08 03:08:21  ---------------------------
+2026-05-08 03:08:27  Prog : URUS_PA2_BC0_R13_EXT_2025II Skid: 26 Calcul Vol : 341 Color: 88.
+2026-05-08 03:08:27  ---------------------------
+2026-05-08 03:26:23  URUS_BC_EXT1 " Skid: 15887 Paint : 29.
+2026-05-08 03:28:05  URUS_BC_EXT2 " Skid: 15887 Paint : -1.
+2026-05-08 03:32:14  Prog : URUS_PA2_BC0_R13_EXT_2025 Skid: 233 Calcul Vol : 384 Color: 5.
+2026-05-08 03:32:14  ---------------------------
+2026-05-08 03:32:20  Prog : URUS_PA2_BC0_R13_EXT_2025II Skid: 233 Calcul Vol : 306 Color: 5.
+2026-05-08 03:32:20  ---------------------------
+2026-05-08 03:33:40  URUS_BC_EXT1 " Skid: 26 Paint : 243.
+2026-05-08 03:35:16  URUS_BC_EXT2 " Skid: 26 Paint : 289.
+2026-05-08 03:36:05  Default Volume : TEM_BC0_R13_EXT Skid: 96.
+2026-05-08 03:36:06  Prog : TEM_BC0_R13_EXT Skid: 96 Calcul Vol : 640 Color: 11.
+2026-05-08 03:36:06  ---------------------------
+2026-05-08 03:36:12  Default Volume : DEFAULT Skid: 96.
+2026-05-08 03:36:13  Prog : DEFAULT Skid: 96 Calcul Vol : 640 Color: 11.
+2026-05-08 03:36:13  ---------------------------
+2026-05-08 03:39:57  Prog : URUS_PA2_PR0_R13_EXT_2025 Skid: 207 Calcul Vol : 453 Color: 3.
+2026-05-08 03:39:57  ---------------------------
+2026-05-08 03:40:03  Prog : URUS_PA2_PR0_R13_EXT_2025II Skid: 207 Calcul Vol : 477 Color: 3.
+2026-05-08 03:40:03  ---------------------------
+2026-05-08 03:44:04  Default Volume : TEM_BC0_R13_EXT Skid: 167.
+2026-05-08 03:44:06  Prog : TEM_BC0_R13_EXT Skid: 167 Calcul Vol : 640 Color: 5.
+2026-05-08 03:44:06  ---------------------------
+2026-05-08 03:44:11  Default Volume : DEFAULT Skid: 167.
+2026-05-08 03:44:12  Prog : DEFAULT Skid: 167 Calcul Vol : 640 Color: 5.
+2026-05-08 03:44:12  ---------------------------
+2026-05-08 03:49:03  Prog : URUS_PA2_PR0_R13_EXT_2025 Skid: 50 Calcul Vol : 453 Color: 1.
+2026-05-08 03:49:03  ---------------------------
+2026-05-08 03:49:09  Prog : URUS_PA2_PR0_R13_EXT_2025II Skid: 50 Calcul Vol : 477 Color: 1.
+2026-05-08 03:49:09  ---------------------------
+2026-05-08 06:07:26  URUS_BC_EXT1 " Skid: 233 Paint : 300.
+2026-05-08 06:09:54  URUS_BC_EXT2 " Skid: 96 Paint : 259.
+2026-05-08 06:09:56  Default Volume : TEM_PRIM_R13_EXT Skid: 149.
+2026-05-08 06:09:57  Prog : TEM_PRIM_R13_EXT Skid: 149 Calcul Vol : 640 Color: 3.
+2026-05-08 06:09:57  ---------------------------
+2026-05-08 06:11:40 --- Trajectory EXT --- 
+2026-05-08 06:11:40  HURACAN_R13_EXT1 " Skid: 96 Paint : 163.
+2026-05-08 06:13:09  HURACAN_R13_EXT2 " Skid: 96 Paint : 111.
+2026-05-08 06:13:09 --- --- 
+2026-05-08 06:14:44  Prog : HURACAN_BC0_R23_PLA Skid: 200 Calcul Vol : 474 Color: 27.
+2026-05-08 06:14:44  ---------------------------
+2026-05-08 06:18:05  URUS_PR_EXT1 " Skid: 207 Paint : 374.
+2026-05-08 06:19:46  URUS_PR_EXT2 " Skid: 167 Paint : 428.
+2026-05-08 06:23:09  Prog : URUS_PA2_PR0_R13_EXT_2025 Skid: 84 Calcul Vol : 453 Color: 1.
+2026-05-08 06:23:09  ---------------------------
+2026-05-08 06:23:15  Prog : URUS_PA2_PR0_R13_EXT_2025II Skid: 84 Calcul Vol : 477 Color: 1.
+2026-05-08 06:23:15  ---------------------------
+2026-05-08 06:26:04 --- Trajectory EXT --- 
+2026-05-08 06:26:04  HURACAN_AP_BC0_R13_EXT1 " Skid: 167 Paint : 340.
+2026-05-08 06:27:54  Default Volume : TEM_BC0_R13_EXT Skid: 48.
+2026-05-08 06:27:56  Prog : TEM_BC0_R13_EXT Skid: 48 Calcul Vol : 640 Color: 27.
+2026-05-08 06:27:56  ---------------------------
+2026-05-08 06:27:58  HURACAN_AP_BC0_R13_EXT2 " Skid: 167 Paint : 185.
+2026-05-08 06:27:58 --- --- 
+2026-05-08 06:28:01  Default Volume : DEFAULT Skid: 48.
+2026-05-08 06:28:02  Prog : DEFAULT Skid: 48 Calcul Vol : 640 Color: 27.
+2026-05-08 06:28:02  ---------------------------
+2026-05-08 06:30:27  URUS_PR_EXT1 " Skid: 50 Paint : 375.
+2026-05-08 06:32:07  URUS_PR_EXT2 " Skid: 50 Paint : 427.
+2026-05-08 06:32:58  Prog : URUS_PA2_PR0_R13_EXT_2025 Skid: 223 Calcul Vol : 453 Color: 3.
+2026-05-08 06:32:58  ---------------------------
+2026-05-08 06:33:04  Prog : URUS_PA2_PR0_R13_EXT_2025II Skid: 223 Calcul Vol : 477 Color: 3.
+2026-05-08 06:33:04  ---------------------------
+2026-05-08 06:37:12  Prog : URUS_PA2_BC0_R13_EXT_2025 Skid: 133 Calcul Vol : 264 Color: 7.
+2026-05-08 06:37:12  ---------------------------
+2026-05-08 06:37:18  Prog : URUS_PA2_BC0_R13_EXT_2025II Skid: 133 Calcul Vol : 303 Color: 7.
+2026-05-08 06:37:18  ---------------------------
+2026-05-08 06:38:13 --- Trajectory EXT --- 
+2026-05-08 06:38:13  HURACAN_PRIM_EXT " Skid: 149 Paint : 443.
+2026-05-08 06:38:13 --- --- --- --- 
+2026-05-08 06:41:58  Default Volume : TEM_PRIM_R13_EXT Skid: 119.
+2026-05-08 06:41:59  Prog : TEM_PRIM_R13_EXT Skid: 119 Calcul Vol : 640 Color: 1.
+2026-05-08 06:41:59  ---------------------------
+2026-05-08 06:44:34  HURACAN_BC0_R13_PLA_2 " Skid: 84 Paint : 345.
+2026-05-08 06:44:34 ---  --- 
+2026-05-08 06:46:09  Prog : URUS_PA2_BC23_Plastic Skid: 186 Calcul Vol : 282 Color: 105.
+2026-05-08 06:46:09  ---------------------------
+2026-05-08 06:47:01  URUS_PR_EXT1 " Skid: 84 Paint : 375.
+2026-05-08 06:48:42  URUS_PR_EXT2 " Skid: 84 Paint : 426.
+2026-05-08 06:50:26  Prog : URUS_PA2_PR0_R13_EXT_2025 Skid: 155 Calcul Vol : 453 Color: 1.
+2026-05-08 06:50:26  ---------------------------
+2026-05-08 06:50:32  Prog : URUS_PA2_PR0_R13_EXT_2025II Skid: 155 Calcul Vol : 477 Color: 1.
+2026-05-08 06:50:32  ---------------------------
+2026-05-08 06:56:33  URUS_PR_EXT1 " Skid: 223 Paint : 374.
+2026-05-08 06:57:21  Default Volume : TEM_BC0_R13_EXT Skid: 48.
+2026-05-08 06:57:23  Prog : TEM_BC0_R13_EXT Skid: 48 Calcul Vol : 640 Color: 27.
+2026-05-08 06:57:23  ---------------------------
+2026-05-08 06:57:28  Default Volume : DEFAULT Skid: 48.
+2026-05-08 06:57:30  Prog : DEFAULT Skid: 48 Calcul Vol : 640 Color: 27.
+2026-05-08 06:57:30  ---------------------------
+2026-05-08 06:58:14  URUS_PR_EXT2 " Skid: 133 Paint : 427.
+2026-05-08 07:00:36  Default Volume : TEM_PRIM_R13_EXT Skid: 85.
+2026-05-08 07:00:37  Prog : TEM_PRIM_R13_EXT Skid: 85 Calcul Vol : 640 Color: 2.
+2026-05-08 07:00:37  ---------------------------
+2026-05-08 07:01:19  URUS_BC_EXT1 " Skid: 133 Paint : 186.
+2026-05-08 07:02:55  URUS_BC_EXT2 " Skid: 119 Paint : 252.
+2026-05-08 07:06:01 --- Trajectory EXT --- 
+2026-05-08 07:06:01  HURACAN_PRIM_EXT " Skid: 119 Paint : 443.
+2026-05-08 07:06:02 --- --- --- --- 
+2026-05-08 07:10:47  Prog : URUS_PA2_PR0_R13_EXT_2025 Skid: 24 Calcul Vol : 453 Color: 1.
+2026-05-08 07:10:47  ---------------------------
+2026-05-08 07:10:53  Prog : URUS_PA2_PR0_R13_EXT_2025II Skid: 24 Calcul Vol : 477 Color: 1.
+2026-05-08 07:10:53  ---------------------------
+2026-05-08 07:13:27  URUS_PR_EXT1 " Skid: 155 Paint : 374.
+2026-05-08 07:15:07  URUS_PR_EXT2 " Skid: 48 Paint : 433.
+2026-05-08 07:20:41 --- Trajectory EXT --- 
+2026-05-08 07:20:41  HURACAN_AP_BC0_R13_EXT1 " Skid: 48 Paint : 399.
+2026-05-08 07:22:24  Prog : URUS_PA2_BC23_Plastic Skid: 98 Calcul Vol : 288 Color: 19.
+2026-05-08 07:22:24  ---------------------------
+2026-05-08 07:22:39  HURACAN_AP_BC0_R13_EXT2 " Skid: 48 Paint : 236.
+2026-05-08 07:22:39 --- --- 
+2026-05-08 07:25:08 --- Trajectory EXT --- 
+2026-05-08 07:25:08  HURACAN_PRIM_EXT " Skid: 85 Paint : 443.
+2026-05-08 07:25:08 --- --- --- --- 
+2026-05-08 07:28:13  Default Volume : TEM_PRIM_R13_EXT Skid: 33.
+2026-05-08 07:28:14  Prog : TEM_PRIM_R13_EXT Skid: 33 Calcul Vol : 640 Color: 3.
+2026-05-08 07:28:14  ---------------------------
+2026-05-08 07:31:46  Prog : URUS_PA2_BC0_R13_EXT_2025 Skid: 148 Calcul Vol : 484 Color: 19.
+2026-05-08 07:31:46  ---------------------------
+2026-05-08 07:31:52  Prog : URUS_PA2_BC0_R13_EXT_2025II Skid: 148 Calcul Vol : 447 Color: 19.
+2026-05-08 07:31:52  ---------------------------
+2026-05-08 07:33:46  URUS_PR_EXT1 " Skid: 24 Paint : 374.
+2026-05-08 07:35:23  Prog : URUS_PA2_PR0_R13_EXT_2025 Skid: 103 Calcul Vol : 453 Color: 1.
+2026-05-08 07:35:23  ---------------------------
+2026-05-08 07:35:27  URUS_PR_EXT2 " Skid: 98 Paint : 425.
+2026-05-08 07:35:29  Prog : URUS_PA2_PR0_R13_EXT_2025II Skid: 103 Calcul Vol : 477 Color: 1.
+2026-05-08 07:35:29  ---------------------------
+2026-05-08 07:38:51  URUS_BC_PLA " Skid: 33 Paint : 240.
+2026-05-08 07:42:04 --- Trajectory EXT --- 
+2026-05-08 07:42:04  HURACAN_PRIM_EXT " Skid: 33 Paint : 443.
+2026-05-08 07:42:04 --- --- --- --- 
+2026-05-08 07:44:57  Prog : URUS_PA2_PR0_R13_EXT_2025 Skid: 244 Calcul Vol : 453 Color: 3.
+2026-05-08 07:44:57  ---------------------------
+2026-05-08 07:45:03  Prog : URUS_PA2_PR0_R13_EXT_2025II Skid: 244 Calcul Vol : 477 Color: 3.
+2026-05-08 07:45:03  ---------------------------
+2026-05-08 07:48:33  Prog : URUS_PA2_BC0_R13_EXT_2025 Skid: 80 Calcul Vol : 320 Color: 51.
+2026-05-08 07:48:33  ---------------------------
+2026-05-08 07:48:39  Prog : URUS_PA2_BC0_R13_EXT_2025II Skid: 80 Calcul Vol : 276 Color: 51.
+2026-05-08 07:48:39  ---------------------------
+2026-05-08 07:50:18  URUS_BC_EXT1 " Skid: 148 Paint : 383.
+2026-05-08 07:51:53  URUS_BC_EXT2 " Skid: 103 Paint : 398.
+2026-05-08 07:52:07  Prog : URUS_PA2_PR0_R13_EXT_2025 Skid: 222 Calcul Vol : 453 Color: 1.
+2026-05-08 07:52:07  ---------------------------
+2026-05-08 07:52:13  Prog : URUS_PA2_PR0_R13_EXT_2025II Skid: 222 Calcul Vol : 477 Color: 1.
+2026-05-08 07:52:13  ---------------------------
+2026-05-08 07:55:10  URUS_PR_EXT1 " Skid: 103 Paint : 374.
+2026-05-08 07:56:35  Default Volume : TEM_BC0_R13_EXT Skid: 131.
+2026-05-08 07:56:36  Prog : TEM_BC0_R13_EXT Skid: 131 Calcul Vol : 640 Color: 106.
+2026-05-08 07:56:36  ---------------------------
+2026-05-08 07:56:41  Default Volume : DEFAULT Skid: 131.
+2026-05-08 07:56:43  Prog : DEFAULT Skid: 131 Calcul Vol : 640 Color: 106.
+2026-05-08 07:56:43  ---------------------------
+2026-05-08 07:56:50  URUS_PR_EXT2 " Skid: 244 Paint : 429.
+2026-05-08 07:58:59  Prog : HURACAN_BC0_R23_PLA Skid: 45 Calcul Vol : 411 Color: 106.
+2026-05-08 07:58:59  ---------------------------
+2026-05-08 08:02:15  URUS_PR_EXT1 " Skid: 244 Paint : 374.
+2026-05-08 08:03:56  URUS_PR_EXT2 " Skid: 80 Paint : 427.
+2026-05-08 08:04:57  Default Volume : TEM_PRIM_R13_EXT Skid: 59.
+2026-05-08 08:04:59  Prog : TEM_PRIM_R13_EXT Skid: 59 Calcul Vol : 640 Color: 2.
+2026-05-08 08:04:59  ---------------------------
+2026-05-08 08:07:03  URUS_BC_EXT1 " Skid: 80 Paint : 249.
+2026-05-08 08:08:39  URUS_BC_EXT2 " Skid: 222 Paint : 223.
+2026-05-08 08:09:45  Prog : URUS_PA2_BC23_Plastic Skid: 2 Calcul Vol : 165 Color: 56.
+2026-05-08 08:09:45  ---------------------------
+2026-05-08 08:12:11  URUS_PR_EXT1 " Skid: 222 Paint : 374.
+2026-05-08 08:13:52  URUS_PR_EXT2 " Skid: 131 Paint : 426.
+2026-05-08 08:14:05  Prog : URUS_PA2_BC0_R13_EXT_2025 Skid: 5 Calcul Vol : 255 Color: 56.
+2026-05-08 08:14:05  ---------------------------
+2026-05-08 08:14:10  Prog : URUS_PA2_BC0_R13_EXT_2025II Skid: 5 Calcul Vol : 216 Color: 56.
+2026-05-08 08:14:10  ---------------------------
+2026-05-08 08:17:14 --- Trajectory EXT --- 
+2026-05-08 08:17:14  HURACAN_AP_BC0_R13_EXT1 " Skid: 131 Paint : 374.
+2026-05-08 08:17:51  Prog : URUS_PA2_PR0_R13_EXT_2025 Skid: 145 Calcul Vol : 453 Color: 1.
+2026-05-08 08:17:51  ---------------------------
+2026-05-08 08:17:57  Prog : URUS_PA2_PR0_R13_EXT_2025II Skid: 145 Calcul Vol : 477 Color: 1.
+2026-05-08 08:17:57  ---------------------------
+2026-05-08 08:19:18  HURACAN_AP_BC0_R13_EXT2 " Skid: 131 Paint : 199.
+2026-05-08 08:19:18 --- --- 
+2026-05-08 08:21:37  Prog : URUS_PA2_BC0_R13_EXT_2025 Skid: 207 Calcul Vol : 356 Color: 12.
+2026-05-08 08:21:37  ---------------------------
+2026-05-08 08:21:43  Prog : URUS_PA2_BC0_R13_EXT_2025II Skid: 207 Calcul Vol : 348 Color: 12.
+2026-05-08 08:21:43  ---------------------------
+2026-05-08 08:23:54  HURACAN_BC0_R13_PLA_2 " Skid: 59 Paint : 303.
+2026-05-08 08:23:54 ---  --- 
+2026-05-08 08:25:53  Default Volume : TEM_PRIM_R13_EXT Skid: 204.
+2026-05-08 08:25:54  Prog : TEM_PRIM_R13_EXT Skid: 204 Calcul Vol : 640 Color: 1.
+2026-05-08 08:25:54  ---------------------------
+2026-05-08 08:26:19 --- Trajectory EXT --- 
+2026-05-08 08:26:19  HURACAN_PRIM_EXT " Skid: 59 Paint : 443.
+2026-05-08 08:26:19 --- --- --- --- 
+2026-05-08 08:29:56  Prog : HURACAN_BC0_R23_PLA Skid: 157 Calcul Vol : 260 Color: 21.
+2026-05-08 08:29:56  ---------------------------
+2026-05-08 08:49:33  URUS_PR_EXT1 " Skid: 145 Paint : 374.
+2026-05-08 08:51:14  URUS_PR_EXT2 " Skid: 207 Paint : 427.
+2026-05-08 08:55:25  Prog : URUS_PA2_PR0_R13_EXT_2025 Skid: 49 Calcul Vol : 453 Color: 1.
+2026-05-08 08:55:25  ---------------------------
+2026-05-08 08:55:31  Prog : URUS_PA2_PR0_R13_EXT_2025II Skid: 49 Calcul Vol : 477 Color: 1.
+2026-05-08 08:55:31  ---------------------------
+2026-05-08 08:56:52  URUS_BC_EXT1 " Skid: 207 Paint : 272.
+2026-05-08 08:58:49  URUS_BC_EXT2 " Skid: 204 Paint : 301.
+2026-05-08 08:59:47  Prog : URUS_PA2_BC0_R13_EXT_2025 Skid: 84 Calcul Vol : 362 Color: 5.
+2026-05-08 08:59:47  ---------------------------
+2026-05-08 08:59:53  Prog : URUS_PA2_BC0_R13_EXT_2025II Skid: 84 Calcul Vol : 306 Color: 5.
+2026-05-08 08:59:53  ---------------------------
+2026-05-08 09:01:14 --- Trajectory EXT --- 
+2026-05-08 09:01:14  HURACAN_PRIM_EXT " Skid: 157 Paint : 443.
+2026-05-08 09:01:14 --- --- --- --- 
+2026-05-08 09:02:36  Prog : URUS_PA2_BC23_Plastic Skid: 22 Calcul Vol : 485 Color: 5.
+2026-05-08 09:02:36  ---------------------------
+2026-05-08 09:06:48  HURACAN_BC0_R13_PLA_2 " Skid: 157 Paint : 191.
+2026-05-08 09:06:48 ---  --- 
+2026-05-08 09:14:43  Default Volume : TEM_PRIM_R13_EXT Skid: 163.
+2026-05-08 09:14:45  Prog : TEM_PRIM_R13_EXT Skid: 163 Calcul Vol : 640 Color: 2.
+2026-05-08 09:14:45  ---------------------------
+2026-05-08 09:19:13  Default Volume : TEM_BC0_R13_EXT Skid: 119.
+2026-05-08 09:19:15  Prog : TEM_BC0_R13_EXT Skid: 119 Calcul Vol : 640 Color: 5.
+2026-05-08 09:19:15  ---------------------------
+2026-05-08 09:19:20  Default Volume : DEFAULT Skid: 119.
+2026-05-08 09:19:21  Prog : DEFAULT Skid: 119 Calcul Vol : 640 Color: 5.
+2026-05-08 09:19:21  ---------------------------
+2026-05-08 09:27:18  Default Volume : TEM_PRIM_R13_EXT Skid: 206.
+2026-05-08 09:27:20  Prog : TEM_PRIM_R13_EXT Skid: 206 Calcul Vol : 640 Color: 2.
+2026-05-08 09:27:20  ---------------------------
+2026-05-08 09:29:56  URUS_PR_EXT1 " Skid: 49 Paint : 374.
+2026-05-08 09:31:37  URUS_PR_EXT2 " Skid: 84 Paint : 425.
+2026-05-08 09:32:20  Default Volume : TEM_BC0_R13_EXT Skid: 230.
+2026-05-08 09:32:22  Prog : TEM_BC0_R13_EXT Skid: 230 Calcul Vol : 640 Color: 98.
+2026-05-08 09:32:22  ---------------------------
+2026-05-08 09:32:27  Default Volume : DEFAULT Skid: 230.
+2026-05-08 09:32:29  Prog : DEFAULT Skid: 230 Calcul Vol : 640 Color: 98.
+2026-05-08 09:32:29  ---------------------------
+2026-05-08 09:34:44  URUS_BC_EXT1 " Skid: 84 Paint : 279.
+2026-05-08 09:36:19  URUS_BC_EXT2 " Skid: 22 Paint : 254.
+2026-05-08 09:37:20  Default Volume : TEM_PRIM_R13_EXT Skid: 60.
+2026-05-08 09:37:22  Prog : TEM_PRIM_R13_EXT Skid: 60 Calcul Vol : 640 Color: 1.
+2026-05-08 09:37:22  ---------------------------
+2026-05-08 09:41:29  Prog : URUS_PA2_BC23_Plastic Skid: 169 Calcul Vol : 409 Color: 98.
+2026-05-08 09:41:29  ---------------------------
+2026-05-08 09:41:33  URUS_BC_PLA " Skid: 163 Paint : 433.
+2026-05-08 09:44:02 --- Trajectory EXT --- 
+2026-05-08 09:44:02  HURACAN_PRIM_EXT " Skid: 119 Paint : 443.
+2026-05-08 09:44:02 --- --- --- --- 
+2026-05-08 09:46:34  Prog : URUS_PA2_PR0_R13_EXT_2025 Skid: 56 Calcul Vol : 453 Color: 1.
+2026-05-08 09:46:34  ---------------------------
+2026-05-08 09:46:40  Prog : URUS_PA2_PR0_R13_EXT_2025II Skid: 56 Calcul Vol : 477 Color: 1.
+2026-05-08 09:46:40  ---------------------------
+2026-05-08 09:46:57 --- Trajectory EXT --- 
+2026-05-08 09:46:57  HURACAN_R13_EXT1 " Skid: 119 Paint : 172.
+2026-05-08 09:48:23  HURACAN_R13_EXT2 " Skid: 119 Paint : 112.
+2026-05-08 09:48:23 --- --- 
+2026-05-08 09:51:51 --- Trajectory EXT --- 
+2026-05-08 09:51:51  HURACAN_PRIM_EXT " Skid: 206 Paint : 443.
+2026-05-08 09:51:51 --- --- --- --- 
+2026-05-08 09:55:18  Default Volume : TEM_PRIM_R13_EXT Skid: 166.
+2026-05-08 09:55:20  Prog : TEM_PRIM_R13_EXT Skid: 166 Calcul Vol : 640 Color: 2.
+2026-05-08 09:55:20  ---------------------------
+2026-05-08 09:59:38 --- Trajectory EXT --- 
+2026-05-08 09:59:38  HURACAN_AP_BC0_R13_EXT1 " Skid: 230 Paint : 375.
+2026-05-08 10:00:52  Prog : URUS_PA2_BC23_Plastic Skid: 180 Calcul Vol : 212 Color: 51.
+2026-05-08 10:00:52  ---------------------------
+2026-05-08 10:01:32  HURACAN_AP_BC0_R13_EXT2 " Skid: 230 Paint : 260.
+2026-05-08 10:01:32 --- --- 
+2026-05-08 10:03:59 --- Trajectory EXT --- 
+2026-05-08 10:03:59  HURACAN_PRIM_EXT " Skid: 60 Paint : 443.
+2026-05-08 10:03:59 --- --- --- --- 
+2026-05-08 10:06:32  Default Volume : TEM_PRIM_R13_EXT Skid: 176.
+2026-05-08 10:06:33  Prog : TEM_PRIM_R13_EXT Skid: 176 Calcul Vol : 640 Color: 1.
+2026-05-08 10:06:33  ---------------------------
+2026-05-08 10:14:32  URUS_PR_EXT1 " Skid: 56 Paint : 374.
+2026-05-08 10:16:13  URUS_PR_EXT2 " Skid: 56 Paint : 423.
+2026-05-08 10:18:31  Prog : URUS_PA2_BC23_Plastic Skid: 169 Calcul Vol : 409 Color: 98.
+2026-05-08 10:18:31  ---------------------------
+2026-05-08 10:21:15  Prog : HURACAN_BC0_R23_PLA Skid: 39 Calcul Vol : 479 Color: 28.
+2026-05-08 10:21:15  ---------------------------
+2026-05-08 10:22:56 --- Trajectory EXT --- 
+2026-05-08 10:22:56  HURACAN_PRIM_EXT " Skid: 166 Paint : 443.
+2026-05-08 10:22:56 --- --- --- --- 
+2026-05-08 10:24:42  Default Volume : TEM_BC0_R13_EXT Skid: 149.
+2026-05-08 10:24:44  Prog : TEM_BC0_R13_EXT Skid: 149 Calcul Vol : 640 Color: 28.
+2026-05-08 10:24:44  ---------------------------
+2026-05-08 10:24:49  Default Volume : DEFAULT Skid: 149.
+2026-05-08 10:24:51  Prog : DEFAULT Skid: 149 Calcul Vol : 640 Color: 28.
+2026-05-08 10:24:51  ---------------------------
+2026-05-08 10:29:20  Prog : URUS_PA2_PR0_R13_EXT_2025 Skid: 20 Calcul Vol : 436 Color: 4.
+2026-05-08 10:29:20  ---------------------------
+2026-05-08 10:29:26  Prog : URUS_PA2_PR0_R13_EXT_2025II Skid: 20 Calcul Vol : 442 Color: 4.
+2026-05-08 10:29:26  ---------------------------
+2026-05-08 10:53:40 --- Trajectory EXT --- 
+2026-05-08 10:53:40  HURACAN_PRIM_EXT " Skid: 176 Paint : 443.
+2026-05-08 10:53:40 --- --- --- --- 
+2026-05-08 11:26:44  Prog : URUS_PA2_PR0_R13_EXT_2025 Skid: 158 Calcul Vol : 453 Color: 1.
+2026-05-08 11:26:44  ---------------------------
+2026-05-08 11:26:50  Prog : URUS_PA2_PR0_R13_EXT_2025II Skid: 158 Calcul Vol : 477 Color: 1.
+2026-05-08 11:26:50  ---------------------------
+2026-05-08 11:39:10  Default Volume : TEM_BC0_R13_EXT Skid: 149.
+2026-05-08 11:39:11  Prog : TEM_BC0_R13_EXT Skid: 149 Calcul Vol : 640 Color: 28.
+2026-05-08 11:39:11  ---------------------------
+2026-05-08 11:39:17  Default Volume : DEFAULT Skid: 149.
+2026-05-08 11:39:18  Prog : DEFAULT Skid: 149 Calcul Vol : 640 Color: 28.
+2026-05-08 11:39:18  ---------------------------
+2026-05-08 11:45:42 --- Trajectory EXT --- 
+2026-05-08 11:45:42  HURACAN_AP_BC0_R13_EXT1 " Skid: 149 Paint : 0.
+2026-05-08 11:47:35  HURACAN_AP_BC0_R13_EXT2 " Skid: 149 Paint : 286.
+2026-05-08 11:47:35 --- --- 
+2026-05-08 11:48:24  Default Volume : TEM_BC0_R13_EXT Skid: 195.
+2026-05-08 11:48:25  Prog : TEM_BC0_R13_EXT Skid: 195 Calcul Vol : 640 Color: 145.
+2026-05-08 11:48:25  ---------------------------
+2026-05-08 11:48:30  Default Volume : DEFAULT Skid: 195.
+2026-05-08 11:48:32  Prog : DEFAULT Skid: 195 Calcul Vol : 640 Color: 145.
+2026-05-08 11:48:32  ---------------------------
+2026-05-08 11:51:06  URUS_PR_EXT1 " Skid: 20 Paint : 355.
+2026-05-08 11:52:46  URUS_PR_EXT2 " Skid: 20 Paint : 397.
+2026-05-08 11:57:44  Prog : URUS_PA2_BC0_R13_EXT_2025 Skid: 155 Calcul Vol : 362 Color: 5.
+2026-05-08 11:57:44  ---------------------------
+2026-05-08 11:57:50  Prog : URUS_PA2_BC0_R13_EXT_2025II Skid: 155 Calcul Vol : 306 Color: 5.
+2026-05-08 11:57:50  ---------------------------
+2026-05-08 12:00:05  Default Volume : TEM_PRIM_R13_EXT Skid: 245.
+2026-05-08 12:00:07  Prog : TEM_PRIM_R13_EXT Skid: 245 Calcul Vol : 640 Color: 3.
+2026-05-08 12:00:07  ---------------------------
+2026-05-08 12:03:35  URUS_BC_EXT1 " Skid: 155 Paint : 279.
+2026-05-08 12:05:35  URUS_BC_EXT2 " Skid: 155 Paint : 254.
+2026-05-08 12:06:09  Prog : URUS_PA2_BC0_R13_EXT_2025 Skid: 221 Calcul Vol : 322 Color: 105.
+2026-05-08 12:06:09  ---------------------------
+2026-05-08 12:06:15  Prog : URUS_PA2_BC0_R13_EXT_2025II Skid: 221 Calcul Vol : 341 Color: 105.
+2026-05-08 12:06:15  ---------------------------
+2026-05-08 12:11:29  Prog : URUS_PA2_PR0_R13_EXT_2025 Skid: 29 Calcul Vol : 428 Color: 2.
+2026-05-08 12:11:29  ---------------------------
+2026-05-08 12:11:35  Prog : URUS_PA2_PR0_R13_EXT_2025II Skid: 29 Calcul Vol : 442 Color: 2.
+2026-05-08 12:11:35  ---------------------------
+2026-05-08 12:14:08  URUS_PR_EXT1 " Skid: 158 Paint : 374.
+2026-05-08 12:15:49  URUS_PR_EXT2 " Skid: 195 Paint : 427.
+2026-05-08 12:17:56  Prog : URUS_PA2_BC23_Plastic Skid: 113 Calcul Vol : 304 Color: 68.
+2026-05-08 12:17:56  ---------------------------
+2026-05-08 12:20:10 --- Trajectory EXT --- 
+2026-05-08 12:20:10  HURACAN_AP_BC0_R13_EXT1 " Skid: 195 Paint : 326.
+2026-05-08 12:22:00  Prog : URUS_PA2_BC0_R13_EXT_2025 Skid: 50 Calcul Vol : 463 Color: 68.
+2026-05-08 12:22:00  ---------------------------
+2026-05-08 12:22:04  HURACAN_AP_BC0_R13_EXT2 " Skid: 195 Paint : 242.
+2026-05-08 12:22:04 --- --- 
+2026-05-08 12:22:06  Prog : URUS_PA2_BC0_R13_EXT_2025II Skid: 50 Calcul Vol : 395 Color: 68.
+2026-05-08 12:22:06  ---------------------------
+2026-05-08 12:29:26  Default Volume : TEM_PRIM_R13_EXT Skid: 57.
+2026-05-08 12:29:28  Prog : TEM_PRIM_R13_EXT Skid: 57 Calcul Vol : 640 Color: 3.
+2026-05-08 12:29:28  ---------------------------
+2026-05-08 12:31:52 --- Trajectory EXT --- 
+2026-05-08 12:31:52  HURACAN_PRIM_EXT " Skid: 221 Paint : 443.
+2026-05-08 12:31:52 --- --- --- --- 
+2026-05-08 12:34:21  Prog : URUS_PA2_BC23_Plastic Skid: 186 Calcul Vol : 282 Color: 105.
+2026-05-08 12:34:21  ---------------------------
+2026-05-08 12:36:39  URUS_BC_EXT1 " Skid: 221 Paint : 243.
+2026-05-08 12:38:38  URUS_BC_EXT2 " Skid: 29 Paint : 295.
+2026-05-08 12:42:12  URUS_PR_EXT1 " Skid: 29 Paint : 348.
+2026-05-08 12:43:52  URUS_PR_EXT2 " Skid: 113 Paint : 395.
+2026-05-08 12:47:15  URUS_BC_PLA " Skid: 50 Paint : 257.
+2026-05-08 12:48:13  Prog : URUS_PA2_PR0_R13_EXT_2025 Skid: 31 Calcul Vol : 453 Color: 3.
+2026-05-08 12:48:13  ---------------------------
+2026-05-08 12:48:19  Prog : URUS_PA2_PR0_R13_EXT_2025II Skid: 31 Calcul Vol : 477 Color: 3.
+2026-05-08 12:48:19  ---------------------------
+2026-05-08 12:51:04  URUS_BC_EXT1 " Skid: 50 Paint : 384.
+2026-05-08 12:52:17  Prog : URUS_PA2_PR0_R13_EXT_2025 Skid: 210 Calcul Vol : 453 Color: 1.
+2026-05-08 12:52:17  ---------------------------
+2026-05-08 12:52:23  Prog : URUS_PA2_PR0_R13_EXT_2025II Skid: 210 Calcul Vol : 477 Color: 1.
+2026-05-08 12:52:23  ---------------------------
+2026-05-08 12:52:40  URUS_BC_EXT2 " Skid: 57 Paint : 343.
+2026-05-08 12:56:11 --- Trajectory EXT --- 
+2026-05-08 12:56:11  HURACAN_PRIM_EXT " Skid: 186 Paint : 443.
+2026-05-08 12:56:11 --- --- --- --- 
+2026-05-08 12:56:19  Prog : URUS_PA2_PR0_R13_EXT_2025 Skid: 14 Calcul Vol : 453 Color: 3.
+2026-05-08 12:56:19  ---------------------------
+2026-05-08 12:56:25  Prog : URUS_PA2_PR0_R13_EXT_2025II Skid: 14 Calcul Vol : 477 Color: 3.
+2026-05-08 12:56:25  ---------------------------
+2026-05-08 13:00:27  URUS_BC_PLA " Skid: 31 Paint : 229.
+2026-05-08 13:05:44  URUS_PR_EXT1 " Skid: 31 Paint : 374.
+2026-05-08 13:07:25  URUS_PR_EXT2 " Skid: 210 Paint : 425.
+2026-05-08 13:12:47  URUS_PR_EXT1 " Skid: 210 Paint : 374.
+2026-05-08 13:14:28  URUS_PR_EXT2 " Skid: 210 Paint : 426.
+2026-05-08 13:18:20  URUS_PR_EXT1 " Skid: 14 Paint : 374.
+2026-05-08 13:20:01  URUS_PR_EXT2 " Skid: 14 Paint : 431.
+2026-05-08 13:24:50  Prog : URUS_PA2_BC23_Plastic Skid: 22 Calcul Vol : 335 Color: 19.
+2026-05-08 13:24:50  ---------------------------
+2026-05-08 13:28:40  Prog : URUS_PA2_BC0_R13_EXT_2025 Skid: 212 Calcul Vol : 484 Color: 19.
+2026-05-08 13:28:40  ---------------------------
+2026-05-08 13:28:46  Prog : URUS_PA2_BC0_R13_EXT_2025II Skid: 212 Calcul Vol : 447 Color: 19.
+2026-05-08 13:28:46  ---------------------------
+2026-05-08 13:34:27  Prog : URUS_PA2_BC23_Plastic Skid: 42 Calcul Vol : 159 Color: 106.
+2026-05-08 13:34:27  ---------------------------
+2026-05-08 13:39:30  Prog : URUS_PA2_BC0_R13_EXT_2025 Skid: 122 Calcul Vol : 331 Color: 106.
+2026-05-08 13:39:30  ---------------------------
+2026-05-08 13:39:36  Prog : URUS_PA2_BC0_R13_EXT_2025II Skid: 122 Calcul Vol : 307 Color: 106.
+2026-05-08 13:39:36  ---------------------------
+2026-05-08 14:00:18  Default Volume : TEM_PRIM_R13_EXT Skid: 232.
+2026-05-08 14:00:20  Prog : TEM_PRIM_R13_EXT Skid: 232 Calcul Vol : 640 Color: 1.
+2026-05-08 14:00:20  ---------------------------
+2026-05-08 14:09:14 --- Trajectory Consumption URUS Plastics --- 
+2026-05-08 14:09:14  URUS_PA2_BC0_R13_Plastic " Skid: 42 Paint : 96.
+2026-05-08 14:09:14 ---   --- 
+2026-05-08 14:14:10  URUS_BC_EXT1 " Skid: 122 Paint : 254.
+2026-05-08 14:15:45  URUS_BC_EXT2 " Skid: 232 Paint : 257.
+2026-05-08 14:18:23 --- Trajectory EXT --- 
+2026-05-08 14:18:23  HURACAN_PRIM_EXT " Skid: 232 Paint : 443.
+2026-05-08 14:18:23 --- --- --- --- 
+2026-05-08 15:51:16 --- Trajectory --- 
+2026-05-08 15:51:16 Prog : NOT FOUND & OPT_1 16386 Skid: 280 Paint : 0.
+2026-05-08 16:10:58 Prog : NOT FOUNDII & OPT_1 16386 Skid: 280 Paint : 0 . 
+2026-05-08 17:02:11  URUS_BC_EXT1 " Skid: 280 Paint : 0.
+2026-05-08 17:03:37  URUS_BC_EXT2 " Skid: 280 Paint : 0.
+2026-05-08 17:31:22  URUS_BC_EXT1 " Skid: 281 Paint : 0.
+2026-05-08 17:32:48  URUS_BC_EXT2 " Skid: 281 Paint : 0.
+2026-05-08 17:34:43  URUS_BC_PLA " Skid: 281 Paint : 0.
+2026-05-08 17:36:32  URUS_BC_PLA " Skid: 281 Paint : 0.
+2026-05-08 17:40:39  URUS_BC_PLA " Skid: 281 Paint : 0.
+2026-05-11 06:00:43  Prog : URUS_PA2_PR0_R13_EXT_2025 Skid: 51 Calcul Vol : 453 Color: 1.
+2026-05-11 06:00:43  ---------------------------
+2026-05-11 06:00:49  Prog : URUS_PA2_PR0_R13_EXT_2025II Skid: 51 Calcul Vol : 477 Color: 1.
+2026-05-11 06:00:49  ---------------------------
+2026-05-11 06:04:27  Prog : HURACAN_BC0_R23_PLA Skid: 157 Calcul Vol : 215 Color: 22.
+2026-05-11 06:04:27  ---------------------------
+2026-05-11 06:08:21  Prog : URUS_PA2_PR0_R13_EXT_2025 Skid: 37 Calcul Vol : 453 Color: 1.
+2026-05-11 06:08:21  ---------------------------
+2026-05-11 06:08:26  Prog : URUS_PA2_PR0_R13_EXT_2025II Skid: 37 Calcul Vol : 477 Color: 1.
+2026-05-11 06:08:26  ---------------------------
+2026-05-11 06:18:31  URUS_PR_EXT1 " Skid: 51 Paint : 374.
+2026-05-11 06:20:12  URUS_PR_EXT2 " Skid: 157 Paint : 426.
+2026-05-11 06:21:00  Prog : URUS_PA2_BC23_Plastic Skid: 240 Calcul Vol : 215 Color: 102.
+2026-05-11 06:21:00  ---------------------------
+2026-05-11 06:24:09  HURACAN_BC0_R13_PLA_2 " Skid: 37 Paint : 144.
+2026-05-11 06:24:09 ---  --- 
+2026-05-11 06:29:13  Prog : URUS_PA2_BC0_R13_EXT_2025 Skid: 105 Calcul Vol : 408 Color: 102.
+2026-05-11 06:29:13  ---------------------------
+2026-05-11 06:29:19  Prog : URUS_PA2_BC0_R13_EXT_2025II Skid: 105 Calcul Vol : 323 Color: 102.
+2026-05-11 06:29:19  ---------------------------
+2026-05-11 06:30:23  URUS_PR_EXT1 " Skid: 37 Paint : 374.
+2026-05-11 06:32:04  URUS_PR_EXT2 " Skid: 37 Paint : 425.
+2026-05-11 06:33:08  Prog : URUS_PA2_BC23_Plastic Skid: 98 Calcul Vol : 216 Color: 20.
+2026-05-11 06:33:08  ---------------------------
+2026-05-11 06:37:58  Prog : URUS_PA2_BC0_R13_EXT_2025 Skid: 148 Calcul Vol : 234 Color: 20.
+2026-05-11 06:37:58  ---------------------------
+2026-05-11 06:38:04  Prog : URUS_PA2_BC0_R13_EXT_2025II Skid: 148 Calcul Vol : 194 Color: 20.
+2026-05-11 06:38:04  ---------------------------
+2026-05-11 06:40:36  URUS_BC_PLA " Skid: 240 Paint : 166.
+2026-05-11 06:46:13  Prog : URUS_PA2_BC0_R13_EXT_2025 Skid: 103 Calcul Vol : 362 Color: 5.
+2026-05-11 06:46:13  ---------------------------
+2026-05-11 06:46:19  Prog : URUS_PA2_BC0_R13_EXT_2025II Skid: 103 Calcul Vol : 306 Color: 5.
+2026-05-11 06:46:19  ---------------------------
+2026-05-11 06:46:25  URUS_BC_EXT1 " Skid: 105 Paint : 321.
+2026-05-11 06:48:01  URUS_BC_EXT2 " Skid: 98 Paint : 266.
+2026-05-11 06:50:32  Default Volume : TEM_BC0_R13_EXT Skid: 63.
+2026-05-11 06:50:33  Prog : TEM_BC0_R13_EXT Skid: 63 Calcul Vol : 640 Color: 5.
+2026-05-11 06:50:33  ---------------------------
+2026-05-11 06:50:38  Default Volume : DEFAULT Skid: 63.
+2026-05-11 06:50:40  Prog : DEFAULT Skid: 63 Calcul Vol : 640 Color: 5.
+2026-05-11 06:50:40  ---------------------------
+2026-05-11 06:51:24  URUS_BC_PLA " Skid: 148 Paint : 168.
+2026-05-11 06:53:56  Prog : URUS_PA2_BC23_Plastic Skid: 64 Calcul Vol : 241 Color: 27.
+2026-05-11 06:53:56  ---------------------------
+2026-05-11 06:55:54  URUS_BC_EXT1 " Skid: 148 Paint : 171.
+2026-05-11 06:57:30  URUS_BC_EXT2 " Skid: 148 Paint : 148.
+2026-05-11 06:58:12  Prog : URUS_PA2_BC0_R13_EXT_2025 Skid: 222 Calcul Vol : 480 Color: 27.
+2026-05-11 06:58:12  ---------------------------
+2026-05-11 06:58:18  Prog : URUS_PA2_BC0_R13_EXT_2025II Skid: 222 Calcul Vol : 470 Color: 27.
+2026-05-11 06:58:18  ---------------------------
+2026-05-11 07:01:59  Prog : URUS_PA2_BC23_Plastic Skid: 169 Calcul Vol : 477 Color: 85.
+2026-05-11 07:01:59  ---------------------------
+2026-05-11 07:05:52  Prog : HURACAN_BC0_R23_PLA Skid: 46 Calcul Vol : 339 Color: 9.
+2026-05-11 07:05:52  ---------------------------
+2026-05-11 07:10:48  Default Volume : TEM_BC0_R13_EXT Skid: 85.
+2026-05-11 07:10:49  Prog : TEM_BC0_R13_EXT Skid: 85 Calcul Vol : 640 Color: 9.
+2026-05-11 07:10:49  ---------------------------
+2026-05-11 07:10:54  Default Volume : DEFAULT Skid: 85.
+2026-05-11 07:10:56  Prog : DEFAULT Skid: 85 Calcul Vol : 640 Color: 9.
+2026-05-11 07:10:56  ---------------------------
+2026-05-11 07:21:44  URUS_BC_EXT1 " Skid: 103 Paint : 279.
+2026-05-11 07:23:35  URUS_BC_EXT2 " Skid: 103 Paint : 257.
+2026-05-11 07:31:58 --- Trajectory EXT --- 
+2026-05-11 07:31:58  HURACAN_AP_BC0_R13_EXT1 rep " Skid: 63 Paint : 58.
+2026-05-11 07:33:55  HURACAN_AP_BC0_R13_EXT2 rep " Skid: 63 Paint : 111.
+2026-05-11 07:33:55 --- --- 
+2026-05-11 07:34:06  Prog : URUS_PA2_PR0_R13_EXT_2025 Skid: 171 Calcul Vol : 453 Color: 3.
+2026-05-11 07:34:06  ---------------------------
+2026-05-11 07:34:12  Prog : URUS_PA2_PR0_R13_EXT_2025II Skid: 171 Calcul Vol : 477 Color: 3.
+2026-05-11 07:34:12  ---------------------------
+2026-05-11 07:36:41  URUS_BC_PLA " Skid: 64 Paint : 193.
+2026-05-11 07:39:24  Default Volume : TEM_PRIM_R13_EXT Skid: 172.
+2026-05-11 07:39:26  Prog : TEM_PRIM_R13_EXT Skid: 172 Calcul Vol : 640 Color: 1.
+2026-05-11 07:39:26  ---------------------------
+2026-05-11 07:40:58  URUS_BC_EXT1 " Skid: 222 Paint : 372.
+2026-05-11 07:42:34  URUS_BC_EXT2 " Skid: 169 Paint : 419.
+2026-05-11 07:44:14  Default Volume : TEM_BC0_R13_EXT Skid: 216.
+2026-05-11 07:44:16  Prog : TEM_BC0_R13_EXT Skid: 216 Calcul Vol : 640 Color: 21.
+2026-05-11 07:44:16  ---------------------------
+2026-05-11 07:44:21  Default Volume : DEFAULT Skid: 216.
+2026-05-11 07:44:22  Prog : DEFAULT Skid: 216 Calcul Vol : 640 Color: 21.
+2026-05-11 07:44:22  ---------------------------
+2026-05-11 07:48:33  Prog : URUS_PA2_BC0_R13_EXT_2025 Skid: 24 Calcul Vol : 361 Color: 11.
+2026-05-11 07:48:33  ---------------------------
+2026-05-11 07:48:39  Prog : URUS_PA2_BC0_R13_EXT_2025II Skid: 24 Calcul Vol : 306 Color: 11.
+2026-05-11 07:48:39  ---------------------------
+2026-05-11 07:48:53  URUS_BC_PLA " Skid: 46 Paint : 425.
+2026-05-11 07:53:02  HURACAN_BC0_R13_PLA_2 " Skid: 85 Paint : 235.
+2026-05-11 07:53:02 ---  --- 
+2026-05-11 07:56:38 --- Trajectory EXT --- 
+2026-05-11 07:56:38  HURACAN_AP_BC0_R13_EXT1 " Skid: 85 Paint : 293.
+2026-05-11 07:58:17  Prog : URUS_PA2_BC23_Plastic Skid: 175 Calcul Vol : 422 Color: 21.
+2026-05-11 07:58:17  ---------------------------
+2026-05-11 07:58:32  HURACAN_AP_BC0_R13_EXT2 " Skid: 85 Paint : 186.
+2026-05-11 07:58:32 --- --- 
+2026-05-11 08:01:01  URUS_PR_EXT1 " Skid: 171 Paint : 375.
+2026-05-11 08:02:42  URUS_PR_EXT2 " Skid: 172 Paint : 426.
+2026-05-11 08:03:43  Prog : URUS_PA2_BC0_R13_EXT_2025 Skid: 244 Calcul Vol : 446 Color: 21.
+2026-05-11 08:03:43  ---------------------------
+2026-05-11 08:03:49  Prog : URUS_PA2_BC0_R13_EXT_2025II Skid: 244 Calcul Vol : 429 Color: 21.
+2026-05-11 08:03:49  ---------------------------
+2026-05-11 08:05:17 --- Trajectory EXT --- 
+2026-05-11 08:05:17  HURACAN_PRIM_EXT " Skid: 216 Paint : 443.
+2026-05-11 08:05:17 --- --- --- --- 
+2026-05-11 08:06:43 --- Trajectory EXT --- 
+2026-05-11 08:06:43  HURACAN_AP_BC0_R13_EXT1 rep " Skid: 216 Paint : 0.
+2026-05-11 08:09:44  HURACAN_AP_BC0_R13_EXT2 rep " Skid: 216 Paint : 68.
+2026-05-11 08:09:44 --- --- 
+2026-05-11 08:15:35  Prog : URUS_PA2_BC23_Plastic Skid: 253 Calcul Vol : 519 Color: 27.
+2026-05-11 08:15:35  ---------------------------
+2026-05-11 08:18:21  URUS_BC_EXT1 " Skid: 24 Paint : 279.
+2026-05-11 08:20:01  URUS_BC_EXT2 " Skid: 24 Paint : 254.
+2026-05-11 08:20:45  Prog : URUS_PA2_BC0_R13_EXT_2025 Skid: 49 Calcul Vol : 480 Color: 27.
+2026-05-11 08:20:45  ---------------------------
+2026-05-11 08:20:51  Prog : URUS_PA2_BC0_R13_EXT_2025II Skid: 49 Calcul Vol : 470 Color: 27.
+2026-05-11 08:20:51  ---------------------------
+2026-05-11 08:29:21  URUS_BC_PLA " Skid: 175 Paint : 369.
+2026-05-11 08:32:23  Prog : URUS_PA2_BC23_Plastic Skid: 113 Calcul Vol : 253 Color: 69.
+2026-05-11 08:32:23  ---------------------------
+2026-05-11 08:34:25  URUS_BC_EXT1 " Skid: 244 Paint : 342.
+2026-05-11 08:35:51  Prog : URUS_PA2_BC0_R13_EXT_2025 Skid: 50 Calcul Vol : 301 Color: 69.
+2026-05-11 08:35:51  ---------------------------
+2026-05-11 08:35:57  Prog : URUS_PA2_BC0_R13_EXT_2025II Skid: 50 Calcul Vol : 255 Color: 69.
+2026-05-11 08:35:57  ---------------------------
+2026-05-11 08:36:00  URUS_BC_EXT2 " Skid: 244 Paint : 380.
+2026-05-11 08:39:43  Prog : HURACAN_BC0_R23_PLA Skid: 164 Calcul Vol : 278 Color: 103.
+2026-05-11 08:39:43  ---------------------------
+2026-05-11 08:45:49  URUS_BC_PLA " Skid: 49 Paint : 467.
+2026-05-11 08:46:46  Prog : URUS_PA2_PR0_R13_EXT_2025 Skid: 233 Calcul Vol : 453 Color: 3.
+2026-05-11 08:46:46  ---------------------------
+2026-05-11 08:46:52  Prog : URUS_PA2_PR0_R13_EXT_2025II Skid: 233 Calcul Vol : 477 Color: 3.
+2026-05-11 08:46:52  ---------------------------
+2026-05-11 08:52:30  Prog : HURACAN_BC0_R23_PLA Skid: 110 Calcul Vol : 378 Color: 8.
+2026-05-11 08:52:30  ---------------------------
+2026-05-11 08:53:37  URUS_BC_PLA " Skid: 113 Paint : 205.
+2026-05-11 08:58:42  Prog : URUS_PA2_BC0_R13_EXT_2025 Skid: 49 Calcul Vol : 480 Color: 27.
+2026-05-11 08:58:42  ---------------------------
+2026-05-11 08:58:48  Prog : URUS_PA2_BC0_R13_EXT_2025II Skid: 49 Calcul Vol : 470 Color: 27.
+2026-05-11 08:58:48  ---------------------------
+2026-05-11 09:05:23  Default Volume : TEM_BC0_R13_EXT Skid: 60.
+2026-05-11 09:05:25  Prog : TEM_BC0_R13_EXT Skid: 60 Calcul Vol : 640 Color: 8.
+2026-05-11 09:05:25  ---------------------------
+2026-05-11 09:05:30  Default Volume : DEFAULT Skid: 60.
+2026-05-11 09:05:31  Prog : DEFAULT Skid: 60 Calcul Vol : 640 Color: 8.
+2026-05-11 09:05:31  ---------------------------
+2026-05-11 09:06:59  URUS_BC_EXT1 " Skid: 50 Paint : 229.
+2026-05-11 09:08:35  URUS_BC_EXT2 " Skid: 164 Paint : 208.
+2026-05-11 09:09:44  Default Volume : TEM_PRIM_R13_EXT Skid: 82.
+2026-05-11 09:09:45  Prog : TEM_PRIM_R13_EXT Skid: 82 Calcul Vol : 640 Color: 3.
+2026-05-11 09:09:45  ---------------------------
+2026-05-11 09:16:58  Prog : URUS_PA2_BC23_Plastic Skid: 106 Calcul Vol : 183 Color: 128.
+2026-05-11 09:16:58  ---------------------------
+2026-05-11 09:17:47  HURACAN_BC0_R13_PLA_2 " Skid: 233 Paint : 213.
+2026-05-11 09:17:47 ---  --- 
+2026-05-11 09:20:15  URUS_PR_EXT1 " Skid: 233 Paint : 374.
+2026-05-11 09:21:56  URUS_PR_EXT2 " Skid: 110 Paint : 427.
+2026-05-11 09:23:42  Prog : URUS_PA2_BC0_R13_EXT_2025 Skid: 29 Calcul Vol : 467 Color: 128.
+2026-05-11 09:23:42  ---------------------------
+2026-05-11 09:23:48  Prog : URUS_PA2_BC0_R13_EXT_2025II Skid: 29 Calcul Vol : 408 Color: 128.
+2026-05-11 09:23:48  ---------------------------
+2026-05-11 09:25:27  HURACAN_BC0_R13_PLA_2 " Skid: 49 Paint : 339.
+2026-05-11 09:25:27 ---  --- 
+2026-05-11 09:27:41  Prog : URUS_PA2_BC0_R13_EXT_2025 Skid: 84 Calcul Vol : 362 Color: 5.
+2026-05-11 09:27:41  ---------------------------
+2026-05-11 09:27:47  Prog : URUS_PA2_BC0_R13_EXT_2025II Skid: 84 Calcul Vol : 306 Color: 5.
+2026-05-11 09:27:47  ---------------------------
+2026-05-11 09:29:08  URUS_BC_EXT1 " Skid: 49 Paint : 372.
+2026-05-11 09:30:44  URUS_BC_EXT2 " Skid: 60 Paint : 419.
+2026-05-11 09:31:39  Prog : HURACAN_BC0_R23_PLA Skid: 234 Calcul Vol : 411 Color: 62.
+2026-05-11 09:31:39  ---------------------------
+2026-05-11 09:33:51 --- Trajectory EXT --- 
+2026-05-11 09:33:51  HURACAN_CFK_BC0_EXT1 " Skid: 60 Paint : 228.
+2026-05-11 09:35:04  HURACAN_CFK_BC0_EXT2 " Skid: 60 Paint : 116.
+2026-05-11 09:35:04 --- --- 
+2026-05-11 09:37:07  Default Volume : TEM_BC0_R13_EXT Skid: 166.
+2026-05-11 09:37:09  Prog : TEM_BC0_R13_EXT Skid: 166 Calcul Vol : 640 Color: 62.
+2026-05-11 09:37:09  ---------------------------
+2026-05-11 09:37:14  Default Volume : DEFAULT Skid: 166.
+2026-05-11 09:37:15  Prog : DEFAULT Skid: 166 Calcul Vol : 640 Color: 62.
+2026-05-11 09:37:15  ---------------------------
+2026-05-11 09:37:35 --- Trajectory EXT --- 
+2026-05-11 09:37:35  HURACAN_PRIM_EXT " Skid: 106 Paint : 443.
+2026-05-11 09:37:35 --- --- --- --- 
+2026-05-11 09:40:32  URUS_BC_PLA " Skid: 106 Paint : 133.
+2026-05-11 09:40:43  Prog : URUS_PA2_PR0_R13_EXT_2025 Skid: 219 Calcul Vol : 453 Color: 1.
+2026-05-11 09:40:44  ---------------------------
+2026-05-11 09:40:50  Prog : URUS_PA2_PR0_R13_EXT_2025II Skid: 219 Calcul Vol : 477 Color: 1.
+2026-05-11 09:40:50  ---------------------------
+2026-05-11 09:44:50  URUS_BC_EXT1 " Skid: 29 Paint : 377.
+2026-05-11 09:45:19  Prog : URUS_PA2_BC0_R13_EXT_2025 Skid: 210 Calcul Vol : 361 Color: 11.
+2026-05-11 09:45:19  ---------------------------
+2026-05-11 09:45:25  Prog : URUS_PA2_BC0_R13_EXT_2025II Skid: 210 Calcul Vol : 306 Color: 11.
+2026-05-11 09:45:25  ---------------------------
+2026-05-11 09:46:25  URUS_BC_EXT2 " Skid: 29 Paint : 354.
+2026-05-11 09:50:14  Default Volume : TEM_PRIM_R13_EXT Skid: 218.
+2026-05-11 09:50:15  Prog : TEM_PRIM_R13_EXT Skid: 218 Calcul Vol : 640 Color: 2.
+2026-05-11 09:50:15  ---------------------------
+2026-05-11 09:52:05  URUS_BC_EXT1 " Skid: 84 Paint : 279.
+2026-05-11 09:53:41  URUS_BC_EXT2 " Skid: 234 Paint : 254.
+2026-05-11 09:54:34  Prog : URUS_PA2_BC23_Plastic Skid: 197 Calcul Vol : 332 Color: 66.
+2026-05-11 09:54:34  ---------------------------
+2026-05-11 09:58:59  HURACAN_BC0_R13_PLA_2 " Skid: 234 Paint : 296.
+2026-05-11 09:58:59 ---  --- 
+2026-05-11 10:07:48  Prog : URUS_PA2_BC0_R13_EXT_2025 Skid: 56 Calcul Vol : 447 Color: 66.
+2026-05-11 10:07:48  ---------------------------
+2026-05-11 10:07:54  Prog : URUS_PA2_BC0_R13_EXT_2025II Skid: 56 Calcul Vol : 357 Color: 66.
+2026-05-11 10:07:54  ---------------------------
+2026-05-11 10:10:34 --- Trajectory EXT --- 
+2026-05-11 10:10:34  HURACAN_AP_BC0_R13_EXT1 " Skid: 166 Paint : 320.
+2026-05-11 10:12:29  HURACAN_AP_BC0_R13_EXT2 " Skid: 166 Paint : 187.
+2026-05-11 10:12:29 --- --- 
+2026-05-11 10:14:59  URUS_PR_EXT1 " Skid: 219 Paint : 375.
+2026-05-11 10:15:23  Prog : URUS_PA2_BC0_R13_EXT_2025 Skid: 20 Calcul Vol : 351 Color: 16.
+2026-05-11 10:15:23  ---------------------------
+2026-05-11 10:15:29  Prog : URUS_PA2_BC0_R13_EXT_2025II Skid: 20 Calcul Vol : 285 Color: 16.
+2026-05-11 10:15:29  ---------------------------
+2026-05-11 10:16:39  URUS_PR_EXT2 " Skid: 210 Paint : 426.
+2026-05-11 10:19:51  URUS_BC_EXT1 " Skid: 210 Paint : 279.
+2026-05-11 10:21:30  URUS_BC_EXT2 " Skid: 210 Paint : 260.
+2026-05-11 10:44:05  Prog : URUS_PA2_BC0_R13_EXT_2025 Skid: 37 Calcul Vol : 408 Color: 102.
+2026-05-11 10:44:05  ---------------------------
+2026-05-11 10:44:11  Prog : URUS_PA2_BC0_R13_EXT_2025II Skid: 37 Calcul Vol : 323 Color: 102.
+2026-05-11 10:44:11  ---------------------------
+2026-05-11 10:44:59 --- Trajectory EXT --- 
+2026-05-11 10:44:59  HURACAN_PRIM_EXT " Skid: 218 Paint : 443.
+2026-05-11 10:44:59 --- --- --- --- 
+2026-05-11 10:55:19  Prog : URUS_PA2_BC23_Plastic Skid: 186 Calcul Vol : 215 Color: 102.
+2026-05-11 10:55:19  ---------------------------
+2026-05-11 10:56:38  URUS_BC_PLA " Skid: 56 Paint : 279.
+2026-05-11 11:00:39  URUS_BC_EXT1 " Skid: 56 Paint : 354.
+2026-05-11 11:00:51  Prog : URUS_PA2_BC0_R13_EXT_2025 Skid: 145 Calcul Vol : 307 Color: 11.
+2026-05-11 11:00:51  ---------------------------
+2026-05-11 11:00:57  Prog : URUS_PA2_BC0_R13_EXT_2025II Skid: 145 Calcul Vol : 306 Color: 11.
+2026-05-11 11:00:57  ---------------------------
+2026-05-11 11:02:14  URUS_BC_EXT2 " Skid: 20 Paint : 303.
+2026-05-11 11:05:11  Prog : URUS_PA2_PR0_R13_EXT_2025 Skid: 134 Calcul Vol : 436 Color: 2.
+2026-05-11 11:05:11  ---------------------------
+2026-05-11 11:05:17  Prog : URUS_PA2_PR0_R13_EXT_2025II Skid: 134 Calcul Vol : 442 Color: 2.
+2026-05-11 11:05:17  ---------------------------
+2026-05-11 11:05:33  URUS_BC_EXT1 " Skid: 20 Paint : 275.
+2026-05-11 11:07:09  URUS_BC_EXT2 " Skid: 20 Paint : 235.
+2026-05-11 11:09:18  Prog : URUS_PA2_BC0_R13_EXT_2025 Skid: 158 Calcul Vol : 361 Color: 11.
+2026-05-11 11:09:18  ---------------------------
+2026-05-11 11:09:24  Prog : URUS_PA2_BC0_R13_EXT_2025II Skid: 158 Calcul Vol : 306 Color: 11.
+2026-05-11 11:09:24  ---------------------------
+2026-05-11 11:14:35  Default Volume : TEM_BC0_R13_EXT Skid: 230.
+2026-05-11 11:14:36  Prog : TEM_BC0_R13_EXT Skid: 230 Calcul Vol : 640 Color: 85.
+2026-05-11 11:14:36  ---------------------------
+2026-05-11 11:14:41  Default Volume : DEFAULT Skid: 230.
+2026-05-11 11:14:43  Prog : DEFAULT Skid: 230 Calcul Vol : 640 Color: 85.
+2026-05-11 11:14:43  ---------------------------
+2026-05-11 11:16:39  URUS_BC_EXT1 " Skid: 37 Paint : 321.
+2026-05-11 11:18:14  URUS_BC_EXT2 " Skid: 186 Paint : 273.
+2026-05-11 11:19:18  Prog : HURACAN_BC0_R23_PLA Skid: 39 Calcul Vol : 368 Color: 29.
+2026-05-11 11:19:18  ---------------------------
+2026-05-11 11:21:17  URUS_BC_PLA " Skid: 145 Paint : 166.
+2026-05-11 11:24:49  Default Volume : TEM_BC0_R13_EXT Skid: 149.
+2026-05-11 11:24:50  Prog : TEM_BC0_R13_EXT Skid: 149 Calcul Vol : 640 Color: 29.
+2026-05-11 11:24:50  ---------------------------
+2026-05-11 11:24:55  Default Volume : DEFAULT Skid: 149.
+2026-05-11 11:24:57  Prog : DEFAULT Skid: 149 Calcul Vol : 640 Color: 29.
+2026-05-11 11:24:57  ---------------------------
+2026-05-11 11:25:24  URUS_BC_EXT1 " Skid: 145 Paint : 225.
+2026-05-11 11:26:59  URUS_BC_EXT2 " Skid: 145 Paint : 254.
+2026-05-11 11:33:47  Default Volume : TEM_PRIM_R13_EXT Skid: 202.
+2026-05-11 11:33:49  Prog : TEM_PRIM_R13_EXT Skid: 202 Calcul Vol : 640 Color: 3.
+2026-05-11 11:33:49  ---------------------------
+2026-05-11 11:36:23  URUS_PR_EXT1 " Skid: 134 Paint : 355.
+2026-05-11 11:38:03  URUS_PR_EXT2 " Skid: 158 Paint : 391.
+2026-05-11 11:41:10  Prog : HURACAN_BC0_R23_PLA Skid: 71 Calcul Vol : 551 Color: 52.
+2026-05-11 11:41:10  ---------------------------
+2026-05-11 11:41:12  URUS_BC_EXT1 " Skid: 158 Paint : 278.
+2026-05-11 11:42:48  URUS_BC_EXT2 " Skid: 230 Paint : 260.
+2026-05-11 11:45:40  Default Volume : TEM_BC0_R13_EXT Skid: 245.
+2026-05-11 11:45:42  Prog : TEM_BC0_R13_EXT Skid: 245 Calcul Vol : 640 Color: 52.
+2026-05-11 11:45:42  ---------------------------
+2026-05-11 11:45:47  Default Volume : DEFAULT Skid: 245.
+2026-05-11 11:45:48  Prog : DEFAULT Skid: 245 Calcul Vol : 640 Color: 52.
+2026-05-11 11:45:48  ---------------------------
+2026-05-11 11:46:09 --- Trajectory EXT --- 
+2026-05-11 11:46:09  HURACAN_AP_BC0_R13_EXT1 " Skid: 230 Paint : 398.
+2026-05-11 11:48:03  HURACAN_AP_BC0_R13_EXT2 " Skid: 230 Paint : 275.
+2026-05-11 11:48:03 --- --- 
+2026-05-11 11:49:16  Prog : URUS_PA2_PR0_R13_EXT_2025 Skid: 133 Calcul Vol : 436 Color: 2.
+2026-05-11 11:49:16  ---------------------------
+2026-05-11 11:49:22  Prog : URUS_PA2_PR0_R13_EXT_2025II Skid: 133 Calcul Vol : 442 Color: 2.
+2026-05-11 11:49:22  ---------------------------
+2026-05-11 11:51:57  HURACAN_BC0_R13_PLA_2 " Skid: 149 Paint : 255.
+2026-05-11 11:51:57 ---  --- 
+2026-05-11 11:53:06  Prog : URUS_PA2_BC23_Plastic Skid: 201 Calcul Vol : 232 Color: 66.
+2026-05-11 11:53:06  ---------------------------
+2026-05-11 11:55:09 --- Trajectory EXT --- 
+2026-05-11 11:55:09  HURACAN_AP_BC0_R13_EXT1 " Skid: 149 Paint : 324.
+2026-05-11 11:57:03  HURACAN_AP_BC0_R13_EXT2 " Skid: 149 Paint : 167.
+2026-05-11 11:57:03 --- --- 
+2026-05-11 11:58:13  Prog : URUS_PA2_BC0_R13_EXT_2025 Skid: 139 Calcul Vol : 367 Color: 66.
+2026-05-11 11:58:13  ---------------------------
+2026-05-11 11:58:19  Prog : URUS_PA2_BC0_R13_EXT_2025II Skid: 139 Calcul Vol : 357 Color: 66.
+2026-05-11 11:58:19  ---------------------------
+2026-05-11 11:59:31 --- Trajectory EXT --- 
+2026-05-11 11:59:31  HURACAN_PRIM_EXT " Skid: 71 Paint : 443.
+2026-05-11 11:59:31 --- --- --- --- 
+2026-05-11 12:04:58  Prog : URUS_PA2_BC0_R13_EXT_2025 Skid: 31 Calcul Vol : 362 Color: 6.
+2026-05-11 12:04:58  ---------------------------
+2026-05-11 12:05:04  Prog : URUS_PA2_BC0_R13_EXT_2025II Skid: 31 Calcul Vol : 305 Color: 6.
+2026-05-11 12:05:04  ---------------------------
+2026-05-11 12:06:18  HURACAN_BC0_R13_PLA_2 " Skid: 245 Paint : 406.
+2026-05-11 12:06:18 ---  --- 
+2026-05-11 12:08:25  Default Volume : TEM_PRIM_R13_EXT Skid: 59.
+2026-05-11 12:08:27  Prog : TEM_PRIM_R13_EXT Skid: 59 Calcul Vol : 640 Color: 1.
+2026-05-11 12:08:27  ---------------------------
+2026-05-11 12:09:28 --- Trajectory EXT --- 
+2026-05-11 12:09:28  HURACAN_AP_BC0_R13_EXT1 " Skid: 245 Paint : 477.
+2026-05-11 12:11:22  HURACAN_AP_BC0_R13_EXT2 " Skid: 245 Paint : 296.
+2026-05-11 12:11:22 --- --- 
+2026-05-11 12:13:50  URUS_PR_EXT1 " Skid: 133 Paint : 355.
+2026-05-11 12:15:31  URUS_PR_EXT2 " Skid: 201 Paint : 389.
+2026-05-11 12:16:10  Default Volume : TEM_BC0_R13_EXT Skid: 216.
+2026-05-11 12:16:11  Prog : TEM_BC0_R13_EXT Skid: 216 Calcul Vol : 640 Color: 22.
+2026-05-11 12:16:11  ---------------------------
+2026-05-11 12:16:17  Default Volume : DEFAULT Skid: 216.
+2026-05-11 12:16:18  Prog : DEFAULT Skid: 216 Calcul Vol : 640 Color: 22.
+2026-05-11 12:16:18  ---------------------------
+2026-05-11 12:18:46  URUS_BC_PLA " Skid: 139 Paint : 184.
+2026-05-11 12:20:43  Prog : URUS_PA2_BC23_Plastic Skid: 2 Calcul Vol : 208 Color: 55.
+2026-05-11 12:20:43  ---------------------------
+2026-05-11 12:22:44  URUS_BC_EXT1 " Skid: 139 Paint : 272.
+2026-05-11 12:24:18  Prog : URUS_PA2_BC0_R13_EXT_2025 Skid: 5 Calcul Vol : 294 Color: 55.
+2026-05-11 12:24:18  ---------------------------

@@ -1,0 +1,151 @@
+2025-08-20 14:27:16;StartPos = [90.0012,-0.00128154,54.9999,89.9949,0.00607927,0.00487519]
+2025-08-20 14:27:18;Axis 1 Start
+2025-08-20 14:27:18;Axis 1 Iteration 1 Move Angle = 1.5
+2025-08-20 14:27:19;Axis 1 Engage Brake
+2025-08-20 14:27:21;Axis 1 Delta Move = -0.199615
+2025-08-20 14:27:31;Axis 1 = 0.22 degrees
+2025-08-20 14:27:31;Axis 1 Iteration 2 Move Angle = -1.5
+2025-08-20 14:27:32;Axis 1 Engage Brake
+2025-08-20 14:27:35;Axis 1 Delta Move = -0.199615
+2025-08-20 14:27:44;Axis 1 = 0.19 degrees
+2025-08-20 14:27:45;Axis 1 Iteration 3 Move Angle = 1.5
+2025-08-20 14:27:46;Axis 1 Engage Brake
+2025-08-20 14:27:48;Axis 1 Delta Move = -0.199615
+2025-08-20 14:27:58;Axis 1 = 0.21 degrees
+2025-08-20 14:27:58;Axis 1 Iteration 4 Move Angle = -1.5
+2025-08-20 14:27:59;Axis 1 Engage Brake
+2025-08-20 14:28:02;Axis 1 Delta Move = -0.199615
+2025-08-20 14:28:11;Axis 1 = 0.19 degrees
+2025-08-20 14:28:12;Axis 1 Average = 0.2025 degrees
+2025-08-20 14:28:12;Axis 2 Start
+2025-08-20 14:28:12;Axis 2 Iteration 1 Move Angle = 1.5
+2025-08-20 14:28:13;Axis 2 Engage Brake
+2025-08-20 14:28:15;Axis 2 Delta Move = -0.159692
+2025-08-20 14:28:25;Axis 2 = 0.16 degrees
+2025-08-20 14:28:25;Axis 2 Iteration 2 Move Angle = -1.5
+2025-08-20 14:28:26;Axis 2 Engage Brake
+2025-08-20 14:28:29;Axis 2 Delta Move = -0.159692
+2025-08-20 14:28:38;Axis 2 = 0.19 degrees
+2025-08-20 14:28:39;Axis 2 Iteration 3 Move Angle = 1.5
+2025-08-20 14:28:40;Axis 2 Engage Brake
+2025-08-20 14:28:42;Axis 2 Delta Move = -0.159692
+2025-08-20 14:28:52;Axis 2 = 0.16 degrees
+2025-08-20 14:28:52;Axis 2 Iteration 4 Move Angle = -1.5
+2025-08-20 14:28:53;Axis 2 Engage Brake
+2025-08-20 14:28:56;Axis 2 Delta Move = -0.159692
+2025-08-20 14:29:05;Axis 2 = 0.19 degrees
+2025-08-20 14:29:06;Axis 2 Average = 0.175 degrees
+2025-08-20 14:29:06;Axis 3 Start
+2025-08-20 14:29:06;Axis 3 Iteration 1 Move Angle = 1.5
+2025-08-20 14:35:11;StartPos = [90.0007,-0.0593267,54.0999,89.9951,0.00828134,0.00467674]
+2025-08-20 14:35:13;Axis 1 Start
+2025-08-20 14:35:13;Axis 1 Iteration 1 Move Angle = 1.5
+2025-08-20 14:35:14;Axis 1 Engage Brake
+2025-08-20 14:35:16;Axis 1 Delta Move = -0.199615
+2025-08-20 14:35:26;Axis 1 = 0.22 degrees
+2025-08-20 14:35:26;Axis 1 Iteration 2 Move Angle = -1.5
+2025-08-20 14:35:27;Axis 1 Engage Brake
+2025-08-20 14:35:30;Axis 1 Delta Move = -0.199615
+2025-08-20 14:35:39;Axis 1 = 0.19 degrees
+2025-08-20 14:35:40;Axis 1 Iteration 3 Move Angle = 1.5
+2025-08-20 14:35:41;Axis 1 Engage Brake
+2025-08-20 14:35:43;Axis 1 Delta Move = -0.199615
+2025-08-20 14:35:53;Axis 1 = 0.21 degrees
+2025-08-20 14:35:53;Axis 1 Iteration 4 Move Angle = -1.5
+2025-08-20 14:35:54;Axis 1 Engage Brake
+2025-08-20 14:35:57;Axis 1 Delta Move = -0.199615
+2025-08-20 14:36:06;Axis 1 = 0.19 degrees
+2025-08-20 14:36:07;Axis 1 Average = 0.2025 degrees
+2025-08-20 14:36:07;Axis 2 Start
+2025-08-20 14:36:07;Axis 2 Iteration 1 Move Angle = 1.5
+2025-08-20 14:36:08;Axis 2 Engage Brake
+2025-08-20 14:36:10;Axis 2 Delta Move = -0.159692
+2025-08-20 14:36:20;Axis 2 = 0.16 degrees
+2025-08-20 14:36:20;Axis 2 Iteration 2 Move Angle = -1.5
+2025-08-20 14:36:21;Axis 2 Engage Brake
+2025-08-20 14:36:24;Axis 2 Delta Move = -0.159692
+2025-08-20 14:36:33;Axis 2 = 0.19 degrees
+2025-08-20 14:36:34;Axis 2 Iteration 3 Move Angle = 1.5
+2025-08-20 14:36:35;Axis 2 Engage Brake
+2025-08-20 14:36:37;Axis 2 Delta Move = -0.159692
+2025-08-20 14:36:47;Axis 2 = 0.16 degrees
+2025-08-20 14:36:47;Axis 2 Iteration 4 Move Angle = -1.5
+2025-08-20 14:36:48;Axis 2 Engage Brake
+2025-08-20 14:36:51;Axis 2 Delta Move = -0.159692
+2025-08-20 14:37:00;Axis 2 = 0.19 degrees
+2025-08-20 14:37:01;Axis 2 Average = 0.175 degrees
+2025-08-20 14:37:01;Axis 3 Start
+2025-08-20 14:37:01;Axis 3 Iteration 1 Move Angle = 1.5
+2025-08-20 14:37:02;Axis 3 Engage Brake
+2025-08-20 14:37:04;Axis 3 Delta Move = 0.0601895
+2025-08-20 14:37:14;Axis 3 = 0.15 degrees
+2025-08-20 14:37:14;Axis 3 Iteration 2 Move Angle = -1.5
+2025-08-20 14:37:15;Axis 3 Engage Brake
+2025-08-20 14:37:17;Axis 3 Delta Move = 0.0601895
+2025-08-20 14:37:27;Axis 3 = 0.15 degrees
+2025-08-20 14:37:27;Axis 3 Iteration 3 Move Angle = 1.5
+2025-08-20 14:37:28;Axis 3 Engage Brake
+2025-08-20 14:37:31;Axis 3 Delta Move = 0.0601895
+2025-08-20 14:37:40;Axis 3 = 0.16 degrees
+2025-08-20 14:37:40;Axis 3 Iteration 4 Move Angle = -1.5
+2025-08-20 14:37:41;Axis 3 Engage Brake
+2025-08-20 14:37:44;Axis 3 Delta Move = 0.0601895
+2025-08-20 14:37:53;Axis 3 = 0.16 degrees
+2025-08-20 14:37:53;Axis 3 Average = 0.155 degrees
+2025-08-20 14:37:53;Finished.
+2026-01-02 07:19:41;StartPos = [90.0002,0.000900176,55.0239,90.0106,0.0150264,0.011487]
+2026-01-02 07:19:43;Axis 1 Start
+2026-01-02 07:19:43;Axis 1 Iteration 1 Move Angle = 1.5
+2026-01-02 07:19:44;Axis 1 Engage Brake
+2026-01-02 07:19:46;Axis 1 Delta Move = -0.199615
+2026-01-02 07:19:56;Axis 1 = 0.2 degrees
+2026-01-02 07:19:56;Axis 1 Iteration 2 Move Angle = -1.5
+2026-01-02 07:19:57;Axis 1 Engage Brake
+2026-01-02 07:20:00;Axis 1 Delta Move = -0.199615
+2026-01-02 07:20:09;Axis 1 = 0.18 degrees
+2026-01-02 07:20:10;Axis 1 Iteration 3 Move Angle = 1.5
+2026-01-02 07:20:11;Axis 1 Engage Brake
+2026-01-02 07:20:13;Axis 1 Delta Move = -0.199615
+2026-01-02 07:20:23;Axis 1 = 0.19 degrees
+2026-01-02 07:20:23;Axis 1 Iteration 4 Move Angle = -1.5
+2026-01-02 07:20:24;Axis 1 Engage Brake
+2026-01-02 07:20:27;Axis 1 Delta Move = -0.199615
+2026-01-02 07:20:36;Axis 1 = 0.18 degrees
+2026-01-02 07:20:37;Axis 1 Average = 0.1875 degrees
+2026-01-02 07:20:37;Axis 2 Start
+2026-01-02 07:20:37;Axis 2 Iteration 1 Move Angle = 1.5
+2026-01-02 07:20:38;Axis 2 Engage Brake
+2026-01-02 07:20:40;Axis 2 Delta Move = -0.159692
+2026-01-02 07:20:50;Axis 2 = 0.15 degrees
+2026-01-02 07:20:50;Axis 2 Iteration 2 Move Angle = -1.5
+2026-01-02 07:20:51;Axis 2 Engage Brake
+2026-01-02 07:20:54;Axis 2 Delta Move = -0.159692
+2026-01-02 07:21:03;Axis 2 = 0.18 degrees
+2026-01-02 07:21:04;Axis 2 Iteration 3 Move Angle = 1.5
+2026-01-02 07:21:05;Axis 2 Engage Brake
+2026-01-02 07:21:07;Axis 2 Delta Move = -0.159692
+2026-01-02 07:21:17;Axis 2 = 0.15 degrees
+2026-01-02 07:21:17;Axis 2 Iteration 4 Move Angle = -1.5
+2026-01-02 07:21:18;Axis 2 Engage Brake
+2026-01-02 07:21:21;Axis 2 Delta Move = -0.159692
+2026-01-02 07:21:30;Axis 2 = 0.19 degrees
+2026-01-02 07:21:31;Axis 2 Average = 0.1675 degrees
+2026-01-02 07:21:31;Axis 3 Start
+2026-01-02 07:21:31;Axis 3 Iteration 1 Move Angle = 1.5
+2026-01-02 07:21:32;Axis 3 Engage Brake
+2026-01-02 07:21:34;Axis 3 Delta Move = 0.0601895
+2026-01-02 07:21:44;Axis 3 = 0.16 degrees
+2026-01-02 07:21:44;Axis 3 Iteration 2 Move Angle = -1.5
+2026-01-02 07:21:45;Axis 3 Engage Brake
+2026-01-02 07:21:48;Axis 3 Delta Move = 0.0601895
+2026-01-02 07:21:57;Axis 3 = 0.15 degrees
+2026-01-02 07:21:58;Axis 3 Iteration 3 Move Angle = 1.5
+2026-01-02 07:21:58;Axis 3 Engage Brake
+2026-01-02 07:22:01;Axis 3 Delta Move = 0.0601895
+2026-01-02 07:22:10;Axis 3 = 0.15 degrees
+2026-01-02 07:22:11;Axis 3 Iteration 4 Move Angle = -1.5
+2026-01-02 07:22:12;Axis 3 Engage Brake
+2026-01-02 07:22:14;Axis 3 Delta Move = 0.0601895
+2026-01-02 07:22:24;Axis 3 = 0.15 degrees
+2026-01-02 07:22:24;Axis 3 Average = 0.1525 degrees
+2026-01-02 07:22:24;Finished.

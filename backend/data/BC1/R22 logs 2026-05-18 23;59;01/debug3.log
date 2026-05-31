@@ -1,0 +1,1160 @@
+2026-05-18 22:42:45 Handler State: EXCHANGE_ONE (7) -> START_DCU (8)
+2026-05-18 22:44:00 Handler State: START_DCU (8) -> EXCHANGE_TWO (9)
+2026-05-18 22:44:00 CartMove: Exchange 2
+2026-05-18 22:44:11 CartMoveState: EXCH_1_WAIT (14) -> EXCH_1_CART (15)
+2026-05-18 22:44:14 CartMoveState: EXCH_1_CART (15) -> EXCH_2_MOVE (16)
+2026-05-18 22:44:15 CartMoveState: EXCH_2_MOVE (16) -> EXCH_2_CART (17)
+2026-05-18 22:44:17 CartMoveState: EXCH_2_CART (17) -> STORE_DECIDE (18)
+2026-05-18 22:44:17 Used volume for last job: 197.936
+2026-05-18 22:44:17 Handler State: EXCHANGE_TWO (9) -> WAIT_FOR_DCU (10)
+2026-05-18 22:44:19 Handler State: WAIT_FOR_DCU (10) -> EXCHANGE_THREE (11)
+2026-05-18 22:44:19 CartMove: Exchange 3
+2026-05-18 22:44:19 CartMoveState: STORE_DECIDE (18) -> AUX_DECIDE (5)
+2026-05-18 22:44:19 CartMoveState: AUX_DECIDE (5) -> TO_MOVE (10)
+2026-05-18 22:44:21 CartMoveState: TO_MOVE (10) -> TO_CART (11)
+2026-05-18 22:44:23 CartMoveState: TO_CART (11) -> HOME_MOVE (12)
+2026-05-18 22:44:24 CartMoveState: HOME_MOVE (12) -> HALT (13)
+2026-05-18 22:44:24 CartMoveState: HALT (13) -> IDLE (1)
+2026-05-18 22:44:24 Handler State: EXCHANGE_THREE (11) -> POST_PROCESS (12)
+2026-05-18 22:44:24 Handler State: POST_PROCESS (12) -> MOVE_ARM_HOME (14)
+2026-05-18 22:44:24 Handler State: MOVE_ARM_HOME (14) -> HANDLER_IDLE (1)
+2026-05-18 22:46:06 Handler State: HANDLER_IDLE (1) -> HANDLER_START (2)
+2026-05-18 22:46:07 Handler State: HANDLER_START (2) -> DECIDE_CART (3)
+2026-05-18 22:46:07 Selection: IFS has correct material.
+2026-05-18 22:46:07 Selection: Last resort, just pick the first cartridge.
+2026-05-18 22:46:07 Selected Primary Cartridge: 5
+2026-05-18 22:46:07 Selected Primary Station: 103
+2026-05-18 22:46:07 Selected Secondary Cartridge: 0
+2026-05-18 22:46:07 Selected Secondary Station: 0
+2026-05-18 22:46:07 Selected Filling Volume: 160
+2026-05-18 22:46:07 Handler State: DECIDE_CART (3) -> PLACE_CART (5)
+2026-05-18 22:46:07 CartMove: Move, from 106 to 103
+2026-05-18 22:46:07 CartMoveState: IDLE (1) -> FROM_MOVE (3)
+2026-05-18 22:46:09 CartMoveState: FROM_MOVE (3) -> FROM_CART (4)
+2026-05-18 22:46:11 CartMoveState: FROM_CART (4) -> AUX_DECIDE (5)
+2026-05-18 22:46:11 CartMoveState: AUX_DECIDE (5) -> TO_MOVE (10)
+2026-05-18 22:46:13 CartMoveState: TO_MOVE (10) -> TO_CART (11)
+2026-05-18 22:46:15 CartMoveState: TO_CART (11) -> HOME_MOVE (12)
+2026-05-18 22:46:15 CartMoveState: HOME_MOVE (12) -> HALT (13)
+2026-05-18 22:46:15 CartMoveState: HALT (13) -> IDLE (1)
+2026-05-18 22:46:15 Handler State: PLACE_CART (5) -> CHECK_SEC_CART (26)
+2026-05-18 22:46:15 Handler State: CHECK_SEC_CART (26) -> PROBE_CART (24)
+2026-05-18 22:46:15 CartMove: Exchange 1, from 103
+2026-05-18 22:46:15 CartMoveState: IDLE (1) -> FROM_MOVE (3)
+2026-05-18 22:46:16 CartMoveState: FROM_MOVE (3) -> FROM_PROBE (19)
+2026-05-18 22:46:17 Handler State: PROBE_CART (24) -> PROCESS_CART (6)
+2026-05-18 22:46:49 Setting CBS color valve (FillGate): 2
+2026-05-18 22:46:50 Primed volume (FillGate): 1.25535
+2026-05-18 22:46:50 Re-Calculated Filling Volume: 160
+2026-05-18 22:46:50 Setting CBS color valve (FillCart): 2
+2026-05-18 22:47:03 Handler State: PROCESS_CART (6) -> EXCHANGE_ONE (7)
+2026-05-18 22:47:03 CartMove: Exchange 1, from 103
+2026-05-18 22:47:03 CartMoveState: FROM_PROBE (19) -> FROM_CART (4)
+2026-05-18 22:47:08 Setting CBS color valve (Finished): 0
+2026-05-18 22:47:10 CartMoveState: FROM_CART (4) -> TO_MOVE (10)
+2026-05-18 22:47:11 CartMoveState: TO_MOVE (10) -> EXCH_1_WAIT (14)
+2026-05-18 22:47:11 Handler State: EXCHANGE_ONE (7) -> START_DCU (8)
+2026-05-18 22:47:12 Handler State: START_DCU (8) -> EXCHANGE_TWO (9)
+2026-05-18 22:47:12 CartMove: Exchange 2
+2026-05-18 22:47:12 CartMoveState: EXCH_1_WAIT (14) -> EXCH_1_CART (15)
+2026-05-18 22:47:15 CartMoveState: EXCH_1_CART (15) -> EXCH_2_MOVE (16)
+2026-05-18 22:47:16 CartMoveState: EXCH_2_MOVE (16) -> EXCH_2_CART (17)
+2026-05-18 22:47:18 CartMoveState: EXCH_2_CART (17) -> STORE_DECIDE (18)
+2026-05-18 22:47:18 Used volume for last job: 0
+2026-05-18 22:47:18 Handler State: EXCHANGE_TWO (9) -> WAIT_FOR_DCU (10)
+2026-05-18 22:47:19 Handler State: WAIT_FOR_DCU (10) -> EXCHANGE_THREE (11)
+2026-05-18 22:47:19 CartMove: Exchange 3
+2026-05-18 22:47:19 CartMoveState: STORE_DECIDE (18) -> AUX_DECIDE (5)
+2026-05-18 22:47:19 CartMoveState: AUX_DECIDE (5) -> TO_MOVE (10)
+2026-05-18 22:47:20 CartMoveState: TO_MOVE (10) -> TO_CART (11)
+2026-05-18 22:47:22 CartMoveState: TO_CART (11) -> HOME_MOVE (12)
+2026-05-18 22:47:23 CartMoveState: HOME_MOVE (12) -> HALT (13)
+2026-05-18 22:47:23 CartMoveState: HALT (13) -> IDLE (1)
+2026-05-18 22:47:23 Handler State: EXCHANGE_THREE (11) -> POST_PROCESS (12)
+2026-05-18 22:47:23 Handler State: POST_PROCESS (12) -> MOVE_ARM_HOME (14)
+2026-05-18 22:47:23 Handler State: MOVE_ARM_HOME (14) -> HANDLER_IDLE (1)
+2026-05-18 22:47:29 Handler State: HANDLER_IDLE (1) -> HANDLER_START (2)
+2026-05-18 22:47:30 Handler State: HANDLER_START (2) -> DECIDE_CART (3)
+2026-05-18 22:47:30 Selection: IFS is clean and its cartridge is cleaned.
+2026-05-18 22:47:30 Selected Primary Cartridge: 3
+2026-05-18 22:47:30 Selected Primary Station: 104
+2026-05-18 22:47:30 Selected Secondary Cartridge: 0
+2026-05-18 22:47:30 Selected Secondary Station: 0
+2026-05-18 22:47:30 Selected Filling Volume: 493
+2026-05-18 22:47:30 Handler State: DECIDE_CART (3) -> CHECK_SEC_CART (26)
+2026-05-18 22:47:30 Handler State: CHECK_SEC_CART (26) -> PROBE_CART (24)
+2026-05-18 22:47:30 CartMove: Exchange 1, from 104
+2026-05-18 22:47:30 CartMoveState: IDLE (1) -> FROM_MOVE (3)
+2026-05-18 22:47:31 CartMoveState: FROM_MOVE (3) -> FROM_PROBE (19)
+2026-05-18 22:47:33 Handler State: PROBE_CART (24) -> PROCESS_CART (6)
+2026-05-18 22:47:33 Setting CBS color valve (FillIFS): 2
+2026-05-18 22:47:34 Primed volume (FillIFS): 1.70373
+2026-05-18 22:47:34 Re-Calculated Filling Volume: 493
+2026-05-18 22:47:34 Setting CBS color valve (FillCart): 2
+2026-05-18 22:47:53 Handler State: PROCESS_CART (6) -> EXCHANGE_ONE (7)
+2026-05-18 22:47:53 CartMove: Exchange 1, from 104
+2026-05-18 22:47:53 CartMoveState: FROM_PROBE (19) -> FROM_CART (4)
+2026-05-18 22:47:58 Setting CBS color valve (Finished): 0
+2026-05-18 22:48:00 CartMoveState: FROM_CART (4) -> TO_MOVE (10)
+2026-05-18 22:48:02 CartMoveState: TO_MOVE (10) -> EXCH_1_WAIT (14)
+2026-05-18 22:48:02 Handler State: EXCHANGE_ONE (7) -> START_DCU (8)
+2026-05-18 22:48:21 Handler State: START_DCU (8) -> EXCHANGE_TWO (9)
+2026-05-18 22:48:21 CartMove: Exchange 2
+2026-05-18 22:48:32 CartMoveState: EXCH_1_WAIT (14) -> EXCH_1_CART (15)
+2026-05-18 22:48:35 CartMoveState: EXCH_1_CART (15) -> EXCH_2_MOVE (16)
+2026-05-18 22:48:36 CartMoveState: EXCH_2_MOVE (16) -> EXCH_2_CART (17)
+2026-05-18 22:48:38 CartMoveState: EXCH_2_CART (17) -> STORE_DECIDE (18)
+2026-05-18 22:48:38 Used volume for last job: 112.947
+2026-05-18 22:48:38 Handler State: EXCHANGE_TWO (9) -> WAIT_FOR_DCU (10)
+2026-05-18 22:48:40 Handler State: WAIT_FOR_DCU (10) -> EXCHANGE_THREE (11)
+2026-05-18 22:48:40 CartMove: Exchange 3
+2026-05-18 22:48:40 CartMoveState: STORE_DECIDE (18) -> AUX_DECIDE (5)
+2026-05-18 22:48:40 CartMoveState: AUX_DECIDE (5) -> TO_MOVE (10)
+2026-05-18 22:48:41 CartMoveState: TO_MOVE (10) -> TO_CART (11)
+2026-05-18 22:48:44 CartMoveState: TO_CART (11) -> HOME_MOVE (12)
+2026-05-18 22:48:45 CartMoveState: HOME_MOVE (12) -> HALT (13)
+2026-05-18 22:48:45 CartMoveState: HALT (13) -> IDLE (1)
+2026-05-18 22:48:45 Handler State: EXCHANGE_THREE (11) -> POST_PROCESS (12)
+2026-05-18 22:48:45 Handler State: POST_PROCESS (12) -> MOVE_ARM_HOME (14)
+2026-05-18 22:48:45 Handler State: MOVE_ARM_HOME (14) -> HANDLER_IDLE (1)
+2026-05-18 22:49:39 Handler State: HANDLER_IDLE (1) -> HANDLER_START (2)
+2026-05-18 22:49:40 Handler State: HANDLER_START (2) -> DECIDE_CART (3)
+2026-05-18 22:49:40 Selection: Last resort, just pick the first IFS.
+2026-05-18 22:49:40 Selection: Last resort, just pick the first cartridge.
+2026-05-18 22:49:40 Selected Primary Cartridge: 2
+2026-05-18 22:49:40 Selected Primary Station: 103
+2026-05-18 22:49:40 Selected Secondary Cartridge: 0
+2026-05-18 22:49:40 Selected Secondary Station: 0
+2026-05-18 22:49:40 Selected Filling Volume: 468
+2026-05-18 22:49:40 Handler State: DECIDE_CART (3) -> CHECK_SEC_CART (26)
+2026-05-18 22:49:40 Handler State: CHECK_SEC_CART (26) -> PROBE_CART (24)
+2026-05-18 22:49:40 CartMove: Exchange 1, from 103
+2026-05-18 22:49:40 CartMoveState: IDLE (1) -> FROM_MOVE (3)
+2026-05-18 22:49:40 CartMoveState: FROM_MOVE (3) -> FROM_PROBE (19)
+2026-05-18 22:49:42 Handler State: PROBE_CART (24) -> PROCESS_CART (6)
+2026-05-18 22:50:14 Setting CBS color valve (FillIFS): 1
+2026-05-18 22:50:16 Primed volume (FillIFS): 4.32544
+2026-05-18 22:50:16 Re-Calculated Filling Volume: 468
+2026-05-18 22:50:16 Setting CBS color valve (FillCart): 1
+2026-05-18 22:50:36 Handler State: PROCESS_CART (6) -> EXCHANGE_ONE (7)
+2026-05-18 22:50:36 CartMove: Exchange 1, from 103
+2026-05-18 22:50:36 CartMoveState: FROM_PROBE (19) -> FROM_CART (4)
+2026-05-18 22:50:42 Setting CBS color valve (Finished): 0
+2026-05-18 22:50:43 CartMoveState: FROM_CART (4) -> TO_MOVE (10)
+2026-05-18 22:50:44 CartMoveState: TO_MOVE (10) -> EXCH_1_WAIT (14)
+2026-05-18 22:50:44 Handler State: EXCHANGE_ONE (7) -> START_DCU (8)
+2026-05-18 22:51:41 Handler State: START_DCU (8) -> EXCHANGE_TWO (9)
+2026-05-18 22:51:41 CartMove: Exchange 2
+2026-05-18 22:51:52 CartMoveState: EXCH_1_WAIT (14) -> EXCH_1_CART (15)
+2026-05-18 22:51:54 CartMoveState: EXCH_1_CART (15) -> EXCH_2_MOVE (16)
+2026-05-18 22:51:56 CartMoveState: EXCH_2_MOVE (16) -> EXCH_2_CART (17)
+2026-05-18 22:51:58 CartMoveState: EXCH_2_CART (17) -> STORE_DECIDE (18)
+2026-05-18 22:51:58 Used volume for last job: 438.583
+2026-05-18 22:51:58 Handler State: EXCHANGE_TWO (9) -> WAIT_FOR_DCU (10)
+2026-05-18 22:51:59 Handler State: WAIT_FOR_DCU (10) -> EXCHANGE_THREE (11)
+2026-05-18 22:51:59 CartMove: Exchange 3
+2026-05-18 22:51:59 CartMoveState: STORE_DECIDE (18) -> AUX_DECIDE (5)
+2026-05-18 22:51:59 CartMoveState: AUX_DECIDE (5) -> TO_MOVE (10)
+2026-05-18 22:52:00 CartMoveState: TO_MOVE (10) -> TO_CART (11)
+2026-05-18 22:52:02 CartMoveState: TO_CART (11) -> HOME_MOVE (12)
+2026-05-18 22:52:03 CartMoveState: HOME_MOVE (12) -> HALT (13)
+2026-05-18 22:52:03 CartMoveState: HALT (13) -> IDLE (1)
+2026-05-18 22:52:03 Handler State: EXCHANGE_THREE (11) -> POST_PROCESS (12)
+2026-05-18 22:52:03 Handler State: POST_PROCESS (12) -> MOVE_ARM_HOME (14)
+2026-05-18 22:52:03 Handler State: MOVE_ARM_HOME (14) -> HANDLER_IDLE (1)
+2026-05-18 22:54:36 Handler State: HANDLER_IDLE (1) -> HANDLER_START (2)
+2026-05-18 22:54:37 Handler State: HANDLER_START (2) -> DECIDE_CART (3)
+2026-05-18 22:54:37 Selection: IFS has correct material.
+2026-05-18 22:54:37 Selection: Last resort, just pick the first cartridge.
+2026-05-18 22:54:37 Selected Primary Cartridge: 5
+2026-05-18 22:54:37 Selected Primary Station: 103
+2026-05-18 22:54:37 Selected Secondary Cartridge: 0
+2026-05-18 22:54:37 Selected Secondary Station: 0
+2026-05-18 22:54:37 Selected Filling Volume: 447
+2026-05-18 22:54:37 Handler State: DECIDE_CART (3) -> PLACE_CART (5)
+2026-05-18 22:54:37 CartMove: Move, from 106 to 103
+2026-05-18 22:54:37 CartMoveState: IDLE (1) -> FROM_MOVE (3)
+2026-05-18 22:54:39 CartMoveState: FROM_MOVE (3) -> FROM_CART (4)
+2026-05-18 22:54:41 CartMoveState: FROM_CART (4) -> AUX_DECIDE (5)
+2026-05-18 22:54:41 CartMoveState: AUX_DECIDE (5) -> TO_MOVE (10)
+2026-05-18 22:54:43 CartMoveState: TO_MOVE (10) -> TO_CART (11)
+2026-05-18 22:54:45 CartMoveState: TO_CART (11) -> HOME_MOVE (12)
+2026-05-18 22:54:45 CartMoveState: HOME_MOVE (12) -> HALT (13)
+2026-05-18 22:54:45 CartMoveState: HALT (13) -> IDLE (1)
+2026-05-18 22:54:45 Handler State: PLACE_CART (5) -> CHECK_SEC_CART (26)
+2026-05-18 22:54:45 Handler State: CHECK_SEC_CART (26) -> PROBE_CART (24)
+2026-05-18 22:54:45 CartMove: Exchange 1, from 103
+2026-05-18 22:54:45 CartMoveState: IDLE (1) -> FROM_MOVE (3)
+2026-05-18 22:54:46 CartMoveState: FROM_MOVE (3) -> FROM_PROBE (19)
+2026-05-18 22:54:47 Handler State: PROBE_CART (24) -> PROCESS_CART (6)
+2026-05-18 22:55:19 Setting CBS color valve (FillGate): 1
+2026-05-18 22:55:20 Primed volume (FillGate): 1.38489
+2026-05-18 22:55:20 Re-Calculated Filling Volume: 447
+2026-05-18 22:55:20 Setting CBS color valve (FillCart): 1
+2026-05-18 22:55:39 Handler State: PROCESS_CART (6) -> EXCHANGE_ONE (7)
+2026-05-18 22:55:39 CartMove: Exchange 1, from 103
+2026-05-18 22:55:39 CartMoveState: FROM_PROBE (19) -> FROM_CART (4)
+2026-05-18 22:55:45 Setting CBS color valve (Finished): 0
+2026-05-18 22:55:46 CartMoveState: FROM_CART (4) -> TO_MOVE (10)
+2026-05-18 22:55:48 CartMoveState: TO_MOVE (10) -> EXCH_1_WAIT (14)
+2026-05-18 22:55:48 Handler State: EXCHANGE_ONE (7) -> START_DCU (8)
+2026-05-18 22:56:25 Handler State: START_DCU (8) -> EXCHANGE_TWO (9)
+2026-05-18 22:56:25 CartMove: Exchange 2
+2026-05-18 22:56:27 CartMoveState: EXCH_1_WAIT (14) -> EXCH_1_CART (15)
+2026-05-18 22:56:29 CartMoveState: EXCH_1_CART (15) -> EXCH_2_MOVE (16)
+2026-05-18 22:56:30 CartMoveState: EXCH_2_MOVE (16) -> EXCH_2_CART (17)
+2026-05-18 22:56:32 CartMoveState: EXCH_2_CART (17) -> STORE_DECIDE (18)
+2026-05-18 22:56:32 Used volume for last job: 0
+2026-05-18 22:56:32 Handler State: EXCHANGE_TWO (9) -> WAIT_FOR_DCU (10)
+2026-05-18 22:56:34 Handler State: WAIT_FOR_DCU (10) -> EXCHANGE_THREE (11)
+2026-05-18 22:56:34 CartMove: Exchange 3
+2026-05-18 22:56:34 CartMoveState: STORE_DECIDE (18) -> AUX_DECIDE (5)
+2026-05-18 22:56:34 CartMoveState: AUX_DECIDE (5) -> TO_MOVE (10)
+2026-05-18 22:56:34 CartMoveState: TO_MOVE (10) -> TO_CART (11)
+2026-05-18 22:56:37 CartMoveState: TO_CART (11) -> HOME_MOVE (12)
+2026-05-18 22:56:37 CartMoveState: HOME_MOVE (12) -> HALT (13)
+2026-05-18 22:56:37 CartMoveState: HALT (13) -> IDLE (1)
+2026-05-18 22:56:37 Handler State: EXCHANGE_THREE (11) -> POST_PROCESS (12)
+2026-05-18 22:56:37 Handler State: POST_PROCESS (12) -> MOVE_ARM_HOME (14)
+2026-05-18 22:56:37 Handler State: MOVE_ARM_HOME (14) -> HANDLER_IDLE (1)
+2026-05-18 22:58:10 Handler State: HANDLER_IDLE (1) -> SEMI_START (15)
+2026-05-18 22:58:11 Handler State: SEMI_START (15) -> SEMI_PROBE_CART (25)
+2026-05-18 22:58:14 Handler State: SEMI_PROBE_CART (25) -> SEMI_PROCESS (16)
+2026-05-18 22:59:33 Re-Calculated Filling Volume: 0
+2026-05-18 22:59:40 Setting CBS color valve (Finished): 0
+2026-05-18 22:59:40 Handler State: SEMI_PROCESS (16) -> SEMI_WHAT_NEXT (21)
+2026-05-18 22:59:40 Handler State: SEMI_WHAT_NEXT (21) -> SEMI_FINISHED (23)
+2026-05-18 22:59:41 Handler State: SEMI_FINISHED (23) -> HANDLER_IDLE (1)
+2026-05-18 22:59:44 Handler State: HANDLER_IDLE (1) -> SEMI_START (15)
+2026-05-18 22:59:44 Handler State: SEMI_START (15) -> SEMI_PROBE_CART (25)
+2026-05-18 22:59:48 Handler State: SEMI_PROBE_CART (25) -> SEMI_PROCESS (16)
+2026-05-18 23:00:21 Re-Calculated Filling Volume: 0
+2026-05-18 23:00:26 Setting CBS color valve (Finished): 0
+2026-05-18 23:00:26 Handler State: SEMI_PROCESS (16) -> SEMI_WHAT_NEXT (21)
+2026-05-18 23:00:26 Handler State: SEMI_WHAT_NEXT (21) -> SEMI_FINISHED (23)
+2026-05-18 23:00:27 Handler State: SEMI_FINISHED (23) -> HANDLER_IDLE (1)
+2026-05-18 23:02:39 Handler State: HANDLER_IDLE (1) -> HANDLER_START (2)
+2026-05-18 23:02:40 Handler State: HANDLER_START (2) -> DECIDE_CART (3)
+2026-05-18 23:02:40 Selection: IFS is clean and its cartridge is cleaned.
+2026-05-18 23:02:40 Selected Primary Cartridge: 4
+2026-05-18 23:02:40 Selected Primary Station: 102
+2026-05-18 23:02:40 Selected Secondary Cartridge: 0
+2026-05-18 23:02:40 Selected Secondary Station: 0
+2026-05-18 23:02:40 Selected Filling Volume: 134
+2026-05-18 23:02:40 Handler State: DECIDE_CART (3) -> CHECK_SEC_CART (26)
+2026-05-18 23:02:40 Handler State: CHECK_SEC_CART (26) -> PROBE_CART (24)
+2026-05-18 23:02:40 CartMove: Exchange 1, from 102
+2026-05-18 23:02:40 CartMoveState: IDLE (1) -> FROM_MOVE (3)
+2026-05-18 23:02:41 CartMoveState: FROM_MOVE (3) -> FROM_PROBE (19)
+2026-05-18 23:02:42 Handler State: PROBE_CART (24) -> PROCESS_CART (6)
+2026-05-18 23:02:43 Setting CBS color valve (FillIFS): 1
+2026-05-18 23:02:44 Primed volume (FillIFS): 1.67129
+2026-05-18 23:02:44 Re-Calculated Filling Volume: 134
+2026-05-18 23:02:44 Setting CBS color valve (FillCart): 1
+2026-05-18 23:02:56 Handler State: PROCESS_CART (6) -> EXCHANGE_ONE (7)
+2026-05-18 23:02:57 CartMove: Exchange 1, from 102
+2026-05-18 23:02:57 CartMoveState: FROM_PROBE (19) -> FROM_CART (4)
+2026-05-18 23:03:03 Setting CBS color valve (Finished): 0
+2026-05-18 23:03:05 CartMoveState: FROM_CART (4) -> TO_MOVE (10)
+2026-05-18 23:03:06 CartMoveState: TO_MOVE (10) -> EXCH_1_WAIT (14)
+2026-05-18 23:03:06 Handler State: EXCHANGE_ONE (7) -> START_DCU (8)
+2026-05-18 23:03:06 Handler State: START_DCU (8) -> EXCHANGE_TWO (9)
+2026-05-18 23:03:06 CartMove: Exchange 2
+2026-05-18 23:03:06 CartMoveState: EXCH_1_WAIT (14) -> EXCH_1_CART (15)
+2026-05-18 23:03:09 CartMoveState: EXCH_1_CART (15) -> EXCH_2_MOVE (16)
+2026-05-18 23:03:11 CartMoveState: EXCH_2_MOVE (16) -> EXCH_2_CART (17)
+2026-05-18 23:03:13 CartMoveState: EXCH_2_CART (17) -> STORE_DECIDE (18)
+2026-05-18 23:03:13 Used volume for last job: 394.701
+2026-05-18 23:03:13 Handler State: EXCHANGE_TWO (9) -> WAIT_FOR_DCU (10)
+2026-05-18 23:03:14 Handler State: WAIT_FOR_DCU (10) -> EXCHANGE_THREE (11)
+2026-05-18 23:03:14 CartMove: Exchange 3
+2026-05-18 23:03:14 CartMoveState: STORE_DECIDE (18) -> AUX_DECIDE (5)
+2026-05-18 23:03:14 CartMoveState: AUX_DECIDE (5) -> TO_MOVE (10)
+2026-05-18 23:03:16 CartMoveState: TO_MOVE (10) -> TO_CART (11)
+2026-05-18 23:03:18 CartMoveState: TO_CART (11) -> HOME_MOVE (12)
+2026-05-18 23:03:19 CartMoveState: HOME_MOVE (12) -> HALT (13)
+2026-05-18 23:03:19 CartMoveState: HALT (13) -> IDLE (1)
+2026-05-18 23:03:19 Handler State: EXCHANGE_THREE (11) -> POST_PROCESS (12)
+2026-05-18 23:03:19 Handler State: POST_PROCESS (12) -> MOVE_ARM_HOME (14)
+2026-05-18 23:03:19 Handler State: MOVE_ARM_HOME (14) -> HANDLER_IDLE (1)
+2026-05-18 23:03:51 Handler State: HANDLER_IDLE (1) -> HANDLER_START (2)
+2026-05-18 23:03:52 Handler State: HANDLER_START (2) -> DECIDE_CART (3)
+2026-05-18 23:03:52 Selection: IFS is clean and its cartridge is cleaned.
+2026-05-18 23:03:52 Selected Primary Cartridge: 3
+2026-05-18 23:03:52 Selected Primary Station: 104
+2026-05-18 23:03:52 Selected Secondary Cartridge: 0
+2026-05-18 23:03:52 Selected Secondary Station: 0
+2026-05-18 23:03:52 Selected Filling Volume: 436
+2026-05-18 23:03:52 Handler State: DECIDE_CART (3) -> CHECK_SEC_CART (26)
+2026-05-18 23:03:52 Handler State: CHECK_SEC_CART (26) -> PROBE_CART (24)
+2026-05-18 23:03:52 CartMove: Exchange 1, from 104
+2026-05-18 23:03:52 CartMoveState: IDLE (1) -> FROM_MOVE (3)
+2026-05-18 23:03:53 CartMoveState: FROM_MOVE (3) -> FROM_PROBE (19)
+2026-05-18 23:03:54 Handler State: PROBE_CART (24) -> PROCESS_CART (6)
+2026-05-18 23:03:55 Setting CBS color valve (FillIFS): 1
+2026-05-18 23:03:56 Primed volume (FillIFS): 2.2762
+2026-05-18 23:03:56 Re-Calculated Filling Volume: 436
+2026-05-18 23:03:56 Setting CBS color valve (FillCart): 1
+2026-05-18 23:04:19 Handler State: PROCESS_CART (6) -> EXCHANGE_ONE (7)
+2026-05-18 23:04:19 CartMove: Exchange 1, from 104
+2026-05-18 23:04:19 CartMoveState: FROM_PROBE (19) -> FROM_CART (4)
+2026-05-18 23:04:25 Setting CBS color valve (Finished): 0
+2026-05-18 23:04:27 CartMoveState: FROM_CART (4) -> TO_MOVE (10)
+2026-05-18 23:04:28 CartMoveState: TO_MOVE (10) -> EXCH_1_WAIT (14)
+2026-05-18 23:04:28 Handler State: EXCHANGE_ONE (7) -> START_DCU (8)
+2026-05-18 23:04:36 Handler State: START_DCU (8) -> EXCHANGE_TWO (9)
+2026-05-18 23:04:36 CartMove: Exchange 2
+2026-05-18 23:04:47 CartMoveState: EXCH_1_WAIT (14) -> EXCH_1_CART (15)
+2026-05-18 23:04:50 CartMoveState: EXCH_1_CART (15) -> EXCH_2_MOVE (16)
+2026-05-18 23:04:51 CartMoveState: EXCH_2_MOVE (16) -> EXCH_2_CART (17)
+2026-05-18 23:04:53 CartMoveState: EXCH_2_CART (17) -> STORE_DECIDE (18)
+2026-05-18 23:04:53 Used volume for last job: 84.7887
+2026-05-18 23:04:53 Handler State: EXCHANGE_TWO (9) -> WAIT_FOR_DCU (10)
+2026-05-18 23:04:55 Handler State: WAIT_FOR_DCU (10) -> EXCHANGE_THREE (11)
+2026-05-18 23:04:55 CartMove: Exchange 3
+2026-05-18 23:04:55 CartMoveState: STORE_DECIDE (18) -> AUX_DECIDE (5)
+2026-05-18 23:04:55 CartMoveState: AUX_DECIDE (5) -> TO_MOVE (10)
+2026-05-18 23:04:55 CartMoveState: TO_MOVE (10) -> TO_CART (11)
+2026-05-18 23:04:57 CartMoveState: TO_CART (11) -> HOME_MOVE (12)
+2026-05-18 23:04:57 CartMoveState: HOME_MOVE (12) -> HALT (13)
+2026-05-18 23:04:57 CartMoveState: HALT (13) -> IDLE (1)
+2026-05-18 23:04:57 Handler State: EXCHANGE_THREE (11) -> POST_PROCESS (12)
+2026-05-18 23:04:57 Handler State: POST_PROCESS (12) -> MOVE_ARM_HOME (14)
+2026-05-18 23:04:57 Handler State: MOVE_ARM_HOME (14) -> HANDLER_IDLE (1)
+2026-05-18 23:09:04 Handler State: HANDLER_IDLE (1) -> HANDLER_START (2)
+2026-05-18 23:09:05 Handler State: HANDLER_START (2) -> DECIDE_CART (3)
+2026-05-18 23:09:05 Selection: IFS has correct material.
+2026-05-18 23:09:05 Selection: Cartridge has correct material.
+2026-05-18 23:09:05 Selected Primary Cartridge: 6
+2026-05-18 23:09:05 Selected Primary Station: 104
+2026-05-18 23:09:05 Selected Secondary Cartridge: 0
+2026-05-18 23:09:05 Selected Secondary Station: 0
+2026-05-18 23:09:05 Selected Filling Volume: 477
+2026-05-18 23:09:05 Handler State: DECIDE_CART (3) -> PLACE_CART (5)
+2026-05-18 23:09:05 CartMove: Move, from 107 to 104
+2026-05-18 23:09:05 CartMoveState: IDLE (1) -> FROM_MOVE (3)
+2026-05-18 23:09:07 CartMoveState: FROM_MOVE (3) -> FROM_CART (4)
+2026-05-18 23:09:09 CartMoveState: FROM_CART (4) -> AUX_DECIDE (5)
+2026-05-18 23:09:09 CartMoveState: AUX_DECIDE (5) -> TO_MOVE (10)
+2026-05-18 23:09:11 CartMoveState: TO_MOVE (10) -> TO_CART (11)
+2026-05-18 23:09:13 CartMoveState: TO_CART (11) -> HOME_MOVE (12)
+2026-05-18 23:09:14 CartMoveState: HOME_MOVE (12) -> HALT (13)
+2026-05-18 23:09:14 CartMoveState: HALT (13) -> IDLE (1)
+2026-05-18 23:09:14 Handler State: PLACE_CART (5) -> CHECK_SEC_CART (26)
+2026-05-18 23:09:14 Handler State: CHECK_SEC_CART (26) -> PROBE_CART (24)
+2026-05-18 23:09:14 CartMove: Exchange 1, from 104
+2026-05-18 23:09:14 CartMoveState: IDLE (1) -> FROM_MOVE (3)
+2026-05-18 23:09:15 CartMoveState: FROM_MOVE (3) -> FROM_PROBE (19)
+2026-05-18 23:09:16 Handler State: PROBE_CART (24) -> PROCESS_CART (6)
+2026-05-18 23:10:12 Setting CBS color valve (FillGate): 1
+2026-05-18 23:10:13 Primed volume (FillGate): 1.30589
+2026-05-18 23:10:13 Re-Calculated Filling Volume: 477
+2026-05-18 23:10:13 Setting CBS color valve (FillCart): 1
+2026-05-18 23:10:35 Handler State: PROCESS_CART (6) -> EXCHANGE_ONE (7)
+2026-05-18 23:10:35 CartMove: Exchange 1, from 104
+2026-05-18 23:10:35 CartMoveState: FROM_PROBE (19) -> FROM_CART (4)
+2026-05-18 23:10:41 Setting CBS color valve (Finished): 0
+2026-05-18 23:10:42 CartMoveState: FROM_CART (4) -> TO_MOVE (10)
+2026-05-18 23:10:44 CartMoveState: TO_MOVE (10) -> EXCH_1_WAIT (14)
+2026-05-18 23:10:44 Handler State: EXCHANGE_ONE (7) -> START_DCU (8)
+2026-05-18 23:10:59 Handler State: START_DCU (8) -> EXCHANGE_TWO (9)
+2026-05-18 23:10:59 CartMove: Exchange 2
+2026-05-18 23:11:00 CartMoveState: EXCH_1_WAIT (14) -> EXCH_1_CART (15)
+2026-05-18 23:11:03 CartMoveState: EXCH_1_CART (15) -> EXCH_2_MOVE (16)
+2026-05-18 23:11:04 CartMoveState: EXCH_2_MOVE (16) -> EXCH_2_CART (17)
+2026-05-18 23:11:06 CartMoveState: EXCH_2_CART (17) -> STORE_DECIDE (18)
+2026-05-18 23:11:06 Used volume for last job: 0
+2026-05-18 23:11:06 Handler State: EXCHANGE_TWO (9) -> WAIT_FOR_DCU (10)
+2026-05-18 23:11:08 Handler State: WAIT_FOR_DCU (10) -> EXCHANGE_THREE (11)
+2026-05-18 23:11:08 CartMove: Exchange 3
+2026-05-18 23:11:08 CartMoveState: STORE_DECIDE (18) -> AUX_DECIDE (5)
+2026-05-18 23:11:08 CartMoveState: AUX_DECIDE (5) -> TO_MOVE (10)
+2026-05-18 23:11:09 CartMoveState: TO_MOVE (10) -> TO_CART (11)
+2026-05-18 23:11:11 CartMoveState: TO_CART (11) -> HOME_MOVE (12)
+2026-05-18 23:11:12 CartMoveState: HOME_MOVE (12) -> HALT (13)
+2026-05-18 23:11:12 CartMoveState: HALT (13) -> IDLE (1)
+2026-05-18 23:11:12 Handler State: EXCHANGE_THREE (11) -> POST_PROCESS (12)
+2026-05-18 23:11:12 Handler State: POST_PROCESS (12) -> MOVE_ARM_HOME (14)
+2026-05-18 23:11:12 Handler State: MOVE_ARM_HOME (14) -> HANDLER_IDLE (1)
+2026-05-18 23:11:17 Handler State: HANDLER_IDLE (1) -> HANDLER_START (2)
+2026-05-18 23:11:18 Handler State: HANDLER_START (2) -> DECIDE_CART (3)
+2026-05-18 23:11:18 Selection: Last resort, just pick the first IFS.
+2026-05-18 23:11:18 Selection: Last resort, just pick the first cartridge.
+2026-05-18 23:11:18 Selected Primary Cartridge: 2
+2026-05-18 23:11:18 Selected Primary Station: 103
+2026-05-18 23:11:18 Selected Secondary Cartridge: 0
+2026-05-18 23:11:18 Selected Secondary Station: 0
+2026-05-18 23:11:18 Selected Filling Volume: 371
+2026-05-18 23:11:18 Handler State: DECIDE_CART (3) -> CHECK_SEC_CART (26)
+2026-05-18 23:11:18 Handler State: CHECK_SEC_CART (26) -> PROBE_CART (24)
+2026-05-18 23:11:18 CartMove: Exchange 1, from 103
+2026-05-18 23:11:18 CartMoveState: IDLE (1) -> FROM_MOVE (3)
+2026-05-18 23:11:18 CartMoveState: FROM_MOVE (3) -> FROM_PROBE (19)
+2026-05-18 23:11:20 Handler State: PROBE_CART (24) -> PROCESS_CART (6)
+2026-05-18 23:11:52 Setting CBS color valve (FillIFS): 2
+2026-05-18 23:11:54 Primed volume (FillIFS): 0.201097
+2026-05-18 23:11:54 Re-Calculated Filling Volume: 371
+2026-05-18 23:11:54 Setting CBS color valve (FillCart): 2
+2026-05-18 23:12:12 Handler State: PROCESS_CART (6) -> EXCHANGE_ONE (7)
+2026-05-18 23:12:12 CartMove: Exchange 1, from 103
+2026-05-18 23:12:12 CartMoveState: FROM_PROBE (19) -> FROM_CART (4)
+2026-05-18 23:12:18 Setting CBS color valve (Finished): 0
+2026-05-18 23:12:20 CartMoveState: FROM_CART (4) -> TO_MOVE (10)
+2026-05-18 23:12:21 CartMoveState: TO_MOVE (10) -> EXCH_1_WAIT (14)
+2026-05-18 23:12:21 Handler State: EXCHANGE_ONE (7) -> START_DCU (8)
+2026-05-18 23:12:45 Handler State: START_DCU (8) -> EXCHANGE_TWO (9)
+2026-05-18 23:12:45 CartMove: Exchange 2
+2026-05-18 23:12:56 CartMoveState: EXCH_1_WAIT (14) -> EXCH_1_CART (15)
+2026-05-18 23:12:59 CartMoveState: EXCH_1_CART (15) -> EXCH_2_MOVE (16)
+2026-05-18 23:13:00 CartMoveState: EXCH_2_MOVE (16) -> EXCH_2_CART (17)
+2026-05-18 23:13:02 CartMoveState: EXCH_2_CART (17) -> STORE_DECIDE (18)
+2026-05-18 23:13:02 Used volume for last job: 425.169
+2026-05-18 23:13:02 Handler State: EXCHANGE_TWO (9) -> WAIT_FOR_DCU (10)
+2026-05-18 23:13:04 Handler State: WAIT_FOR_DCU (10) -> EXCHANGE_THREE (11)
+2026-05-18 23:13:04 CartMove: Exchange 3
+2026-05-18 23:13:04 CartMoveState: STORE_DECIDE (18) -> AUX_DECIDE (5)
+2026-05-18 23:13:04 CartMoveState: AUX_DECIDE (5) -> TO_MOVE (10)
+2026-05-18 23:13:06 CartMoveState: TO_MOVE (10) -> TO_CART (11)
+2026-05-18 23:13:08 CartMoveState: TO_CART (11) -> HOME_MOVE (12)
+2026-05-18 23:13:09 CartMoveState: HOME_MOVE (12) -> HALT (13)
+2026-05-18 23:13:09 CartMoveState: HALT (13) -> IDLE (1)
+2026-05-18 23:13:09 Handler State: EXCHANGE_THREE (11) -> POST_PROCESS (12)
+2026-05-18 23:13:09 Handler State: POST_PROCESS (12) -> MOVE_ARM_HOME (14)
+2026-05-18 23:13:09 Handler State: MOVE_ARM_HOME (14) -> HANDLER_IDLE (1)
+2026-05-18 23:13:58 Handler State: HANDLER_IDLE (1) -> HANDLER_START (2)
+2026-05-18 23:13:59 Handler State: HANDLER_START (2) -> DECIDE_CART (3)
+2026-05-18 23:13:59 Selection: IFS has correct material.
+2026-05-18 23:13:59 Selection: Last resort, just pick the first cartridge.
+2026-05-18 23:13:59 Selected Primary Cartridge: 5
+2026-05-18 23:13:59 Selected Primary Station: 103
+2026-05-18 23:13:59 Selected Secondary Cartridge: 0
+2026-05-18 23:13:59 Selected Secondary Station: 0
+2026-05-18 23:13:59 Selected Filling Volume: 305
+2026-05-18 23:13:59 Handler State: DECIDE_CART (3) -> PLACE_CART (5)
+2026-05-18 23:13:59 CartMove: Move, from 106 to 103
+2026-05-18 23:13:59 CartMoveState: IDLE (1) -> FROM_MOVE (3)
+2026-05-18 23:14:01 CartMoveState: FROM_MOVE (3) -> FROM_CART (4)
+2026-05-18 23:14:03 CartMoveState: FROM_CART (4) -> AUX_DECIDE (5)
+2026-05-18 23:14:03 CartMoveState: AUX_DECIDE (5) -> TO_MOVE (10)
+2026-05-18 23:14:05 CartMoveState: TO_MOVE (10) -> TO_CART (11)
+2026-05-18 23:14:07 CartMoveState: TO_CART (11) -> HOME_MOVE (12)
+2026-05-18 23:14:07 CartMoveState: HOME_MOVE (12) -> HALT (13)
+2026-05-18 23:14:07 CartMoveState: HALT (13) -> IDLE (1)
+2026-05-18 23:14:07 Handler State: PLACE_CART (5) -> CHECK_SEC_CART (26)
+2026-05-18 23:14:07 Handler State: CHECK_SEC_CART (26) -> PROBE_CART (24)
+2026-05-18 23:14:07 CartMove: Exchange 1, from 103
+2026-05-18 23:14:07 CartMoveState: IDLE (1) -> FROM_MOVE (3)
+2026-05-18 23:14:07 CartMoveState: FROM_MOVE (3) -> FROM_PROBE (19)
+2026-05-18 23:14:09 Handler State: PROBE_CART (24) -> PROCESS_CART (6)
+2026-05-18 23:14:40 Setting CBS color valve (FillGate): 2
+2026-05-18 23:14:41 Primed volume (FillGate): 1.35659
+2026-05-18 23:14:41 Re-Calculated Filling Volume: 305
+2026-05-18 23:14:41 Setting CBS color valve (FillCart): 2
+2026-05-18 23:14:58 Handler State: PROCESS_CART (6) -> EXCHANGE_ONE (7)
+2026-05-18 23:14:58 CartMove: Exchange 1, from 103
+2026-05-18 23:14:58 CartMoveState: FROM_PROBE (19) -> FROM_CART (4)
+2026-05-18 23:15:04 Setting CBS color valve (Finished): 0
+2026-05-18 23:15:05 CartMoveState: FROM_CART (4) -> TO_MOVE (10)
+2026-05-18 23:15:07 CartMoveState: TO_MOVE (10) -> EXCH_1_WAIT (14)
+2026-05-18 23:15:07 Handler State: EXCHANGE_ONE (7) -> START_DCU (8)
+2026-05-18 23:15:45 Handler State: START_DCU (8) -> EXCHANGE_TWO (9)
+2026-05-18 23:15:45 CartMove: Exchange 2
+2026-05-18 23:15:46 CartMoveState: EXCH_1_WAIT (14) -> EXCH_1_CART (15)
+2026-05-18 23:15:49 CartMoveState: EXCH_1_CART (15) -> EXCH_2_MOVE (16)
+2026-05-18 23:15:50 CartMoveState: EXCH_2_MOVE (16) -> EXCH_2_CART (17)
+2026-05-18 23:15:52 CartMoveState: EXCH_2_CART (17) -> STORE_DECIDE (18)
+2026-05-18 23:15:52 Used volume for last job: 0
+2026-05-18 23:15:52 Handler State: EXCHANGE_TWO (9) -> WAIT_FOR_DCU (10)
+2026-05-18 23:15:53 Handler State: WAIT_FOR_DCU (10) -> EXCHANGE_THREE (11)
+2026-05-18 23:15:53 CartMove: Exchange 3
+2026-05-18 23:15:53 CartMoveState: STORE_DECIDE (18) -> AUX_DECIDE (5)
+2026-05-18 23:15:53 CartMoveState: AUX_DECIDE (5) -> TO_MOVE (10)
+2026-05-18 23:15:54 CartMoveState: TO_MOVE (10) -> TO_CART (11)
+2026-05-18 23:15:56 CartMoveState: TO_CART (11) -> HOME_MOVE (12)
+2026-05-18 23:15:57 CartMoveState: HOME_MOVE (12) -> HALT (13)
+2026-05-18 23:15:57 CartMoveState: HALT (13) -> IDLE (1)
+2026-05-18 23:15:57 Handler State: EXCHANGE_THREE (11) -> POST_PROCESS (12)
+2026-05-18 23:15:57 Handler State: POST_PROCESS (12) -> MOVE_ARM_HOME (14)
+2026-05-18 23:15:57 Handler State: MOVE_ARM_HOME (14) -> HANDLER_IDLE (1)
+2026-05-18 23:16:18 Handler State: HANDLER_IDLE (1) -> HANDLER_START (2)
+2026-05-18 23:16:19 Handler State: HANDLER_START (2) -> DECIDE_CART (3)
+2026-05-18 23:16:19 Selection: Last resort, just pick the first IFS.
+2026-05-18 23:16:19 Selection: Cartridge has correct material.
+2026-05-18 23:16:19 Selected Primary Cartridge: 1
+2026-05-18 23:16:19 Selected Primary Station: 102
+2026-05-18 23:16:19 Selected Secondary Cartridge: 0
+2026-05-18 23:16:19 Selected Secondary Station: 0
+2026-05-18 23:16:19 Selected Filling Volume: 362
+2026-05-18 23:16:19 Handler State: DECIDE_CART (3) -> REMOVE_CART (4)
+2026-05-18 23:16:19 CartMove: Move, from 102 to 108
+2026-05-18 23:16:19 CartMoveState: IDLE (1) -> FROM_MOVE (3)
+2026-05-18 23:16:19 CartMoveState: FROM_MOVE (3) -> FROM_CART (4)
+2026-05-18 23:16:22 CartMoveState: FROM_CART (4) -> AUX_DECIDE (5)
+2026-05-18 23:16:22 CartMoveState: AUX_DECIDE (5) -> TO_MOVE (10)
+2026-05-18 23:16:24 CartMoveState: TO_MOVE (10) -> TO_CART (11)
+2026-05-18 23:16:26 CartMoveState: TO_CART (11) -> HOME_MOVE (12)
+2026-05-18 23:16:28 CartMoveState: HOME_MOVE (12) -> HALT (13)
+2026-05-18 23:16:28 CartMoveState: HALT (13) -> IDLE (1)
+2026-05-18 23:16:28 Handler State: REMOVE_CART (4) -> PLACE_CART (5)
+2026-05-18 23:16:28 CartMove: Move, from 105 to 102
+2026-05-18 23:16:28 CartMoveState: IDLE (1) -> FROM_MOVE (3)
+2026-05-18 23:16:29 CartMoveState: FROM_MOVE (3) -> FROM_CART (4)
+2026-05-18 23:16:31 CartMoveState: FROM_CART (4) -> AUX_DECIDE (5)
+2026-05-18 23:16:31 CartMoveState: AUX_DECIDE (5) -> TO_MOVE (10)
+2026-05-18 23:16:33 CartMoveState: TO_MOVE (10) -> TO_CART (11)
+2026-05-18 23:16:35 CartMoveState: TO_CART (11) -> HOME_MOVE (12)
+2026-05-18 23:16:36 CartMoveState: HOME_MOVE (12) -> HALT (13)
+2026-05-18 23:16:36 CartMoveState: HALT (13) -> IDLE (1)
+2026-05-18 23:16:36 Handler State: PLACE_CART (5) -> CHECK_SEC_CART (26)
+2026-05-18 23:16:36 Handler State: CHECK_SEC_CART (26) -> PROBE_CART (24)
+2026-05-18 23:16:36 CartMove: Exchange 1, from 102
+2026-05-18 23:16:36 CartMoveState: IDLE (1) -> FROM_MOVE (3)
+2026-05-18 23:16:37 CartMoveState: FROM_MOVE (3) -> FROM_PROBE (19)
+2026-05-18 23:16:38 Handler State: PROBE_CART (24) -> PROCESS_CART (6)
+2026-05-18 23:17:15 Setting CBS color valve (FillIFS): 1
+2026-05-18 23:17:16 Primed volume (FillIFS): 4.40683
+2026-05-18 23:17:16 Re-Calculated Filling Volume: 362
+2026-05-18 23:17:16 Setting CBS color valve (FillCart): 1
+2026-05-18 23:17:34 Handler State: PROCESS_CART (6) -> EXCHANGE_ONE (7)
+2026-05-18 23:17:34 CartMove: Exchange 1, from 102
+2026-05-18 23:17:34 CartMoveState: FROM_PROBE (19) -> FROM_CART (4)
+2026-05-18 23:17:41 Setting CBS color valve (Finished): 0
+2026-05-18 23:17:43 CartMoveState: FROM_CART (4) -> TO_MOVE (10)
+2026-05-18 23:17:44 CartMoveState: TO_MOVE (10) -> EXCH_1_WAIT (14)
+2026-05-18 23:17:44 Handler State: EXCHANGE_ONE (7) -> START_DCU (8)
+2026-05-18 23:17:44 Handler State: START_DCU (8) -> EXCHANGE_TWO (9)
+2026-05-18 23:17:44 CartMove: Exchange 2
+2026-05-18 23:17:44 CartMoveState: EXCH_1_WAIT (14) -> EXCH_1_CART (15)
+2026-05-18 23:17:47 CartMoveState: EXCH_1_CART (15) -> EXCH_2_MOVE (16)
+2026-05-18 23:17:47 CartMoveState: EXCH_2_MOVE (16) -> EXCH_2_CART (17)
+2026-05-18 23:17:49 CartMoveState: EXCH_2_CART (17) -> STORE_DECIDE (18)
+2026-05-18 23:17:49 Used volume for last job: 253.326
+2026-05-18 23:17:49 Handler State: EXCHANGE_TWO (9) -> WAIT_FOR_DCU (10)
+2026-05-18 23:17:51 Handler State: WAIT_FOR_DCU (10) -> EXCHANGE_THREE (11)
+2026-05-18 23:17:51 CartMove: Exchange 3
+2026-05-18 23:17:51 CartMoveState: STORE_DECIDE (18) -> AUX_DECIDE (5)
+2026-05-18 23:17:51 CartMoveState: AUX_DECIDE (5) -> TO_MOVE (10)
+2026-05-18 23:17:53 CartMoveState: TO_MOVE (10) -> TO_CART (11)
+2026-05-18 23:17:55 CartMoveState: TO_CART (11) -> HOME_MOVE (12)
+2026-05-18 23:17:56 CartMoveState: HOME_MOVE (12) -> HALT (13)
+2026-05-18 23:17:56 CartMoveState: HALT (13) -> IDLE (1)
+2026-05-18 23:17:56 Handler State: EXCHANGE_THREE (11) -> POST_PROCESS (12)
+2026-05-18 23:17:56 Handler State: POST_PROCESS (12) -> EMPTY_AUX (13)
+2026-05-18 23:17:56 CartMove: Move, from 108 to 102
+2026-05-18 23:17:56 CartMoveState: IDLE (1) -> FROM_MOVE (3)
+2026-05-18 23:17:58 CartMoveState: FROM_MOVE (3) -> FROM_CART (4)
+2026-05-18 23:18:01 CartMoveState: FROM_CART (4) -> AUX_DECIDE (5)
+2026-05-18 23:18:01 CartMoveState: AUX_DECIDE (5) -> TO_MOVE (10)
+2026-05-18 23:18:02 CartMoveState: TO_MOVE (10) -> TO_CART (11)
+2026-05-18 23:18:05 CartMoveState: TO_CART (11) -> HOME_MOVE (12)
+2026-05-18 23:18:06 CartMoveState: HOME_MOVE (12) -> HALT (13)
+2026-05-18 23:18:06 CartMoveState: HALT (13) -> IDLE (1)
+2026-05-18 23:18:06 Handler State: EMPTY_AUX (13) -> MOVE_ARM_HOME (14)
+2026-05-18 23:18:06 Handler State: MOVE_ARM_HOME (14) -> HANDLER_IDLE (1)
+2026-05-18 23:21:08 Handler State: HANDLER_IDLE (1) -> HANDLER_START (2)
+2026-05-18 23:21:09 Handler State: HANDLER_START (2) -> DECIDE_CART (3)
+2026-05-18 23:21:09 Selection: IFS has correct material.
+2026-05-18 23:21:09 Selection: Last resort, just pick the first cartridge.
+2026-05-18 23:21:09 Selected Primary Cartridge: 4
+2026-05-18 23:21:09 Selected Primary Station: 102
+2026-05-18 23:21:09 Selected Secondary Cartridge: 0
+2026-05-18 23:21:09 Selected Secondary Station: 0
+2026-05-18 23:21:09 Selected Filling Volume: 352
+2026-05-18 23:21:09 Handler State: DECIDE_CART (3) -> CHECK_SEC_CART (26)
+2026-05-18 23:21:09 Handler State: CHECK_SEC_CART (26) -> PROBE_CART (24)
+2026-05-18 23:21:09 CartMove: Exchange 1, from 102
+2026-05-18 23:21:09 CartMoveState: IDLE (1) -> FROM_MOVE (3)
+2026-05-18 23:21:10 CartMoveState: FROM_MOVE (3) -> FROM_PROBE (19)
+2026-05-18 23:21:12 Handler State: PROBE_CART (24) -> PROCESS_CART (6)
+2026-05-18 23:21:45 Setting CBS color valve (FillGate): 1
+2026-05-18 23:21:46 Primed volume (FillGate): 1.06219
+2026-05-18 23:21:46 Re-Calculated Filling Volume: 352
+2026-05-18 23:21:46 Setting CBS color valve (FillCart): 1
+2026-05-18 23:22:03 Handler State: PROCESS_CART (6) -> EXCHANGE_ONE (7)
+2026-05-18 23:22:03 CartMove: Exchange 1, from 102
+2026-05-18 23:22:03 CartMoveState: FROM_PROBE (19) -> FROM_CART (4)
+2026-05-18 23:22:10 Setting CBS color valve (Finished): 0
+2026-05-18 23:22:12 CartMoveState: FROM_CART (4) -> TO_MOVE (10)
+2026-05-18 23:22:12 CartMoveState: TO_MOVE (10) -> EXCH_1_WAIT (14)
+2026-05-18 23:22:12 Handler State: EXCHANGE_ONE (7) -> START_DCU (8)
+2026-05-18 23:22:57 Handler State: START_DCU (8) -> EXCHANGE_TWO (9)
+2026-05-18 23:22:57 CartMove: Exchange 2
+2026-05-18 23:22:58 CartMoveState: EXCH_1_WAIT (14) -> EXCH_1_CART (15)
+2026-05-18 23:23:01 CartMoveState: EXCH_1_CART (15) -> EXCH_2_MOVE (16)
+2026-05-18 23:23:01 CartMoveState: EXCH_2_MOVE (16) -> EXCH_2_CART (17)
+2026-05-18 23:23:03 CartMoveState: EXCH_2_CART (17) -> STORE_DECIDE (18)
+2026-05-18 23:23:03 Used volume for last job: 0
+2026-05-18 23:23:03 Handler State: EXCHANGE_TWO (9) -> WAIT_FOR_DCU (10)
+2026-05-18 23:23:05 Handler State: WAIT_FOR_DCU (10) -> EXCHANGE_THREE (11)
+2026-05-18 23:23:05 CartMove: Exchange 3
+2026-05-18 23:23:05 CartMoveState: STORE_DECIDE (18) -> AUX_DECIDE (5)
+2026-05-18 23:23:05 CartMoveState: AUX_DECIDE (5) -> TO_MOVE (10)
+2026-05-18 23:23:05 CartMoveState: TO_MOVE (10) -> TO_CART (11)
+2026-05-18 23:23:08 CartMoveState: TO_CART (11) -> HOME_MOVE (12)
+2026-05-18 23:23:08 CartMoveState: HOME_MOVE (12) -> HALT (13)
+2026-05-18 23:23:08 CartMoveState: HALT (13) -> IDLE (1)
+2026-05-18 23:23:08 Handler State: EXCHANGE_THREE (11) -> POST_PROCESS (12)
+2026-05-18 23:23:08 Handler State: POST_PROCESS (12) -> MOVE_ARM_HOME (14)
+2026-05-18 23:23:08 Handler State: MOVE_ARM_HOME (14) -> HANDLER_IDLE (1)
+2026-05-18 23:23:27 Handler State: HANDLER_IDLE (1) -> HANDLER_START (2)
+2026-05-18 23:23:28 Handler State: HANDLER_START (2) -> DECIDE_CART (3)
+2026-05-18 23:23:28 Selection: Last resort, just pick the first IFS.
+2026-05-18 23:23:28 Selection: Last resort, just pick the first cartridge.
+2026-05-18 23:23:28 Selected Primary Cartridge: 1
+2026-05-18 23:23:28 Selected Primary Station: 102
+2026-05-18 23:23:28 Selected Secondary Cartridge: 0
+2026-05-18 23:23:28 Selected Secondary Station: 0
+2026-05-18 23:23:28 Selected Filling Volume: 447
+2026-05-18 23:23:28 Handler State: DECIDE_CART (3) -> CHECK_SEC_CART (26)
+2026-05-18 23:23:28 Handler State: CHECK_SEC_CART (26) -> PROBE_CART (24)
+2026-05-18 23:23:28 CartMove: Exchange 1, from 102
+2026-05-18 23:23:28 CartMoveState: IDLE (1) -> FROM_MOVE (3)
+2026-05-18 23:23:29 CartMoveState: FROM_MOVE (3) -> FROM_PROBE (19)
+2026-05-18 23:23:31 Handler State: PROBE_CART (24) -> PROCESS_CART (6)
+2026-05-18 23:24:06 Setting CBS color valve (FillIFS): 2
+2026-05-18 23:24:08 Primed volume (FillIFS): 1.70415
+2026-05-18 23:24:08 Re-Calculated Filling Volume: 447
+2026-05-18 23:24:08 Setting CBS color valve (FillCart): 2
+2026-05-18 23:24:28 Handler State: PROCESS_CART (6) -> EXCHANGE_ONE (7)
+2026-05-18 23:24:28 CartMove: Exchange 1, from 102
+2026-05-18 23:24:28 CartMoveState: FROM_PROBE (19) -> FROM_CART (4)
+2026-05-18 23:24:35 Setting CBS color valve (Finished): 0
+2026-05-18 23:24:37 CartMoveState: FROM_CART (4) -> TO_MOVE (10)
+2026-05-18 23:24:38 CartMoveState: TO_MOVE (10) -> EXCH_1_WAIT (14)
+2026-05-18 23:24:38 Handler State: EXCHANGE_ONE (7) -> START_DCU (8)
+2026-05-18 23:24:38 Handler State: START_DCU (8) -> EXCHANGE_TWO (9)
+2026-05-18 23:24:38 CartMove: Exchange 2
+2026-05-18 23:24:49 CartMoveState: EXCH_1_WAIT (14) -> EXCH_1_CART (15)
+2026-05-18 23:24:51 CartMoveState: EXCH_1_CART (15) -> EXCH_2_MOVE (16)
+2026-05-18 23:24:52 CartMoveState: EXCH_2_MOVE (16) -> EXCH_2_CART (17)
+2026-05-18 23:24:54 CartMoveState: EXCH_2_CART (17) -> STORE_DECIDE (18)
+2026-05-18 23:24:54 Used volume for last job: 300.56
+2026-05-18 23:24:54 Handler State: EXCHANGE_TWO (9) -> WAIT_FOR_DCU (10)
+2026-05-18 23:24:56 Handler State: WAIT_FOR_DCU (10) -> EXCHANGE_THREE (11)
+2026-05-18 23:24:56 CartMove: Exchange 3
+2026-05-18 23:24:56 CartMoveState: STORE_DECIDE (18) -> AUX_DECIDE (5)
+2026-05-18 23:24:56 CartMoveState: AUX_DECIDE (5) -> TO_MOVE (10)
+2026-05-18 23:24:56 CartMoveState: TO_MOVE (10) -> TO_CART (11)
+2026-05-18 23:24:58 CartMoveState: TO_CART (11) -> HOME_MOVE (12)
+2026-05-18 23:24:58 CartMoveState: HOME_MOVE (12) -> HALT (13)
+2026-05-18 23:24:58 CartMoveState: HALT (13) -> IDLE (1)
+2026-05-18 23:24:58 Handler State: EXCHANGE_THREE (11) -> POST_PROCESS (12)
+2026-05-18 23:24:58 Handler State: POST_PROCESS (12) -> MOVE_ARM_HOME (14)
+2026-05-18 23:24:59 Handler State: MOVE_ARM_HOME (14) -> HANDLER_IDLE (1)
+2026-05-18 23:28:06 Handler State: HANDLER_IDLE (1) -> HANDLER_START (2)
+2026-05-18 23:28:07 Handler State: HANDLER_START (2) -> DECIDE_CART (3)
+2026-05-18 23:28:07 Selection: IFS has correct material and its cartridge has correct material.
+2026-05-18 23:28:07 Selected Primary Cartridge: 3
+2026-05-18 23:28:07 Selected Primary Station: 104
+2026-05-18 23:28:07 Selected Secondary Cartridge: 0
+2026-05-18 23:28:07 Selected Secondary Station: 0
+2026-05-18 23:28:07 Selected Filling Volume: 436
+2026-05-18 23:28:07 Handler State: DECIDE_CART (3) -> CHECK_SEC_CART (26)
+2026-05-18 23:28:07 Handler State: CHECK_SEC_CART (26) -> PROBE_CART (24)
+2026-05-18 23:28:07 CartMove: Exchange 1, from 104
+2026-05-18 23:28:07 CartMoveState: IDLE (1) -> FROM_MOVE (3)
+2026-05-18 23:28:08 CartMoveState: FROM_MOVE (3) -> FROM_PROBE (19)
+2026-05-18 23:28:10 Handler State: PROBE_CART (24) -> PROCESS_CART (6)
+2026-05-18 23:28:37 Setting CBS color valve (FillGate): 2
+2026-05-18 23:28:38 Primed volume (FillGate): 1.60351
+2026-05-18 23:28:38 Re-Calculated Filling Volume: 436
+2026-05-18 23:28:38 Setting CBS color valve (FillCart): 2
+2026-05-18 23:28:57 Handler State: PROCESS_CART (6) -> EXCHANGE_ONE (7)
+2026-05-18 23:28:57 CartMove: Exchange 1, from 104
+2026-05-18 23:28:57 CartMoveState: FROM_PROBE (19) -> FROM_CART (4)
+2026-05-18 23:29:02 Setting CBS color valve (Finished): 0
+2026-05-18 23:29:04 CartMoveState: FROM_CART (4) -> TO_MOVE (10)
+2026-05-18 23:29:06 CartMoveState: TO_MOVE (10) -> EXCH_1_WAIT (14)
+2026-05-18 23:29:06 Handler State: EXCHANGE_ONE (7) -> START_DCU (8)
+2026-05-18 23:30:36 Handler State: START_DCU (8) -> EXCHANGE_TWO (9)
+2026-05-18 23:30:36 CartMove: Exchange 2
+2026-05-18 23:30:47 CartMoveState: EXCH_1_WAIT (14) -> EXCH_1_CART (15)
+2026-05-18 23:30:50 CartMoveState: EXCH_1_CART (15) -> EXCH_2_MOVE (16)
+2026-05-18 23:30:51 CartMoveState: EXCH_2_MOVE (16) -> EXCH_2_CART (17)
+2026-05-18 23:30:53 CartMoveState: EXCH_2_CART (17) -> STORE_DECIDE (18)
+2026-05-18 23:30:53 Used volume for last job: 388.861
+2026-05-18 23:30:53 Handler State: EXCHANGE_TWO (9) -> WAIT_FOR_DCU (10)
+2026-05-18 23:30:55 Handler State: WAIT_FOR_DCU (10) -> EXCHANGE_THREE (11)
+2026-05-18 23:30:55 CartMove: Exchange 3
+2026-05-18 23:30:55 CartMoveState: STORE_DECIDE (18) -> AUX_DECIDE (5)
+2026-05-18 23:30:55 CartMoveState: AUX_DECIDE (5) -> TO_MOVE (10)
+2026-05-18 23:30:56 CartMoveState: TO_MOVE (10) -> TO_CART (11)
+2026-05-18 23:30:58 CartMoveState: TO_CART (11) -> HOME_MOVE (12)
+2026-05-18 23:31:00 CartMoveState: HOME_MOVE (12) -> HALT (13)
+2026-05-18 23:31:00 CartMoveState: HALT (13) -> IDLE (1)
+2026-05-18 23:31:00 Handler State: EXCHANGE_THREE (11) -> POST_PROCESS (12)
+2026-05-18 23:31:00 Handler State: POST_PROCESS (12) -> MOVE_ARM_HOME (14)
+2026-05-18 23:31:00 Handler State: MOVE_ARM_HOME (14) -> HANDLER_IDLE (1)
+2026-05-18 23:31:13 Handler State: HANDLER_IDLE (1) -> HANDLER_START (2)
+2026-05-18 23:31:14 Handler State: HANDLER_START (2) -> DECIDE_CART (3)
+2026-05-18 23:31:14 Selection: IFS has correct material.
+2026-05-18 23:31:14 Selection: Cartridge has correct material.
+2026-05-18 23:31:14 Selected Primary Cartridge: 6
+2026-05-18 23:31:14 Selected Primary Station: 104
+2026-05-18 23:31:14 Selected Secondary Cartridge: 0
+2026-05-18 23:31:14 Selected Secondary Station: 0
+2026-05-18 23:31:14 Selected Filling Volume: 477
+2026-05-18 23:31:14 Handler State: DECIDE_CART (3) -> PLACE_CART (5)
+2026-05-18 23:31:14 CartMove: Move, from 107 to 104
+2026-05-18 23:31:14 CartMoveState: IDLE (1) -> FROM_MOVE (3)
+2026-05-18 23:31:15 CartMoveState: FROM_MOVE (3) -> FROM_CART (4)
+2026-05-18 23:31:18 CartMoveState: FROM_CART (4) -> AUX_DECIDE (5)
+2026-05-18 23:31:18 CartMoveState: AUX_DECIDE (5) -> TO_MOVE (10)
+2026-05-18 23:31:20 CartMoveState: TO_MOVE (10) -> TO_CART (11)
+2026-05-18 23:31:22 CartMoveState: TO_CART (11) -> HOME_MOVE (12)
+2026-05-18 23:31:23 CartMoveState: HOME_MOVE (12) -> HALT (13)
+2026-05-18 23:31:23 CartMoveState: HALT (13) -> IDLE (1)
+2026-05-18 23:31:23 Handler State: PLACE_CART (5) -> CHECK_SEC_CART (26)
+2026-05-18 23:31:23 Handler State: CHECK_SEC_CART (26) -> PROBE_CART (24)
+2026-05-18 23:31:23 CartMove: Exchange 1, from 104
+2026-05-18 23:31:23 CartMoveState: IDLE (1) -> FROM_MOVE (3)
+2026-05-18 23:31:24 CartMoveState: FROM_MOVE (3) -> FROM_PROBE (19)
+2026-05-18 23:31:25 Handler State: PROBE_CART (24) -> PROCESS_CART (6)
+2026-05-18 23:31:56 Setting CBS color valve (FillGate): 2
+2026-05-18 23:31:57 Primed volume (FillGate): 1.67033
+2026-05-18 23:31:57 Re-Calculated Filling Volume: 477
+2026-05-18 23:31:57 Setting CBS color valve (FillCart): 2
+2026-05-18 23:32:20 Handler State: PROCESS_CART (6) -> EXCHANGE_ONE (7)
+2026-05-18 23:32:20 CartMove: Exchange 1, from 104
+2026-05-18 23:32:20 CartMoveState: FROM_PROBE (19) -> FROM_CART (4)
+2026-05-18 23:32:25 Setting CBS color valve (Finished): 0
+2026-05-18 23:32:27 CartMoveState: FROM_CART (4) -> TO_MOVE (10)
+2026-05-18 23:32:29 CartMoveState: TO_MOVE (10) -> EXCH_1_WAIT (14)
+2026-05-18 23:32:29 Handler State: EXCHANGE_ONE (7) -> START_DCU (8)
+2026-05-18 23:33:07 Handler State: START_DCU (8) -> EXCHANGE_TWO (9)
+2026-05-18 23:33:07 CartMove: Exchange 2
+2026-05-18 23:33:08 CartMoveState: EXCH_1_WAIT (14) -> EXCH_1_CART (15)
+2026-05-18 23:33:11 CartMoveState: EXCH_1_CART (15) -> EXCH_2_MOVE (16)
+2026-05-18 23:33:12 CartMoveState: EXCH_2_MOVE (16) -> EXCH_2_CART (17)
+2026-05-18 23:33:14 CartMoveState: EXCH_2_CART (17) -> STORE_DECIDE (18)
+2026-05-18 23:33:14 Used volume for last job: 0
+2026-05-18 23:33:14 Handler State: EXCHANGE_TWO (9) -> WAIT_FOR_DCU (10)
+2026-05-18 23:33:15 Handler State: WAIT_FOR_DCU (10) -> EXCHANGE_THREE (11)
+2026-05-18 23:33:16 CartMove: Exchange 3
+2026-05-18 23:33:16 CartMoveState: STORE_DECIDE (18) -> AUX_DECIDE (5)
+2026-05-18 23:33:16 CartMoveState: AUX_DECIDE (5) -> TO_MOVE (10)
+2026-05-18 23:33:16 CartMoveState: TO_MOVE (10) -> TO_CART (11)
+2026-05-18 23:33:19 CartMoveState: TO_CART (11) -> HOME_MOVE (12)
+2026-05-18 23:33:20 CartMoveState: HOME_MOVE (12) -> HALT (13)
+2026-05-18 23:33:20 CartMoveState: HALT (13) -> IDLE (1)
+2026-05-18 23:33:20 Handler State: EXCHANGE_THREE (11) -> POST_PROCESS (12)
+2026-05-18 23:33:20 Handler State: POST_PROCESS (12) -> MOVE_ARM_HOME (14)
+2026-05-18 23:33:20 Handler State: MOVE_ARM_HOME (14) -> HANDLER_IDLE (1)
+2026-05-18 23:33:25 Handler State: HANDLER_IDLE (1) -> HANDLER_START (2)
+2026-05-18 23:33:26 Handler State: HANDLER_START (2) -> DECIDE_CART (3)
+2026-05-18 23:33:26 Selection: Last resort, just pick the first IFS.
+2026-05-18 23:33:26 Selection: Last resort, just pick the first cartridge.
+2026-05-18 23:33:26 Selected Primary Cartridge: 1
+2026-05-18 23:33:26 Selected Primary Station: 102
+2026-05-18 23:33:26 Selected Secondary Cartridge: 0
+2026-05-18 23:33:26 Selected Secondary Station: 0
+2026-05-18 23:33:26 Selected Filling Volume: 304
+2026-05-18 23:33:26 Handler State: DECIDE_CART (3) -> REMOVE_CART (4)
+2026-05-18 23:33:26 CartMove: Move, from 102 to 108
+2026-05-18 23:33:26 CartMoveState: IDLE (1) -> FROM_MOVE (3)
+2026-05-18 23:33:26 CartMoveState: FROM_MOVE (3) -> FROM_CART (4)
+2026-05-18 23:33:29 CartMoveState: FROM_CART (4) -> AUX_DECIDE (5)
+2026-05-18 23:33:29 CartMoveState: AUX_DECIDE (5) -> TO_MOVE (10)
+2026-05-18 23:33:31 CartMoveState: TO_MOVE (10) -> TO_CART (11)
+2026-05-18 23:33:33 CartMoveState: TO_CART (11) -> HOME_MOVE (12)
+2026-05-18 23:33:35 CartMoveState: HOME_MOVE (12) -> HALT (13)
+2026-05-18 23:33:35 CartMoveState: HALT (13) -> IDLE (1)
+2026-05-18 23:33:35 Handler State: REMOVE_CART (4) -> PLACE_CART (5)
+2026-05-18 23:33:35 CartMove: Move, from 105 to 102
+2026-05-18 23:33:35 CartMoveState: IDLE (1) -> FROM_MOVE (3)
+2026-05-18 23:33:36 CartMoveState: FROM_MOVE (3) -> FROM_CART (4)
+2026-05-18 23:33:39 CartMoveState: FROM_CART (4) -> AUX_DECIDE (5)
+2026-05-18 23:33:39 CartMoveState: AUX_DECIDE (5) -> TO_MOVE (10)
+2026-05-18 23:33:40 CartMoveState: TO_MOVE (10) -> TO_CART (11)
+2026-05-18 23:33:42 CartMoveState: TO_CART (11) -> HOME_MOVE (12)
+2026-05-18 23:33:43 CartMoveState: HOME_MOVE (12) -> HALT (13)
+2026-05-18 23:33:43 CartMoveState: HALT (13) -> IDLE (1)
+2026-05-18 23:33:43 Handler State: PLACE_CART (5) -> CHECK_SEC_CART (26)
+2026-05-18 23:33:43 Handler State: CHECK_SEC_CART (26) -> PROBE_CART (24)
+2026-05-18 23:33:43 CartMove: Exchange 1, from 102
+2026-05-18 23:33:43 CartMoveState: IDLE (1) -> FROM_MOVE (3)
+2026-05-18 23:33:44 CartMoveState: FROM_MOVE (3) -> FROM_PROBE (19)
+2026-05-18 23:33:46 Handler State: PROBE_CART (24) -> PROCESS_CART (6)
+2026-05-18 23:34:23 Setting CBS color valve (FillIFS): 1
+2026-05-18 23:34:24 Primed volume (FillIFS): 4.6468
+2026-05-18 23:34:24 Re-Calculated Filling Volume: 304
+2026-05-18 23:34:24 Setting CBS color valve (FillCart): 1
+2026-05-18 23:34:40 Handler State: PROCESS_CART (6) -> EXCHANGE_ONE (7)
+2026-05-18 23:34:40 CartMove: Exchange 1, from 102
+2026-05-18 23:34:40 CartMoveState: FROM_PROBE (19) -> FROM_CART (4)
+2026-05-18 23:34:47 Setting CBS color valve (Finished): 0
+2026-05-18 23:34:49 CartMoveState: FROM_CART (4) -> TO_MOVE (10)
+2026-05-18 23:34:50 CartMoveState: TO_MOVE (10) -> EXCH_1_WAIT (14)
+2026-05-18 23:34:50 Handler State: EXCHANGE_ONE (7) -> START_DCU (8)
+2026-05-18 23:34:53 Handler State: START_DCU (8) -> EXCHANGE_TWO (9)
+2026-05-18 23:34:53 CartMove: Exchange 2
+2026-05-18 23:35:04 CartMoveState: EXCH_1_WAIT (14) -> EXCH_1_CART (15)
+2026-05-18 23:35:07 CartMoveState: EXCH_1_CART (15) -> EXCH_2_MOVE (16)
+2026-05-18 23:35:07 CartMoveState: EXCH_2_MOVE (16) -> EXCH_2_CART (17)
+2026-05-18 23:35:09 CartMoveState: EXCH_2_CART (17) -> STORE_DECIDE (18)
+2026-05-18 23:35:09 Used volume for last job: 425.169
+2026-05-18 23:35:09 Handler State: EXCHANGE_TWO (9) -> WAIT_FOR_DCU (10)
+2026-05-18 23:35:11 Handler State: WAIT_FOR_DCU (10) -> EXCHANGE_THREE (11)
+2026-05-18 23:35:11 CartMove: Exchange 3
+2026-05-18 23:35:11 CartMoveState: STORE_DECIDE (18) -> AUX_DECIDE (5)
+2026-05-18 23:35:11 CartMoveState: AUX_DECIDE (5) -> TO_MOVE (10)
+2026-05-18 23:35:13 CartMoveState: TO_MOVE (10) -> TO_CART (11)
+2026-05-18 23:35:15 CartMoveState: TO_CART (11) -> HOME_MOVE (12)
+2026-05-18 23:35:17 CartMoveState: HOME_MOVE (12) -> HALT (13)
+2026-05-18 23:35:17 CartMoveState: HALT (13) -> IDLE (1)
+2026-05-18 23:35:17 Handler State: EXCHANGE_THREE (11) -> POST_PROCESS (12)
+2026-05-18 23:35:17 Handler State: POST_PROCESS (12) -> EMPTY_AUX (13)
+2026-05-18 23:35:17 CartMove: Move, from 108 to 102
+2026-05-18 23:35:17 CartMoveState: IDLE (1) -> FROM_MOVE (3)
+2026-05-18 23:35:18 CartMoveState: FROM_MOVE (3) -> FROM_CART (4)
+2026-05-18 23:35:21 CartMoveState: FROM_CART (4) -> AUX_DECIDE (5)
+2026-05-18 23:35:21 CartMoveState: AUX_DECIDE (5) -> TO_MOVE (10)
+2026-05-18 23:35:23 CartMoveState: TO_MOVE (10) -> TO_CART (11)
+2026-05-18 23:35:25 CartMoveState: TO_CART (11) -> HOME_MOVE (12)
+2026-05-18 23:35:26 CartMoveState: HOME_MOVE (12) -> HALT (13)
+2026-05-18 23:35:26 CartMoveState: HALT (13) -> IDLE (1)
+2026-05-18 23:35:26 Handler State: EMPTY_AUX (13) -> MOVE_ARM_HOME (14)
+2026-05-18 23:35:26 Handler State: MOVE_ARM_HOME (14) -> HANDLER_IDLE (1)
+2026-05-18 23:36:03 Handler State: HANDLER_IDLE (1) -> HANDLER_START (2)
+2026-05-18 23:36:04 Handler State: HANDLER_START (2) -> DECIDE_CART (3)
+2026-05-18 23:36:04 Selection: IFS has correct material.
+2026-05-18 23:36:04 Selection: Last resort, just pick the first cartridge.
+2026-05-18 23:36:04 Selected Primary Cartridge: 4
+2026-05-18 23:36:04 Selected Primary Station: 102
+2026-05-18 23:36:04 Selected Secondary Cartridge: 0
+2026-05-18 23:36:04 Selected Secondary Station: 0
+2026-05-18 23:36:04 Selected Filling Volume: 219
+2026-05-18 23:36:04 Handler State: DECIDE_CART (3) -> CHECK_SEC_CART (26)
+2026-05-18 23:36:04 Handler State: CHECK_SEC_CART (26) -> PROBE_CART (24)
+2026-05-18 23:36:04 CartMove: Exchange 1, from 102
+2026-05-18 23:36:04 CartMoveState: IDLE (1) -> FROM_MOVE (3)
+2026-05-18 23:36:05 CartMoveState: FROM_MOVE (3) -> FROM_PROBE (19)
+2026-05-18 23:36:07 Handler State: PROBE_CART (24) -> PROCESS_CART (6)
+2026-05-18 23:36:40 Setting CBS color valve (FillGate): 1
+2026-05-18 23:36:41 Primed volume (FillGate): 0.731632
+2026-05-18 23:36:41 Re-Calculated Filling Volume: 219
+2026-05-18 23:36:41 Setting CBS color valve (FillCart): 1
+2026-05-18 23:36:55 Handler State: PROCESS_CART (6) -> EXCHANGE_ONE (7)
+2026-05-18 23:36:55 CartMove: Exchange 1, from 102
+2026-05-18 23:36:55 CartMoveState: FROM_PROBE (19) -> FROM_CART (4)
+2026-05-18 23:37:02 Setting CBS color valve (Finished): 0
+2026-05-18 23:37:04 CartMoveState: FROM_CART (4) -> TO_MOVE (10)
+2026-05-18 23:37:05 CartMoveState: TO_MOVE (10) -> EXCH_1_WAIT (14)
+2026-05-18 23:37:05 Handler State: EXCHANGE_ONE (7) -> START_DCU (8)
+2026-05-18 23:39:12 Handler State: START_DCU (8) -> EXCHANGE_TWO (9)
+2026-05-18 23:39:12 CartMove: Exchange 2
+2026-05-18 23:39:23 CartMoveState: EXCH_1_WAIT (14) -> EXCH_1_CART (15)
+2026-05-18 23:39:26 CartMoveState: EXCH_1_CART (15) -> EXCH_2_MOVE (16)
+2026-05-18 23:39:27 CartMoveState: EXCH_2_MOVE (16) -> EXCH_2_CART (17)
+2026-05-18 23:39:29 CartMoveState: EXCH_2_CART (17) -> STORE_DECIDE (18)
+2026-05-18 23:39:29 Used volume for last job: 177.991
+2026-05-18 23:39:29 Handler State: EXCHANGE_TWO (9) -> WAIT_FOR_DCU (10)
+2026-05-18 23:39:30 Handler State: WAIT_FOR_DCU (10) -> EXCHANGE_THREE (11)
+2026-05-18 23:39:30 CartMove: Exchange 3
+2026-05-18 23:39:30 CartMoveState: STORE_DECIDE (18) -> AUX_DECIDE (5)
+2026-05-18 23:39:30 CartMoveState: AUX_DECIDE (5) -> TO_MOVE (10)
+2026-05-18 23:39:31 CartMoveState: TO_MOVE (10) -> TO_CART (11)
+2026-05-18 23:39:33 CartMoveState: TO_CART (11) -> HOME_MOVE (12)
+2026-05-18 23:39:33 CartMoveState: HOME_MOVE (12) -> HALT (13)
+2026-05-18 23:39:33 CartMoveState: HALT (13) -> IDLE (1)
+2026-05-18 23:39:33 Handler State: EXCHANGE_THREE (11) -> POST_PROCESS (12)
+2026-05-18 23:39:33 Handler State: POST_PROCESS (12) -> MOVE_ARM_HOME (14)
+2026-05-18 23:39:33 Handler State: MOVE_ARM_HOME (14) -> HANDLER_IDLE (1)
+2026-05-18 23:40:00 Handler State: HANDLER_IDLE (1) -> HANDLER_START (2)
+2026-05-18 23:40:01 Handler State: HANDLER_START (2) -> DECIDE_CART (3)
+2026-05-18 23:40:01 Selection: IFS has correct material and its cartridge has correct material.
+2026-05-18 23:40:01 Selected Primary Cartridge: 1
+2026-05-18 23:40:01 Selected Primary Station: 102
+2026-05-18 23:40:01 Selected Secondary Cartridge: 0
+2026-05-18 23:40:01 Selected Secondary Station: 0
+2026-05-18 23:40:01 Selected Filling Volume: 186
+2026-05-18 23:40:01 Handler State: DECIDE_CART (3) -> CHECK_SEC_CART (26)
+2026-05-18 23:40:01 Handler State: CHECK_SEC_CART (26) -> PROBE_CART (24)
+2026-05-18 23:40:01 CartMove: Exchange 1, from 102
+2026-05-18 23:40:01 CartMoveState: IDLE (1) -> FROM_MOVE (3)
+2026-05-18 23:40:02 CartMoveState: FROM_MOVE (3) -> FROM_PROBE (19)
+2026-05-18 23:40:04 Handler State: PROBE_CART (24) -> PROCESS_CART (6)
+2026-05-18 23:40:47 Setting CBS color valve (FillGate): 1
+2026-05-18 23:40:48 Primed volume (FillGate): 1.22845
+2026-05-18 23:40:48 Re-Calculated Filling Volume: 186
+2026-05-18 23:40:48 Setting CBS color valve (FillCart): 1
+2026-05-18 23:41:01 Handler State: PROCESS_CART (6) -> EXCHANGE_ONE (7)
+2026-05-18 23:41:01 CartMove: Exchange 1, from 102
+2026-05-18 23:41:01 CartMoveState: FROM_PROBE (19) -> FROM_CART (4)
+2026-05-18 23:41:08 Setting CBS color valve (Finished): 0
+2026-05-18 23:41:10 CartMoveState: FROM_CART (4) -> TO_MOVE (10)
+2026-05-18 23:41:11 CartMoveState: TO_MOVE (10) -> EXCH_1_WAIT (14)
+2026-05-18 23:41:11 Handler State: EXCHANGE_ONE (7) -> START_DCU (8)
+2026-05-18 23:43:53 Handler State: START_DCU (8) -> EXCHANGE_TWO (9)
+2026-05-18 23:43:53 CartMove: Exchange 2
+2026-05-18 23:43:55 CartMoveState: EXCH_1_WAIT (14) -> EXCH_1_CART (15)
+2026-05-18 23:43:57 CartMoveState: EXCH_1_CART (15) -> EXCH_2_MOVE (16)
+2026-05-18 23:43:58 CartMoveState: EXCH_2_MOVE (16) -> EXCH_2_CART (17)
+2026-05-18 23:44:00 CartMoveState: EXCH_2_CART (17) -> STORE_DECIDE (18)
+2026-05-18 23:44:00 Used volume for last job: 0
+2026-05-18 23:44:00 Handler State: EXCHANGE_TWO (9) -> WAIT_FOR_DCU (10)
+2026-05-18 23:44:02 Handler State: WAIT_FOR_DCU (10) -> EXCHANGE_THREE (11)
+2026-05-18 23:44:02 CartMove: Exchange 3
+2026-05-18 23:44:02 CartMoveState: STORE_DECIDE (18) -> AUX_DECIDE (5)
+2026-05-18 23:44:02 CartMoveState: AUX_DECIDE (5) -> TO_MOVE (10)
+2026-05-18 23:44:02 CartMoveState: TO_MOVE (10) -> TO_CART (11)
+2026-05-18 23:44:04 CartMoveState: TO_CART (11) -> HOME_MOVE (12)
+2026-05-18 23:44:04 CartMoveState: HOME_MOVE (12) -> HALT (13)
+2026-05-18 23:44:04 CartMoveState: HALT (13) -> IDLE (1)
+2026-05-18 23:44:04 Handler State: EXCHANGE_THREE (11) -> POST_PROCESS (12)
+2026-05-18 23:44:04 Handler State: POST_PROCESS (12) -> MOVE_ARM_HOME (14)
+2026-05-18 23:44:04 Handler State: MOVE_ARM_HOME (14) -> HANDLER_IDLE (1)
+2026-05-18 23:44:59 Handler State: HANDLER_IDLE (1) -> HANDLER_START (2)
+2026-05-18 23:45:00 Handler State: HANDLER_START (2) -> DECIDE_CART (3)
+2026-05-18 23:45:00 Selection: IFS has correct material and its cartridge has correct material.
+2026-05-18 23:45:00 Selected Primary Cartridge: 3
+2026-05-18 23:45:00 Selected Primary Station: 104
+2026-05-18 23:45:00 Selected Secondary Cartridge: 0
+2026-05-18 23:45:00 Selected Secondary Station: 0
+2026-05-18 23:45:00 Selected Filling Volume: 436
+2026-05-18 23:45:00 Handler State: DECIDE_CART (3) -> CHECK_SEC_CART (26)
+2026-05-18 23:45:00 Handler State: CHECK_SEC_CART (26) -> PROBE_CART (24)
+2026-05-18 23:45:00 CartMove: Exchange 1, from 104
+2026-05-18 23:45:00 CartMoveState: IDLE (1) -> FROM_MOVE (3)
+2026-05-18 23:45:01 CartMoveState: FROM_MOVE (3) -> FROM_PROBE (19)
+2026-05-18 23:45:02 Handler State: PROBE_CART (24) -> PROCESS_CART (6)
+2026-05-18 23:45:29 Setting CBS color valve (FillGate): 1
+2026-05-18 23:45:31 Primed volume (FillGate): 1.32867
+2026-05-18 23:45:31 Re-Calculated Filling Volume: 436
+2026-05-18 23:45:31 Setting CBS color valve (FillCart): 1
+2026-05-18 23:45:49 Handler State: PROCESS_CART (6) -> EXCHANGE_ONE (7)
+2026-05-18 23:45:49 CartMove: Exchange 1, from 104
+2026-05-18 23:45:49 CartMoveState: FROM_PROBE (19) -> FROM_CART (4)
+2026-05-18 23:45:55 Setting CBS color valve (Finished): 0
+2026-05-18 23:45:57 CartMoveState: FROM_CART (4) -> TO_MOVE (10)
+2026-05-18 23:45:58 CartMoveState: TO_MOVE (10) -> EXCH_1_WAIT (14)
+2026-05-18 23:45:58 Handler State: EXCHANGE_ONE (7) -> START_DCU (8)
+2026-05-18 23:45:59 Handler State: START_DCU (8) -> EXCHANGE_TWO (9)
+2026-05-18 23:45:59 CartMove: Exchange 2
+2026-05-18 23:46:08 CartMoveState: EXCH_1_WAIT (14) -> EXCH_1_CART (15)
+2026-05-18 23:46:11 CartMoveState: EXCH_1_CART (15) -> EXCH_2_MOVE (16)
+2026-05-18 23:46:12 CartMoveState: EXCH_2_MOVE (16) -> EXCH_2_CART (17)
+2026-05-18 23:46:14 CartMoveState: EXCH_2_CART (17) -> STORE_DECIDE (18)
+2026-05-18 23:46:14 Used volume for last job: 132.809
+2026-05-18 23:46:14 Handler State: EXCHANGE_TWO (9) -> WAIT_FOR_DCU (10)
+2026-05-18 23:46:16 Handler State: WAIT_FOR_DCU (10) -> EXCHANGE_THREE (11)
+2026-05-18 23:46:16 CartMove: Exchange 3
+2026-05-18 23:46:16 CartMoveState: STORE_DECIDE (18) -> AUX_DECIDE (5)
+2026-05-18 23:46:16 CartMoveState: AUX_DECIDE (5) -> TO_MOVE (10)
+2026-05-18 23:46:17 CartMoveState: TO_MOVE (10) -> TO_CART (11)
+2026-05-18 23:46:19 CartMoveState: TO_CART (11) -> HOME_MOVE (12)
+2026-05-18 23:46:21 CartMoveState: HOME_MOVE (12) -> HALT (13)
+2026-05-18 23:46:21 CartMoveState: HALT (13) -> IDLE (1)
+2026-05-18 23:46:21 Handler State: EXCHANGE_THREE (11) -> POST_PROCESS (12)
+2026-05-18 23:46:21 Handler State: POST_PROCESS (12) -> MOVE_ARM_HOME (14)
+2026-05-18 23:46:21 Handler State: MOVE_ARM_HOME (14) -> HANDLER_IDLE (1)
+2026-05-18 23:46:36 Handler State: HANDLER_IDLE (1) -> HANDLER_START (2)
+2026-05-18 23:46:37 Handler State: HANDLER_START (2) -> DECIDE_CART (3)
+2026-05-18 23:46:37 Selection: IFS has correct material.
+2026-05-18 23:46:37 Selection: Cartridge has correct material.
+2026-05-18 23:46:37 Selected Primary Cartridge: 6
+2026-05-18 23:46:37 Selected Primary Station: 104
+2026-05-18 23:46:37 Selected Secondary Cartridge: 0
+2026-05-18 23:46:38 Selected Secondary Station: 0
+2026-05-18 23:46:38 Selected Filling Volume: 477
+2026-05-18 23:46:38 Handler State: DECIDE_CART (3) -> PLACE_CART (5)
+2026-05-18 23:46:38 CartMove: Move, from 107 to 104
+2026-05-18 23:46:38 CartMoveState: IDLE (1) -> FROM_MOVE (3)
+2026-05-18 23:46:39 CartMoveState: FROM_MOVE (3) -> FROM_CART (4)
+2026-05-18 23:46:42 CartMoveState: FROM_CART (4) -> AUX_DECIDE (5)
+2026-05-18 23:46:42 CartMoveState: AUX_DECIDE (5) -> TO_MOVE (10)
+2026-05-18 23:46:43 CartMoveState: TO_MOVE (10) -> TO_CART (11)
+2026-05-18 23:46:46 CartMoveState: TO_CART (11) -> HOME_MOVE (12)
+2026-05-18 23:46:46 CartMoveState: HOME_MOVE (12) -> HALT (13)
+2026-05-18 23:46:46 CartMoveState: HALT (13) -> IDLE (1)
+2026-05-18 23:46:46 Handler State: PLACE_CART (5) -> CHECK_SEC_CART (26)
+2026-05-18 23:46:46 Handler State: CHECK_SEC_CART (26) -> PROBE_CART (24)
+2026-05-18 23:46:46 CartMove: Exchange 1, from 104
+2026-05-18 23:46:46 CartMoveState: IDLE (1) -> FROM_MOVE (3)
+2026-05-18 23:46:47 CartMoveState: FROM_MOVE (3) -> FROM_PROBE (19)
+2026-05-18 23:46:49 Handler State: PROBE_CART (24) -> PROCESS_CART (6)
+2026-05-18 23:47:20 Setting CBS color valve (FillGate): 1
+2026-05-18 23:47:21 Primed volume (FillGate): 1.20305
+2026-05-18 23:47:21 Re-Calculated Filling Volume: 477
+2026-05-18 23:47:21 Setting CBS color valve (FillCart): 1
+2026-05-18 23:47:43 Handler State: PROCESS_CART (6) -> EXCHANGE_ONE (7)
+2026-05-18 23:47:43 CartMove: Exchange 1, from 104
+2026-05-18 23:47:43 CartMoveState: FROM_PROBE (19) -> FROM_CART (4)
+2026-05-18 23:47:49 Setting CBS color valve (Finished): 0
+2026-05-18 23:47:50 CartMoveState: FROM_CART (4) -> TO_MOVE (10)
+2026-05-18 23:47:52 CartMoveState: TO_MOVE (10) -> EXCH_1_WAIT (14)
+2026-05-18 23:47:52 Handler State: EXCHANGE_ONE (7) -> START_DCU (8)
+2026-05-18 23:48:31 Handler State: START_DCU (8) -> EXCHANGE_TWO (9)
+2026-05-18 23:48:31 CartMove: Exchange 2
+2026-05-18 23:48:32 CartMoveState: EXCH_1_WAIT (14) -> EXCH_1_CART (15)
+2026-05-18 23:48:35 CartMoveState: EXCH_1_CART (15) -> EXCH_2_MOVE (16)
+2026-05-18 23:48:35 CartMoveState: EXCH_2_MOVE (16) -> EXCH_2_CART (17)
+2026-05-18 23:48:37 CartMoveState: EXCH_2_CART (17) -> STORE_DECIDE (18)
+2026-05-18 23:48:37 Used volume for last job: 0
+2026-05-18 23:48:37 Handler State: EXCHANGE_TWO (9) -> WAIT_FOR_DCU (10)
+2026-05-18 23:48:39 Handler State: WAIT_FOR_DCU (10) -> EXCHANGE_THREE (11)
+2026-05-18 23:48:39 CartMove: Exchange 3
+2026-05-18 23:48:39 CartMoveState: STORE_DECIDE (18) -> AUX_DECIDE (5)
+2026-05-18 23:48:39 CartMoveState: AUX_DECIDE (5) -> TO_MOVE (10)
+2026-05-18 23:48:40 CartMoveState: TO_MOVE (10) -> TO_CART (11)
+2026-05-18 23:48:42 CartMoveState: TO_CART (11) -> HOME_MOVE (12)
+2026-05-18 23:48:43 CartMoveState: HOME_MOVE (12) -> HALT (13)
+2026-05-18 23:48:43 CartMoveState: HALT (13) -> IDLE (1)
+2026-05-18 23:48:43 Handler State: EXCHANGE_THREE (11) -> POST_PROCESS (12)
+2026-05-18 23:48:43 Handler State: POST_PROCESS (12) -> MOVE_ARM_HOME (14)
+2026-05-18 23:48:43 Handler State: MOVE_ARM_HOME (14) -> HANDLER_IDLE (1)
+2026-05-18 23:48:48 Handler State: HANDLER_IDLE (1) -> HANDLER_START (2)
+2026-05-18 23:48:49 Handler State: HANDLER_START (2) -> DECIDE_CART (3)
+2026-05-18 23:48:49 Selection: Last resort, just pick the first IFS.
+2026-05-18 23:48:49 Selection: Last resort, just pick the first cartridge.
+2026-05-18 23:48:49 Selected Primary Cartridge: 1
+2026-05-18 23:48:49 Selected Primary Station: 102
+2026-05-18 23:48:49 Selected Secondary Cartridge: 0
+2026-05-18 23:48:49 Selected Secondary Station: 0
+2026-05-18 23:48:49 Selected Filling Volume: 650
+2026-05-18 23:48:49 Handler State: DECIDE_CART (3) -> REMOVE_CART (4)
+2026-05-18 23:48:49 CartMove: Move, from 102 to 108
+2026-05-18 23:48:49 CartMoveState: IDLE (1) -> FROM_MOVE (3)
+2026-05-18 23:48:50 CartMoveState: FROM_MOVE (3) -> FROM_CART (4)
+2026-05-18 23:48:53 CartMoveState: FROM_CART (4) -> AUX_DECIDE (5)
+2026-05-18 23:48:53 CartMoveState: AUX_DECIDE (5) -> TO_MOVE (10)
+2026-05-18 23:48:55 CartMoveState: TO_MOVE (10) -> TO_CART (11)
+2026-05-18 23:48:57 CartMoveState: TO_CART (11) -> HOME_MOVE (12)
+2026-05-18 23:48:58 CartMoveState: HOME_MOVE (12) -> HALT (13)
+2026-05-18 23:48:58 CartMoveState: HALT (13) -> IDLE (1)
+2026-05-18 23:48:58 Handler State: REMOVE_CART (4) -> PLACE_CART (5)
+2026-05-18 23:48:58 CartMove: Move, from 105 to 102
+2026-05-18 23:48:58 CartMoveState: IDLE (1) -> FROM_MOVE (3)
+2026-05-18 23:48:59 CartMoveState: FROM_MOVE (3) -> FROM_CART (4)
+2026-05-18 23:49:02 CartMoveState: FROM_CART (4) -> AUX_DECIDE (5)
+2026-05-18 23:49:02 CartMoveState: AUX_DECIDE (5) -> TO_MOVE (10)
+2026-05-18 23:49:04 CartMoveState: TO_MOVE (10) -> TO_CART (11)
+2026-05-18 23:49:06 CartMoveState: TO_CART (11) -> HOME_MOVE (12)
+2026-05-18 23:49:07 CartMoveState: HOME_MOVE (12) -> HALT (13)
+2026-05-18 23:49:07 CartMoveState: HALT (13) -> IDLE (1)
+2026-05-18 23:49:07 Handler State: PLACE_CART (5) -> CHECK_SEC_CART (26)
+2026-05-18 23:49:07 Handler State: CHECK_SEC_CART (26) -> PROBE_CART (24)
+2026-05-18 23:49:07 CartMove: Exchange 1, from 102
+2026-05-18 23:49:07 CartMoveState: IDLE (1) -> FROM_MOVE (3)
+2026-05-18 23:49:07 CartMoveState: FROM_MOVE (3) -> FROM_PROBE (19)
+2026-05-18 23:49:09 Handler State: PROBE_CART (24) -> PROCESS_CART (6)
+2026-05-18 23:49:46 Setting CBS color valve (FillIFS): 2
+2026-05-18 23:49:47 Primed volume (FillIFS): 4.32339
+2026-05-18 23:49:47 Re-Calculated Filling Volume: 650
+2026-05-18 23:49:47 Setting CBS color valve (FillCart): 2
+2026-05-18 23:50:12 Handler State: PROCESS_CART (6) -> EXCHANGE_ONE (7)
+2026-05-18 23:50:12 CartMove: Exchange 1, from 102
+2026-05-18 23:50:12 CartMoveState: FROM_PROBE (19) -> FROM_CART (4)
+2026-05-18 23:50:19 Setting CBS color valve (Finished): 0
+2026-05-18 23:50:21 CartMoveState: FROM_CART (4) -> TO_MOVE (10)
+2026-05-18 23:50:21 CartMoveState: TO_MOVE (10) -> EXCH_1_WAIT (14)
+2026-05-18 23:50:21 Handler State: EXCHANGE_ONE (7) -> START_DCU (8)
+2026-05-18 23:50:22 Handler State: START_DCU (8) -> EXCHANGE_TWO (9)
+2026-05-18 23:50:22 CartMove: Exchange 2
+2026-05-18 23:50:28 CartMoveState: EXCH_1_WAIT (14) -> EXCH_1_CART (15)
+2026-05-18 23:50:31 CartMoveState: EXCH_1_CART (15) -> EXCH_2_MOVE (16)
+2026-05-18 23:50:31 CartMoveState: EXCH_2_MOVE (16) -> EXCH_2_CART (17)
+2026-05-18 23:50:33 CartMoveState: EXCH_2_CART (17) -> STORE_DECIDE (18)
+2026-05-18 23:50:33 Used volume for last job: 425.187
+2026-05-18 23:50:33 Handler State: EXCHANGE_TWO (9) -> WAIT_FOR_DCU (10)
+2026-05-18 23:50:35 Handler State: WAIT_FOR_DCU (10) -> EXCHANGE_THREE (11)
+2026-05-18 23:50:35 CartMove: Exchange 3
+2026-05-18 23:50:35 CartMoveState: STORE_DECIDE (18) -> AUX_DECIDE (5)
+2026-05-18 23:50:35 CartMoveState: AUX_DECIDE (5) -> TO_MOVE (10)
+2026-05-18 23:50:37 CartMoveState: TO_MOVE (10) -> TO_CART (11)
+2026-05-18 23:50:39 CartMoveState: TO_CART (11) -> HOME_MOVE (12)
+2026-05-18 23:50:41 CartMoveState: HOME_MOVE (12) -> HALT (13)
+2026-05-18 23:50:41 CartMoveState: HALT (13) -> IDLE (1)
+2026-05-18 23:50:41 Handler State: EXCHANGE_THREE (11) -> POST_PROCESS (12)
+2026-05-18 23:50:41 Handler State: POST_PROCESS (12) -> EMPTY_AUX (13)
+2026-05-18 23:50:41 CartMove: Move, from 108 to 102
+2026-05-18 23:50:41 CartMoveState: IDLE (1) -> FROM_MOVE (3)
+2026-05-18 23:50:42 CartMoveState: FROM_MOVE (3) -> FROM_CART (4)
+2026-05-18 23:50:45 CartMoveState: FROM_CART (4) -> AUX_DECIDE (5)
+2026-05-18 23:50:45 CartMoveState: AUX_DECIDE (5) -> TO_MOVE (10)
+2026-05-18 23:50:47 CartMoveState: TO_MOVE (10) -> TO_CART (11)
+2026-05-18 23:50:50 CartMoveState: TO_CART (11) -> HOME_MOVE (12)
+2026-05-18 23:50:50 CartMoveState: HOME_MOVE (12) -> HALT (13)
+2026-05-18 23:50:50 CartMoveState: HALT (13) -> IDLE (1)
+2026-05-18 23:50:50 Handler State: EMPTY_AUX (13) -> MOVE_ARM_HOME (14)
+2026-05-18 23:50:51 Handler State: MOVE_ARM_HOME (14) -> HANDLER_IDLE (1)
+2026-05-18 23:50:57 Handler State: HANDLER_IDLE (1) -> HANDLER_START (2)
+2026-05-18 23:50:58 Handler State: HANDLER_START (2) -> DECIDE_CART (3)
+2026-05-18 23:50:58 Selection: IFS has correct material.
+2026-05-18 23:50:58 Selection: Last resort, just pick the first cartridge.
+2026-05-18 23:50:58 Selected Primary Cartridge: 4
+2026-05-18 23:50:58 Selected Primary Station: 102
+2026-05-18 23:50:58 Selected Secondary Cartridge: 0
+2026-05-18 23:50:58 Selected Secondary Station: 0
+2026-05-18 23:50:58 Selected Filling Volume: 247
+2026-05-18 23:50:58 Handler State: DECIDE_CART (3) -> CHECK_SEC_CART (26)
+2026-05-18 23:50:58 Handler State: CHECK_SEC_CART (26) -> PROBE_CART (24)
+2026-05-18 23:50:58 CartMove: Exchange 1, from 102
+2026-05-18 23:50:59 CartMoveState: IDLE (1) -> FROM_MOVE (3)
+2026-05-18 23:50:59 CartMoveState: FROM_MOVE (3) -> FROM_PROBE (19)
+2026-05-18 23:51:01 Handler State: PROBE_CART (24) -> PROCESS_CART (6)
+2026-05-18 23:51:26 Setting CBS color valve (FillGate): 2
+2026-05-18 23:51:27 Primed volume (FillGate): 1.53418
+2026-05-18 23:51:27 Re-Calculated Filling Volume: 247
+2026-05-18 23:51:27 Setting CBS color valve (FillCart): 2
+2026-05-18 23:51:38 Handler State: PROCESS_CART (6) -> EXCHANGE_ONE (7)
+2026-05-18 23:51:38 CartMove: Exchange 1, from 102
+2026-05-18 23:51:38 CartMoveState: FROM_PROBE (19) -> FROM_CART (4)
+2026-05-18 23:51:45 Setting CBS color valve (Finished): 0
+2026-05-18 23:51:47 CartMoveState: FROM_CART (4) -> TO_MOVE (10)
+2026-05-18 23:51:48 CartMoveState: TO_MOVE (10) -> EXCH_1_WAIT (14)
+2026-05-18 23:51:48 Handler State: EXCHANGE_ONE (7) -> START_DCU (8)
+2026-05-18 23:53:25 Handler State: START_DCU (8) -> EXCHANGE_TWO (9)
+2026-05-18 23:53:25 CartMove: Exchange 2
+2026-05-18 23:53:26 CartMoveState: EXCH_1_WAIT (14) -> EXCH_1_CART (15)
+2026-05-18 23:53:29 CartMoveState: EXCH_1_CART (15) -> EXCH_2_MOVE (16)
+2026-05-18 23:53:30 CartMoveState: EXCH_2_MOVE (16) -> EXCH_2_CART (17)
+2026-05-18 23:53:32 CartMoveState: EXCH_2_CART (17) -> STORE_DECIDE (18)
+2026-05-18 23:53:32 Used volume for last job: 0
+2026-05-18 23:53:32 Handler State: EXCHANGE_TWO (9) -> WAIT_FOR_DCU (10)
+2026-05-18 23:53:33 Handler State: WAIT_FOR_DCU (10) -> EXCHANGE_THREE (11)
+2026-05-18 23:53:33 CartMove: Exchange 3
+2026-05-18 23:53:33 CartMoveState: STORE_DECIDE (18) -> AUX_DECIDE (5)
+2026-05-18 23:53:33 CartMoveState: AUX_DECIDE (5) -> TO_MOVE (10)
+2026-05-18 23:53:34 CartMoveState: TO_MOVE (10) -> TO_CART (11)
+2026-05-18 23:53:36 CartMoveState: TO_CART (11) -> HOME_MOVE (12)
+2026-05-18 23:53:36 CartMoveState: HOME_MOVE (12) -> HALT (13)
+2026-05-18 23:53:36 CartMoveState: HALT (13) -> IDLE (1)
+2026-05-18 23:53:36 Handler State: EXCHANGE_THREE (11) -> POST_PROCESS (12)
+2026-05-18 23:53:36 Handler State: POST_PROCESS (12) -> MOVE_ARM_HOME (14)
+2026-05-18 23:53:36 Handler State: MOVE_ARM_HOME (14) -> HANDLER_IDLE (1)
+2026-05-18 23:53:41 Handler State: HANDLER_IDLE (1) -> HANDLER_START (2)
+2026-05-18 23:53:41 Handler State: HANDLER_START (2) -> DECIDE_CART (3)
+2026-05-18 23:53:41 Selection: Last resort, just pick the first IFS.
+2026-05-18 23:53:41 Selection: Last resort, just pick the first cartridge.
+2026-05-18 23:53:42 Selected Primary Cartridge: 1
+2026-05-18 23:53:42 Selected Primary Station: 102
+2026-05-18 23:53:42 Selected Secondary Cartridge: 0
+2026-05-18 23:53:42 Selected Secondary Station: 0
+2026-05-18 23:53:42 Selected Filling Volume: 363
+2026-05-18 23:53:42 Handler State: DECIDE_CART (3) -> CHECK_SEC_CART (26)
+2026-05-18 23:53:42 Handler State: CHECK_SEC_CART (26) -> PROBE_CART (24)
+2026-05-18 23:53:42 CartMove: Exchange 1, from 102
+2026-05-18 23:53:42 CartMoveState: IDLE (1) -> FROM_MOVE (3)
+2026-05-18 23:53:42 CartMoveState: FROM_MOVE (3) -> FROM_PROBE (19)
+2026-05-18 23:53:44 Handler State: PROBE_CART (24) -> PROCESS_CART (6)
+2026-05-18 23:55:01 Setting CBS color valve (FillIFS): 1
+2026-05-18 23:55:02 Primed volume (FillIFS): 4.12146
+2026-05-18 23:55:02 Re-Calculated Filling Volume: 363
+2026-05-18 23:55:02 Setting CBS color valve (FillCart): 1
+2026-05-18 23:55:20 Handler State: PROCESS_CART (6) -> EXCHANGE_ONE (7)
+2026-05-18 23:55:20 CartMove: Exchange 1, from 102
+2026-05-18 23:55:20 CartMoveState: FROM_PROBE (19) -> FROM_CART (4)
+2026-05-18 23:55:27 Setting CBS color valve (Finished): 0
+2026-05-18 23:55:29 CartMoveState: FROM_CART (4) -> TO_MOVE (10)
+2026-05-18 23:55:30 CartMoveState: TO_MOVE (10) -> EXCH_1_WAIT (14)
+2026-05-18 23:55:30 Handler State: EXCHANGE_ONE (7) -> START_DCU (8)
+2026-05-18 23:55:30 Handler State: START_DCU (8) -> EXCHANGE_TWO (9)
+2026-05-18 23:55:30 CartMove: Exchange 2
+2026-05-18 23:55:31 CartMoveState: EXCH_1_WAIT (14) -> EXCH_1_CART (15)
+2026-05-18 23:55:34 CartMoveState: EXCH_1_CART (15) -> EXCH_2_MOVE (16)
+2026-05-18 23:55:35 CartMoveState: EXCH_2_MOVE (16) -> EXCH_2_CART (17)
+2026-05-18 23:55:37 CartMoveState: EXCH_2_CART (17) -> STORE_DECIDE (18)
+2026-05-18 23:55:37 Used volume for last job: 195.529
+2026-05-18 23:55:37 Handler State: EXCHANGE_TWO (9) -> WAIT_FOR_DCU (10)
+2026-05-18 23:55:39 Handler State: WAIT_FOR_DCU (10) -> EXCHANGE_THREE (11)

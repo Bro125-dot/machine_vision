@@ -1,0 +1,1656 @@
+MODULE CalculationVol(SYSMODULE)
+    !
+    VAR num SafeAmmount;
+    VAR intnum irErrInJob;
+    VAR intnum irStopGunBellCleaner;
+    VAR intnum irProgramInfo;
+    CONST string NDX_FILE:="segments.ndx";
+    CONST string PROGRAMS_DIR:="programs/";
+    CONST string BTRACK_DIR:="btrack/";
+    CONST string BRUSH_DIR:="ipsdata/node1/A1Brush/";
+    PERS bool bDefaultVol:=FALSE;
+
+    VAR num RobID:=12;
+    VAR num nCycleTime;
+    VAR clock clkCycleTime;
+    VAR string stRobotName;
+    VAR string stValves;
+
+    VAR num nProgramnum;
+    VAR num nMaterialnum;
+    VAR num nJobIDnum;
+    VAR num nProgOpz1num;
+    VAR num nProgOpz2num;
+    VAR num nProgOpz3num;
+    VAR num nLastJobIDnum;
+    VAR num nLastPrognum;
+    VAR string sModelndx{1};
+    VAR string stModNameCalc;
+    VAR num nVolume;
+    VAR num nVolumeCalc;
+    VAR num VolEst;
+    VAR num BrushTableNo;
+    VAR string FilePath;
+    VAR string BrushPath;
+    VAR string trk:=".trk";
+    VAR string bt:=".bt";
+    VAR num size;
+    VAR num sizebrush;
+    VAR bool errormemory;
+    !
+    PERS bool bFIFOOpz1Prog1:=FALSE;
+    PERS bool bFIFOOpz1Prog2:=TRUE;
+    PERS bool bFIFOOpz1Prog3:=FALSE;
+    PERS bool bFIFOOpz1Prog4:=FALSE;
+    PERS bool bFIFOOpz1Prog5:=FALSE;
+    PERS bool bFIFOOpz1Prog6:=FALSE;
+    PERS bool bFIFOOpz1Prog7:=FALSE;
+    PERS bool bFIFOOpz1Prog8:=FALSE;
+    PERS bool bFIFOOpz1Prog9:=FALSE;
+    PERS bool bFIFOOpz1Prog10:=FALSE;
+    PERS bool bFIFOOpz1Prog11:=FALSE;
+    PERS bool bFIFOOpz1Prog12:=FALSE;
+    PERS bool bFIFOOpz1Prog13:=FALSE;
+    PERS bool bFIFOOpz1Prog14:=FALSE;
+    PERS bool bFIFOOpz1Prog15:=TRUE;
+    PERS bool bFIFOOpz1Prog16:=FALSE;
+    PERS bool bFIFOOpz2Prog1:=FALSE;
+    PERS bool bFIFOOpz2Prog2:=FALSE;
+    PERS bool bFIFOOpz2Prog3:=FALSE;
+    PERS bool bFIFOOpz2Prog4:=FALSE;
+    PERS bool bFIFOOpz2Prog5:=FALSE;
+    PERS bool bFIFOOpz2Prog6:=FALSE;
+    PERS bool bFIFOOpz2Prog7:=FALSE;
+    PERS bool bFIFOOpz2Prog8:=FALSE;
+    PERS bool bFIFOOpz2Prog9:=FALSE;
+    PERS bool bFIFOOpz2Prog10:=FALSE;
+    PERS bool bFIFOOpz2Prog11:=FALSE;
+    PERS bool bFIFOOpz2Prog12:=FALSE;
+    PERS bool bFIFOOpz2Prog13:=FALSE;
+    PERS bool bFIFOOpz2Prog14:=FALSE;
+    PERS bool bFIFOOpz2Prog15:=FALSE;
+    PERS bool bFIFOOpz2Prog16:=FALSE;
+    PERS bool bFIFOOpz3Prog1:=FALSE;
+    PERS bool bFIFOOpz3Prog2:=FALSE;
+    PERS bool bFIFOOpz3Prog3:=FALSE;
+    PERS bool bFIFOOpz3Prog4:=FALSE;
+    PERS bool bFIFOOpz3Prog5:=FALSE;
+    PERS bool bFIFOOpz3Prog6:=FALSE;
+    PERS bool bFIFOOpz3Prog7:=FALSE;
+    PERS bool bFIFOOpz3Prog8:=FALSE;
+    PERS bool bFIFOOpz3Prog9:=FALSE;
+    PERS bool bFIFOOpz3Prog10:=FALSE;
+    PERS bool bFIFOOpz3Prog11:=FALSE;
+    PERS bool bFIFOOpz3Prog12:=FALSE;
+    PERS bool bFIFOOpz3Prog13:=FALSE;
+    PERS bool bFIFOOpz3Prog14:=FALSE;
+    PERS bool bFIFOOpz3Prog15:=FALSE;
+    PERS bool bFIFOOpz3Prog16:=FALSE;
+
+    PERS bool bFIFOINT_BONNET:=FALSE;
+    PERS bool bFIFOINT_EC:=FALSE;
+    PERS bool bFIFOINT_FDL_LEAF:=FALSE;
+    PERS bool bFIFOINT_FDL_ENTRY:=FALSE;
+    PERS bool bFIFOINT_FDR_LEAF:=FALSE;
+    PERS bool bFIFOINT_FDR_ENTRY:=FALSE;
+    PERS bool bFIFOINT_RDL_LEAF:=FALSE;
+    PERS bool bFIFOINT_RDL_ENTRY:=FALSE;
+    PERS bool bFIFOINT_RDR_LEAF:=FALSE;
+    PERS bool bFIFOINT_RDR_ENTRY:=FALSE;
+    PERS bool bFIFOINT_TAILGATE:=FALSE;
+    PERS bool bFIFOINT_FUELCAP:=FALSE;
+
+    PERS bool bFIFOSIDEFINS:=FALSE;
+    PERS bool bFIFOFUELCAPS:=FALSE;
+    PERS bool bFIFOLHMIRROR:=FALSE;
+    PERS bool bFIFODIAPASONS:=FALSE;
+    PERS bool bFIFORHMIRROR:=FALSE;
+    PERS bool bFIFOFBUMPERUP:=FALSE;
+    PERS bool bFIFOARCHES_L:=FALSE;
+    PERS bool bFIFORDPANELS:=FALSE;
+    PERS bool bFIFOSPOILER:=FALSE;
+    PERS bool bFIFORBUMPERUP:=FALSE;
+
+    PERS bool bFIFORHDHANDLES:=FALSE;
+    PERS bool bFIFOSPOILERLIP:=FALSE;
+    PERS bool bFIFOLOWSPOILER:=FALSE;
+    PERS bool bFIFORBUMPERLP:=FALSE;
+    PERS bool bFIFOARCHES_R:=FALSE;
+    PERS bool bFIFOFDPANELS:=FALSE;
+    PERS bool bFIFOFBUMPERLP:=FALSE;
+    PERS bool bFIFOLHDHANDLES:=FALSE;
+    PERS bool bFIFOANTENNA:=FALSE;
+    PERS bool bFIFOSENSORS:=FALSE;
+    !Huracan PLA
+    PERS bool bFIFO_MIRROR_CAP:=FALSE;
+    PERS bool bFIFO_PANEL_UP_B:=FALSE;
+    PERS bool bFIFO_PANEL_UP_A:=FALSE;
+    PERS bool bFIFO_Handles:=FALSE;
+    PERS bool bFIFO_FINISHER:=FALSE;
+    PERS bool bFIFO_ROCKER_COVER:=FALSE;
+    PERS bool bFIFO_FINISHER_CFK:=FALSE;
+    PERS bool bFIFO_ROCKER_COVER_CFK:=FALSE;
+    PERS bool bFIFO_FBUMPER:=FALSE;
+    PERS bool bFIFO_RBUMPER:=FALSE;
+    PERS bool bFIFO_UP_SPOILER:=FALSE;
+    PERS bool bFIFO_UP_SPOILER_CFK:=FALSE;
+    !
+    PERS bool bFIFO_KIDNEY:=FALSE;
+    PERS bool bFIFO_PANEL_IN:=FALSE;
+    PERS bool bFIFO_Sensor:=FALSE;
+    PERS bool bFIFO_CARBONTAIL:=FALSE;
+    PERS bool bFIFO_UPPERSP:=FALSE;
+    !Second Cartdrige
+    PERS bool bCartdrige:=FALSE;
+
+    PROC mainCalculationVol()
+        !
+        IDelete irErrInJob;
+        CONNECT irErrInJob WITH tpirErrInJob;
+        ISignalDO RobotError,1,irErrInJob;
+        !
+        IDelete irErrInJob;
+        CONNECT irErrInJob WITH tpirErrInJob;
+        ISignalDO SystemRunning,0,irErrInJob;
+        !
+        IDelete irStopGunBellCleaner;
+        CONNECT irStopGunBellCleaner WITH tpStopGunBellCleaner;
+        ISignalDO RunChainClosed,0,irStopGunBellCleaner;
+        !
+        IDelete irStopGunBellCleaner;
+        CONNECT irStopGunBellCleaner WITH tpStopGunBellCleaner;
+        ISignalDO sdoQuickStop,1,irStopGunBellCleaner;
+        !
+        IDelete irProgramInfo;
+        CONNECT irProgramInfo WITH tpProgramInfo;
+        ISignalDO InModule,1,irProgramInfo;
+        !
+        SafeAmmount:=nSafeCal;
+        !
+        IF diReqCalcVolPreFIFO=1 THEN
+            !IF (giProgNumPreFifo<>nLastPrognum OR giJobIDPreFifo<>nLastJobIDnum OR bEnd1CatridgeBCURUS=TRUE OR bEnd1CatridgePRURUS=TRUE) AND doInModule=0 AND diReqCalcVolPreFIFO=1 THEN
+            IF (giProgNumPreFifo<>nLastPrognum OR giJobIDPreFifo<>nLastJobIDnum OR bCartdrige=TRUE) OR
+              ((giProgNumPreFifo>0 AND giProgNumPreFifo=nLastPrognum) AND giJobIDPreFifo=nLastJobIDnum) THEN
+                errormemory:=FALSE;
+                nProgOpz1num:=GetSignal("giOpt1numPreFifo");
+                nProgOpz2num:=GetSignal("giOpt2numPreFifo");
+                nProgOpz3num:=GetSignal("giOpt3numPreFifo");
+                nProgramnum:=GetSignal("giProgNumPreFifo");
+                nMaterialnum:=GetSignal("giMaterialNumPreFifo");
+                nJobIDnum:=GetSignal("giJobIDPreFifo");
+                WaitTime 0.2;
+                GetCustOptionsPreFIFO;
+                !
+                IF giJobIDPreFifo<>nLastJobIDnum THEN
+                    bCartdrige:=FALSE;
+                    WaitTime 0.3;
+                ENDIF
+                !
+                IF bCartdrige=FALSE THEN
+
+                    IF ((giProgNumPreFifo>0 AND giProgNumPreFifo=nLastPrognum) AND giJobIDPreFifo=nLastJobIDnum) THEN
+                        IF giJobIDPreFifo<>0 THEN
+                            stModNameCalc:="DEFAULT";
+                        ELSE
+                            GOTO label;
+                        ENDIF
+                    ELSE
+                        sModelndx{1}:=sModelget(nProgramnum,1);
+                        stModNameCalc:=sModelndx{1};
+                    ENDIF
+                ELSEIF bCartdrige=TRUE THEN
+                    !
+                    stModNameCalc:=stModNameCalc+"II";
+                ENDIF
+                WaitTime 0.3;
+                !
+                TEST stModNameCalc
+
+                CASE "URUS_PA1_BC0_R12_Plastic":
+                    Volume_URUS_PA1_BC0_R12_PLA;
+                    CalcVolLog;
+                    IF bDefaultVol=TRUE nVolume:=565;
+                    bCartdrige:=TRUE;
+
+                CASE "URUS_PA1_BC0_R12_PlasticII":
+                    Volume_URUS_PA1_BC0_R12_PLAII;
+                    CalcVolLog;
+                    IF bDefaultVol=TRUE nVolume:=500;
+                    bCartdrige:=FALSE;
+
+                CASE "URUS_PA1_BC0_INT":
+                    Volume_URUS_PA1_BC0_INT;
+                    CalcVolLog;
+                    IF bDefaultVol=TRUE nVolume:=550;
+
+                CASE "URUS_PA1_BC0_R12_EXT":
+                    Volume_URUS_PA1_BC0_R12_EXT;
+                    CalcVolLog;
+                    bCartdrige:=TRUE;
+                    IF bDefaultVol=TRUE nVolume:=550;
+
+                CASE "URUS_PA1_BC0_R12_EXTII":
+                    Volume_URUS_PA1_BC0_R12_EXTII;
+                    bCartdrige:=FALSE;
+                    CalcVolLog;
+                    IF bDefaultVol=TRUE nVolume:=520;
+
+                CASE "URUS_PA1_PR0_INT":
+                    Volume_URUS_PA1_PR0_INT;
+                    CalcVolLog;
+                    IF bDefaultVol=TRUE nVolume:=520;
+
+                CASE "URUS_PA1_PR0_R12_EXT":
+                    Volume_URUS_PA1_PR0_R12_EXT;
+                    CalcVolLog;
+                    bCartdrige:=TRUE;
+                    IF bDefaultVol=TRUE nVolume:=550;
+
+                CASE "URUS_PA1_PR0_R12_EXTII":
+                    Volume_URUS_PA1_PR0_R12_EXTII;
+                    bCartdrige:=FALSE;
+                    CalcVolLog;
+                    IF bDefaultVol=TRUE nVolume:=520;
+
+                CASE "HURACAN_PRIM_R12_INT":
+                    Volume_HURACAN_PRIM_INT;
+                    CalcVolLog;
+                    IF bDefaultVol=TRUE nVolume:=500;
+
+                CASE "HURACAN_PRIM_R12_EXT":
+                    Volume_HURACAN_PRIM_R12_EXT;
+                    CalcVolLog;
+                    IF bDefaultVol=TRUE nVolume:=500;
+
+                CASE "HURACAN_BC0_R12_INT":
+                    Volume_HURACAN_BC0_INT;
+                    CalcVolLog;
+                    IF bDefaultVol=TRUE nVolume:=550;
+
+                CASE "HURACAN_BC0_R12_EXT":
+                    Volume_URUS_PA1_BC0_R12_EXT;
+                    CalcVolLog;
+                    IF bDefaultVol=TRUE nVolume:=550;
+                    bCartdrige:=TRUE;
+
+                CASE "HURACAN_BC0_R12_EXTII":
+                    Volume_URUS_PA1_BC0_R12_EXTII;
+                    bCartdrige:=FALSE;
+                    CalcVolLog;
+                    IF bDefaultVol=TRUE nVolume:=550;
+
+                CASE "HURACAN_BC0_R12_PLA":
+                    Volume_HURACAN_BC0_R12_PLA;
+                    CalcVolLog;
+                    IF bDefaultVol=TRUE nVolume:=500;
+                    bCartdrige:=TRUE;
+
+                CASE "HURACAN_BC0_R2_PLAII":
+                    Volume_HURACAN_BC0_R12_PLAII;
+                    bCartdrige:=FALSE;
+                    CalcVolLog;
+                    IF bDefaultVol=TRUE nVolume:=500;
+
+                CASE "URUS_PA2_BC0_INT_2024":
+                    Volume_URUS_PA2_BC0_INT;
+                    CalcVolLog;
+                    IF bDefaultVol=TRUE nVolume:=550;
+
+                CASE "URUS_PA2_BC0_R12_EXT_2024":
+                    Volume_URUS_PA2_BC0_R12_EXT;
+                    CalcVolLog;
+                    bCartdrige:=TRUE;
+                    IF bDefaultVol=TRUE nVolume:=580;
+
+                CASE "URUS_PA2_BC0_R12_EXT_2024II":
+                    Volume_URUS_PA2_BC0_R12_EXTII;
+                    bCartdrige:=FALSE;
+                    CalcVolLog;
+                    IF bDefaultVol=TRUE nVolume:=520;
+
+                CASE "URUS_PA2_PR0_R12_EXT_2024":
+                    Volume_URUS_PA2_PR0_R12_EXT;
+                    CalcVolLog;
+                    bCartdrige:=TRUE;
+                    nVolume:=500;
+
+                CASE "URUS_PA2_PR0_R12_EXT_2024II":
+                    Volume_URUS_PA2_PR0_R12_EXTII;
+                    bCartdrige:=FALSE;
+                    CalcVolLog;
+                    IF bDefaultVol=TRUE nVolume:=520;
+
+                CASE "URUS_PA1_HOOD_R12_EXT":
+                    Volume_URUS_PA1_HOOD_R12_EXT;
+                    bCartdrige:=FALSE;
+                    CalcVolLog;
+                    nVolume:=550;
+                    !
+                DEFAULT:
+                    nVolume:=600;
+                    WaitTime 0.5;
+                    !
+                ENDTEST
+                SetTmSignal "goVolumeCalcpreFIFO",nVolume,0.1;
+                PntMAPlog " Vol : "+stModNameCalc+" Skid: "+NumToStr(nJobIDnum,0)+
+                          " Calcul Vol : "+NumToStr(VolEst,0)+" Color: "+NumToStr(nMaterialnum,0)+".";
+                PntMAPlog " ---------------------------";
+                SetTmSignal "goJodIDpreFIFO",nJobIDnum,0;
+                nLastJobIDnum:=nJobIDnum;
+                nLastPrognum:=nProgramnum;
+                !delay Head PLC
+                WaitTime 0.5;
+                !
+                PulseDO\PLength:=1.0,doEndCalcPreFIFO;
+                WaitTime 0.3;
+                WaitUntil doEndCalcPreFIFO=0;
+            ENDIF
+        ENDIF
+        label:
+        !
+        WaitTime 3;
+    ENDPROC
+
+    FUNC string sModelget(num nProgramnum,num nColumn)
+        VAR string nTemp;
+        VAR string stTemp;
+        VAR string stFilePath;
+        VAR bool btemp;
+        VAR string sDefault:="";
+
+        VAR bool berr;
+
+        stFilePath:=HOME_ROOT+PROGRAMS_DIR+NDX_FILE;
+        IF IsFile(stFilePath) THEN
+            IF nProgramnum>0 THEN
+                stTemp:=IndexLookup(stFilePath,nProgramnum,nColumn);
+                IF stTemp<>"" THEN
+                    IF nColumn>1 THEN
+                        nTemp:=stTemp;
+                        RETURN nTemp;
+                    ELSE
+                        RETURN stTemp;
+                    ENDIF
+                ENDIF
+            ENDIF
+        ENDIF
+        RETURN sDefault;
+    ERROR
+        IF ERRNO=ERR_CSV_INDEX THEN
+            !ErrWrite\I,"Programs number not found in segments.ndx","Calculation volume not done - Default value set";
+            RETURN sDefault;
+            !PulseDO\High,sdoRobotError;
+        ENDIF
+    ENDFUNC
+
+    PROC Volume_URUS_PA1_BC0_R12_PLA()
+        nVolume:=0;
+        nVolumeCalc:=0;
+        SetTmSignal "goVolumeCalcpreFIFO",0,0.1;
+        BrushTableNo:=(nProgramnum*1000)+nMaterialnum;
+        WaitTime 0.2;
+        !checking if file is presence in the Brush folder
+        BrushPath:=HOME_ROOT+BRUSH_DIR+"Table"+NumToStr(BrushTableNo,0)+bt;
+        sizebrush:=FileSize(BrushPath);
+        !checking if file is presence in the btrack folder
+        IF bFIFOSENSORS=TRUE THEN
+
+            CalcVolPMR("Vol_UR_BC0_PLA_02_Sensors");
+
+        ENDIF
+        !
+        IF bFIFOANTENNA=TRUE THEN
+
+            CalcVolPMR("Vol_UR_BC0_PLA_01_Antenna");
+
+        ENDIF
+        !
+        IF bFIFOSPOILERLIP=TRUE THEN
+
+            CalcVolPMR("Vol_UR_BC0_PLA_06_Spoilerlip");
+
+        ENDIF
+        !
+        IF bFIFOARCHES_R=TRUE THEN
+
+            CalcVolPMR("Vol_UR_BC0_PLA_07_Arches");
+
+        ENDIF
+        !
+        IF bFIFOLOWSPOILER=TRUE THEN
+
+            CalcVolPMR("Vol_UR_BC0_PLA_05_Lowspoiler");
+
+        ENDIF
+        !
+        IF bFIFORBUMPERLP=TRUE THEN
+
+            CalcVolPMR("Vol_UR_BC0_PLA_04_RBumperlp");
+
+        ENDIF
+        WaitTime 0.2;
+        
+    ERROR
+        IF ERRNO=ERR_FILEACC THEN
+            nVolume:=650;
+            errormemory:=TRUE;
+            RETURN ;
+        ENDIF
+    ENDPROC
+
+    PROC Volume_URUS_PA1_BC0_R12_PLAII()
+        nVolume:=0;
+        nVolumeCalc:=0;
+        !
+        IF bFIFOFDPANELS=TRUE THEN
+
+            CalcVolPMR("Vol_UR_BC0_PLA_09_FDpanels");
+
+        ENDIF
+        !
+        IF bFIFOFBUMPERLP=TRUE THEN
+
+            CalcVolPMR("Vol_UR_BC0_PLA_08_FBumperlp");
+
+        ENDIF
+        WaitTime 0.2;
+        
+    ERROR
+        nVolume:=650;
+        errormemory:=TRUE;
+        RETURN ;
+    ENDPROC
+
+    PROC Volume_URUS_PA1_PR0_INT()
+        nVolume:=0;
+        nVolumeCalc:=0;
+        SetTmSignal "goVolumeCalcpreFIFO",0,0.1;
+        BrushTableNo:=(nProgramnum*1000)+nMaterialnum;
+        WaitTime 0.2;
+        !Checking if files is presence in the Brush folder
+        BrushPath:=HOME_ROOT+BRUSH_DIR+"Table"+NumToStr(BrushTableNo,0)+bt;
+        sizebrush:=FileSize(BrushPath);
+        !
+        CalcVolPMR("Vol_UR_BC0_TR_INT1");
+
+        IF RobID=12 THEN
+
+            CalcVolPMR("Vol_UR_BC0_TR_INT2");
+
+        ENDIF
+        !
+        IF bFIFOOpz1Prog3 OR bFIFOOpz1Prog4 OR bFIFOOpz1Prog5 THEN
+
+            CalcVolPMR("Vol_UR_PR0_FB_INT");
+        ELSE
+            CalcVolPMR("Vol_UR_PR0_FB_INT");
+
+        ENDIF
+
+        CalcVolPMR("Vol_UR_BC0_EC_INT");
+
+        CalcVolPMR("Vol_UR_BC0_FD_INT1");
+
+        CalcVolPMR("Vol_UR_BC0_FD_INT2");
+
+        CalcVolPMR("Vol_UR_BC0_RD_INT");
+        WaitTime 0.2;
+        
+    ERROR
+        IF ERRNO=ERR_FILEACC THEN
+            nVolume:=650;
+            errormemory:=TRUE;
+            RETURN ;
+        ENDIF
+    ENDPROC
+
+    PROC Volume_URUS_PA1_PR0_R12_EXT()
+        nVolume:=0;
+        nVolumeCalc:=0;
+        SetTmSignal "goVolumeCalcpreFIFO",0,0.1;
+        BrushTableNo:=(nProgramnum*1000)+nMaterialnum;
+        WaitTime 0.2;
+        !Checking if files is presence in the Brush folder
+        BrushPath:=HOME_ROOT+BRUSH_DIR+"Table"+NumToStr(BrushTableNo,0)+bt;
+        sizebrush:=FileSize(BrushPath);
+        !
+        CalcVolPMR("Vol_UR_BC0_FC_Ext");
+        IF bFIFOOpz1Prog2 THEN
+
+            CalcVolPMR("Vol_UR_BC0_SuRO1_Ext");
+
+            CalcVolPMR("Vol_UR_BC0_SuRO2_Ext");
+
+        ELSEIF bFIFOOpz1Prog3 THEN
+
+            CalcVolPMR("Vol_UR_BC0_RO1_CFK_Ext");
+
+            CalcVolPMR("Vol_UR_BC0_RO2_CFK_Ext");
+
+        ELSEIF bFIFOOpz1Prog4 THEN
+
+            CalcVolPMR("Vol_UR_BC0_RO1_Ext");
+
+            CalcVolPMR("Vol_UR_BC0_RO2_Ext");
+
+        ELSEIF bFIFOOpz1Prog5 THEN
+
+            CalcVolPMR("Vol_UR_BC0_SuRo1_ext");
+
+            CalcVolPMR("Vol_UR_BC0_SuRo2_ext");
+        ELSE
+            CalcVolPMR("Vol_UR_BC0_Ro1_ext");
+
+            CalcVolPMR("Vol_UR_BC0_Ro2_ext");
+
+        ENDIF
+
+        CalcVolPMR("Vol_UR_BC0_Ra1_ext");
+
+        CalcVolPMR("Vol_UR_BC0_Ra2_ext");
+
+        IF RobID=13 THEN
+
+            CalcVolPMR("Vol_UR_BC0_TGate1_Ext");
+        ELSE
+            CalcVolPMR("Vol_UR_BC0_TGate2_Ext");
+
+        ENDIF
+        WaitTime 0.2;
+        
+    ERROR
+        IF ERRNO=ERR_FILEACC THEN
+            nVolume:=650;
+            errormemory:=TRUE;
+            RETURN ;
+        ENDIF
+    ENDPROC
+
+    PROC Volume_URUS_PA1_PR0_R12_EXTII()
+        nVolume:=0;
+        nVolumeCalc:=0;
+        ! Front Fender / Door
+        CalcVolPMR("Vol_UR_BC0_SF_Ext");
+        ! Rear Fender / Door
+        CalcVolPMR("Vol_UR_PR0_SR_Ext");
+        WaitTime 0.2;
+        
+    ERROR
+        IF ERRNO=ERR_FILEACC THEN
+            nVolume:=650;
+            errormemory:=TRUE;
+            RETURN ;
+        ENDIF
+    ENDPROC
+
+    PROC Volume_URUS_PA1_BC0_INT()
+        nVolume:=0;
+        nVolumeCalc:=0;
+        SetTmSignal "goVolumeCalcpreFIFO",0,0.1;
+        BrushTableNo:=(nProgramnum*1000)+nMaterialnum;
+        WaitTime 0.2;
+        !checking if file is presence in the Brush folder
+        BrushPath:=HOME_ROOT+BRUSH_DIR+"Table"+NumToStr(BrushTableNo,0)+bt;
+        sizebrush:=FileSize(BrushPath);
+        IF bFIFOOpz1Prog16=FALSE THEN
+
+            CalcVolPMR("Vol_UR_BC0_TR_INT1");
+
+            IF RobID=12 THEN
+
+                CalcVolPMR("Vol_UR_BC0_TR_INT2");
+
+            ENDIF
+            IF bFIFOOpz1Prog3 OR bFIFOOpz1Prog4 OR bFIFOOpz1Prog5 THEN
+
+                CalcVolPMR("Vol_UR_BC0_CFKFB_INT");
+            ELSE
+                CalcVolPMR("Vol_UR_BC0_FB_INT");
+
+            ENDIF
+
+            CalcVolPMR("Vol_UR_BC0_EC_INT");
+
+            CalcVolPMR("Vol_UR_BC0_FD_INT1");
+
+            CalcVolPMR("Vol_UR_BC0_FD_INT2");
+
+            CalcVolPMR("Vol_UR_BC0_RD_INT");
+
+        ELSEIF bFIFOOpz1Prog16=TRUE THEN
+            !
+            IF bFIFOINT_EC THEN
+
+                CalcVolPMR("Vol_UR_BC0_EC_INT");
+
+            ENDIF
+            !
+            IF bFIFOINT_BONNET THEN
+
+                CalcVolPMR("Vol_UR_BC0_FB_INT");
+
+            ENDIF
+            IF bFIFOINT_EC OR bFIFOINT_BONNET OR bFIFOINT_FDR_LEAF OR bFIFOINT_FDR_ENTRY
+
+            CalcVolPMR("Vol_UR_BC0_FD_INT1");
+            CalcVolPMR("Vol_UR_BC0_FD_INT2");
+
+        ENDIF
+        !
+        IF bFIFOINT_TAILGATE THEN
+
+            CalcVolPMR("Vol_UR_BC0_TR_INT1");
+            CalcVolPMR("Vol_UR_BC0_TR_INT2");
+
+        ENDIF
+        !
+        IF bFIFOINT_FDR_LEAF AND bFIFOINT_FDR_ENTRY THEN
+
+            CalcVolPMR("Vol_UR_BC0_FD_INT2");
+
+        ELSEIF bFIFOINT_FDR_LEAF THEN
+
+            CalcVolPMR("Vol_UR_BC0_FDLEAF_INT2");
+        ELSE
+            CalcVolPMR("Vol_UR_BC0_FDENTRY_INT2");
+
+        ENDIF
+        !
+        IF bFIFOINT_RDR_LEAF AND bFIFOINT_RDR_ENTRY THEN
+
+            CalcVolPMR("Vol_UR_BC0_RD_INT");
+
+        ELSEIF bFIFOINT_RDR_LEAF THEN
+
+            CalcVolPMR("Vol_UR_BC0_RDLEAF_INT");
+
+        ELSE
+            CalcVolPMR("Vol_UR_BC0_RDENTRY_INT");
+
+        ENDIF
+        WaitTime 0.2;
+        
+    ERROR
+        IF ERRNO=ERR_FILEACC THEN
+            nVolume:=650;
+            errormemory:=TRUE;
+            RETURN ;
+        ENDIF
+    ENDPROC
+
+    PROC Volume_URUS_PA1_BC0_R12_EXT()
+        nVolume:=0;
+        nVolumeCalc:=0;
+        SetTmSignal "goVolumeCalcpreFIFO",0,0.1;
+        BrushTableNo:=(nProgramnum*1000)+nMaterialnum;
+        WaitTime 0.2;
+        !Checking if files is presence in the Brush folder
+        BrushPath:=HOME_ROOT+BRUSH_DIR+"Table"+NumToStr(BrushTableNo,0)+bt;
+        sizebrush:=FileSize(BrushPath);
+        !
+        IF bFIFOOpz1Prog16=FALSE THEN
+            IF bFIFOOpz1Prog3 OR bFIFOOpz1Prog4 OR bFIFOOpz1Prog5 THEN
+
+                CalcVolPMR("Vol_UR_BC0_HO1_Ext");
+
+                CalcVolPMR("Vol_UR_BC0_HO2_Ext");
+            ELSE
+                CalcVolPMR("Vol_UR_BC0_HO1_Ext");
+
+                CalcVolPMR("Vol_UR_BC0_HO2_Ext");
+
+            ENDIF
+            !
+            CalcVolPMR("Vol_UR_BC0_FC_Ext");
+            !
+            IF bFIFOOpz1Prog2 THEN
+
+                CalcVolPMR("Vol_UR_BC0_SuRO1_Ext");
+
+                CalcVolPMR("Vol_UR_BC0_SuRO2_Ext");
+
+            ELSEIF bFIFOOpz1Prog3 THEN
+
+                CalcVolPMR("Vol_UR_BC0_RO1_CFK_Ext");
+
+                CalcVolPMR("Vol_UR_BC0_RO2_CFK_Ext");
+
+            ELSEIF bFIFOOpz1Prog4 THEN
+
+                CalcVolPMR("Vol_UR_BC0_RO1_Ext");
+
+                CalcVolPMR("Vol_UR_BC0_RO2_Ext");
+
+            ELSEIF bFIFOOpz1Prog5 THEN
+
+                CalcVolPMR("Vol_UR_BC0_SuRO1_Ext");
+
+                CalcVolPMR("Vol_UR_BC0_SuRO2_Ext");
+            ELSE
+                CalcVolPMR("Vol_UR_BC0_RO1_Ext");
+
+                CalcVolPMR("Vol_UR_BC0_RO2_Ext");
+            ENDIF
+
+            CalcVolPMR("Vol_UR_BC0_RA1_Ext");
+
+            CalcVolPMR("Vol_UR_BC0_RA2_Ext");
+
+            IF RobID=13 THEN
+
+                CalcVolPMR("Vol_UR_GrTgate_Ext");
+
+                CalcVolPMR("Vol_UR_BC0_TGate1_Ext");
+            ELSE
+                CalcVolPMR("Vol_UR_BC0_TGate2_Ext");
+            ENDIF
+
+        ELSEIF bFIFOOpz1Prog16=TRUE THEN
+
+            IF bFIFOOpz3Prog14 THEN
+
+                CalcVolPMR("Vol_UR_BC0_TGate2_Ext");
+
+            ELSEIF bFIFOOpz3Prog1 THEN
+
+                CalcVolPMR("Vol_UR_BC0_HO1_Ext");
+
+                CalcVolPMR("Vol_UR_BC0_HO2_Ext");
+
+                CalcVolPMR("Vol_UR_BC0_SF_Ext_RepHood");
+
+            ELSEIF bFIFOOpz3Prog7 THEN
+
+                CalcVolPMR("Vol_UR_BC0_HO2_Rep_Fender_Ext");
+
+                CalcVolPMR("Vol_UR_BC0_SF_Ext_RepFender");
+
+                CalcVolPMR("Vol_UR_BC0_FC_Ext_Rep");
+
+            ELSEIF bFIFOOpz3Prog15 THEN
+
+                CalcVolPMR("Vol_UR_BC0_FC_Ext_Rep");
+
+            ELSEIF bFIFOOpz3Prog3 THEN
+
+                CalcVolPMR("Vol_UR_BC0_SuRO1_Ext");
+
+                CalcVolPMR("Vol_UR_BC0_SuRO2_Ext");
+
+            ELSEIF bFIFOOpz3Prog2 THEN
+
+                CalcVolPMR("Vol_UR_BC0_RO1_Ext");
+
+                CalcVolPMR("Vol_UR_BC0_RO2_Ext");
+
+            ELSEIF bFIFOOpz3Prog5 THEN
+
+                CalcVolPMR("Vol_UR_BC0_RA1_Ext");
+
+                CalcVolPMR("Vol_UR_BC0_RA2_Ext");
+
+            ELSEIF bFIFOOpz3Prog14 THEN
+
+                CalcVolPMR("Vol_UR_BC0_Ro1_ext_RepTgate");
+
+                CalcVolPMR("Vol_UR_BC0_Ro2_Ext_RepTgate");
+
+            ELSEIF bFIFOOpz3Prog2 OR bFIFOOpz3Prog3 THEN
+
+                CalcVolPMR("Vol_UR_BC0_Ra1_Ext_Roof_Rep");
+
+                CalcVolPMR("Vol_UR_BC0_Ra2_Ext_Roof_Rep");
+
+            ENDIF
+        ENDIF
+        WaitTime 0.2;
+        
+    ERROR
+        IF ERRNO=ERR_FILEACC THEN
+            nVolume:=650;
+            errormemory:=TRUE;
+            RETURN ;
+        ENDIF
+    ENDPROC
+
+    PROC Volume_URUS_PA1_BC0_R12_EXTII()
+        nVolume:=0;
+        nVolumeCalc:=0;
+        !
+        IF bFIFOOpz1Prog16=TRUE THEN
+            IF bFIFOOpz3Prog9 THEN
+
+                CalcVolPMR("Vol_UR_BC0_SF_Ext");
+
+            ELSEIF bFIFOOpz3Prog7=TRUE AND bFIFOOpz3Prog11=FALSE THEN
+
+                CalcVolPMR("Vol_UR_BC0_SF_Ext_RepFender");
+
+            ELSEIF bFIFOOpz3Prog1=TRUE AND bFIFOOpz3Prog11=FALSE THEN
+
+                CalcVolPMR("Vol_UR_BC0_SF_Ext_RepHood");
+
+            ELSEIF bFIFOOpz3Prog11=TRUE AND (bFIFOOpz3Prog5=FALSE AND bFIFOOpz3Prog1=FALSE) THEN
+
+                CalcVolPMR("Vol_UR_BC0_SF_Ext_RepRear");
+
+            ELSEIF bFIFOOpz3Prog11=TRUE AND bFIFOOpz3Prog1=TRUE THEN
+
+                CalcVolPMR("Vol_UR_BC0_SF_Ext_RepHood_Rear");
+
+            ELSEIF bFIFOOpz3Prog7=TRUE AND bFIFOOpz3Prog11=TRUE THEN
+
+                CalcVolPMR("Vol_UR_BC0_SF_Ext");
+
+            ELSEIF bFIFOOpz3Prog11 THEN
+
+                CalcVolPMR("Vol_UR_BC0_SR_Ext");
+
+            ELSEIF bFIFOOpz3Prog9=TRUE AND bFIFOOpz3Prog5=FALSE THEN
+
+                CalcVolPMR("Vol_UR_BC0_SR_Ext_RepSF");
+
+            ELSEIF bFIFOOpz3Prog5=TRUE AND bFIFOOpz3Prog9=FALSE THEN
+
+                CalcVolPMR("Vol_UR_BC0_SR_Ext_RepRail");
+
+            ELSEIF bFIFOOpz3Prog5=TRUE AND bFIFOOpz3Prog9=TRUE THEN
+
+                CalcVolPMR("Vol_UR_BC0_SR_Ext");
+
+            ENDIF
+        ELSEIF bFIFOOpz1Prog16=FALSE THEN
+            !Front Fender/Door
+            CalcVolPMR("Vol_UR_BC0_SF_Ext");
+            !Rear Fender/Door
+            CalcVolPMR("Vol_UR_BC0_SR_Ext");
+            !
+        ENDIF
+         WaitTime 0.2;
+         
+    ERROR
+        nVolume:=650;
+        errormemory:=TRUE;
+        RETURN ;
+    ENDPROC
+
+    PROC Volume_HURACAN_BC0_R12_PLA()
+        nVolume:=0;
+        nVolumeCalc:=0;
+        SetTmSignal "goVolumeCalcpreFIFO",0,0.1;
+        BrushTableNo:=(nProgramnum*1000)+nMaterialnum;
+        WaitTime 0.2;
+        !checking if file is presence in the Brush folder
+        BrushPath:=HOME_ROOT+BRUSH_DIR+"Table"+NumToStr(BrushTableNo,0)+bt;
+        sizebrush:=FileSize(BrushPath);
+        !
+        IF bFIFO_UP_SPOILER THEN
+
+            CalcVolPMR("Vol_dop_HUR_BC0_UP_SPOILER");
+
+        ENDIF
+        !
+        IF bFIFO_FBUMPER THEN
+
+            CalcVolPMR("Vol_dop_HUR_BC0_FBUMPER1");
+            CalcVolPMR("Vol_dop_HUR_BC0_FBUMPER2");
+
+        ENDIF
+        !
+        IF bFIFO_MIRROR_CAP THEN
+
+            CalcVolPMR("Vol_dop_HUR_BC0_MIRROR_CAP");
+
+        ENDIF
+        !
+        IF bFIFO_Handles THEN
+
+            CalcVolPMR("Vol_dop_HUR_BC0_Handles");
+
+        ENDIF
+        !
+        IF bFIFO_FINISHER THEN
+
+            CalcVolPMR("Vol_dop_HUR_BC0_FINISHER");
+
+        ENDIF
+        !
+        IF bFIFO_ROCKER_COVER THEN
+
+            CalcVolPMR("Vol_HUR_BC0_ROCKER_COVER");
+
+        ENDIF
+        !
+        IF bFIFO_PANEL_UP_B THEN
+
+            CalcVolPMR("Vol_dop_HUR_BC0_S_PANEL_UP_B");
+
+        ENDIF
+        !
+        IF bFIFO_PANEL_UP_A THEN
+
+            CalcVolPMR("Vol_dop_HUR_BC0_S_PANEL_UP_A");
+
+        ENDIF
+        !
+        IF bFIFO_FINISHER_CFK THEN
+
+            CalcVolPMR("Vol_dop_HUR_BC0_FINISHER_CFK");
+
+        ENDIF
+        !
+        IF bFIFO_ROCKER_COVER_CFK THEN
+
+            CalcVolPMR("Vol_HUR_BC0_ROCKER_COVER_CFK");
+
+        ENDIF
+        !
+        IF bFIFO_UP_SPOILER_CFK THEN
+
+            CalcVolPMR("Vol_dop_HUR_BC0_UP_SPOILER_CFK");
+
+        ENDIF
+        WaitTime 0.2;
+        
+    ERROR
+        IF ERRNO=ERR_FILEACC THEN
+            nVolume:=650;
+            errormemory:=TRUE;
+            RETURN ;
+        ENDIF
+    ENDPROC
+
+    PROC Volume_HURACAN_BC0_R12_PLAII()
+        nVolume:=0;
+        nVolumeCalc:=0;
+        !
+        IF bFIFO_UPPERSP THEN
+
+            CalcVolPMR("Vol_dop_HUR_BC0_UPPERSP");
+
+        ENDIF
+        !
+        IF bFIFO_RBUMPER THEN
+
+            CalcVolPMR("Vol_dop_HUR_BC0_RBUMPER");
+
+        ENDIF
+        !
+        IF bFIFO_KIDNEY THEN
+
+            CalcVolPMR("Vol_dop_HUR_BC0_KIDNEY");
+
+        ENDIF
+        !
+        IF bFIFO_PANEL_IN THEN
+
+            CalcVolPMR("Vol_dop_HUR_BC0_S_PANEL_IN");
+
+        ENDIF
+        !
+        IF bFIFO_CARBONTAIL THEN
+
+            CalcVolPMR("Vol_dop_HUR_BC0_CARBONTAIL");
+
+        ENDIF
+        WaitTime 0.2;
+        
+    ERROR
+        IF ERRNO=ERR_FILEACC THEN
+            nVolume:=650;
+            errormemory:=TRUE;
+            RETURN ;
+        ENDIF
+    ENDPROC
+
+    PROC Volume_HURACAN_PRIM_INT()
+        nVolume:=0;
+        nVolumeCalc:=0;
+        SetTmSignal "goVolumeCalcpreFIFO",0,0.1;
+        BrushTableNo:=(nProgramnum*1000)+nMaterialnum;
+        WaitTime 0.2;
+        !Checking if files is presence in the Brush folder
+        BrushPath:=HOME_ROOT+BRUSH_DIR+"Table"+NumToStr(BrushTableNo,0)+bt;
+        sizebrush:=FileSize(BrushPath);
+
+        CalcVolPMR("Vol_HUR_BC0_EC_INT");
+
+        CalcVolPMR("Vol_HUR_BC0_FB_INT");
+
+        CalcVolPMR("Vol_HUR_BC0_FD_INT1");
+
+        CalcVolPMR("Vol_HUR_PRIM_FD_INT2");
+
+        CalcVolPMR("Vol_HUR_PRIM_TR_INT");
+        WaitTime 0.2;
+        
+    ERROR
+        IF ERRNO=ERR_FILEACC THEN
+            nVolume:=650;
+            errormemory:=TRUE;
+            RETURN ;
+        ENDIF
+    ENDPROC
+
+    PROC Volume_HURACAN_PRIM_R12_EXT()
+        nVolume:=0;
+        nVolumeCalc:=0;
+        SetTmSignal "goVolumeCalcpreFIFO",0,0.1;
+        BrushTableNo:=(nProgramnum*1000)+nMaterialnum;
+        WaitTime 0.2;
+        !Checking if files is presence in the Brush folder
+        BrushPath:=HOME_ROOT+BRUSH_DIR+"Table"+NumToStr(BrushTableNo,0)+bt;
+        sizebrush:=FileSize(BrushPath);
+        !
+        CalcVolPMR("Vol_HUR_BC0_Roof1_Ext");
+
+        CalcVolPMR("Vol_HUR_BC0_Roof2_Ext");
+
+        CalcVolPMR("Vol_HUR_BC0_HO1_Ext");
+
+        CalcVolPMR("Vol_HUR_BC0_HO2_Ext");
+
+        CalcVolPMR("Vol_HUR_BC0_Door_Ext");
+
+        CalcVolPMR("Vol_HUR_BC0_Rearfend_Ext");
+        WaitTime 0.2;
+        
+    ERROR
+        IF ERRNO=ERR_FILEACC THEN
+            nVolume:=650;
+            errormemory:=TRUE;
+            RETURN ;
+        ENDIF
+    ENDPROC
+
+    PROC Volume_HURACAN_BC0_INT()
+        nVolume:=0;
+        nVolumeCalc:=0;
+        SetTmSignal "goVolumeCalcpreFIFO",0,0.1;
+        BrushTableNo:=(nProgramnum*1000)+nMaterialnum;
+        WaitTime 0.2;
+        !checking if file is presence in the Brush folder
+        BrushPath:=HOME_ROOT+BRUSH_DIR+"Table"+NumToStr(BrushTableNo,0)+bt;
+        sizebrush:=FileSize(BrushPath);
+
+        CalcVolPMR("Vol_HURACAN_BC0_EC_INT");
+
+        CalcVolPMR("Vol_HURACAN_BC0_FB_INT");
+
+        CalcVolPMR("Vol_HURACAN_BC0_FD_INT1");
+
+        CalcVolPMR("Vol_HURACAN_BC0_FD_INT2");
+
+        CalcVolPMR("Vol_HUR_BC0_TR_INT1");
+        WaitTime 0.2;
+        
+    ERROR
+        IF ERRNO=ERR_FILEACC THEN
+            nVolume:=650;
+            errormemory:=TRUE;
+            RETURN ;
+        ENDIF
+    ENDPROC
+
+    PROC Volume_HURACAN_BC0_R12_EXT()
+        nVolume:=0;
+        nVolumeCalc:=0;
+        SetTmSignal "goVolumeCalcpreFIFO",0,0.1;
+        BrushTableNo:=(nProgramnum*1000)+nMaterialnum;
+        WaitTime 0.2;
+        !Checking if files is presence in the Brush folder
+        BrushPath:=HOME_ROOT+BRUSH_DIR+"Table"+NumToStr(BrushTableNo,0)+bt;
+        sizebrush:=FileSize(BrushPath);
+
+        CalcVolPMR("Vol_HUR_BC0_HO1_Ext");
+        PntMAPlog " Vol_HUR_BC0_HO1_Ext "" Skid: "+NumToStr(nJobIDnum,0)+" Cal Vol: "+NumToStr(nVolumeCalc,0)+".";
+
+        CalcVolPMR("Vol_HUR_BC0_HO2_Ext");
+        PntMAPlog " Vol_HUR_BC0_HO1_Ext "" Skid: "+NumToStr(nJobIDnum,0)+" Cal Vol: "+NumToStr(nVolumeCalc,0)+".";
+
+        CalcVolPMR("Vol_HUR_BC0_Roof1_Ext");
+        PntMAPlog " Vol_HUR_BC0_Roof1_Ext "" Skid: "+NumToStr(nJobIDnum,0)+" Cal Vol: "+NumToStr(nVolumeCalc,0)+".";
+
+        CalcVolPMR("Vol_HUR_BC0_Roof2_Ext");
+        PntMAPlog " Vol_HUR_BC0_Roof2_Ext "" Skid: "+NumToStr(nJobIDnum,0)+" Cal Vol: "+NumToStr(nVolumeCalc,0)+".";
+
+        IF bFIFOOpz1Prog2=TRUE THEN
+
+            CalcVolPMR("Vol_HUR_AP_BC0_Rearbonnet");
+            PntMAPlog " Vol_HUR_AP_BC0_Rearbonnet "" Skid: "+NumToStr(nJobIDnum,0)+" Cal Vol: "+NumToStr(nVolumeCalc,0)+".";
+
+            CalcVolPMR("Vol_HUR_AP_BC0_SpoilerUP");
+            PntMAPlog " Vol_HUR_AP_BC0_SpoilerUP "" Skid: "+NumToStr(nJobIDnum,0)+" Cal Vol: "+NumToStr(nVolumeCalc,0)+".";
+
+            CalcVolPMR("Vol_HUR_AP_BC0_FBumber1");
+            PntMAPlog " Vol_HUR_AP_BC0_FBumber1"" Skid: "+NumToStr(nJobIDnum,0)+" Cal Vol: "+NumToStr(nVolumeCalc,0)+".";
+
+            CalcVolPMR("Vol_HUR_AP_BC0_FBumber2");
+            PntMAPlog " Vol_HUR_AP_BC0_FBumber2"" Skid: "+NumToStr(nJobIDnum,0)+" Cal Vol: "+NumToStr(nVolumeCalc,0)+".";
+        ENDIF
+        !
+        IF bFIFOOpz1Prog4=TRUE THEN
+
+            CalcVolPMR("Vol_HUR_CFK_BC0_Rearbonnet");
+
+            CalcVolPMR("Vol_HUR_CFK_BC0_SpoilerUP");
+
+        ENDIF
+        !
+        WaitTime 0.2;
+    ERROR
+        IF ERRNO=ERR_FILEACC THEN
+            nVolume:=650;
+            errormemory:=TRUE;
+            RETURN ;
+        ENDIF
+    ENDPROC
+
+    PROC Volume_HURACAN_BC0_R12_EXTII()
+        nVolume:=0;
+        nVolumeCalc:=0;
+        SetTmSignal "goVolumeCalcpreFIFO",0,0.1;
+        BrushTableNo:=(nProgramnum*1000)+nMaterialnum;
+        WaitTime 0.2;
+        !Checking if files is presence in the Brush folder
+        BrushPath:=HOME_ROOT+BRUSH_DIR+"Table"+NumToStr(BrushTableNo,0)+bt;
+        sizebrush:=FileSize(BrushPath);
+        !
+        IF bFIFOOpz1Prog2=FALSE THEN
+
+            CalcVolPMR("Vol_HUR_BC0_Door_Ext");
+
+            CalcVolPMR("Vol_HUR_BC0_Rearfend_Ext");
+
+        ELSEIF bFIFOOpz1Prog2=TRUE THEN
+
+            CalcVolPMR("Vol_HUR_AP_BC0_Door_Ext");
+
+            CalcVolPMR("Vol_HUR_AP_BC0_RBumper");
+
+            CalcVolPMR("Vol_HUR_BC0_Rearfend_Ext");
+
+        ENDIF
+        WaitTime 0.2;
+        
+    ERROR
+        IF ERRNO=ERR_FILEACC THEN
+            nVolume:=650;
+            errormemory:=TRUE;
+            RETURN ;
+        ENDIF
+    ENDPROC
+
+    PROC Volume_URUS_PA2_BC0_INT()
+        nVolume:=0;
+        nVolumeCalc:=0;
+        SetTmSignal "goVolumeCalcpreFIFO",0,0.1;
+        BrushTableNo:=(nProgramnum*1000)+nMaterialnum;
+        WaitTime 0.2;
+        !checking if file is presence in the Brush folder
+        BrushPath:=HOME_ROOT+BRUSH_DIR+"Table"+NumToStr(BrushTableNo,0)+bt;
+        sizebrush:=FileSize(BrushPath);
+        !
+        CalcVolPMR("Vol_UR_BC0_TR_INT1_PA2");
+
+        IF RobID=12 THEN
+
+            CalcVolPMR("Vol_UR_BC0_TR_INT2");
+
+        ENDIF
+        !
+        IF bFIFOOpz1Prog3 OR bFIFOOpz1Prog4 OR bFIFOOpz1Prog5 THEN
+
+            CalcVolPMR("Vol_UR_BC0_EC_INT_PA2");
+        ELSE
+            CalcVolPMR("Vol_UR_PA2_FB_INT_R12");
+
+        ENDIF
+
+        CalcVolPMR("Vol_UR_BC0_FD_INT1");
+
+        CalcVolPMR("Vol_UR_BC0_FD_INT2");
+
+        CalcVolPMR("Vol_UR_BC0_RD_INT");
+
+        WaitTime 0.2;
+    ERROR
+        IF ERRNO=ERR_FILEACC THEN
+            nVolume:=650;
+            errormemory:=TRUE;
+            RETURN ;
+        ENDIF
+    ENDPROC
+
+    PROC Volume_URUS_PA2_BC0_R12_EXT()
+        nVolume:=0;
+        nVolumeCalc:=0;
+        SetTmSignal "goVolumeCalcpreFIFO",0,0.1;
+        BrushTableNo:=(nProgramnum*1000)+nMaterialnum;
+        WaitTime 0.2;
+        !Checking if files is presence in the Brush folder
+        BrushPath:=HOME_ROOT+BRUSH_DIR+"Table"+NumToStr(BrushTableNo,0)+bt;
+        sizebrush:=FileSize(BrushPath);
+        !
+        IF bFIFOOpz1Prog3 OR bFIFOOpz1Prog4 OR bFIFOOpz1Prog5 THEN
+
+            CalcVolPMR("Vol_UR_PA2_BC0_Hood1");
+
+            CalcVolPMR("Vol_UR_PA2_BC0_Hood2");
+        ELSE
+            CalcVolPMR("Vol_UR_PA2_BC0_Hood1");
+
+            CalcVolPMR("Vol_UR_PA2_BC0_Hood2");
+
+        ENDIF
+        !
+        CalcVolPMR("Vol_UR_BC0_FC_Ext");
+        !
+        IF bFIFOOpz1Prog2 THEN
+
+            CalcVolPMR("Vol_UR_BC0_SuRO1_Ext");
+
+            CalcVolPMR("Vol_UR_BC0_SuRO2_Ext");
+
+        ELSEIF bFIFOOpz1Prog3 THEN
+
+            CalcVolPMR("Vol_UR_BC0_RO1_CFK_Ext");
+
+            CalcVolPMR("Vol_UR_BC0_RO2_CFK_Ext");
+
+        ELSEIF bFIFOOpz1Prog4 THEN
+
+            CalcVolPMR("Vol_UR_BC0_RO1_Ext");
+
+            CalcVolPMR("Vol_UR_BC0_RO2_Ext");
+
+        ELSEIF bFIFOOpz1Prog5 THEN
+
+            CalcVolPMR("Vol_UR_BC0_SuRO1_Ext");
+
+            CalcVolPMR("Vol_UR_BC0_SuRO2_Ext");
+            
+        ELSEIF bFIFOOpz1Prog6 THEN
+
+            CalcVolPMR("Vol_UR_bc0_Ro1_ext_hglbc");
+
+            CalcVolPMR("Vol_UR_bc0_Ro2_ext_hglbc");
+            
+        ELSEIF bFIFOOpz1Prog7 THEN
+
+            CalcVolPMR("Vol_UR_bc0_Ro1_ext_hglbc");
+
+            CalcVolPMR("Vol_UR_bc0_Ro2_ext_hglbc");
+            
+        ELSE
+            CalcVolPMR("Vol_UR_BC0_RO1_Ext");
+
+            CalcVolPMR("Vol_UR_BC0_RO2_Ext");
+        ENDIF
+
+        CalcVolPMR("Vol_UR_BC0_RA1_Ext");
+
+        CalcVolPMR("Vol_UR_BC0_RA2_Ext");
+
+        CalcVolPMR("Vol_UR_BC0_TGate2_Ext_PA2");
+
+        WaitTime 0.2;
+    ERROR
+        IF ERRNO=ERR_FILEACC THEN
+            nVolume:=650;
+            errormemory:=TRUE;
+            RETURN ;
+        ENDIF
+    ENDPROC
+
+    PROC Volume_URUS_PA2_BC0_R12_EXTII()
+        nVolume:=0;
+        nVolumeCalc:=0;
+        !Front Fender/Door
+        CalcVolPMR("Vol_UR_BC0_SF_Ext");
+        !Rear Fender/Door
+        CalcVolPMR("Vol_UR_BC0_SR_Ext");
+        WaitTime 0.2;
+        
+    ERROR
+        nVolume:=650;
+        errormemory:=TRUE;
+        RETURN ;
+    ENDPROC
+
+    PROC Volume_URUS_PA2_PR0_R12_EXT()
+        nVolume:=0;
+        nVolumeCalc:=0;
+        SetTmSignal "goVolumeCalcpreFIFO",0,0.1;
+        BrushTableNo:=(nProgramnum*1000)+nMaterialnum;
+        WaitTime 0.2;
+        !Checking if files is presence in the Brush folder
+        BrushPath:=HOME_ROOT+BRUSH_DIR+"Table"+NumToStr(BrushTableNo,0)+bt;
+        sizebrush:=FileSize(BrushPath);
+        !
+        IF bFIFOOpz1Prog3 OR bFIFOOpz1Prog4 OR bFIFOOpz1Prog5 THEN
+
+            CalcVolPMR("Vol_UR_PA2_BC0_Hood1");
+
+            CalcVolPMR("Vol_UR_PA2_BC0_Hood2");
+        ELSE
+            CalcVolPMR("Vol_UR_PA2_BC0_Hood1");
+
+            CalcVolPMR("Vol_UR_PA2_BC0_Hood2");
+
+        ENDIF
+        !
+        CalcVolPMR("Vol_UR_BC0_FC_Ext");
+        !
+        IF bFIFOOpz1Prog2 THEN
+
+            CalcVolPMR("Vol_UR_BC0_SuRO1_Ext");
+
+            CalcVolPMR("Vol_UR_BC0_SuRO2_Ext");
+
+        ELSEIF bFIFOOpz1Prog3 THEN
+
+            CalcVolPMR("Vol_UR_BC0_RO1_CFK_Ext");
+
+            CalcVolPMR("Vol_UR_BC0_RO2_CFK_Ext");
+
+        ELSEIF bFIFOOpz1Prog4 THEN
+
+            CalcVolPMR("Vol_UR_BC0_RO1_Ext");
+
+            CalcVolPMR("Vol_UR_BC0_RO2_Ext");
+
+        ELSEIF bFIFOOpz1Prog5 THEN
+
+            CalcVolPMR("Vol_UR_BC0_SuRO1_Ext");
+
+            CalcVolPMR("Vol_UR_BC0_SuRO2_Ext");
+        ELSE
+            CalcVolPMR("Vol_UR_BC0_RO1_Ext");
+
+            CalcVolPMR("Vol_UR_BC0_RO2_Ext");
+        ENDIF
+
+        CalcVolPMR("Vol_UR_BC0_RA1_Ext");
+
+        CalcVolPMR("Vol_UR_BC0_RA2_Ext");
+
+        CalcVolPMR("Vol_UR_BC0_TGate2_Ext_PA2");
+
+        WaitTime 0.2;
+    ERROR
+        IF ERRNO=ERR_FILEACC THEN
+            nVolume:=650;
+            errormemory:=TRUE;
+            RETURN ;
+        ENDIF
+    ENDPROC
+
+    PROC Volume_URUS_PA2_PR0_R12_EXTII()
+        nVolume:=0;
+        nVolumeCalc:=0;
+        !Front Fender/Door
+        CalcVolPMR("Vol_UR_BC0_SF_Ext");
+        !Rear Fender/Door
+        CalcVolPMR("Vol_UR_BC0_SR_Ext");
+        WaitTime 0.2;
+
+    ERROR
+        nVolume:=650;
+        errormemory:=TRUE;
+        RETURN ;
+    ENDPROC
+
+
+    PROC Volume_URUS_PA1_HOOD_R12_EXT()
+        nVolume:=0;
+        nVolumeCalc:=0;
+        SetTmSignal "goVolumeCalcpreFIFO",0,0.1;
+        BrushTableNo:=(nProgramnum*1000)+nMaterialnum;
+        WaitTime 0.2;
+        !Checking if files is presence in the Brush folder
+        BrushPath:=HOME_ROOT+BRUSH_DIR+"Table"+NumToStr(BrushTableNo,0)+bt;
+        sizebrush:=FileSize(BrushPath);
+        !
+        IF bFIFOOpz1Prog9 OR bFIFOOpz1Prog12 THEN
+
+            CalcVolPMR("Vol_UR_BC0_Ho1_Rev");
+
+            CalcVolPMR("Vol_UR_BC0_Ho2_Rev");
+
+            CalcVolPMR("Vol_UR_BC0_HO1_Ext");
+
+            CalcVolPMR("Vol_UR_BC0_HO2_Ext");
+
+        ELSEIF bFIFOOpz1Prog8 OR bFIFOOpz1Prog11 THEN
+
+            CalcVolPMR("Vol_UR_BC0_HO1_Ext");
+
+            CalcVolPMR("Vol_UR_BC0_HO2_Ext");
+
+        ELSEIF bFIFOOpz1Prog10 or bFIFOOpz1Prog13 THEN
+
+            CalcVolPMR("Vol_UR_BC0_Ho1_Rev");
+
+            CalcVolPMR("Vol_UR_BC0_Ho2_Rev");
+        ENDIF
+
+        WaitTime 0.2;
+
+    ERROR
+        IF ERRNO=ERR_FILEACC THEN
+            nVolume:=650;
+            errormemory:=TRUE;
+            RETURN ;
+        ENDIF
+    ENDPROC
+
+
+    PROC CalcVolLog()
+        !
+        IF errormemory=FALSE THEN
+            nVolume:=nVolume/100*1.666666666666667;
+            nVolume:=(Trunc(nVolume)+SafeAmmount);
+            VolEst:=nVolume;
+            WaitTime 0.2;
+        ENDIF
+        !
+    ENDPROC
+
+    PROC GetCustOptionsPreFIFO()
+        Opz1ProgPreFIFO;
+        Opz2ProgPreFIFO;
+        Opz3ProgPreFIFO;
+    ENDPROC
+
+    PROC Opz1ProgPreFIFO()
+        VAR dnum dnTemp1;
+
+        dnTemp1:=NumToDnum(nProgOpz1num);
+        !dnTemp:=NumToDnum(...);
+
+        bFIFOOpz1Prog1:=BitCheckDnum(dnTemp1,1);
+        bFIFOOpz1Prog2:=BitCheckDnum(dnTemp1,2);
+        bFIFOOpz1Prog3:=BitCheckDnum(dnTemp1,3);
+        bFIFOOpz1Prog4:=BitCheckDnum(dnTemp1,4);
+        bFIFOOpz1Prog5:=BitCheckDnum(dnTemp1,5);
+        bFIFOOpz1Prog6:=BitCheckDnum(dnTemp1,6);
+        bFIFOOpz1Prog7:=BitCheckDnum(dnTemp1,7);
+        bFIFOOpz1Prog8:=BitCheckDnum(dnTemp1,8);
+        bFIFOOpz1Prog9:=BitCheckDnum(dnTemp1,9);
+        bFIFOOpz1Prog10:=BitCheckDnum(dnTemp1,10);
+        bFIFOOpz1Prog11:=BitCheckDnum(dnTemp1,11);
+        bFIFOOpz1Prog12:=BitCheckDnum(dnTemp1,12);
+        bFIFOOpz1Prog13:=BitCheckDnum(dnTemp1,13);
+        bFIFOOpz1Prog14:=BitCheckDnum(dnTemp1,14);
+        bFIFOOpz1Prog15:=BitCheckDnum(dnTemp1,15);
+        bFIFOOpz1Prog16:=BitCheckDnum(dnTemp1,16);
+
+    ENDPROC
+
+    PROC Opz2ProgPreFIFO()
+
+        VAR dnum dnTemp2;
+
+        dnTemp2:=NumToDnum(nProgOpz2num);
+        !dnTemp:=NumToDnum(...);
+
+        !Repair INT URUS
+        bFIFOINT_BONNET:=BitCheckDnum(dnTemp2,1);
+        bFIFOINT_EC:=BitCheckDnum(dnTemp2,2);
+        bFIFOINT_FDL_LEAF:=BitCheckDnum(dnTemp2,3);
+        bFIFOINT_FDL_ENTRY:=BitCheckDnum(dnTemp2,4);
+        bFIFOINT_FDR_LEAF:=BitCheckDnum(dnTemp2,5);
+        bFIFOINT_FDR_ENTRY:=BitCheckDnum(dnTemp2,6);
+        bFIFOINT_RDL_LEAF:=BitCheckDnum(dnTemp2,7);
+        bFIFOINT_RDL_ENTRY:=BitCheckDnum(dnTemp2,8);
+        bFIFOINT_RDR_LEAF:=BitCheckDnum(dnTemp2,9);
+        bFIFOINT_RDR_ENTRY:=BitCheckDnum(dnTemp2,10);
+        bFIFOINT_TAILGATE:=BitCheckDnum(dnTemp2,11);
+        bFIFOINT_FUELCAP:=BitCheckDnum(dnTemp2,12);
+        bFIFOOpz2Prog13:=BitCheckDnum(dnTemp2,13);
+        bFIFOOpz2Prog14:=BitCheckDnum(dnTemp2,14);
+        bFIFOOpz2Prog15:=BitCheckDnum(dnTemp2,15);
+        bFIFOOpz2Prog16:=BitCheckDnum(dnTemp2,16);
+        !Variant Plastic URUS LEFT side
+        bFIFOSIDEFINS:=BitCheckDnum(dnTemp2,1);
+        bFIFOFUELCAPS:=BitCheckDnum(dnTemp2,2);
+        bFIFOLHMIRROR:=BitCheckDnum(dnTemp2,3);
+        bFIFODIAPASONS:=BitCheckDnum(dnTemp2,4);
+        bFIFORHMIRROR:=BitCheckDnum(dnTemp2,5);
+        bFIFOFBUMPERUP:=BitCheckDnum(dnTemp2,6);
+        bFIFOARCHES_L:=BitCheckDnum(dnTemp2,7);
+        bFIFORDPANELS:=BitCheckDnum(dnTemp2,8);
+        bFIFOSPOILER:=BitCheckDnum(dnTemp2,9);
+        bFIFORBUMPERUP:=BitCheckDnum(dnTemp2,10);
+        bFIFOLHDHANDLES:=BitCheckDnum(dnTemp2,11);
+        bFIFOOpz2Prog12:=BitCheckDnum(dnTemp2,12);
+        bFIFOOpz2Prog13:=BitCheckDnum(dnTemp2,13);
+        bFIFOOpz2Prog14:=BitCheckDnum(dnTemp2,14);
+        bFIFOOpz2Prog15:=BitCheckDnum(dnTemp2,15);
+        bFIFOOpz2Prog16:=BitCheckDnum(dnTemp2,16);
+        !Hur PLA
+        bFIFOOpz2Prog1:=BitCheckDnum(dnTemp2,1);
+        bFIFOOpz2Prog2:=BitCheckDnum(dnTemp2,2);
+        bFIFOOpz2Prog3:=BitCheckDnum(dnTemp2,3);
+        bFIFOOpz2Prog4:=BitCheckDnum(dnTemp2,4);
+        bFIFOOpz2Prog5:=BitCheckDnum(dnTemp2,5);
+        bFIFOOpz2Prog6:=BitCheckDnum(dnTemp2,6);
+        bFIFOOpz2Prog7:=BitCheckDnum(dnTemp2,7);
+        bFIFOOpz2Prog8:=BitCheckDnum(dnTemp2,8);
+        bFIFOOpz2Prog9:=BitCheckDnum(dnTemp2,9);
+        bFIFO_CARBONTAIL:=BitCheckDnum(dnTemp2,10);
+        bFIFO_UPPERSP:=BitCheckDnum(dnTemp2,11);
+        bFIFOOpz2Prog12:=BitCheckDnum(dnTemp2,12);
+        bFIFOOpz2Prog13:=BitCheckDnum(dnTemp2,13);
+        bFIFO_UP_SPOILER_CFK:=BitCheckDnum(dnTemp2,14);
+        bFIFOOpz2Prog15:=BitCheckDnum(dnTemp2,15);
+        bFIFOOpz2Prog16:=BitCheckDnum(dnTemp2,16);
+    ENDPROC
+
+    PROC Opz3ProgPreFIFO()
+        !Variant Plastic URUS right side
+
+        VAR dnum dnTemp3;
+
+        dnTemp3:=NumToDnum(nProgOpz3num);
+        !dnTemp:=NumToDnum(...);
+
+        bFIFORHDHANDLES:=BitCheckDnum(dnTemp3,1);
+        bFIFOSPOILERLIP:=BitCheckDnum(dnTemp3,2);
+        bFIFOLOWSPOILER:=BitCheckDnum(dnTemp3,3);
+        bFIFORBUMPERLP:=BitCheckDnum(dnTemp3,4);
+        bFIFOARCHES_R:=BitCheckDnum(dnTemp3,5);
+        bFIFOFDPANELS:=BitCheckDnum(dnTemp3,6);
+        bFIFOFBUMPERLP:=BitCheckDnum(dnTemp3,7);
+        !bFIFOLHDHANDLES:=BitCheckDnum(dnTemp3,8);
+        bFIFOANTENNA:=BitCheckDnum(dnTemp3,9);
+        bFIFOSENSORS:=BitCheckDnum(dnTemp3,10);
+        bFIFOOpz3Prog11:=BitCheckDnum(dnTemp3,11);
+        bFIFOOpz3Prog12:=BitCheckDnum(dnTemp3,12);
+        bFIFOOpz3Prog13:=BitCheckDnum(dnTemp3,13);
+        bFIFOOpz3Prog14:=BitCheckDnum(dnTemp3,14);
+        bFIFOOpz3Prog15:=BitCheckDnum(dnTemp3,15);
+        bFIFOOpz3Prog16:=BitCheckDnum(dnTemp3,16);
+        !Hur PLA
+        bFIFO_KIDNEY:=BitCheckDnum(dnTemp3,1);
+        bFIFO_PANEL_IN:=BitCheckDnum(dnTemp3,2);
+        bFIFO_MIRROR_CAP:=BitCheckDnum(dnTemp3,3);
+        bFIFO_PANEL_UP_B:=BitCheckDnum(dnTemp3,4);
+        bFIFO_PANEL_UP_A:=BitCheckDnum(dnTemp3,5);
+        bFIFO_Handles:=BitCheckDnum(dnTemp3,6);
+        bFIFO_FINISHER:=BitCheckDnum(dnTemp3,7);
+        bFIFO_ROCKER_COVER:=BitCheckDnum(dnTemp3,8);
+        bFIFOOpz3Prog9:=BitCheckDnum(dnTemp3,9);
+        bFIFO_ROCKER_COVER_CFK:=BitCheckDnum(dnTemp3,10);
+        bFIFO_FBUMPER:=BitCheckDnum(dnTemp3,11);
+        bFIFO_RBUMPER:=BitCheckDnum(dnTemp3,12);
+        bFIFO_UP_SPOILER:=BitCheckDnum(dnTemp3,13);
+        bFIFO_UP_SPOILER_CFK:=BitCheckDnum(dnTemp3,14);
+        bFIFOOpz3Prog15:=BitCheckDnum(dnTemp3,15);
+        bFIFOOpz3Prog16:=BitCheckDnum(dnTemp3,16);
+        !Spare
+        bFIFOOpz3Prog1:=BitCheckDnum(dnTemp3,1);
+        bFIFOOpz3Prog2:=BitCheckDnum(dnTemp3,2);
+        bFIFOOpz3Prog3:=BitCheckDnum(dnTemp3,3);
+        bFIFOOpz3Prog4:=BitCheckDnum(dnTemp3,4);
+        bFIFOOpz3Prog5:=BitCheckDnum(dnTemp3,5);
+        bFIFOOpz3Prog6:=BitCheckDnum(dnTemp3,6);
+        bFIFOOpz3Prog7:=BitCheckDnum(dnTemp3,7);
+        bFIFOOpz3Prog8:=BitCheckDnum(dnTemp3,8);
+        bFIFOOpz3Prog9:=BitCheckDnum(dnTemp3,9);
+        bFIFOOpz3Prog10:=BitCheckDnum(dnTemp3,10);
+        bFIFOOpz3Prog11:=BitCheckDnum(dnTemp3,11);
+        bFIFOOpz3Prog12:=BitCheckDnum(dnTemp3,12);
+        bFIFOOpz3Prog13:=BitCheckDnum(dnTemp3,13);
+        bFIFOOpz3Prog14:=BitCheckDnum(dnTemp3,14);
+        bFIFOOpz3Prog15:=BitCheckDnum(dnTemp3,15);
+        bFIFOOpz3Prog16:=BitCheckDnum(dnTemp3,16);
+    ENDPROC
+
+    PROC CalcVolPMR(string stRoutName)
+        !
+        FilePath:=HOME_ROOT+BTRACK_DIR+stRoutName+trk;
+        size:=FileSize(FilePath);
+        nVolumeCalc:=PntBrushTrackFileGet(stRoutName,BrushTableNo);
+        nVolume:=nVolume+nVolumeCalc;
+        !
+        ERROR
+        IF ERRNO=ERR_FILEACC THEN
+            nVolume:=650;
+            errormemory:=TRUE;
+            RETURN ;
+        ENDIF
+    ENDPROC
+
+    LOCAL TRAP tpirErrInJob
+        IF InModule=1 THEN
+            SetDO doErrInJob,1;
+            WaitTime 0.1;
+        ENDIF
+        !
+    ENDTRAP
+
+    LOCAL TRAP tpStopGunBellCleaner
+        SetDO A1Solv1BellClU,0;
+        SetDO A1Solv2BellClU,0;
+        SetDO A1AirRing,0;
+        SetDO A1AirImpeller,0;
+    ENDTRAP
+
+    LOCAL TRAP tpProgramInfo
+        stRobotName:="R"+NumToStr(RobID,0);
+        SetTmSignal "goConsuption",0,0;
+        SetTmSignal "goTcJob",0,0;
+        SetTmSignal "goBrushTableUsed",0,0;
+        IF doErrInJob=1 SetTmSignal "doErrInJob",0,0;
+        ClkReset clkCycleTime;
+        ClkStart clkCycleTime;
+        stValves:="Paint Valve: "+NumToStr(nSelMtrlOption2,0)+" in IFS "+NumToStr(GetSignal("H1SelectIFS"),0)+".";
+        ErrWrite\I,stRobotName+" Program Info Skid n: "+NumToStr(nSelJobID,0)+".",
+            "Loaded program: "+NumToStr(nSelProgIndex,0)+". Material: "+NumToStr(nSelMtrlIndex,0)+"."
+            \RL2:=stValves
+            \RL3:=" + VolumeFilled: "+NumToStr(nSelMtrlOption1,0)+".";
+    ENDTRAP
+
+ENDMODULE

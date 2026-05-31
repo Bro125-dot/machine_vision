@@ -1,0 +1,2005 @@
+2026-05-04 11:07:43 Sequence: FillCart , Time: 17.932s
+2026-05-04 11:08:41 POS DCU1 : 239.4, Target : 250.0.
+2026-05-04 11:08:42 FillDCU (Cycle) time: 8.95s
+2026-05-04 11:09:26 ClnCart (Cleaning+Dumping) time: 31.225s
+2026-05-04 11:09:26 --
+2026-05-04 11:09:43 Sequence: FillCart , Time: 15.711s
+2026-05-04 11:10:22 POS DCU1 : 239.3, Target : 250.0.
+2026-05-04 11:10:23 FillDCU (Cycle) time: 8.069s
+2026-05-04 11:12:00 ClnCart (Cleaning+Dumping) time: 31.008s
+2026-05-04 11:12:00 --
+2026-05-04 11:12:18 Sequence: FillCart , Time: 16.645s
+2026-05-04 11:13:11 POS DCU1 : 241.3, Target : 250.0.
+2026-05-04 11:13:13 FillDCU (Cycle) time: 7.332s
+2026-05-04 11:14:21 Sequence: FillCart , Time: 21.084s
+2026-05-04 11:14:53 POS DCU1 : 241.1, Target : 250.0.
+2026-05-04 11:14:58 FillDCU (Cycle) time: 11.245s
+2026-05-04 11:22:06 Sequence: FillCart , Time: 19.351s
+2026-05-04 11:22:23 POS DCU1 : 236.0, Target : 250.0.
+2026-05-04 11:22:28 FillDCU (Cycle) time: 13.218s
+2026-05-04 11:23:13 Sequence: FillCart , Time: 16.348s
+2026-05-04 11:26:05 POS DCU1 : 238.3, Target : 250.0.
+2026-05-04 11:26:05 FillDCU (Cycle) time: 9.654s
+2026-05-04 11:28:46 ClnCart (Cleaning+Dumping) time: 33.271s
+2026-05-04 11:28:46 --
+2026-05-04 11:29:02 Sequence: FillCart , Time: 15.574s
+2026-05-04 11:29:55 POS DCU1 : 240.5, Target : 250.0.
+2026-05-04 11:29:56 FillDCU (Cycle) time: 6.954s
+2026-05-04 11:30:30 Sequence: FillCart , Time: 18.315s
+2026-05-04 11:31:35 POS DCU1 : 243.1, Target : 250.0.
+2026-05-04 11:31:39 FillDCU (Cycle) time: 9.75s
+2026-05-04 11:33:44 ClnCart (Cleaning+Dumping) time: 31.339s
+2026-05-04 11:33:44 --
+2026-05-04 11:34:08 Sequence: FillCart , Time: 22.379s
+2026-05-04 11:35:04 POS DCU1 : 242.3, Target : 250.0.
+2026-05-04 11:35:06 FillDCU (Cycle) time: 10.361s
+2026-05-04 11:36:30 Sequence: FillCart , Time: 17.923s
+2026-05-04 11:36:51 POS DCU1 : 239.6, Target : 250.0.
+2026-05-04 11:36:51 FillDCU (Cycle) time: 9.469s
+2026-05-04 11:39:28 ClnCart (Cleaning+Dumping) time: 54.165s
+2026-05-04 11:39:28 --
+2026-05-04 11:39:46 Sequence: FillCart , Time: 16.915s
+2026-05-04 11:40:18 POS DCU1 : 241.9, Target : 250.0.
+2026-05-04 11:40:19 FillDCU (Cycle) time: 7.335s
+2026-05-04 11:41:28 Sequence: FillCart , Time: 21.484s
+2026-05-04 11:41:59 POS DCU1 : 239.5, Target : 250.0.
+2026-05-04 11:42:04 FillDCU (Cycle) time: 10.765s
+2026-05-04 11:43:10 ClnCart (Cleaning+Dumping) time: 31.106s
+2026-05-04 11:43:10 --
+2026-05-04 11:43:29 Sequence: FillCart , Time: 18.032s
+2026-05-04 11:45:11 POS DCU1 : 242.8, Target : 250.0.
+2026-05-04 11:45:11 FillDCU (Cycle) time: 10.143s
+2026-05-04 11:45:49 ClnCart (Cleaning+Dumping) time: 27.962s
+2026-05-04 11:45:49 --
+2026-05-04 11:46:13 Sequence: FillCart , Time: 23.083s
+2026-05-04 11:47:04 POS DCU1 : 240.2, Target : 250.0.
+2026-05-04 11:47:07 FillDCU (Cycle) time: 10.761s
+2026-05-04 11:53:46 Sequence: FillCart , Time: 19.935s
+2026-05-04 11:54:05 POS DCU1 : 241.2, Target : 250.0.
+2026-05-04 11:54:06 FillDCU (Cycle) time: 9.589s
+2026-05-04 11:59:00 ClnCart (Cleaning+Dumping) time: 33.692s
+2026-05-04 11:59:00 --
+2026-05-04 11:59:24 Sequence: FillCart , Time: 22.876s
+2026-05-04 12:00:08 POS DCU1 : 238.6, Target : 250.0.
+2026-05-04 12:00:11 FillDCU (Cycle) time: 10.401s
+2026-05-04 12:01:13 Sequence: FillCart , Time: 19.58s
+2026-05-04 12:01:52 POS DCU1 : 238.2, Target : 250.0.
+2026-05-04 12:01:53 FillDCU (Cycle) time: 9.826s
+2026-05-04 12:03:52 ClnCart (Cleaning+Dumping) time: 31.175s
+2026-05-04 12:03:52 --
+2026-05-04 12:04:12 Sequence: FillCart , Time: 19.041s
+2026-05-04 12:05:07 POS DCU1 : 241.5, Target : 250.0.
+2026-05-04 12:05:08 FillDCU (Cycle) time: 9.517s
+2026-05-04 12:05:51 ClnCart (Cleaning+Dumping) time: 31.493s
+2026-05-04 12:05:51 --
+2026-05-04 12:06:15 Sequence: FillCart , Time: 22.81s
+2026-05-04 12:06:47 POS DCU1 : 243.3, Target : 250.0.
+2026-05-04 12:06:49 FillDCU (Cycle) time: 9.63s
+2026-05-04 12:08:52 ClnCart (Cleaning+Dumping) time: 30.974s
+2026-05-04 12:08:52 --
+2026-05-04 12:09:16 Sequence: FillCart , Time: 22.574s
+2026-05-04 12:10:12 POS DCU1 : 243.1, Target : 250.0.
+2026-05-04 12:10:14 FillDCU (Cycle) time: 10.181s
+2026-05-04 12:11:22 Sequence: FillCart , Time: 18.927s
+2026-05-04 12:11:59 POS DCU1 : 241.9, Target : 250.0.
+2026-05-04 12:11:59 FillDCU (Cycle) time: 9.481s
+2026-05-04 12:13:15 ClnCart (Cleaning+Dumping) time: 32.626s
+2026-05-04 12:13:15 --
+2026-05-04 12:13:32 Sequence: FillCart , Time: 15.834s
+2026-05-04 12:15:05 POS DCU1 : 239.7, Target : 250.0.
+2026-05-04 12:15:06 FillDCU (Cycle) time: 8.418s
+2026-05-04 12:18:00 Sequence: FillCart , Time: 15.405s
+2026-05-04 12:18:15 POS DCU1 : 240.9, Target : 250.0.
+2026-05-04 12:18:16 FillDCU (Cycle) time: 6.728s
+2026-05-04 12:22:28 Sequence: FillCart , Time: 22.031s
+2026-05-04 12:23:32 POS DCU1 : 239.5, Target : 250.0.
+2026-05-04 12:23:38 FillDCU (Cycle) time: 11.309s
+2026-05-04 12:26:13 ClnCart (Cleaning+Dumping) time: 31.926s
+2026-05-04 12:26:13 --
+2026-05-04 12:26:32 Sequence: FillCart , Time: 18.227s
+2026-05-04 12:28:14 CheckA1Fluid Restart 298.3
+2026-05-04 12:28:16 POS DCU1 : 238.7, Target : 250.0.
+2026-05-04 12:28:16 FillDCU (Cycle) time: 11.204s
+2026-05-04 12:29:18 Sequence: FillCart , Time: 17.138s
+2026-05-04 12:30:08 POS DCU1 : 237.9, Target : 250.0.
+2026-05-04 12:30:09 FillDCU (Cycle) time: 7.997s
+2026-05-04 12:31:26 ClnCart (Cleaning+Dumping) time: 33.465s
+2026-05-04 12:31:26 --
+2026-05-04 12:31:44 Sequence: FillCart , Time: 17.189s
+2026-05-04 12:32:33 POS DCU1 : 238.4, Target : 250.0.
+2026-05-04 12:32:34 FillDCU (Cycle) time: 7.928s
+2026-05-04 12:42:08 Sequence: FillCart , Time: 22.759s
+2026-05-04 12:42:24 POS DCU1 : 242.4, Target : 250.0.
+2026-05-04 12:42:27 FillDCU (Cycle) time: 9.534s
+2026-05-04 12:47:20 ClnCart (Cleaning+Dumping) time: 30.697s
+2026-05-04 12:47:20 --
+2026-05-04 12:47:44 Sequence: FillCart , Time: 22.414s
+2026-05-04 12:48:41 POS DCU1 : 240.0, Target : 250.0.
+2026-05-04 12:48:42 FillDCU (Cycle) time: 10.347s
+2026-05-04 12:49:52 Sequence: FillCart , Time: 17.187s
+2026-05-04 12:50:27 POS DCU1 : 238.3, Target : 250.0.
+2026-05-04 12:50:27 FillDCU (Cycle) time: 9.481s
+2026-05-04 12:51:59 Sequence: FillCart , Time: 13.926s
+2026-05-04 12:54:06 POS DCU1 : 241.6, Target : 250.0.
+2026-05-04 12:54:06 FillDCU (Cycle) time: 7.256s
+2026-05-04 12:55:24 ClnCart (Cleaning+Dumping) time: 27.842s
+2026-05-04 12:55:24 --
+2026-05-04 12:55:48 Sequence: FillCart , Time: 23.041s
+2026-05-04 12:57:47 POS DCU1 : 241.3, Target : 250.0.
+2026-05-04 12:57:53 FillDCU (Cycle) time: 10.767s
+2026-05-04 12:59:28 Sequence: FillCart , Time: 16.63s
+2026-05-04 13:00:42 POS DCU1 : 243.0, Target : 250.0.
+2026-05-04 13:00:42 FillDCU (Cycle) time: 9.684s
+2026-05-04 13:03:52 Sequence: FillCart , Time: 17.106s
+2026-05-04 13:06:16 POS DCU1 : 239.2, Target : 250.0.
+2026-05-04 13:06:19 FillDCU (Cycle) time: 8.202s
+2026-05-04 13:07:53 ClnCart (Cleaning+Dumping) time: 28.11s
+2026-05-04 13:07:53 --
+2026-05-04 13:08:11 Sequence: FillCart , Time: 16.29s
+2026-05-04 13:09:18 POS DCU1 : 238.2, Target : 250.0.
+2026-05-04 13:09:19 FillDCU (Cycle) time: 7.439s
+2026-05-04 13:10:04 ClnCart (Cleaning+Dumping) time: 31.235s
+2026-05-04 13:10:04 --
+2026-05-04 13:10:29 Sequence: FillCart , Time: 23.606s
+2026-05-04 13:10:59 POS DCU1 : 242.3, Target : 250.0.
+2026-05-04 13:11:03 FillDCU (Cycle) time: 10.239s
+2026-05-04 13:13:07 ClnCart (Cleaning+Dumping) time: 30.909s
+2026-05-04 13:13:07 --
+2026-05-04 13:13:31 Sequence: FillCart , Time: 22.66s
+2026-05-04 13:14:26 POS DCU1 : 241.3, Target : 250.0.
+2026-05-04 13:14:27 FillDCU (Cycle) time: 10.305s
+2026-05-04 13:15:34 Sequence: FillCart , Time: 22.147s
+2026-05-04 13:16:12 POS DCU1 : 239.7, Target : 250.0.
+2026-05-04 13:16:14 FillDCU (Cycle) time: 11.416s
+2026-05-04 13:17:27 ClnCart (Cleaning+Dumping) time: 31.412s
+2026-05-04 13:17:27 --
+2026-05-04 13:17:46 Sequence: FillCart , Time: 18.021s
+2026-05-04 13:19:19 CheckA1Fluid Restart 313.8
+2026-05-04 13:19:21 POS DCU1 : 241.7, Target : 250.0.
+2026-05-04 13:19:21 FillDCU (Cycle) time: 11.513s
+2026-05-04 13:20:32 Sequence: FillCart , Time: 14.61s
+2026-05-04 13:21:14 POS DCU1 : 242.9, Target : 250.0.
+2026-05-04 13:21:14 FillDCU (Cycle) time: 7.835s
+2026-05-04 13:26:56 Sequence: FillCart , Time: 9.629s
+2026-05-04 13:27:11 POS DCU1 : 226.6, Target : 250.0.
+2026-05-04 13:27:12 FillDCU (Cycle) time: 6.059s
+2026-05-04 13:28:42 Sequence: FillCart , Time: 16.182s
+2026-05-04 13:31:29 POS DCU1 : 240.4, Target : 250.0.
+2026-05-04 13:31:31 FillDCU (Cycle) time: 6.844s
+2026-05-04 13:38:23 Sequence: FillCart , Time: 17.509s
+2026-05-04 13:38:38 POS DCU1 : 240.6, Target : 250.0.
+2026-05-04 13:38:42 FillDCU (Cycle) time: 9.469s
+2026-05-04 13:43:30 ClnCart (Cleaning+Dumping) time: 30.847s
+2026-05-04 13:43:30 --
+2026-05-04 13:43:54 Sequence: FillCart , Time: 22.825s
+2026-05-04 13:44:50 POS DCU1 : 240.4, Target : 250.0.
+2026-05-04 13:44:51 FillDCU (Cycle) time: 10.263s
+2026-05-04 13:45:38 Sequence: FillCart , Time: 17.841s
+2026-05-04 13:46:36 POS DCU1 : 239.5, Target : 250.0.
+2026-05-04 13:46:36 FillDCU (Cycle) time: 9.484s
+2026-05-04 13:48:15 ClnCart (Cleaning+Dumping) time: 31.329s
+2026-05-04 13:48:15 --
+2026-05-04 13:48:33 Sequence: FillCart , Time: 16.633s
+2026-05-04 13:49:37 POS DCU1 : 243.0, Target : 250.0.
+2026-05-04 13:49:37 FillDCU (Cycle) time: 7.502s
+2026-05-04 13:50:22 ClnCart (Cleaning+Dumping) time: 31.467s
+2026-05-04 13:50:22 --
+2026-05-04 13:50:41 Sequence: FillCart , Time: 17.294s
+2026-05-04 13:51:17 POS DCU1 : 240.3, Target : 250.0.
+2026-05-04 13:51:19 FillDCU (Cycle) time: 8.248s
+2026-05-04 13:53:07 ClnCart (Cleaning+Dumping) time: 30.82s
+2026-05-04 13:53:07 --
+2026-05-04 13:53:25 Sequence: FillCart , Time: 16.26s
+2026-05-04 13:54:29 POS DCU1 : 239.5, Target : 250.0.
+2026-05-04 13:54:30 FillDCU (Cycle) time: 7.49s
+2026-05-04 13:55:22 Sequence: FillCart , Time: 6.343s
+2026-05-04 13:56:10 POS DCU1 : 237.7, Target : 250.0.
+2026-05-04 13:56:10 FillDCU (Cycle) time: 6.595s
+2026-05-04 13:58:54 Sequence: FillCart , Time: 15.49s
+2026-05-04 13:59:09 FillDCU (Cycle) time: 6.276s
+2026-05-04 14:02:01 ClnCart (Cleaning+Dumping) time: 31.695s
+2026-05-04 14:02:01 --
+2026-05-04 14:02:18 Sequence: FillCart , Time: 16.531s
+2026-05-04 14:03:19 POS DCU1 : 243.3, Target : 250.0.
+2026-05-04 14:03:21 FillDCU (Cycle) time: 7.275s
+2026-05-04 14:06:09 Sequence: FillCart , Time: 15.821s
+2026-05-04 14:06:24 POS DCU1 : 241.5, Target : 250.0.
+2026-05-04 14:06:26 FillDCU (Cycle) time: 7.275s
+2026-05-04 14:08:59 ClnCart (Cleaning+Dumping) time: 33.479s
+2026-05-04 14:08:59 --
+2026-05-04 14:09:14 Sequence: FillCart , Time: 13.602s
+2026-05-04 14:10:46 POS DCU1 : 238.9, Target : 250.0.
+2026-05-04 14:10:46 FillDCU (Cycle) time: 6.549s
+2026-05-04 14:13:28 Sequence: FillCart , Time: 17.61s
+2026-05-04 14:13:41 POS DCU1 : 241.3, Target : 250.0.
+2026-05-04 14:13:45 FillDCU (Cycle) time: 8.451s
+2026-05-04 14:14:46 ClnCart (Cleaning+Dumping) time: 31.057s
+2026-05-04 14:14:46 --
+2026-05-04 14:15:03 Sequence: FillCart , Time: 16.304s
+2026-05-04 14:15:58 POS DCU1 : 234.0, Target : 250.0.
+2026-05-04 14:15:58 FillDCU (Cycle) time: 7.701s
+2026-05-04 14:25:42 Sequence: FillCart , Time: 22.023s
+2026-05-04 14:25:57 POS DCU1 : 238.2, Target : 250.0.
+2026-05-04 14:26:02 FillDCU (Cycle) time: 10.532s
+2026-05-04 14:35:08 Sequence: FillCart , Time: 24.718s
+2026-05-04 14:35:27 POS DCU1 : 237.6, Target : 250.0.
+2026-05-04 14:35:31 FillDCU (Cycle) time: 12.888s
+2026-05-04 14:42:19 ClnCart (Cleaning+Dumping) time: 33.656s
+2026-05-04 14:42:19 --
+2026-05-04 14:42:43 Sequence: FillCart , Time: 23.721s
+2026-05-04 14:44:26 POS DCU1 : 238.0, Target : 250.0.
+2026-05-04 14:44:33 FillDCU (Cycle) time: 13.086s
+2026-05-04 14:46:30 Sequence: FillCart , Time: 14.652s
+2026-05-04 14:46:44 POS DCU1 : 240.6, Target : 250.0.
+2026-05-04 14:46:46 FillDCU (Cycle) time: 5.965s
+2026-05-04 14:48:43 ClnCart (Cleaning+Dumping) time: 89.177s
+2026-05-04 14:48:43 --
+2026-05-04 14:48:58 Sequence: FillCart , Time: 13.585s
+2026-05-04 14:49:12 POS DCU1 : 240.3, Target : 250.0.
+2026-05-04 14:49:13 FillDCU (Cycle) time: 5.453s
+2026-05-04 14:49:59 ClnCart (Cleaning+Dumping) time: 31.076s
+2026-05-04 14:49:59 --
+2026-05-04 14:50:17 Sequence: FillCart , Time: 17.153s
+2026-05-04 14:50:52 POS DCU1 : 239.5, Target : 250.0.
+2026-05-04 14:50:56 FillDCU (Cycle) time: 8.213s
+2026-05-04 14:52:46 ClnCart (Cleaning+Dumping) time: 30.767s
+2026-05-04 14:52:46 --
+2026-05-04 14:53:03 Sequence: FillCart , Time: 16.164s
+2026-05-04 14:54:00 POS DCU1 : 243.5, Target : 250.0.
+2026-05-04 14:54:00 FillDCU (Cycle) time: 7.379s
+2026-05-04 14:55:09 Sequence: FillCart , Time: 17.624s
+2026-05-04 14:55:40 POS DCU1 : 239.7, Target : 250.0.
+2026-05-04 14:55:43 FillDCU (Cycle) time: 8.963s
+2026-05-04 15:01:59 Sequence: FillCart , Time: 15.708s
+2026-05-04 15:02:15 POS DCU1 : 242.2, Target : 250.0.
+2026-05-04 15:02:16 FillDCU (Cycle) time: 6.989s
+2026-05-04 15:07:50 Sequence: FillCart , Time: 21.647s
+2026-05-04 15:08:04 POS DCU1 : 241.8, Target : 250.0.
+2026-05-04 15:08:10 FillDCU (Cycle) time: 10.393s
+2026-05-04 15:13:15 ClnCart (Cleaning+Dumping) time: 43.181s
+2026-05-04 15:13:15 --
+2026-05-04 15:13:36 Sequence: FillCart , Time: 19.766s
+2026-05-04 15:14:27 POS DCU1 : 229.2, Target : 250.0.
+2026-05-04 15:14:27 FillDCU (Cycle) time: 9.774s
+2026-05-04 15:15:12 ClnCart (Cleaning+Dumping) time: 33.417s
+2026-05-04 15:15:12 --
+2026-05-04 15:15:30 Sequence: FillCart , Time: 16.626s
+2026-05-04 15:16:06 POS DCU1 : 239.3, Target : 250.0.
+2026-05-04 15:16:07 FillDCU (Cycle) time: 8.3s
+2026-05-04 15:17:29 Sequence: FillCart , Time: 11.522s
+2026-05-04 15:19:47 POS DCU1 : 242.4, Target : 250.0.
+2026-05-04 15:19:47 FillDCU (Cycle) time: 6.669s
+2026-05-04 15:21:49 Sequence: FillCart , Time: 22.356s
+2026-05-04 15:22:01 POS DCU1 : 239.0, Target : 250.0.
+2026-05-04 15:22:08 FillDCU (Cycle) time: 9.63s
+2026-05-04 15:26:18 ClnCart (Cleaning+Dumping) time: 30.977s
+2026-05-04 15:26:18 --
+2026-05-04 15:26:41 Sequence: FillCart , Time: 22.213s
+2026-05-04 15:27:38 POS DCU1 : 243.4, Target : 250.0.
+2026-05-04 15:27:40 FillDCU (Cycle) time: 10.371s
+2026-05-04 15:28:29 ClnCart (Cleaning+Dumping) time: 31.672s
+2026-05-04 15:28:29 --
+2026-05-04 15:28:44 Sequence: FillCart , Time: 14.411s
+2026-05-04 15:29:25 POS DCU1 : 241.1, Target : 250.0.
+2026-05-04 15:29:25 FillDCU (Cycle) time: 9.537s
+2026-05-04 15:32:37 ClnCart (Cleaning+Dumping) time: 30.811s
+2026-05-04 15:32:37 --
+2026-05-04 15:32:52 Sequence: FillCart , Time: 13.459s
+2026-05-04 15:33:05 POS DCU1 : 243.5, Target : 250.0.
+2026-05-04 15:33:06 FillDCU (Cycle) time: 5.166s
+2026-05-04 15:35:31 Sequence: FillCart , Time: 17.642s
+2026-05-04 15:35:44 POS DCU1 : 240.2, Target : 250.0.
+2026-05-04 15:35:51 FillDCU (Cycle) time: 10.23s
+2026-05-04 15:38:40 Sequence: FillCart , Time: 22.965s
+2026-05-04 15:39:49 POS DCU1 : 239.7, Target : 250.0.
+2026-05-04 15:39:51 FillDCU (Cycle) time: 11.212s
+2026-05-04 15:42:21 ClnCart (Cleaning+Dumping) time: 33.899s
+2026-05-04 15:42:21 --
+2026-05-04 15:42:40 Sequence: FillCart , Time: 18.414s
+2026-05-04 15:44:13 CheckA1Fluid Restart 274.2
+2026-05-04 15:44:14 POS DCU1 : 238.9, Target : 250.0.
+2026-05-04 15:44:14 FillDCU (Cycle) time: 11.294s
+2026-05-04 15:45:08 Sequence: FillCart , Time: 15.686s
+2026-05-04 15:46:06 POS DCU1 : 242.3, Target : 250.0.
+2026-05-04 15:46:09 FillDCU (Cycle) time: 10.356s
+2026-05-04 15:48:57 Sequence: FillCart , Time: 20.009s
+2026-05-04 15:51:13 POS DCU1 : 239.3, Target : 250.0.
+2026-05-04 15:51:13 FillDCU (Cycle) time: 9.715s
+2026-05-04 15:52:24 ClnCart (Cleaning+Dumping) time: 31.008s
+2026-05-04 15:52:24 --
+2026-05-04 15:52:46 Sequence: FillCart , Time: 19.948s
+2026-05-04 15:53:44 POS DCU1 : 240.0, Target : 250.0.
+2026-05-04 15:53:45 FillDCU (Cycle) time: 9.778s
+2026-05-04 15:55:07 Sequence: FillCart , Time: 17.764s
+2026-05-04 15:55:30 POS DCU1 : 239.2, Target : 250.0.
+2026-05-04 15:55:30 FillDCU (Cycle) time: 8.938s
+2026-05-04 15:56:57 ClnCart (Cleaning+Dumping) time: 31.805s
+2026-05-04 15:56:57 --
+2026-05-04 15:57:15 Sequence: FillCart , Time: 17.395s
+2026-05-04 15:58:17 POS DCU1 : 239.1, Target : 250.0.
+2026-05-04 15:58:18 FillDCU (Cycle) time: 8.364s
+2026-05-04 15:59:30 Sequence: FillCart , Time: 21.777s
+2026-05-04 15:59:57 POS DCU1 : 241.4, Target : 250.0.
+2026-05-04 15:59:59 FillDCU (Cycle) time: 8.382s
+2026-05-04 16:02:01 ClnCart (Cleaning+Dumping) time: 33.044s
+2026-05-04 16:02:01 --
+2026-05-04 16:02:18 Sequence: FillCart , Time: 16.221s
+2026-05-04 16:03:10 POS DCU1 : 231.6, Target : 250.0.
+2026-05-04 16:03:10 FillDCU (Cycle) time: 7.722s
+2026-05-04 16:04:17 Sequence: FillCart , Time: 18.995s
+2026-05-04 16:04:50 POS DCU1 : 241.5, Target : 250.0.
+2026-05-04 16:04:53 FillDCU (Cycle) time: 9.229s
+2026-05-04 16:06:14 Sequence: FillCart , Time: 17.994s
+2026-05-04 16:07:36 POS DCU1 : 239.7, Target : 250.0.
+2026-05-04 16:07:37 FillDCU (Cycle) time: 9.33s
+2026-05-04 16:10:51 ClnCart (Cleaning+Dumping) time: 31.224s
+2026-05-04 16:10:51 --
+2026-05-04 16:11:15 Sequence: FillCart , Time: 22.976s
+2026-05-04 16:12:11 POS DCU1 : 242.5, Target : 250.0.
+2026-05-04 16:12:13 FillDCU (Cycle) time: 10.339s
+2026-05-04 16:20:35 Sequence: FillCart , Time: 22.407s
+2026-05-04 16:20:54 POS DCU1 : 242.7, Target : 250.0.
+2026-05-04 16:20:55 FillDCU (Cycle) time: 10.534s
+2026-05-04 16:26:03 Sequence: FillCart , Time: 14.265s
+2026-05-04 16:26:43 POS DCU1 : 241.7, Target : 250.0.
+2026-05-04 16:26:43 FillDCU (Cycle) time: 9.717s
+2026-05-04 16:31:55 ClnCart (Cleaning+Dumping) time: 32.817s
+2026-05-04 16:31:55 --
+2026-05-04 16:32:09 Sequence: FillCart , Time: 13.649s
+2026-05-04 16:33:03 POS DCU1 : 240.6, Target : 250.0.
+2026-05-04 16:33:04 FillDCU (Cycle) time: 5.491s
+2026-05-04 16:33:36 Sequence: FillCart , Time: 14.663s
+2026-05-04 16:34:44 POS DCU1 : 241.0, Target : 250.0.
+2026-05-04 16:34:49 FillDCU (Cycle) time: 8.813s
+2026-05-04 16:36:49 ClnCart (Cleaning+Dumping) time: 31.148s
+2026-05-04 16:36:49 --
+2026-05-04 16:37:08 Sequence: FillCart , Time: 18.654s
+2026-05-04 16:38:01 POS DCU1 : 237.9, Target : 250.0.
+2026-05-04 16:38:02 FillDCU (Cycle) time: 8.815s
+2026-05-04 16:39:09 Sequence: FillCart , Time: 20.333s
+2026-05-04 16:39:42 POS DCU1 : 238.6, Target : 250.0.
+2026-05-04 16:39:45 FillDCU (Cycle) time: 10.749s
+2026-05-04 16:43:32 Sequence: FillCart , Time: 16.675s
+2026-05-04 16:44:46 POS DCU1 : 242.4, Target : 250.0.
+2026-05-04 16:44:46 FillDCU (Cycle) time: 9.636s
+2026-05-04 16:46:17 ClnCart (Cleaning+Dumping) time: 33.609s
+2026-05-04 16:46:17 --
+2026-05-04 16:46:33 Sequence: FillCart , Time: 15.115s
+2026-05-04 16:48:04 POS DCU1 : 242.0, Target : 250.0.
+2026-05-04 16:48:04 FillDCU (Cycle) time: 7.064s
+2026-05-04 16:49:37 Sequence: FillCart , Time: 24.178s
+2026-05-04 16:49:57 POS DCU1 : 239.1, Target : 250.0.
+2026-05-04 16:50:04 FillDCU (Cycle) time: 12.58s
+2026-05-04 16:54:02 ClnCart (Cleaning+Dumping) time: 33.148s
+2026-05-04 16:54:02 --
+2026-05-04 16:54:22 Sequence: FillCart , Time: 19.144s
+2026-05-04 16:54:41 POS DCU1 : 239.3, Target : 250.0.
+2026-05-04 16:54:41 FillDCU (Cycle) time: 9.435s
+2026-05-04 16:58:50 ClnCart (Cleaning+Dumping) time: 53.668s
+2026-05-04 16:58:50 --
+2026-05-04 16:59:08 Sequence: FillCart , Time: 16.449s
+2026-05-04 17:00:27 POS DCU1 : 237.9, Target : 250.0.
+2026-05-04 17:00:28 FillDCU (Cycle) time: 8.944s
+2026-05-04 17:01:35 Sequence: FillCart , Time: 23.12s
+2026-05-04 17:02:20 POS DCU1 : 238.3, Target : 250.0.
+2026-05-04 17:02:23 FillDCU (Cycle) time: 9.656s
+2026-05-04 17:04:21 ClnCart (Cleaning+Dumping) time: 31.161s
+2026-05-04 17:04:21 --
+2026-05-04 17:04:44 Sequence: FillCart , Time: 21.411s
+2026-05-04 17:05:41 POS DCU1 : 243.2, Target : 250.0.
+2026-05-04 17:05:43 FillDCU (Cycle) time: 10.352s
+2026-05-04 17:07:01 Sequence: FillCart , Time: 16.428s
+2026-05-04 17:07:28 POS DCU1 : 239.8, Target : 250.0.
+2026-05-04 17:07:28 FillDCU (Cycle) time: 9.555s
+2026-05-04 17:13:58 Sequence: FillCart , Time: 18.718s
+2026-05-04 17:14:13 POS DCU1 : 239.6, Target : 250.0.
+2026-05-04 17:14:16 FillDCU (Cycle) time: 9.164s
+2026-05-04 17:15:18 ClnCart (Cleaning+Dumping) time: 31.126s
+2026-05-04 17:15:18 --
+2026-05-04 17:15:41 Sequence: FillCart , Time: 22.354s
+2026-05-04 17:16:38 POS DCU1 : 238.3, Target : 250.0.
+2026-05-04 17:16:39 FillDCU (Cycle) time: 10.392s
+2026-05-04 17:20:07 Sequence: FillCart , Time: 17.596s
+2026-05-04 17:20:26 POS DCU1 : 242.8, Target : 250.0.
+2026-05-04 17:20:26 FillDCU (Cycle) time: 9.309s
+2026-05-04 17:25:23 ClnCart (Cleaning+Dumping) time: 33.537s
+2026-05-04 17:25:23 --
+2026-05-04 17:25:41 Sequence: FillCart , Time: 16.638s
+2026-05-04 17:26:33 POS DCU1 : 238.0, Target : 250.0.
+2026-05-04 17:26:33 FillDCU (Cycle) time: 7.542s
+2026-05-04 17:30:55 Sequence: FillCart , Time: 15.904s
+2026-05-04 17:31:11 POS DCU1 : 239.9, Target : 250.0.
+2026-05-04 17:31:12 FillDCU (Cycle) time: 7.226s
+2026-05-04 17:34:48 ClnCart (Cleaning+Dumping) time: 33.442s
+2026-05-04 17:34:48 --
+2026-05-04 17:35:02 Sequence: FillCart , Time: 13.438s
+2026-05-04 17:36:42 POS DCU1 : 242.1, Target : 250.0.
+2026-05-04 17:36:43 FillDCU (Cycle) time: 6.431s
+2026-05-04 17:53:24 Sequence: FillCart , Time: 6.555s
+2026-05-04 17:53:37 POS DCU1 : 238.5, Target : 250.0.
+2026-05-04 17:53:37 FillDCU (Cycle) time: 4.495s
+2026-05-04 17:56:52 Sequence: FillCart , Time: 23.047s
+2026-05-04 17:57:10 FillDCU (Cycle) time: 9.336s
+2026-05-04 18:02:20 ClnCart (Cleaning+Dumping) time: 30.856s
+2026-05-04 18:02:20 --
+2026-05-04 18:02:45 Sequence: FillCart , Time: 23.51s
+2026-05-04 18:03:41 POS DCU1 : 241.0, Target : 250.0.
+2026-05-04 18:03:42 FillDCU (Cycle) time: 10.305s
+2026-05-04 18:06:49 Sequence: FillCart , Time: 18.02s
+2026-05-04 18:07:08 POS DCU1 : 237.7, Target : 250.0.
+2026-05-04 18:07:08 FillDCU (Cycle) time: 9.478s
+2026-05-04 18:11:15 Sequence: FillCart , Time: 15.929s
+2026-05-04 18:11:31 POS DCU1 : 240.9, Target : 250.0.
+2026-05-04 18:11:32 FillDCU (Cycle) time: 7.474s
+2026-05-04 18:15:53 ClnCart (Cleaning+Dumping) time: 33.599s
+2026-05-04 18:15:53 --
+2026-05-04 18:16:08 Sequence: FillCart , Time: 13.429s
+2026-05-04 18:17:41 POS DCU1 : 238.9, Target : 250.0.
+2026-05-04 18:17:41 FillDCU (Cycle) time: 6.572s
+2026-05-04 18:18:17 Sequence: FillCart , Time: 21.911s
+2026-05-04 18:19:40 POS DCU1 : 241.5, Target : 250.0.
+2026-05-04 18:19:47 FillDCU (Cycle) time: 10.458s
+2026-05-04 18:20:58 ClnCart (Cleaning+Dumping) time: 31.14s
+2026-05-04 18:20:58 --
+2026-05-04 18:21:19 Sequence: FillCart , Time: 19.905s
+2026-05-04 18:22:13 POS DCU1 : 241.2, Target : 250.0.
+2026-05-04 18:22:13 FillDCU (Cycle) time: 9.877s
+2026-05-04 18:23:46 Sequence: FillCart , Time: 24.814s
+2026-05-04 18:24:05 POS DCU1 : 240.9, Target : 250.0.
+2026-05-04 18:24:07 FillDCU (Cycle) time: 11.329s
+2026-05-04 18:27:43 Sequence: FillCart , Time: 16.761s
+2026-05-04 18:28:38 POS DCU1 : 241.3, Target : 250.0.
+2026-05-04 18:28:38 FillDCU (Cycle) time: 7.983s
+2026-05-04 18:30:50 ClnCart (Cleaning+Dumping) time: 31.765s
+2026-05-04 18:30:50 --
+2026-05-04 18:31:08 Sequence: FillCart , Time: 16.544s
+2026-05-04 18:32:11 POS DCU1 : 238.4, Target : 250.0.
+2026-05-04 18:32:12 FillDCU (Cycle) time: 7.316s
+2026-05-04 18:32:53 ClnCart (Cleaning+Dumping) time: 26.199s
+2026-05-04 18:32:53 --
+2026-05-04 18:33:12 Sequence: FillCart , Time: 18.421s
+2026-05-04 18:33:52 POS DCU1 : 242.3, Target : 250.0.
+2026-05-04 18:33:55 FillDCU (Cycle) time: 9.354s
+2026-05-04 18:36:00 ClnCart (Cleaning+Dumping) time: 31.077s
+2026-05-04 18:36:00 --
+2026-05-04 18:36:24 Sequence: FillCart , Time: 22.922s
+2026-05-04 18:37:20 POS DCU1 : 240.8, Target : 250.0.
+2026-05-04 18:37:22 FillDCU (Cycle) time: 10.343s
+2026-05-04 18:38:51 Sequence: FillCart , Time: 23.034s
+2026-05-04 18:39:09 POS DCU1 : 239.9, Target : 250.0.
+2026-05-04 18:39:13 FillDCU (Cycle) time: 12.645s
+2026-05-04 18:44:05 Sequence: FillCart , Time: 14.393s
+2026-05-04 18:44:23 POS DCU1 : 238.7, Target : 250.0.
+2026-05-04 18:44:24 FillDCU (Cycle) time: 9.029s
+2026-05-04 18:48:19 ClnCart (Cleaning+Dumping) time: 51.573s
+2026-05-04 18:48:19 --
+2026-05-04 18:48:33 Sequence: FillCart , Time: 13.525s
+2026-05-04 18:48:47 POS DCU1 : 242.3, Target : 250.0.
+2026-05-04 18:48:47 FillDCU (Cycle) time: 5.153s
+2026-05-04 18:50:17 Sequence: FillCart , Time: 21.943s
+2026-05-04 18:50:30 POS DCU1 : 238.3, Target : 250.0.
+2026-05-04 18:50:37 FillDCU (Cycle) time: 10.56s
+2026-05-04 18:56:30 Sequence: FillCart , Time: 24.239s
+2026-05-04 18:56:49 POS DCU1 : 237.9, Target : 250.0.
+2026-05-04 18:56:50 FillDCU (Cycle) time: 11.139s
+2026-05-04 19:03:26 Sequence: FillCart , Time: 15.488s
+2026-05-04 19:03:46 POS DCU1 : 237.3, Target : 250.0.
+2026-05-04 19:03:46 FillDCU (Cycle) time: 10.232s
+2026-05-04 19:10:08 Sequence: FillCart , Time: 19.788s
+2026-05-04 19:10:23 POS DCU1 : 241.1, Target : 250.0.
+2026-05-04 19:10:29 FillDCU (Cycle) time: 10.972s
+2026-05-04 19:16:02 Sequence: FillCart , Time: 22.783s
+2026-05-04 19:16:21 POS DCU1 : 239.9, Target : 250.0.
+2026-05-04 19:16:21 FillDCU (Cycle) time: 10.42s
+2026-05-04 19:21:34 ClnCart (Cleaning+Dumping) time: 31.212s
+2026-05-04 19:21:34 --
+2026-05-04 19:21:57 Sequence: FillCart , Time: 22.044s
+2026-05-04 19:22:54 POS DCU1 : 237.2, Target : 250.0.
+2026-05-04 19:22:55 FillDCU (Cycle) time: 10.301s
+2026-05-04 19:35:41 Sequence: FillCart , Time: 18.297s
+2026-05-04 19:35:59 POS DCU1 : 238.5, Target : 250.0.
+2026-05-04 19:36:01 FillDCU (Cycle) time: 10.18s
+2026-05-04 19:54:09 Sequence: FillCart , Time: 15.891s
+2026-05-04 19:54:28 POS DCU1 : 237.3, Target : 250.0.
+2026-05-04 19:54:29 FillDCU (Cycle) time: 9.597s
+2026-05-04 19:57:14 ClnCart (Cleaning+Dumping) time: 33.555s
+2026-05-04 19:57:14 --
+2026-05-04 19:57:31 Sequence: FillCart , Time: 16.314s
+2026-05-04 19:57:47 POS DCU1 : 243.6, Target : 250.0.
+2026-05-04 19:57:48 FillDCU (Cycle) time: 7.241s
+2026-05-04 20:02:11 ClnCart (Cleaning+Dumping) time: 33.119s
+2026-05-04 20:02:11 --
+2026-05-04 20:02:29 Sequence: FillCart , Time: 16.778s
+2026-05-04 20:03:28 POS DCU1 : 238.4, Target : 250.0.
+2026-05-04 20:03:30 FillDCU (Cycle) time: 8.025s
+2026-05-04 20:04:36 Sequence: FillCart , Time: 14.236s
+2026-05-04 20:05:10 POS DCU1 : 239.1, Target : 250.0.
+2026-05-04 20:05:10 FillDCU (Cycle) time: 7.111s
+2026-05-04 20:06:20 ClnCart (Cleaning+Dumping) time: 33.658s
+2026-05-04 20:06:20 --
+2026-05-04 20:06:37 Sequence: FillCart , Time: 15.64s
+2026-05-04 20:07:53 POS DCU1 : 238.2, Target : 250.0.
+2026-05-04 20:07:56 FillDCU (Cycle) time: 7.313s
+2026-05-04 20:10:26 ClnCart (Cleaning+Dumping) time: 33.478s
+2026-05-04 20:10:26 --
+2026-05-04 20:10:40 Sequence: FillCart , Time: 13.456s
+2026-05-04 20:12:21 POS DCU1 : 241.4, Target : 250.0.
+2026-05-04 20:12:22 FillDCU (Cycle) time: 6.476s
+2026-05-04 20:13:25 ClnCart (Cleaning+Dumping) time: 31.565s
+2026-05-04 20:13:25 --
+2026-05-04 20:13:49 Sequence: FillCart , Time: 22.579s
+2026-05-04 20:14:26 POS DCU1 : 243.3, Target : 250.0.
+2026-05-04 20:14:31 FillDCU (Cycle) time: 9.445s
+2026-05-04 20:18:34 ClnCart (Cleaning+Dumping) time: 31.087s
+2026-05-04 20:18:34 --
+2026-05-04 20:18:57 Sequence: FillCart , Time: 21.812s
+2026-05-04 20:20:02 POS DCU1 : 240.0, Target : 250.0.
+2026-05-04 20:20:03 FillDCU (Cycle) time: 10.357s
+2026-05-04 20:21:01 Sequence: FillCart , Time: 10.881s
+2026-05-04 20:21:48 POS DCU1 : 238.5, Target : 250.0.
+2026-05-04 20:21:49 FillDCU (Cycle) time: 9.805s
+2026-05-04 20:23:37 Sequence: FillCart , Time: 20.87s
+2026-05-04 20:23:55 FillDCU (Cycle) time: 8.678s
+2026-05-04 20:27:31 ClnCart (Cleaning+Dumping) time: 31.397s
+2026-05-04 20:27:31 --
+2026-05-04 20:27:52 Sequence: FillCart , Time: 20.127s
+2026-05-04 20:28:52 POS DCU1 : 241.3, Target : 250.0.
+2026-05-04 20:28:53 FillDCU (Cycle) time: 8.871s
+2026-05-04 20:30:07 Sequence: FillCart , Time: 23.693s
+2026-05-04 20:30:33 POS DCU1 : 237.7, Target : 250.0.
+2026-05-04 20:30:35 FillDCU (Cycle) time: 10.056s
+2026-05-04 20:33:42 ClnCart (Cleaning+Dumping) time: 33.63s
+2026-05-04 20:33:42 --
+2026-05-04 20:34:07 Sequence: FillCart , Time: 23.6s
+2026-05-04 20:34:53 POS DCU1 : 240.3, Target : 250.0.
+2026-05-04 20:34:55 FillDCU (Cycle) time: 10.21s
+2026-05-04 20:36:03 Sequence: FillCart , Time: 23.99s
+2026-05-04 20:36:35 POS DCU1 : 237.9, Target : 250.0.
+2026-05-04 20:36:38 FillDCU (Cycle) time: 12.154s
+2026-05-04 20:38:21 ClnCart (Cleaning+Dumping) time: 30.97s
+2026-05-04 20:38:21 --
+2026-05-04 20:38:45 Sequence: FillCart , Time: 22.147s
+2026-05-04 20:40:43 POS DCU1 : 243.1, Target : 250.0.
+2026-05-04 20:40:46 FillDCU (Cycle) time: 11.606s
+2026-05-04 20:42:53 ClnCart (Cleaning+Dumping) time: 52.474s
+2026-05-04 20:42:53 --
+2026-05-04 20:43:11 Sequence: FillCart , Time: 16.835s
+2026-05-04 20:44:32 CheckA1Fluid Restart 289.9
+2026-05-04 20:44:33 POS DCU1 : 241.9, Target : 250.0.
+2026-05-04 20:44:34 FillDCU (Cycle) time: 11.419s
+2026-05-04 20:45:59 Sequence: FillCart , Time: 23.159s
+2026-05-04 20:46:25 POS DCU1 : 241.9, Target : 250.0.
+2026-05-04 20:46:28 FillDCU (Cycle) time: 9.65s
+2026-05-04 20:48:13 ClnCart (Cleaning+Dumping) time: 26.427s
+2026-05-04 20:48:13 --
+2026-05-04 20:48:32 Sequence: FillCart , Time: 18.209s
+2026-05-04 20:49:47 POS DCU1 : 243.0, Target : 250.0.
+2026-05-04 20:49:48 FillDCU (Cycle) time: 9.967s
+2026-05-04 20:51:06 ClnCart (Cleaning+Dumping) time: 32.886s
+2026-05-04 20:51:06 --
+2026-05-04 20:51:30 Sequence: FillCart , Time: 22.666s
+2026-05-04 20:51:49 POS DCU1 : 239.9, Target : 250.0.
+2026-05-04 20:51:50 FillDCU (Cycle) time: 10.091s
+2026-05-04 20:55:21 ClnCart (Cleaning+Dumping) time: 32.956s
+2026-05-04 20:55:21 --
+2026-05-04 20:55:46 Sequence: FillCart , Time: 23.059s
+2026-05-04 20:56:34 POS DCU1 : 240.0, Target : 250.0.
+2026-05-04 20:56:35 FillDCU (Cycle) time: 10.283s
+2026-05-04 21:11:35 POS DCU1 : 237.8, Target : 250.0.
+2026-05-04 21:11:36 FillDCU (Cycle) time: 9.308s
+2026-05-04 21:17:06 ClnCart (Cleaning+Dumping) time: 32.658s
+2026-05-04 21:17:06 --
+2026-05-04 21:18:01 ClnCart (Cleaning+Dumping) time: 27.079s
+2026-05-04 21:18:01 --
+2026-05-04 21:19:00 ClnCart (Cleaning+Dumping) time: 31.211s
+2026-05-04 21:19:00 --
+2026-05-05 02:42:34 Sequence: FillCart , Time: 25.602s
+2026-05-05 02:42:55 FillDCU (Cycle) time: 13.044s
+2026-05-05 02:43:44 Sequence: FillCart , Time: 24.875s
+2026-05-05 02:45:00 POS DCU1 : 243.3, Target : 250.0.
+2026-05-05 02:45:09 FillDCU (Cycle) time: 13.024s
+2026-05-05 02:47:17 FillDCU (Cycle) time: 1.86s
+2026-05-05 02:48:12 ClnCart (Cleaning+Dumping) time: 25.839s
+2026-05-05 02:48:12 --
+2026-05-05 02:51:25 ClnCart (Cleaning+Dumping) time: 23.283s
+2026-05-05 02:51:25 --
+2026-05-05 02:52:18 ClnCart (Cleaning+Dumping) time: 24.955s
+2026-05-05 02:52:18 --
+2026-05-05 02:54:20 ClnCart (Cleaning+Dumping) time: 94.21s
+2026-05-05 02:54:20 --
+2026-05-05 02:55:11 ClnCart (Cleaning+Dumping) time: 22.999s
+2026-05-05 02:55:11 --
+2026-05-05 03:32:52 Sequence: FillCart , Time: 17.355s
+2026-05-05 03:33:10 FillDCU (Cycle) time: 8.048s
+2026-05-05 03:39:53 Sequence: FillCart , Time: 16.998s
+2026-05-05 03:41:18 POS DCU1 : 241.2, Target : 250.0.
+2026-05-05 03:41:19 FillDCU (Cycle) time: 7.938s
+2026-05-05 04:37:44 POS DCU1 : 239.6, Target : 250.0.
+2026-05-05 04:37:45 FillDCU (Cycle) time: 7.339s
+2026-05-05 04:40:52 ClnCart (Cleaning+Dumping) time: 33.536s
+2026-05-05 04:40:52 --
+2026-05-05 06:01:03 Sequence: FillCart , Time: 15.518s
+2026-05-05 06:01:19 FillDCU (Cycle) time: 6.463s
+2026-05-05 06:06:34 Sequence: FillCart , Time: 14.828s
+2026-05-05 06:08:00 POS DCU1 : 241.8, Target : 250.0.
+2026-05-05 06:08:01 FillDCU (Cycle) time: 6.154s
+2026-05-05 06:08:36 Sequence: FillCart , Time: 18.292s
+2026-05-05 06:09:41 POS DCU1 : 242.9, Target : 250.0.
+2026-05-05 06:09:47 FillDCU (Cycle) time: 10.877s
+2026-05-05 06:10:26 Sequence: FillCart , Time: 9.545s
+2026-05-05 06:12:26 POS DCU1 : 238.4, Target : 250.0.
+2026-05-05 06:12:26 FillDCU (Cycle) time: 9.802s
+2026-05-05 06:15:19 Sequence: FillCart , Time: 8.949s
+2026-05-05 06:16:05 POS DCU1 : 237.7, Target : 250.0.
+2026-05-05 06:16:06 FillDCU (Cycle) time: 5.088s
+2026-05-05 06:18:46 Sequence: FillCart , Time: 22.851s
+2026-05-05 06:18:59 POS DCU1 : 238.6, Target : 250.0.
+2026-05-05 06:19:05 FillDCU (Cycle) time: 9.566s
+2026-05-05 06:20:08 Sequence: FillCart , Time: 18.622s
+2026-05-05 06:21:41 POS DCU1 : 243.1, Target : 250.0.
+2026-05-05 06:21:42 FillDCU (Cycle) time: 10.468s
+2026-05-05 06:22:49 Sequence: FillCart , Time: 18.148s
+2026-05-05 06:23:27 POS DCU1 : 240.8, Target : 250.0.
+2026-05-05 06:23:27 FillDCU (Cycle) time: 9.454s
+2026-05-05 06:25:17 ClnCart (Cleaning+Dumping) time: 33.023s
+2026-05-05 06:25:17 --
+2026-05-05 06:25:35 Sequence: FillCart , Time: 16.821s
+2026-05-05 06:26:27 POS DCU1 : 241.5, Target : 250.0.
+2026-05-05 06:26:28 FillDCU (Cycle) time: 7.342s
+2026-05-05 06:27:30 Sequence: FillCart , Time: 18.649s
+2026-05-05 06:28:07 POS DCU1 : 238.8, Target : 250.0.
+2026-05-05 06:28:10 FillDCU (Cycle) time: 9.645s
+2026-05-05 06:30:13 ClnCart (Cleaning+Dumping) time: 30.675s
+2026-05-05 06:30:13 --
+2026-05-05 06:30:35 Sequence: FillCart , Time: 20.702s
+2026-05-05 06:31:33 POS DCU1 : 240.2, Target : 250.0.
+2026-05-05 06:31:34 FillDCU (Cycle) time: 9.76s
+2026-05-05 06:32:41 Sequence: FillCart , Time: 17.723s
+2026-05-05 06:33:18 POS DCU1 : 233.8, Target : 250.0.
+2026-05-05 06:33:19 FillDCU (Cycle) time: 8.954s
+2026-05-05 06:35:16 ClnCart (Cleaning+Dumping) time: 33.056s
+2026-05-05 06:35:16 --
+2026-05-05 06:35:32 Sequence: FillCart , Time: 14.496s
+2026-05-05 06:36:35 POS DCU1 : 242.1, Target : 250.0.
+2026-05-05 06:36:36 FillDCU (Cycle) time: 7.746s
+2026-05-05 06:37:35 Sequence: FillCart , Time: 18.702s
+2026-05-05 06:37:54 POS DCU1 : 238.9, Target : 250.0.
+2026-05-05 06:37:59 FillDCU (Cycle) time: 9.316s
+2026-05-05 06:39:59 ClnCart (Cleaning+Dumping) time: 30.846s
+2026-05-05 06:39:59 --
+2026-05-05 06:40:23 Sequence: FillCart , Time: 22.524s
+2026-05-05 06:41:21 POS DCU1 : 237.9, Target : 250.0.
+2026-05-05 06:41:22 FillDCU (Cycle) time: 10.344s
+2026-05-05 06:44:04 Sequence: FillCart , Time: 17.54s
+2026-05-05 06:44:22 POS DCU1 : 226.3, Target : 250.0.
+2026-05-05 06:44:23 FillDCU (Cycle) time: 9.576s
+2026-05-05 06:48:55 ClnCart (Cleaning+Dumping) time: 30.919s
+2026-05-05 06:48:55 --
+2026-05-05 06:49:17 Sequence: FillCart , Time: 20.961s
+2026-05-05 06:50:23 POS DCU1 : 242.7, Target : 250.0.
+2026-05-05 06:50:24 FillDCU (Cycle) time: 9.68s
+2026-05-05 06:51:45 Sequence: FillCart , Time: 17.534s
+2026-05-05 06:52:09 POS DCU1 : 241.0, Target : 250.0.
+2026-05-05 06:52:10 FillDCU (Cycle) time: 9.428s
+2026-05-05 06:53:50 ClnCart (Cleaning+Dumping) time: 31.611s
+2026-05-05 06:53:50 --
+2026-05-05 06:54:07 Sequence: FillCart , Time: 16.524s
+2026-05-05 06:55:11 POS DCU1 : 239.9, Target : 250.0.
+2026-05-05 06:55:12 FillDCU (Cycle) time: 7.491s
+2026-05-05 06:55:53 ClnCart (Cleaning+Dumping) time: 27.252s
+2026-05-05 06:55:53 --
+2026-05-05 06:56:17 Sequence: FillCart , Time: 22.7s
+2026-05-05 06:56:52 POS DCU1 : 241.2, Target : 250.0.
+2026-05-05 06:56:56 FillDCU (Cycle) time: 10.681s
+2026-05-05 06:58:16 Sequence: FillCart , Time: 16.562s
+2026-05-05 06:59:35 POS DCU1 : 240.9, Target : 250.0.
+2026-05-05 06:59:36 FillDCU (Cycle) time: 9.968s
+2026-05-05 07:01:02 Sequence: FillCart , Time: 20.661s
+2026-05-05 07:03:40 POS DCU1 : 237.7, Target : 250.0.
+2026-05-05 07:03:44 FillDCU (Cycle) time: 9.341s
+2026-05-05 07:05:28 ClnCart (Cleaning+Dumping) time: 24.629s
+2026-05-05 07:05:28 --
+2026-05-05 07:05:44 Sequence: FillCart , Time: 15.718s
+2026-05-05 07:06:55 POS DCU1 : 239.1, Target : 250.0.
+2026-05-05 07:06:56 FillDCU (Cycle) time: 9.652s
+2026-05-05 07:08:02 Sequence: FillCart , Time: 21.136s
+2026-05-05 07:08:40 POS DCU1 : 242.3, Target : 250.0.
+2026-05-05 07:08:42 FillDCU (Cycle) time: 10.287s
+2026-05-05 07:10:28 ClnCart (Cleaning+Dumping) time: 30.93s
+2026-05-05 07:10:28 --
+2026-05-05 07:10:49 Sequence: FillCart , Time: 19.817s
+2026-05-05 07:11:43 POS DCU1 : 240.1, Target : 250.0.
+2026-05-05 07:11:44 FillDCU (Cycle) time: 9.763s
+2026-05-05 07:12:44 Sequence: FillCart , Time: 18.423s
+2026-05-05 07:13:24 POS DCU1 : 238.3, Target : 250.0.
+2026-05-05 07:13:26 FillDCU (Cycle) time: 10.296s
+2026-05-05 07:14:59 Sequence: FillCart , Time: 18.541s
+2026-05-05 07:16:03 POS DCU1 : 238.1, Target : 250.0.
+2026-05-05 07:16:03 FillDCU (Cycle) time: 9.746s
+2026-05-05 07:17:46 Sequence: FillCart , Time: 21.119s
+2026-05-05 07:20:07 POS DCU1 : 239.1, Target : 250.0.
+2026-05-05 07:20:10 FillDCU (Cycle) time: 9.389s
+2026-05-05 07:21:50 ClnCart (Cleaning+Dumping) time: 31.229s
+2026-05-05 07:21:50 --
+2026-05-05 07:22:11 Sequence: FillCart , Time: 20.168s
+2026-05-05 07:23:18 POS DCU1 : 242.6, Target : 250.0.
+2026-05-05 07:23:19 FillDCU (Cycle) time: 9.768s
+2026-05-05 07:24:18 ClnCart (Cleaning+Dumping) time: 46.663s
+2026-05-05 07:24:18 --
+2026-05-05 07:24:37 Sequence: FillCart , Time: 17.559s
+2026-05-05 07:25:04 POS DCU1 : 241.9, Target : 250.0.
+2026-05-05 07:25:04 FillDCU (Cycle) time: 8.84s
+2026-05-05 07:26:22 ClnCart (Cleaning+Dumping) time: 33.972s
+2026-05-05 07:26:22 --
+2026-05-05 07:26:37 Sequence: FillCart , Time: 14.171s
+2026-05-05 07:28:10 POS DCU1 : 241.4, Target : 250.0.
+2026-05-05 07:28:10 FillDCU (Cycle) time: 7.686s
+2026-05-05 07:29:36 Sequence: FillCart , Time: 22.642s
+2026-05-05 07:30:02 POS DCU1 : 238.1, Target : 250.0.
+2026-05-05 07:30:07 FillDCU (Cycle) time: 9.709s
+2026-05-05 07:31:07 ClnCart (Cleaning+Dumping) time: 26.814s
+2026-05-05 07:31:07 --
+2026-05-05 07:31:26 Sequence: FillCart , Time: 18.055s
+2026-05-05 07:32:41 POS DCU1 : 239.9, Target : 250.0.
+2026-05-05 07:32:42 FillDCU (Cycle) time: 9.994s
+2026-05-05 07:33:43 Sequence: FillCart , Time: 15.486s
+2026-05-05 07:34:27 POS DCU1 : 237.7, Target : 250.0.
+2026-05-05 07:34:27 FillDCU (Cycle) time: 9.519s
+2026-05-05 07:41:03 Sequence: FillCart , Time: 16.708s
+2026-05-05 07:41:17 POS DCU1 : 243.4, Target : 250.0.
+2026-05-05 07:41:23 FillDCU (Cycle) time: 10.286s
+2026-05-05 07:42:13 ClnCart (Cleaning+Dumping) time: 31.3s
+2026-05-05 07:42:13 --
+2026-05-05 07:42:32 Sequence: FillCart , Time: 17.996s
+2026-05-05 07:43:52 POS DCU1 : 239.2, Target : 250.0.
+2026-05-05 07:43:52 FillDCU (Cycle) time: 9.765s
+2026-05-05 07:46:37 ClnCart (Cleaning+Dumping) time: 31.42s
+2026-05-05 07:46:37 --
+2026-05-05 07:46:55 Sequence: FillCart , Time: 17.227s
+2026-05-05 07:47:48 POS DCU1 : 241.7, Target : 250.0.
+2026-05-05 07:47:49 FillDCU (Cycle) time: 7.006s
+2026-05-05 07:49:00 Sequence: FillCart , Time: 22.358s
+2026-05-05 07:49:29 POS DCU1 : 238.3, Target : 250.0.
+2026-05-05 07:49:33 FillDCU (Cycle) time: 9.606s
+2026-05-05 07:51:37 ClnCart (Cleaning+Dumping) time: 30.94s
+2026-05-05 07:51:37 --
+2026-05-05 07:52:01 Sequence: FillCart , Time: 22.457s
+2026-05-05 07:52:58 POS DCU1 : 242.8, Target : 250.0.
+2026-05-05 07:53:00 FillDCU (Cycle) time: 10.328s
+2026-05-05 07:54:09 Sequence: FillCart , Time: 23.793s
+2026-05-05 07:54:44 POS DCU1 : 241.6, Target : 250.0.
+2026-05-05 07:54:48 FillDCU (Cycle) time: 12.548s
+2026-05-05 07:55:44 ClnCart (Cleaning+Dumping) time: 27.957s
+2026-05-05 07:55:44 --
+2026-05-05 07:56:08 Sequence: FillCart , Time: 22.257s
+2026-05-05 07:58:52 POS DCU1 : 242.2, Target : 250.0.
+2026-05-05 07:58:53 FillDCU (Cycle) time: 9.71s
+2026-05-05 08:01:20 ClnCart (Cleaning+Dumping) time: 30.918s
+2026-05-05 08:01:20 --
+2026-05-05 08:01:44 Sequence: FillCart , Time: 22.17s
+2026-05-05 08:02:42 POS DCU1 : 240.0, Target : 250.0.
+2026-05-05 08:02:43 FillDCU (Cycle) time: 10.199s
+2026-05-05 08:03:45 ClnCart (Cleaning+Dumping) time: 51.233s
+2026-05-05 08:03:45 --
+2026-05-05 08:04:09 Sequence: FillCart , Time: 22.756s
+2026-05-05 08:04:28 POS DCU1 : 238.1, Target : 250.0.
+2026-05-05 08:04:30 FillDCU (Cycle) time: 11.405s
+2026-05-05 08:05:42 ClnCart (Cleaning+Dumping) time: 31.045s
+2026-05-05 08:05:42 --
+2026-05-05 08:06:02 Sequence: FillCart , Time: 18.338s
+2026-05-05 08:07:36 CheckA1Fluid Restart 291.2
+2026-05-05 08:07:37 POS DCU1 : 243.3, Target : 250.0.
+2026-05-05 08:07:37 FillDCU (Cycle) time: 11.191s
+2026-05-05 08:08:39 Sequence: FillCart , Time: 21.228s
+2026-05-05 08:09:30 POS DCU1 : 241.1, Target : 250.0.
+2026-05-05 08:09:32 FillDCU (Cycle) time: 9.338s
+2026-05-05 08:10:44 ClnCart (Cleaning+Dumping) time: 31.441s
+2026-05-05 08:10:44 --
+2026-05-05 08:11:05 Sequence: FillCart , Time: 20.042s
+2026-05-05 08:12:03 POS DCU1 : 242.6, Target : 250.0.
+2026-05-05 08:12:04 FillDCU (Cycle) time: 9.903s
+2026-05-05 08:12:44 ClnCart (Cleaning+Dumping) time: 28.399s
+2026-05-05 08:12:44 --
+2026-05-05 08:13:04 Sequence: FillCart , Time: 18.556s
+2026-05-05 08:13:48 POS DCU1 : 243.1, Target : 250.0.
+2026-05-05 08:13:49 FillDCU (Cycle) time: 9.041s
+2026-05-05 08:15:47 ClnCart (Cleaning+Dumping) time: 31.629s
+2026-05-05 08:15:47 --
+2026-05-05 08:16:08 Sequence: FillCart , Time: 19.865s
+2026-05-05 08:16:59 POS DCU1 : 239.2, Target : 250.0.
+2026-05-05 08:17:01 FillDCU (Cycle) time: 9.741s
+2026-05-05 08:18:00 Sequence: FillCart , Time: 18.358s
+2026-05-05 08:18:41 POS DCU1 : 242.9, Target : 250.0.
+2026-05-05 08:18:43 FillDCU (Cycle) time: 10.323s
+2026-05-05 08:20:00 Sequence: FillCart , Time: 15.413s
+2026-05-05 08:21:20 POS DCU1 : 243.4, Target : 250.0.
+2026-05-05 08:21:20 FillDCU (Cycle) time: 9.691s
+2026-05-05 08:22:52 Sequence: FillCart , Time: 22.545s
+2026-05-05 08:24:03 POS DCU1 : 241.1, Target : 250.0.
+2026-05-05 08:24:07 FillDCU (Cycle) time: 9.755s
+2026-05-05 08:27:19 ClnCart (Cleaning+Dumping) time: 30.902s
+2026-05-05 08:27:19 --
+2026-05-05 08:27:43 Sequence: FillCart , Time: 22.171s
+2026-05-05 08:28:41 POS DCU1 : 239.5, Target : 250.0.
+2026-05-05 08:28:42 FillDCU (Cycle) time: 10.327s
+2026-05-05 08:29:51 Sequence: FillCart , Time: 24.415s
+2026-05-05 08:30:27 POS DCU1 : 242.1, Target : 250.0.
+2026-05-05 08:30:29 FillDCU (Cycle) time: 11.427s
+2026-05-05 08:35:39 ClnCart (Cleaning+Dumping) time: 26.453s
+2026-05-05 08:35:39 --
+2026-05-05 08:35:59 Sequence: FillCart , Time: 18.311s
+2026-05-05 08:36:18 POS DCU1 : 242.3, Target : 250.0.
+2026-05-05 08:36:18 FillDCU (Cycle) time: 10.255s
+2026-05-05 08:37:27 ClnCart (Cleaning+Dumping) time: 30.96s
+2026-05-05 08:37:27 --
+2026-05-05 08:37:51 Sequence: FillCart , Time: 22.342s
+2026-05-05 08:38:48 POS DCU1 : 239.0, Target : 250.0.
+2026-05-05 08:38:50 FillDCU (Cycle) time: 10.36s
+2026-05-05 08:39:50 Sequence: FillCart , Time: 14.44s
+2026-05-05 08:40:35 POS DCU1 : 238.4, Target : 250.0.
+2026-05-05 08:40:35 FillDCU (Cycle) time: 9.481s
+2026-05-05 08:41:55 Sequence: FillCart , Time: 17.989s
+2026-05-05 08:43:14 POS DCU1 : 240.3, Target : 250.0.
+2026-05-05 08:43:19 FillDCU (Cycle) time: 10.353s
+2026-05-05 08:49:55 Sequence: FillCart , Time: 23.772s
+2026-05-05 08:50:14 POS DCU1 : 238.3, Target : 250.0.
+2026-05-05 08:50:14 FillDCU (Cycle) time: 9.904s
+2026-05-05 08:53:23 ClnCart (Cleaning+Dumping) time: 31.725s
+2026-05-05 08:53:23 --
+2026-05-05 08:53:47 Sequence: FillCart , Time: 22.174s
+2026-05-05 08:54:52 POS DCU1 : 241.7, Target : 250.0.
+2026-05-05 08:54:54 FillDCU (Cycle) time: 10.339s
+2026-05-05 08:55:58 Sequence: FillCart , Time: 19.1s
+2026-05-05 08:56:39 POS DCU1 : 239.0, Target : 250.0.
+2026-05-05 08:56:39 FillDCU (Cycle) time: 9.629s
+2026-05-05 08:58:26 Sequence: FillCart , Time: 21.968s
+2026-05-05 09:00:18 POS DCU1 : 241.8, Target : 250.0.
+2026-05-05 09:00:20 FillDCU (Cycle) time: 9.477s
+2026-05-05 09:02:01 ClnCart (Cleaning+Dumping) time: 27.513s
+2026-05-05 09:02:01 --
+2026-05-05 09:02:24 Sequence: FillCart , Time: 22.328s
+2026-05-05 09:03:08 POS DCU1 : 237.6, Target : 250.0.
+2026-05-05 09:03:11 FillDCU (Cycle) time: 10.379s
+2026-05-05 09:04:17 Sequence: FillCart , Time: 16.87s
+2026-05-05 09:04:56 POS DCU1 : 241.0, Target : 250.0.
+2026-05-05 09:04:56 FillDCU (Cycle) time: 9.439s
+2026-05-05 09:07:13 ClnCart (Cleaning+Dumping) time: 33.37s
+2026-05-05 09:07:13 --
+2026-05-05 09:07:30 Sequence: FillCart , Time: 15.982s
+2026-05-05 09:08:24 POS DCU1 : 241.4, Target : 250.0.
+2026-05-05 09:08:24 FillDCU (Cycle) time: 7.476s
+2026-05-05 09:09:23 ClnCart (Cleaning+Dumping) time: 45.32s
+2026-05-05 09:09:23 --
+2026-05-05 09:09:47 Sequence: FillCart , Time: 22.163s
+2026-05-05 09:10:04 POS DCU1 : 239.4, Target : 250.0.
+2026-05-05 09:10:08 FillDCU (Cycle) time: 10.664s
+2026-05-05 09:11:30 Sequence: FillCart , Time: 16.381s
+2026-05-05 09:12:46 POS DCU1 : 240.7, Target : 250.0.
+2026-05-05 09:12:46 FillDCU (Cycle) time: 9.691s
+2026-05-05 09:16:01 ClnCart (Cleaning+Dumping) time: 33.003s
+2026-05-05 09:16:01 --
+2026-05-05 09:16:19 Sequence: FillCart , Time: 16.163s
+2026-05-05 09:17:10 POS DCU1 : 240.0, Target : 250.0.
+2026-05-05 09:17:11 FillDCU (Cycle) time: 7.178s
+2026-05-05 09:18:22 Sequence: FillCart , Time: 22.61s
+2026-05-05 09:18:51 POS DCU1 : 242.7, Target : 250.0.
+2026-05-05 09:18:54 FillDCU (Cycle) time: 9.599s
+2026-05-05 09:20:57 ClnCart (Cleaning+Dumping) time: 30.641s
+2026-05-05 09:20:57 --
+2026-05-05 09:21:20 Sequence: FillCart , Time: 22.11s
+2026-05-05 09:22:17 POS DCU1 : 241.1, Target : 250.0.
+2026-05-05 09:22:19 FillDCU (Cycle) time: 10.332s
+2026-05-05 09:23:24 Sequence: FillCart , Time: 19.508s
+2026-05-05 09:24:04 POS DCU1 : 242.8, Target : 250.0.
+2026-05-05 09:24:04 FillDCU (Cycle) time: 9.463s
+2026-05-05 09:25:51 ClnCart (Cleaning+Dumping) time: 31.25s
+2026-05-05 09:25:51 --
+2026-05-05 09:26:10 Sequence: FillCart , Time: 18.661s
+2026-05-05 09:27:04 POS DCU1 : 240.2, Target : 250.0.
+2026-05-05 09:27:06 FillDCU (Cycle) time: 8.153s
+2026-05-05 09:28:07 Sequence: FillCart , Time: 17.744s
+2026-05-05 09:28:46 POS DCU1 : 237.7, Target : 250.0.
+2026-05-05 09:28:48 FillDCU (Cycle) time: 9.241s
+2026-05-05 09:41:39 ClnCart (Cleaning+Dumping) time: 31.052s
+2026-05-05 09:41:39 --
+2026-05-05 09:42:06 Sequence: FillCart , Time: 25.549s
+2026-05-05 09:43:00 POS DCU1 : 240.4, Target : 250.0.
+2026-05-05 09:43:01 FillDCU (Cycle) time: 10.311s
+2026-05-05 09:45:35 Sequence: FillCart , Time: 14.905s
+2026-05-05 09:45:53 POS DCU1 : 239.4, Target : 250.0.
+2026-05-05 09:45:53 FillDCU (Cycle) time: 9.388s
+2026-05-05 09:46:55 ClnCart (Cleaning+Dumping) time: 31.084s
+2026-05-05 09:46:55 --
+2026-05-05 09:47:11 Sequence: FillCart , Time: 14.064s
+2026-05-05 09:47:25 POS DCU1 : 241.3, Target : 250.0.
+2026-05-05 09:47:25 FillDCU (Cycle) time: 5.167s
+2026-05-05 09:48:33 Sequence: FillCart , Time: 22.605s
+2026-05-05 09:48:46 POS DCU1 : 239.0, Target : 250.0.
+2026-05-05 09:48:52 FillDCU (Cycle) time: 9.451s
+2026-05-05 09:50:45 ClnCart (Cleaning+Dumping) time: 30.691s
+2026-05-05 09:50:45 --
+2026-05-05 09:51:08 Sequence: FillCart , Time: 22.392s
+2026-05-05 09:52:06 POS DCU1 : 238.2, Target : 250.0.
+2026-05-05 09:52:07 FillDCU (Cycle) time: 10.327s
+2026-05-05 09:54:49 Sequence: FillCart , Time: 17.916s
+2026-05-05 09:55:07 POS DCU1 : 240.0, Target : 250.0.
+2026-05-05 09:55:07 FillDCU (Cycle) time: 9.564s
+2026-05-05 09:59:43 ClnCart (Cleaning+Dumping) time: 31.288s
+2026-05-05 09:59:43 --
+2026-05-05 10:00:07 Sequence: FillCart , Time: 22.542s
+2026-05-05 10:01:12 POS DCU1 : 237.7, Target : 250.0.
+2026-05-05 10:01:14 FillDCU (Cycle) time: 10.271s
+2026-05-05 10:02:23 Sequence: FillCart , Time: 24.591s
+2026-05-05 10:02:58 POS DCU1 : 242.0, Target : 250.0.
+2026-05-05 10:03:01 FillDCU (Cycle) time: 12.096s
+2026-05-05 10:04:14 Sequence: FillCart , Time: 15.683s
+2026-05-05 10:06:49 POS DCU1 : 241.4, Target : 250.0.
+2026-05-05 10:06:49 FillDCU (Cycle) time: 9.044s
+2026-05-05 10:09:02 ClnCart (Cleaning+Dumping) time: 30.795s
+2026-05-05 10:09:02 --
+2026-05-05 10:09:23 Sequence: FillCart , Time: 19.949s
+2026-05-05 10:10:23 POS DCU1 : 239.1, Target : 250.0.
+2026-05-05 10:10:24 FillDCU (Cycle) time: 9.733s
+2026-05-05 10:11:27 ClnCart (Cleaning+Dumping) time: 51.62s
+2026-05-05 10:11:27 --
+2026-05-05 10:12:00 Sequence: FillCart , Time: 31.137s
+2026-05-05 10:12:17 POS DCU1 : 239.0, Target : 250.0.
+2026-05-05 10:12:22 FillDCU (Cycle) time: 12.955s
+2026-05-05 10:13:24 ClnCart (Cleaning+Dumping) time: 32.532s
+2026-05-05 10:13:24 --
+2026-05-05 10:13:53 Sequence: FillCart , Time: 28.081s
+2026-05-05 10:15:17 CheckA1Fluid Restart 264.1
+2026-05-05 10:15:18 POS DCU1 : 240.2, Target : 250.0.
+2026-05-05 10:15:21 FillDCU (Cycle) time: 13.007s
+2026-05-05 10:16:25 Sequence: FillCart , Time: 17.603s
+2026-05-05 10:17:13 POS DCU1 : 238.9, Target : 250.0.
+2026-05-05 10:17:14 FillDCU (Cycle) time: 8.108s
+2026-05-05 10:18:31 ClnCart (Cleaning+Dumping) time: 33.129s
+2026-05-05 10:18:31 --
+2026-05-05 10:18:50 Sequence: FillCart , Time: 16.891s
+2026-05-05 10:19:42 POS DCU1 : 241.7, Target : 250.0.
+2026-05-05 10:19:42 FillDCU (Cycle) time: 7.368s
+2026-05-05 10:21:02 Sequence: FillCart , Time: 16.098s
+2026-05-05 10:21:23 POS DCU1 : 239.9, Target : 250.0.
+2026-05-05 10:21:24 FillDCU (Cycle) time: 7.522s
+2026-05-05 10:23:32 Sequence: FillCart , Time: 16.557s
+2026-05-05 10:24:06 POS DCU1 : 242.3, Target : 250.0.
+2026-05-05 10:24:07 FillDCU (Cycle) time: 7.318s
+2026-05-05 10:27:09 ClnCart (Cleaning+Dumping) time: 31.557s
+2026-05-05 10:27:09 --
+2026-05-05 10:27:27 Sequence: FillCart , Time: 16.634s
+2026-05-05 10:28:30 POS DCU1 : 240.9, Target : 250.0.
+2026-05-05 10:28:31 FillDCU (Cycle) time: 7.326s
+2026-05-05 10:29:12 ClnCart (Cleaning+Dumping) time: 26.645s
+2026-05-05 10:29:12 --
+2026-05-05 10:29:34 Sequence: FillCart , Time: 20.723s
+2026-05-05 10:30:11 POS DCU1 : 241.1, Target : 250.0.
+2026-05-05 10:30:18 FillDCU (Cycle) time: 12.806s
+2026-05-05 10:37:21 Sequence: FillCart , Time: 20.461s
+2026-05-05 10:37:39 POS DCU1 : 240.6, Target : 250.0.
+2026-05-05 10:37:40 FillDCU (Cycle) time: 9.831s
+2026-05-05 10:38:34 ClnCart (Cleaning+Dumping) time: 31.126s
+2026-05-05 10:38:34 --
+2026-05-05 10:38:54 Sequence: FillCart , Time: 18.739s
+2026-05-05 10:39:57 POS DCU1 : 242.4, Target : 250.0.
+2026-05-05 10:39:58 FillDCU (Cycle) time: 8.881s
+2026-05-05 10:41:02 Sequence: FillCart , Time: 17.757s
+2026-05-05 10:41:37 POS DCU1 : 238.0, Target : 250.0.
+2026-05-05 10:41:38 FillDCU (Cycle) time: 8.514s
+2026-05-05 10:44:08 ClnCart (Cleaning+Dumping) time: 30.922s
+2026-05-05 10:44:08 --
+2026-05-05 10:44:26 Sequence: FillCart , Time: 16.526s
+2026-05-05 10:45:29 POS DCU1 : 227.5, Target : 250.0.
+2026-05-05 10:45:30 FillDCU (Cycle) time: 7.784s
+2026-05-05 10:46:42 Sequence: FillCart , Time: 10.607s
+2026-05-05 10:47:42 POS DCU1 : 241.1, Target : 250.0.
+2026-05-05 10:47:43 FillDCU (Cycle) time: 6.313s
+2026-05-05 10:50:10 Sequence: FillCart , Time: 17.169s
+2026-05-05 10:51:28 POS DCU1 : 240.1, Target : 250.0.
+2026-05-05 10:51:30 FillDCU (Cycle) time: 7.213s
+2026-05-05 10:53:04 Sequence: FillCart , Time: 16.614s
+2026-05-05 10:54:36 POS DCU1 : 238.3, Target : 250.0.
+2026-05-05 10:54:37 FillDCU (Cycle) time: 7.417s
+2026-05-05 10:58:24 Sequence: FillCart , Time: 14.743s
+2026-05-05 10:59:41 POS DCU1 : 242.9, Target : 250.0.
+2026-05-05 10:59:41 FillDCU (Cycle) time: 6.681s
+2026-05-05 11:02:54 ClnCart (Cleaning+Dumping) time: 33.318s
+2026-05-05 11:02:54 --
+2026-05-05 11:03:10 Sequence: FillCart , Time: 15.313s
+2026-05-05 11:04:01 POS DCU1 : 240.5, Target : 250.0.
+2026-05-05 11:04:02 FillDCU (Cycle) time: 6.718s
+2026-05-05 11:18:41 Sequence: FillCart , Time: 15.506s
+2026-05-05 11:18:56 POS DCU1 : 239.1, Target : 250.0.
+2026-05-05 11:18:58 FillDCU (Cycle) time: 6.775s
+2026-05-05 11:26:16 Sequence: FillCart , Time: 29.508s
+2026-05-05 11:26:32 POS DCU1 : 239.0, Target : 250.0.
+2026-05-05 11:26:39 FillDCU (Cycle) time: 13.275s
+2026-05-05 11:31:17 ClnCart (Cleaning+Dumping) time: 33.38s
+2026-05-05 11:31:17 --
+2026-05-05 11:31:46 Sequence: FillCart , Time: 27.398s
+2026-05-05 11:33:17 POS DCU1 : 241.2, Target : 250.0.
+2026-05-05 11:33:21 FillDCU (Cycle) time: 13.077s
+2026-05-05 11:34:50 Sequence: FillCart , Time: 16.605s
+2026-05-05 11:35:12 POS DCU1 : 242.4, Target : 250.0.
+2026-05-05 11:35:14 FillDCU (Cycle) time: 7.58s
+2026-05-05 11:37:10 Sequence: FillCart , Time: 25.515s
+2026-05-05 11:38:55 POS DCU1 : 242.0, Target : 250.0.
+2026-05-05 11:39:02 FillDCU (Cycle) time: 13.239s
+2026-05-05 11:44:13 Sequence: FillCart , Time: 21.85s
+2026-05-05 11:44:32 POS DCU1 : 239.0, Target : 250.0.
+2026-05-05 11:44:33 FillDCU (Cycle) time: 10.061s
+2026-05-05 11:45:27 ClnCart (Cleaning+Dumping) time: 31.073s
+2026-05-05 11:45:27 --
+2026-05-05 11:45:47 Sequence: FillCart , Time: 18.843s
+2026-05-05 11:46:43 POS DCU1 : 231.5, Target : 250.0.
+2026-05-05 11:46:44 FillDCU (Cycle) time: 9.358s
+2026-05-05 11:48:21 Sequence: FillCart , Time: 30.333s
+2026-05-05 11:48:38 POS DCU1 : 239.6, Target : 250.0.
+2026-05-05 11:48:43 FillDCU (Cycle) time: 13.045s
+2026-05-05 11:50:55 ClnCart (Cleaning+Dumping) time: 30.906s
+2026-05-05 11:50:55 --
+2026-05-05 11:51:23 Sequence: FillCart , Time: 26.973s
+2026-05-05 11:52:48 POS DCU1 : 239.0, Target : 250.0.
+2026-05-05 11:52:56 FillDCU (Cycle) time: 13.024s
+2026-05-05 11:54:48 Sequence: FillCart , Time: 16.381s
+2026-05-05 11:55:02 POS DCU1 : 242.9, Target : 250.0.
+2026-05-05 11:55:06 FillDCU (Cycle) time: 7.815s
+2026-05-05 11:56:29 Sequence: FillCart , Time: 18.275s
+2026-05-05 11:58:58 POS DCU1 : 243.6, Target : 250.0.
+2026-05-05 11:59:02 FillDCU (Cycle) time: 9.079s
+2026-05-05 12:00:42 ClnCart (Cleaning+Dumping) time: 43.109s
+2026-05-05 12:00:42 --
+2026-05-05 12:01:00 Sequence: FillCart , Time: 16.439s
+2026-05-05 12:01:53 POS DCU1 : 234.5, Target : 250.0.
+2026-05-05 12:01:53 FillDCU (Cycle) time: 8.193s
+2026-05-05 12:04:01 Sequence: FillCart , Time: 26.41s
+2026-05-05 12:04:16 POS DCU1 : 238.5, Target : 250.0.
+2026-05-05 12:04:23 FillDCU (Cycle) time: 13.088s
+2026-05-05 12:07:47 Sequence: FillCart , Time: 14.178s
+2026-05-05 12:08:06 POS DCU1 : 238.9, Target : 250.0.
+2026-05-05 12:08:06 FillDCU (Cycle) time: 9.614s
+2026-05-05 12:09:34 ClnCart (Cleaning+Dumping) time: 33.122s
+2026-05-05 12:09:34 --
+2026-05-05 12:09:48 Sequence: FillCart , Time: 13.624s
+2026-05-05 12:10:41 POS DCU1 : 240.6, Target : 250.0.
+2026-05-05 12:10:41 FillDCU (Cycle) time: 5.474s
+2026-05-05 12:19:20 Sequence: FillCart , Time: 31.141s
+2026-05-05 12:19:34 POS DCU1 : 239.9, Target : 250.0.
+2026-05-05 12:19:39 FillDCU (Cycle) time: 9.7s
+2026-05-05 12:20:33 ClnCart (Cleaning+Dumping) time: 30.648s
+2026-05-05 12:20:33 --
+2026-05-05 12:21:12 Sequence: FillCart , Time: 36.927s
+2026-05-05 12:23:30 POS DCU1 : 237.9, Target : 250.0.
+2026-05-05 12:23:36 FillDCU (Cycle) time: 13.092s
+2026-05-05 12:24:51 ClnCart (Cleaning+Dumping) time: 45.805s
+2026-05-05 12:24:51 --
+2026-05-05 12:25:25 Sequence: FillCart , Time: 32.606s
+2026-05-05 12:26:38 POS DCU1 : 243.6, Target : 250.0.
+2026-05-05 12:26:43 FillDCU (Cycle) time: 13.141s
+2026-05-05 12:29:13 Sequence: FillCart , Time: 24.081s
+2026-05-05 12:29:29 POS DCU1 : 239.8, Target : 250.0.
+2026-05-05 12:29:32 FillDCU (Cycle) time: 9.659s
+2026-05-05 12:30:42 ClnCart (Cleaning+Dumping) time: 51.063s
+2026-05-05 12:30:42 --
+2026-05-05 12:31:05 Sequence: FillCart , Time: 21.662s
+2026-05-05 12:31:50 POS DCU1 : 235.2, Target : 250.0.
+2026-05-05 12:31:52 FillDCU (Cycle) time: 10.258s
+2026-05-05 12:46:13 Sequence: FillCart , Time: 22.955s
+2026-05-05 12:46:31 POS DCU1 : 240.9, Target : 250.0.
+2026-05-05 12:46:32 FillDCU (Cycle) time: 9.594s
+2026-05-05 12:51:35 ClnCart (Cleaning+Dumping) time: 31.277s
+2026-05-05 12:51:35 --
+2026-05-05 12:51:58 Sequence: FillCart , Time: 21.963s
+2026-05-05 12:53:04 POS DCU1 : 239.6, Target : 250.0.
+2026-05-05 12:53:05 FillDCU (Cycle) time: 10.354s
+2026-05-05 12:53:31 Sequence: FillCart , Time: 13.293s
+2026-05-05 12:54:50 POS DCU1 : 242.9, Target : 250.0.
+2026-05-05 12:54:50 FillDCU (Cycle) time: 9.391s
+2026-05-05 12:57:22 ClnCart (Cleaning+Dumping) time: 76.972s
+2026-05-05 12:57:22 --
+2026-05-05 12:57:41 Sequence: FillCart , Time: 17.674s
+2026-05-05 12:57:57 POS DCU1 : 241.1, Target : 250.0.
+2026-05-05 12:57:58 FillDCU (Cycle) time: 8.268s
+2026-05-05 12:59:10 Sequence: FillCart , Time: 16.576s
+2026-05-05 12:59:37 POS DCU1 : 236.8, Target : 250.0.
+2026-05-05 12:59:37 FillDCU (Cycle) time: 7.476s
+2026-05-05 13:00:52 ClnCart (Cleaning+Dumping) time: 30.933s
+2026-05-05 13:00:52 --
+2026-05-05 13:01:09 Sequence: FillCart , Time: 16.769s
+2026-05-05 13:02:30 POS DCU1 : 239.1, Target : 250.0.
+2026-05-05 13:02:31 FillDCU (Cycle) time: 7.304s
+2026-05-05 13:05:30 ClnCart (Cleaning+Dumping) time: 30.624s
+2026-05-05 13:05:30 --
+2026-05-05 13:05:49 Sequence: FillCart , Time: 17.528s
+2026-05-05 13:06:51 POS DCU1 : 240.8, Target : 250.0.
+2026-05-05 13:06:53 FillDCU (Cycle) time: 7.961s
+2026-05-05 13:08:17 Sequence: FillCart , Time: 19.88s
+2026-05-05 13:08:34 POS DCU1 : 239.5, Target : 250.0.
+2026-05-05 13:08:36 FillDCU (Cycle) time: 9.303s
+2026-05-05 13:10:25 ClnCart (Cleaning+Dumping) time: 26.801s
+2026-05-05 13:10:25 --
+2026-05-05 13:10:41 Sequence: FillCart , Time: 15.225s
+2026-05-05 13:11:58 POS DCU1 : 242.8, Target : 250.0.
+2026-05-05 13:11:59 FillDCU (Cycle) time: 9.513s
+2026-05-05 13:13:27 Sequence: FillCart , Time: 27.206s
+2026-05-05 13:13:45 POS DCU1 : 238.3, Target : 250.0.
+2026-05-05 13:13:50 FillDCU (Cycle) time: 13.052s
+2026-05-05 13:15:56 ClnCart (Cleaning+Dumping) time: 30.755s
+2026-05-05 13:15:56 --
+2026-05-05 13:16:23 Sequence: FillCart , Time: 25.243s
+2026-05-05 13:17:25 POS DCU1 : 240.0, Target : 250.0.
+2026-05-05 13:17:33 FillDCU (Cycle) time: 13.162s
+2026-05-05 13:18:15 ClnCart (Cleaning+Dumping) time: 33.044s
+2026-05-05 13:18:15 --
+2026-05-05 13:18:30 Sequence: FillCart , Time: 13.991s
+2026-05-05 13:18:44 POS DCU1 : 240.5, Target : 250.0.
+2026-05-05 13:18:46 FillDCU (Cycle) time: 5.516s
+2026-05-05 13:21:22 ClnCart (Cleaning+Dumping) time: 33.023s
+2026-05-05 13:21:22 --
+2026-05-05 13:21:37 Sequence: FillCart , Time: 13.802s
+2026-05-05 13:22:28 POS DCU1 : 239.0, Target : 250.0.
+2026-05-05 13:22:29 FillDCU (Cycle) time: 5.507s
+2026-05-05 13:23:18 ClnCart (Cleaning+Dumping) time: 33.248s
+2026-05-05 13:23:18 --
+2026-05-05 13:23:42 Sequence: FillCart , Time: 23.594s
+2026-05-05 13:24:09 POS DCU1 : 238.2, Target : 250.0.
+2026-05-05 13:24:17 FillDCU (Cycle) time: 13.182s
+2026-05-05 13:25:22 ClnCart (Cleaning+Dumping) time: 32.674s
+2026-05-05 13:25:22 --
+2026-05-05 13:25:46 Sequence: FillCart , Time: 22.889s
+2026-05-05 13:27:20 POS DCU1 : 237.6, Target : 250.0.
+2026-05-05 13:27:27 FillDCU (Cycle) time: 13.16s
+2026-05-05 13:28:29 Sequence: FillCart , Time: 22.57s
+2026-05-05 13:29:15 POS DCU1 : 239.6, Target : 250.0.
+2026-05-05 13:29:21 FillDCU (Cycle) time: 9.608s
+2026-05-05 13:30:32 ClnCart (Cleaning+Dumping) time: 31.085s
+2026-05-05 13:30:32 --
+2026-05-05 13:30:56 Sequence: FillCart , Time: 22.51s
+2026-05-05 13:31:53 POS DCU1 : 238.7, Target : 250.0.
+2026-05-05 13:31:54 FillDCU (Cycle) time: 10.337s
+2026-05-05 13:33:28 ClnCart (Cleaning+Dumping) time: 83.347s
+2026-05-05 13:33:28 --
+2026-05-05 13:33:47 Sequence: FillCart , Time: 17.628s
+2026-05-05 13:34:05 POS DCU1 : 241.0, Target : 250.0.
+2026-05-05 13:34:05 FillDCU (Cycle) time: 9.359s
+2026-05-05 13:43:34 Sequence: FillCart , Time: 15.791s
+2026-05-05 13:43:51 POS DCU1 : 242.2, Target : 250.0.
+2026-05-05 13:43:51 FillDCU (Cycle) time: 7.606s
+2026-05-05 13:45:30 ClnCart (Cleaning+Dumping) time: 79.103s
+2026-05-05 13:45:30 --
+2026-05-05 13:45:47 Sequence: FillCart , Time: 15.107s
+2026-05-05 13:46:02 POS DCU1 : 237.7, Target : 250.0.
+2026-05-05 13:46:03 FillDCU (Cycle) time: 6.225s
+2026-05-05 14:23:41 Sequence: FillCart , Time: 22.743s
+2026-05-05 14:23:55 POS DCU1 : 239.3, Target : 250.0.
+2026-05-05 14:24:03 FillDCU (Cycle) time: 12.731s
+2026-05-05 14:27:35 ClnCart (Cleaning+Dumping) time: 96.615s
+2026-05-05 14:27:35 --
+2026-05-05 14:28:01 Sequence: FillCart , Time: 24.978s
+2026-05-05 14:28:14 POS DCU1 : 238.1, Target : 250.0.
+2026-05-05 14:28:23 FillDCU (Cycle) time: 13.1s
+2026-05-05 15:38:21 Sequence: FillCart , Time: 12.716s
+2026-05-05 15:38:34 POS DCU1 : 238.6, Target : 250.0.
+2026-05-05 15:38:38 FillDCU (Cycle) time: 8.117s
+2026-05-05 15:44:52 ClnCart (Cleaning+Dumping) time: 97.185s
+2026-05-05 15:44:52 --
+2026-05-05 15:45:10 Sequence: FillCart , Time: 16.442s
+2026-05-05 15:45:26 POS DCU1 : 243.0, Target : 250.0.
+2026-05-05 15:45:26 FillDCU (Cycle) time: 7.414s
+2026-05-05 15:46:08 Sequence: FillCart , Time: 26.806s
+2026-05-05 15:47:05 POS DCU1 : 240.8, Target : 250.0.
+2026-05-05 15:47:12 FillDCU (Cycle) time: 12.959s
+2026-05-05 16:06:03 Sequence: FillCart , Time: 29.922s
+2026-05-05 16:06:22 POS DCU1 : 240.5, Target : 250.0.
+2026-05-05 16:06:26 FillDCU (Cycle) time: 13.245s
+2026-05-05 16:07:19 ClnCart (Cleaning+Dumping) time: 31.216s
+2026-05-05 16:07:19 --
+2026-05-05 16:08:00 Sequence: FillCart , Time: 39.777s
+2026-05-05 16:10:15 POS DCU1 : 242.7, Target : 250.0.
+2026-05-05 16:10:21 FillDCU (Cycle) time: 13.394s
+2026-05-05 16:12:06 ClnCart (Cleaning+Dumping) time: 74.618s
+2026-05-05 16:12:06 --
+2026-05-05 16:12:44 Sequence: FillCart , Time: 35.986s
+2026-05-05 16:13:24 POS DCU1 : 241.2, Target : 250.0.
+2026-05-05 16:13:30 FillDCU (Cycle) time: 13.329s
+2026-05-05 16:14:41 Sequence: FillCart , Time: 24.725s
+2026-05-05 16:15:20 POS DCU1 : 239.7, Target : 250.0.
+2026-05-05 16:15:28 FillDCU (Cycle) time: 13.359s
+2026-05-05 16:16:41 ClnCart (Cleaning+Dumping) time: 33.255s
+2026-05-05 16:16:41 --
+2026-05-05 16:17:06 Sequence: FillCart , Time: 23.578s
+2026-05-05 16:17:19 POS DCU1 : 238.6, Target : 250.0.
+2026-05-05 16:17:29 FillDCU (Cycle) time: 13.36s
+2026-05-05 16:18:30 ClnCart (Cleaning+Dumping) time: 51.648s
+2026-05-05 16:18:30 --
+2026-05-05 16:18:59 Sequence: FillCart , Time: 27.401s
+2026-05-05 16:19:21 FillDCU (Cycle) time: 13.116s
+2026-05-05 16:21:22 ClnCart (Cleaning+Dumping) time: 31.117s
+2026-05-05 16:21:22 --
+2026-05-05 16:21:49 Sequence: FillCart , Time: 25.198s
+2026-05-05 16:22:43 POS DCU1 : 237.8, Target : 250.0.
+2026-05-05 16:22:47 FillDCU (Cycle) time: 13.299s
+2026-05-05 16:25:22 Sequence: FillCart , Time: 23.969s
+2026-05-05 16:25:41 POS DCU1 : 243.1, Target : 250.0.
+2026-05-05 16:25:42 FillDCU (Cycle) time: 10.48s
+2026-05-05 16:35:10 Sequence: FillCart , Time: 18.224s
+2026-05-05 16:35:29 POS DCU1 : 238.5, Target : 250.0.
+2026-05-05 16:35:30 FillDCU (Cycle) time: 9.597s
+2026-05-05 16:36:20 ClnCart (Cleaning+Dumping) time: 33.309s
+2026-05-05 16:36:20 --
+2026-05-05 16:36:38 Sequence: FillCart , Time: 17.155s
+2026-05-05 16:37:39 POS DCU1 : 238.9, Target : 250.0.
+2026-05-05 16:37:39 FillDCU (Cycle) time: 7.113s
+2026-05-05 16:40:55 Sequence: FillCart , Time: 18.717s
+2026-05-05 16:41:10 POS DCU1 : 241.2, Target : 250.0.
+2026-05-05 16:41:14 FillDCU (Cycle) time: 9.208s
+2026-05-05 16:45:11 Sequence: FillCart , Time: 18.107s
+2026-05-05 16:46:31 POS DCU1 : 239.0, Target : 250.0.
+2026-05-05 16:46:32 FillDCU (Cycle) time: 8.872s
+2026-05-05 16:49:11 ClnCart (Cleaning+Dumping) time: 33.015s
+2026-05-05 16:49:11 --
+2026-05-05 16:49:29 Sequence: FillCart , Time: 16.555s
+2026-05-05 16:50:31 POS DCU1 : 234.4, Target : 250.0.
+2026-05-05 16:50:32 FillDCU (Cycle) time: 8.11s
+2026-05-05 16:51:42 ClnCart (Cleaning+Dumping) time: 57.139s
+2026-05-05 16:51:42 --
+2026-05-05 16:52:10 Sequence: FillCart , Time: 26.298s
+2026-05-05 16:52:26 POS DCU1 : 241.2, Target : 250.0.
+2026-05-05 16:52:32 FillDCU (Cycle) time: 13.116s
+2026-05-05 16:54:45 Sequence: FillCart , Time: 17.217s
+2026-05-05 16:55:04 POS DCU1 : 238.1, Target : 250.0.
+2026-05-05 16:55:04 FillDCU (Cycle) time: 9.686s
+2026-05-05 17:01:26 ClnCart (Cleaning+Dumping) time: 30.703s
+2026-05-05 17:01:26 --
+2026-05-05 17:01:43 Sequence: FillCart , Time: 16.235s
+2026-05-05 17:04:09 POS DCU1 : 242.0, Target : 250.0.
+2026-05-05 17:04:10 FillDCU (Cycle) time: 7.415s
+2026-05-05 17:06:01 Sequence: FillCart , Time: 14.96s
+2026-05-05 17:06:17 POS DCU1 : 234.7, Target : 250.0.
+2026-05-05 17:06:17 FillDCU (Cycle) time: 6.568s
+2026-05-05 17:07:57 Sequence: FillCart , Time: 22.303s
+2026-05-05 17:08:45 POS DCU1 : 242.8, Target : 250.0.
+2026-05-05 17:08:50 FillDCU (Cycle) time: 9.611s
+2026-05-05 17:12:39 ClnCart (Cleaning+Dumping) time: 54.875s
+2026-05-05 17:12:39 --
+2026-05-05 17:13:02 Sequence: FillCart , Time: 22.057s
+2026-05-05 17:13:36 POS DCU1 : 241.3, Target : 250.0.
+2026-05-05 17:13:37 FillDCU (Cycle) time: 10.278s
+2026-05-05 17:14:59 Sequence: FillCart , Time: 21.052s
+2026-05-05 17:15:22 POS DCU1 : 239.3, Target : 250.0.
+2026-05-05 17:15:24 FillDCU (Cycle) time: 11.065s
+2026-05-05 17:16:56 Sequence: FillCart , Time: 23.091s
+2026-05-05 17:20:25 POS DCU1 : 242.6, Target : 250.0.
+2026-05-05 17:20:27 FillDCU (Cycle) time: 11.294s
+2026-05-05 17:21:38 ClnCart (Cleaning+Dumping) time: 33.087s
+2026-05-05 17:21:38 --
+2026-05-05 17:22:03 Sequence: FillCart , Time: 24.676s
+2026-05-05 17:24:31 POS DCU1 : 243.0, Target : 250.0.
+2026-05-05 17:24:37 FillDCU (Cycle) time: 13.211s
+2026-05-05 17:25:58 ClnCart (Cleaning+Dumping) time: 51.313s
+2026-05-05 17:25:58 --
+2026-05-05 17:26:22 Sequence: FillCart , Time: 23.474s
+2026-05-05 17:27:38 POS DCU1 : 238.6, Target : 250.0.
+2026-05-05 17:27:44 FillDCU (Cycle) time: 13.153s
+2026-05-05 17:28:44 Sequence: FillCart , Time: 21.065s
+2026-05-05 17:29:34 POS DCU1 : 243.3, Target : 250.0.
+2026-05-05 17:29:42 FillDCU (Cycle) time: 12.818s
+2026-05-05 17:35:00 Sequence: FillCart , Time: 16.226s
+2026-05-05 17:35:18 POS DCU1 : 241.9, Target : 250.0.
+2026-05-05 17:35:19 FillDCU (Cycle) time: 9.673s
+2026-05-05 17:41:14 Sequence: FillCart , Time: 17.213s
+2026-05-05 17:41:29 POS DCU1 : 238.4, Target : 250.0.
+2026-05-05 17:41:31 FillDCU (Cycle) time: 8.189s
+2026-05-05 17:45:12 ClnCart (Cleaning+Dumping) time: 31.315s
+2026-05-05 17:45:12 --
+2026-05-05 17:45:30 Sequence: FillCart , Time: 16.186s
+2026-05-05 17:46:33 POS DCU1 : 241.1, Target : 250.0.
+2026-05-05 17:46:34 FillDCU (Cycle) time: 7.339s
+2026-05-05 17:47:10 Sequence: FillCart , Time: 20.63s
+2026-05-05 17:48:14 POS DCU1 : 239.4, Target : 250.0.
+2026-05-05 17:48:18 FillDCU (Cycle) time: 10.351s
+2026-05-05 17:51:15 ClnCart (Cleaning+Dumping) time: 89.848s
+2026-05-05 17:51:15 --
+2026-05-05 17:51:35 Sequence: FillCart , Time: 18.442s
+2026-05-05 17:51:54 POS DCU1 : 246.8, Target : 250.0.
+2026-05-05 17:51:54 FillDCU (Cycle) time: 9.639s
+2026-05-05 17:53:09 Sequence: FillCart , Time: 15.059s
+2026-05-05 17:53:34 POS DCU1 : 237.8, Target : 250.0.
+2026-05-05 17:53:34 FillDCU (Cycle) time: 8.639s
+2026-05-05 17:55:39 ClnCart (Cleaning+Dumping) time: 33.01s
+2026-05-05 17:55:39 --
+2026-05-05 17:55:55 Sequence: FillCart , Time: 14.506s
+2026-05-05 17:56:55 POS DCU1 : 240.1, Target : 250.0.
+2026-05-05 17:56:56 FillDCU (Cycle) time: 6.061s
+2026-05-05 17:58:03 Sequence: FillCart , Time: 17.178s
+2026-05-05 17:58:36 POS DCU1 : 241.4, Target : 250.0.
+2026-05-05 17:58:39 FillDCU (Cycle) time: 7.763s
+2026-05-05 18:00:26 ClnCart (Cleaning+Dumping) time: 30.791s
+2026-05-05 18:00:26 --
+2026-05-05 18:00:45 Sequence: FillCart , Time: 17.455s
+2026-05-05 18:01:38 POS DCU1 : 239.8, Target : 250.0.
+2026-05-05 18:01:40 FillDCU (Cycle) time: 7.652s
+2026-05-05 18:03:08 Sequence: FillCart , Time: 23.145s
+2026-05-05 18:03:24 POS DCU1 : 243.2, Target : 250.0.
+2026-05-05 18:03:27 FillDCU (Cycle) time: 9.662s
+2026-05-05 18:05:37 ClnCart (Cleaning+Dumping) time: 51.085s
+2026-05-05 18:05:37 --
+2026-05-05 18:06:01 Sequence: FillCart , Time: 22.284s
+2026-05-05 18:06:46 POS DCU1 : 238.0, Target : 250.0.
+2026-05-05 18:06:48 FillDCU (Cycle) time: 10.278s
+2026-05-05 18:14:38 Sequence: FillCart , Time: 17.666s
+2026-05-05 18:14:57 POS DCU1 : 238.6, Target : 250.0.
+2026-05-05 18:14:57 FillDCU (Cycle) time: 9.357s
+2026-05-05 18:15:55 ClnCart (Cleaning+Dumping) time: 31.043s
+2026-05-05 18:15:55 --
+2026-05-05 18:16:17 Sequence: FillCart , Time: 20.216s
+2026-05-05 18:17:24 POS DCU1 : 241.6, Target : 250.0.
+2026-05-05 18:17:27 FillDCU (Cycle) time: 8.156s
+2026-05-05 18:20:02 ClnCart (Cleaning+Dumping) time: 31.035s
+2026-05-05 18:20:02 --
+2026-05-05 18:20:22 Sequence: FillCart , Time: 19.359s
+2026-05-05 18:21:23 POS DCU1 : 243.4, Target : 250.0.
+2026-05-05 18:21:25 FillDCU (Cycle) time: 8.102s
+2026-05-05 18:22:35 Sequence: FillCart , Time: 23.462s
+2026-05-05 18:23:05 POS DCU1 : 241.4, Target : 250.0.
+2026-05-05 18:23:08 FillDCU (Cycle) time: 10.574s
+2026-05-05 18:24:56 ClnCart (Cleaning+Dumping) time: 31.253s
+2026-05-05 18:24:56 --
+2026-05-05 18:25:19 Sequence: FillCart , Time: 21.593s
+2026-05-05 18:26:20 POS DCU1 : 239.7, Target : 250.0.
+2026-05-05 18:26:21 FillDCU (Cycle) time: 9.918s
+2026-05-05 18:27:42 Sequence: FillCart , Time: 15.078s
+2026-05-05 18:28:01 POS DCU1 : 238.5, Target : 250.0.
+2026-05-05 18:28:01 FillDCU (Cycle) time: 8.892s
+2026-05-05 18:28:59 ClnCart (Cleaning+Dumping) time: 27.891s
+2026-05-05 18:28:59 --
+2026-05-05 18:29:24 Sequence: FillCart , Time: 23.597s
+2026-05-05 18:31:16 POS DCU1 : 237.5, Target : 250.0.
+2026-05-05 18:31:20 FillDCU (Cycle) time: 9.742s
+2026-05-05 18:33:57 ClnCart (Cleaning+Dumping) time: 31.232s
+2026-05-05 18:33:57 --
+2026-05-05 18:34:20 Sequence: FillCart , Time: 21.73s
+2026-05-05 18:35:18 POS DCU1 : 240.1, Target : 250.0.
+2026-05-05 18:35:20 FillDCU (Cycle) time: 10.403s
+2026-05-05 18:36:33 Sequence: FillCart , Time: 13.481s
+2026-05-05 18:37:05 POS DCU1 : 239.4, Target : 250.0.
+2026-05-05 18:37:05 FillDCU (Cycle) time: 9.626s
+2026-05-05 18:38:39 Sequence: FillCart , Time: 12.349s
+2026-05-05 18:38:55 POS DCU1 : 239.8, Target : 250.0.
+2026-05-05 18:38:59 FillDCU (Cycle) time: 8.138s
+2026-05-05 18:42:50 ClnCart (Cleaning+Dumping) time: 32.945s
+2026-05-05 18:42:50 --
+2026-05-05 18:43:07 Sequence: FillCart , Time: 15.901s
+2026-05-05 18:44:10 POS DCU1 : 241.2, Target : 250.0.
+2026-05-05 18:44:10 FillDCU (Cycle) time: 7.485s
+2026-05-05 18:45:36 Sequence: FillCart , Time: 22.525s
+2026-05-05 18:45:52 POS DCU1 : 239.1, Target : 250.0.
+2026-05-05 18:45:56 FillDCU (Cycle) time: 10.344s
+2026-05-05 18:47:42 ClnCart (Cleaning+Dumping) time: 31.857s
+2026-05-05 18:47:42 --
+2026-05-05 18:48:03 Sequence: FillCart , Time: 19.587s
+2026-05-05 18:49:05 POS DCU1 : 242.5, Target : 250.0.
+2026-05-05 18:49:06 FillDCU (Cycle) time: 9.485s
+2026-05-05 18:50:07 Sequence: FillCart , Time: 16.29s
+2026-05-05 18:50:45 POS DCU1 : 239.1, Target : 250.0.
+2026-05-05 18:50:45 FillDCU (Cycle) time: 8.133s
+2026-05-05 18:53:36 Sequence: FillCart , Time: 25.565s
+2026-05-05 18:53:56 POS DCU1 : 239.3, Target : 250.0.
+2026-05-05 18:54:03 FillDCU (Cycle) time: 13.27s
+2026-05-05 19:08:12 Sequence: FillCart , Time: 21.559s
+2026-05-05 19:08:31 POS DCU1 : 233.9, Target : 250.0.
+2026-05-05 19:08:31 FillDCU (Cycle) time: 9.691s
+2026-05-05 19:11:03 ClnCart (Cleaning+Dumping) time: 30.763s
+2026-05-05 19:11:03 --
+2026-05-05 19:11:31 Sequence: FillCart , Time: 27.123s
+2026-05-05 19:12:22 POS DCU1 : 239.8, Target : 250.0.
+2026-05-05 19:12:29 FillDCU (Cycle) time: 13.085s
+2026-05-05 19:17:19 ClnCart (Cleaning+Dumping) time: 44.579s
+2026-05-05 19:17:19 --
+2026-05-05 19:17:45 Sequence: FillCart , Time: 25.596s
+2026-05-05 19:19:08 POS DCU1 : 238.7, Target : 250.0.
+2026-05-05 19:19:12 FillDCU (Cycle) time: 13.103s
+2026-05-05 19:22:11 Sequence: FillCart , Time: 13.983s
+2026-05-05 19:22:27 POS DCU1 : 241.2, Target : 250.0.
+2026-05-05 19:22:27 FillDCU (Cycle) time: 6.707s
+2026-05-05 19:26:37 Sequence: FillCart , Time: 17.046s
+2026-05-05 19:27:27 POS DCU1 : 238.8, Target : 250.0.
+2026-05-05 19:27:30 FillDCU (Cycle) time: 7.711s
+2026-05-05 19:29:47 Sequence: FillCart , Time: 17.429s
+2026-05-05 19:30:14 POS DCU1 : 239.8, Target : 250.0.
+2026-05-05 19:30:16 FillDCU (Cycle) time: 8.238s
+2026-05-05 19:33:18 ClnCart (Cleaning+Dumping) time: 30.618s
+2026-05-05 19:33:18 --
+2026-05-05 19:33:36 Sequence: FillCart , Time: 16.54s
+2026-05-05 19:34:40 POS DCU1 : 238.6, Target : 250.0.
+2026-05-05 19:34:41 FillDCU (Cycle) time: 7.425s
+2026-05-05 19:36:34 Sequence: FillCart , Time: 26.531s
+2026-05-05 19:36:49 POS DCU1 : 241.3, Target : 250.0.
+2026-05-05 19:36:56 FillDCU (Cycle) time: 13.005s
+2026-05-05 19:38:27 Sequence: FillCart , Time: 26.538s
+2026-05-05 19:39:17 POS DCU1 : 241.3, Target : 250.0.
+2026-05-05 19:39:20 FillDCU (Cycle) time: 12.489s
+2026-05-05 19:42:10 ClnCart (Cleaning+Dumping) time: 31.35s
+2026-05-05 19:42:10 --
+2026-05-05 19:42:37 Sequence: FillCart , Time: 25.999s
+2026-05-05 19:43:25 POS DCU1 : 243.4, Target : 250.0.
+2026-05-05 19:43:29 FillDCU (Cycle) time: 13.189s
+2026-05-05 19:47:21 ClnCart (Cleaning+Dumping) time: 51.401s
+2026-05-05 19:47:21 --
+2026-05-05 19:47:47 Sequence: FillCart , Time: 25.01s
+2026-05-05 19:49:04 POS DCU1 : 241.3, Target : 250.0.
+2026-05-05 19:49:07 FillDCU (Cycle) time: 13.167s
+2026-05-05 19:50:25 ClnCart (Cleaning+Dumping) time: 51.47s
+2026-05-05 19:50:25 --
+2026-05-05 19:50:49 Sequence: FillCart , Time: 22.813s
+2026-05-05 19:51:06 POS DCU1 : 237.8, Target : 250.0.
+2026-05-05 19:51:08 FillDCU (Cycle) time: 9.526s
+2026-05-05 19:52:41 ClnCart (Cleaning+Dumping) time: 26.877s
+2026-05-05 19:52:41 --
+2026-05-05 19:53:01 Sequence: FillCart , Time: 18.611s
+2026-05-05 19:54:15 POS DCU1 : 238.1, Target : 250.0.
+2026-05-05 19:54:16 FillDCU (Cycle) time: 9.965s
+2026-05-05 19:56:26 Sequence: FillCart , Time: 27.07s
+2026-05-05 19:56:44 POS DCU1 : 239.4, Target : 250.0.
+2026-05-05 19:56:48 FillDCU (Cycle) time: 12.982s
+2026-05-05 19:57:51 ClnCart (Cleaning+Dumping) time: 46.864s
+2026-05-05 19:57:51 --
+2026-05-05 19:58:17 Sequence: FillCart , Time: 24.695s
+2026-05-05 19:58:29 POS DCU1 : 241.2, Target : 250.0.
+2026-05-05 19:58:38 FillDCU (Cycle) time: 13.139s
+2026-05-05 20:00:40 Sequence: FillCart , Time: 20.33s
+2026-05-05 20:00:53 POS DCU1 : 242.5, Target : 250.0.
+2026-05-05 20:00:59 FillDCU (Cycle) time: 9.441s
+2026-05-05 20:04:22 ClnCart (Cleaning+Dumping) time: 97.096s
+2026-05-05 20:04:22 --
+2026-05-05 20:04:41 Sequence: FillCart , Time: 17.827s
+2026-05-05 20:04:58 POS DCU1 : 241.4, Target : 250.0.
+2026-05-05 20:04:59 FillDCU (Cycle) time: 8.654s
+2026-05-05 20:06:04 Sequence: FillCart , Time: 16.28s
+2026-05-05 20:06:37 POS DCU1 : 231.5, Target : 250.0.
+2026-05-05 20:06:38 FillDCU (Cycle) time: 7.553s
+2026-05-05 20:08:19 ClnCart (Cleaning+Dumping) time: 33.171s
+2026-05-05 20:08:19 --
+2026-05-05 20:08:36 Sequence: FillCart , Time: 15.778s
+2026-05-05 20:09:27 POS DCU1 : 237.5, Target : 250.0.
+2026-05-05 20:09:28 FillDCU (Cycle) time: 7.082s
+2026-05-05 20:10:39 Sequence: FillCart , Time: 25.975s
+2026-05-05 20:11:08 POS DCU1 : 238.8, Target : 250.0.
+2026-05-05 20:11:15 FillDCU (Cycle) time: 13.144s
+2026-05-05 20:22:43 Sequence: FillCart , Time: 22.382s
+2026-05-05 20:23:02 POS DCU1 : 235.1, Target : 250.0.
+2026-05-05 20:23:02 FillDCU (Cycle) time: 9.691s
+2026-05-05 20:28:14 ClnCart (Cleaning+Dumping) time: 51.248s
+2026-05-05 20:28:14 --
+2026-05-05 20:28:38 Sequence: FillCart , Time: 21.778s
+2026-05-05 20:29:24 POS DCU1 : 241.0, Target : 250.0.
+2026-05-05 20:29:25 FillDCU (Cycle) time: 9.84s
+2026-05-05 20:33:42 Sequence: FillCart , Time: 15.596s
+2026-05-05 20:34:01 POS DCU1 : 237.2, Target : 250.0.
+2026-05-05 20:34:01 FillDCU (Cycle) time: 8.863s
+2026-05-05 20:40:43 Sequence: FillCart , Time: 21.254s
+2026-05-05 20:40:59 POS DCU1 : 239.4, Target : 250.0.
+2026-05-05 20:41:03 FillDCU (Cycle) time: 9.825s
+2026-05-05 20:43:10 ClnCart (Cleaning+Dumping) time: 33.244s
+2026-05-05 20:43:10 --
+2026-05-05 20:43:36 Sequence: FillCart , Time: 25.05s
+2026-05-05 20:44:55 POS DCU1 : 243.5, Target : 250.0.
+2026-05-05 20:45:01 FillDCU (Cycle) time: 13.279s
+2026-05-05 20:48:43 ClnCart (Cleaning+Dumping) time: 47.269s
+2026-05-05 20:48:43 --
+2026-05-05 20:49:08 Sequence: FillCart , Time: 23.594s
+2026-05-05 20:50:26 POS DCU1 : 238.9, Target : 250.0.
+2026-05-05 20:50:32 FillDCU (Cycle) time: 13.104s
+2026-05-05 20:51:37 Sequence: FillCart , Time: 21.997s
+2026-05-05 20:52:22 POS DCU1 : 243.3, Target : 250.0.
+2026-05-05 20:52:26 FillDCU (Cycle) time: 9.345s
+2026-05-05 20:53:37 ClnCart (Cleaning+Dumping) time: 31.386s
+2026-05-05 20:53:37 --
+2026-05-05 20:54:06 Sequence: FillCart , Time: 27.271s
+2026-05-05 20:56:33 POS DCU1 : 239.3, Target : 250.0.
+2026-05-05 20:56:40 FillDCU (Cycle) time: 13.16s
+2026-05-05 21:07:34 ClnCart (Cleaning+Dumping) time: 43.238s
+2026-05-05 21:07:34 --
+2026-05-05 21:08:02 Sequence: FillCart , Time: 26.049s
+2026-05-05 21:09:24 POS DCU1 : 243.0, Target : 250.0.
+2026-05-05 21:09:29 FillDCU (Cycle) time: 13.161s
+2026-05-05 21:10:56 Sequence: FillCart , Time: 26.393s
+2026-05-05 21:11:20 POS DCU1 : 240.6, Target : 250.0.
+2026-05-05 21:11:27 FillDCU (Cycle) time: 13.204s
+2026-05-05 21:15:25 Sequence: FillCart , Time: 16.516s
+2026-05-05 21:15:44 POS DCU1 : 241.1, Target : 250.0.
+2026-05-05 21:15:44 FillDCU (Cycle) time: 9.576s
+2026-05-05 21:19:20 ClnCart (Cleaning+Dumping) time: 86.805s
+2026-05-05 21:19:20 --
+2026-05-05 21:19:37 Sequence: FillCart , Time: 15.592s
+2026-05-05 21:19:52 POS DCU1 : 241.9, Target : 250.0.
+2026-05-05 21:19:53 FillDCU (Cycle) time: 6.326s
+2026-05-05 21:21:17 ClnCart (Cleaning+Dumping) time: 51.721s
+2026-05-05 21:21:17 --
+2026-05-05 21:21:42 Sequence: FillCart , Time: 22.841s
+2026-05-05 21:21:56 POS DCU1 : 237.8, Target : 250.0.
+2026-05-05 21:22:01 FillDCU (Cycle) time: 9.586s
+2026-05-05 21:25:16 ClnCart (Cleaning+Dumping) time: 27.408s
+2026-05-05 21:25:16 --
+2026-05-05 21:25:40 Sequence: FillCart , Time: 22.653s
+2026-05-05 21:26:49 POS DCU1 : 242.2, Target : 250.0.
+2026-05-05 21:26:50 FillDCU (Cycle) time: 10.499s
+2026-05-05 21:41:07 POS DCU1 : 239.6, Target : 250.0.
+2026-05-05 21:41:07 FillDCU (Cycle) time: 9.368s
+2026-05-05 21:45:37 ClnCart (Cleaning+Dumping) time: 33.184s
+2026-05-05 21:45:37 --
+2026-05-05 21:47:02 ClnCart (Cleaning+Dumping) time: 58.008s
+2026-05-05 21:47:02 --
+2026-05-05 21:48:00 ClnCart (Cleaning+Dumping) time: 31.333s
+2026-05-05 21:48:00 --
+2026-05-06 03:36:53 Sequence: FillCart , Time: 16.428s
+2026-05-06 03:37:10 FillDCU (Cycle) time: 7.309s
+2026-05-06 03:41:12 Sequence: FillCart , Time: 15.988s
+2026-05-06 03:42:38 POS DCU1 : 240.5, Target : 250.0.
+2026-05-06 03:42:38 FillDCU (Cycle) time: 6.938s
+2026-05-06 04:19:28 POS DCU1 : 243.2, Target : 250.0.
+2026-05-06 04:19:28 FillDCU (Cycle) time: 6.14s
+2026-05-06 04:20:24 ClnCart (Cleaning+Dumping) time: 25.138s
+2026-05-06 04:20:24 --
+2026-05-06 04:21:14 ClnCart (Cleaning+Dumping) time: 23.148s
+2026-05-06 04:21:14 --
+2026-05-06 04:22:03 ClnCart (Cleaning+Dumping) time: 23.103s
+2026-05-06 04:22:03 --
+2026-05-06 04:23:03 ClnCart (Cleaning+Dumping) time: 33.387s
+2026-05-06 04:23:03 --
+2026-05-06 04:23:53 ClnCart (Cleaning+Dumping) time: 23.104s
+2026-05-06 04:23:53 --
+2026-05-06 04:24:43 ClnCart (Cleaning+Dumping) time: 23.076s
+2026-05-06 04:24:43 --
+2026-05-06 06:02:47 Sequence: FillCart , Time: 13.6s
+2026-05-06 06:03:02 FillDCU (Cycle) time: 4.748s
+2026-05-06 06:04:12 Sequence: FillCart , Time: 14.175s
+2026-05-06 06:05:13 POS DCU1 : 242.7, Target : 250.0.
+2026-05-06 06:05:18 FillDCU (Cycle) time: 8.732s
+2026-05-06 06:09:11 Sequence: FillCart , Time: 12.494s
+2026-05-06 06:10:43 POS DCU1 : 224.9, Target : 250.0.
+2026-05-06 06:10:44 FillDCU (Cycle) time: 8.12s
+2026-05-06 06:11:21 Sequence: FillCart , Time: 22.456s
+2026-05-06 06:12:23 POS DCU1 : 240.0, Target : 250.0.
+2026-05-06 06:12:26 FillDCU (Cycle) time: 9.437s
+2026-05-06 06:14:20 Sequence: FillCart , Time: 22.68s
+2026-05-06 06:15:48 POS DCU1 : 238.6, Target : 250.0.
+2026-05-06 06:15:50 FillDCU (Cycle) time: 10.17s
+2026-05-06 06:16:59 Sequence: FillCart , Time: 11.309s
+2026-05-06 06:17:34 POS DCU1 : 239.6, Target : 250.0.
+2026-05-06 06:17:35 FillDCU (Cycle) time: 9.451s
+2026-05-06 06:19:16 ClnCart (Cleaning+Dumping) time: 33.292s
+2026-05-06 06:19:16 --
+2026-05-06 06:19:32 Sequence: FillCart , Time: 15.285s
+2026-05-06 06:20:34 POS DCU1 : 241.1, Target : 250.0.
+2026-05-06 06:20:35 FillDCU (Cycle) time: 6.824s
+2026-05-06 06:21:47 Sequence: FillCart , Time: 26.55s
+2026-05-06 06:22:15 POS DCU1 : 239.1, Target : 250.0.
+2026-05-06 06:22:22 FillDCU (Cycle) time: 13.132s
+2026-05-06 06:27:25 Sequence: FillCart , Time: 23.189s
+2026-05-06 06:27:44 POS DCU1 : 241.5, Target : 250.0.
+2026-05-06 06:27:44 FillDCU (Cycle) time: 9.805s
+2026-05-06 06:33:25 ClnCart (Cleaning+Dumping) time: 51.52s
+2026-05-06 06:33:25 --
+2026-05-06 06:33:48 Sequence: FillCart , Time: 22.291s
+2026-05-06 06:34:34 POS DCU1 : 239.8, Target : 250.0.
+2026-05-06 06:34:35 FillDCU (Cycle) time: 10.378s
+2026-05-06 06:37:32 ClnCart (Cleaning+Dumping) time: 26.616s
+2026-05-06 06:37:32 --
+2026-05-06 06:37:52 Sequence: FillCart , Time: 18.827s
+2026-05-06 06:38:11 POS DCU1 : 227.8, Target : 250.0.
+2026-05-06 06:38:11 FillDCU (Cycle) time: 9.585s
+2026-05-06 06:42:31 ClnCart (Cleaning+Dumping) time: 30.995s
+2026-05-06 06:42:31 --
+2026-05-06 06:42:54 Sequence: FillCart , Time: 22.323s
+2026-05-06 06:44:01 POS DCU1 : 238.4, Target : 250.0.
+2026-05-06 06:44:02 FillDCU (Cycle) time: 10.288s
+2026-05-06 06:44:43 Sequence: FillCart , Time: 28.517s
+2026-05-06 06:45:47 POS DCU1 : 242.3, Target : 250.0.
+2026-05-06 06:45:51 FillDCU (Cycle) time: 12.846s
+2026-05-06 06:47:26 ClnCart (Cleaning+Dumping) time: 33.278s
+2026-05-06 06:47:26 --
+2026-05-06 06:47:54 Sequence: FillCart , Time: 27.233s
+2026-05-06 06:49:15 POS DCU1 : 239.9, Target : 250.0.
+2026-05-06 06:49:22 FillDCU (Cycle) time: 13.208s
+2026-05-06 06:50:49 ClnCart (Cleaning+Dumping) time: 78.188s
+2026-05-06 06:50:49 --
+2026-05-06 06:51:09 Sequence: FillCart , Time: 19.263s
+2026-05-06 06:51:24 POS DCU1 : 242.2, Target : 250.0.
+2026-05-06 06:51:28 FillDCU (Cycle) time: 9.112s
+2026-05-06 06:52:15 ClnCart (Cleaning+Dumping) time: 26.709s
+2026-05-06 06:52:15 --
+2026-05-06 06:52:37 Sequence: FillCart , Time: 20.413s
+2026-05-06 06:55:22 POS DCU1 : 242.0, Target : 250.0.
+2026-05-06 06:55:26 FillDCU (Cycle) time: 9.274s
+2026-05-06 06:57:15 ClnCart (Cleaning+Dumping) time: 31.022s
+2026-05-06 06:57:15 --
+2026-05-06 06:57:39 Sequence: FillCart , Time: 22.739s
+2026-05-06 06:58:35 POS DCU1 : 241.0, Target : 250.0.
+2026-05-06 06:58:37 FillDCU (Cycle) time: 10.382s
+2026-05-06 07:02:48 Sequence: FillCart , Time: 25.407s
+2026-05-06 07:03:07 POS DCU1 : 241.5, Target : 250.0.
+2026-05-06 07:03:11 FillDCU (Cycle) time: 13.076s
+2026-05-06 07:12:30 Sequence: FillCart , Time: 22.552s
+2026-05-06 07:12:52 FillDCU (Cycle) time: 12.616s
+2026-05-06 07:19:00 Sequence: FillCart , Time: 16.019s
+2026-05-06 07:19:19 POS DCU1 : 241.5, Target : 250.0.
+2026-05-06 07:19:19 FillDCU (Cycle) time: 9.585s
+2026-05-06 07:20:53 Sequence: FillCart , Time: 22.25s
+2026-05-06 07:23:11 POS DCU1 : 241.3, Target : 250.0.
+2026-05-06 07:23:14 FillDCU (Cycle) time: 9.648s
+2026-05-06 07:25:39 ClnCart (Cleaning+Dumping) time: 51.681s
+2026-05-06 07:25:39 --
+2026-05-06 07:26:04 Sequence: FillCart , Time: 23.127s
+2026-05-06 07:26:48 POS DCU1 : 241.3, Target : 250.0.
+2026-05-06 07:26:50 FillDCU (Cycle) time: 10.286s
+2026-05-06 07:27:34 ClnCart (Cleaning+Dumping) time: 32.679s
+2026-05-06 07:27:34 --
+2026-05-06 07:27:59 Sequence: FillCart , Time: 23.932s
+2026-05-06 07:28:35 POS DCU1 : 239.0, Target : 250.0.
+2026-05-06 07:28:39 FillDCU (Cycle) time: 13.104s
+2026-05-06 07:30:04 ClnCart (Cleaning+Dumping) time: 46.673s
+2026-05-06 07:30:04 --
+2026-05-06 07:30:28 Sequence: FillCart , Time: 23.439s
+2026-05-06 07:31:39 POS DCU1 : 241.2, Target : 250.0.
+2026-05-06 07:31:45 FillDCU (Cycle) time: 13.175s
+2026-05-06 07:32:39 Sequence: FillCart , Time: 15.284s
+2026-05-06 07:33:35 POS DCU1 : 240.7, Target : 250.0.
+2026-05-06 07:33:39 FillDCU (Cycle) time: 9.036s
+2026-05-06 07:34:51 ClnCart (Cleaning+Dumping) time: 30.796s
+2026-05-06 07:34:51 --
+2026-05-06 07:35:12 Sequence: FillCart , Time: 19.638s
+2026-05-06 07:36:12 POS DCU1 : 243.5, Target : 250.0.
+2026-05-06 07:36:13 FillDCU (Cycle) time: 9.734s
+2026-05-06 07:38:09 Sequence: FillCart , Time: 25.177s
+2026-05-06 07:38:27 POS DCU1 : 242.1, Target : 250.0.
+2026-05-06 07:38:31 FillDCU (Cycle) time: 12.948s
+2026-05-06 07:40:26 ClnCart (Cleaning+Dumping) time: 88.325s
+2026-05-06 07:40:26 --
+2026-05-06 07:40:52 Sequence: FillCart , Time: 24.854s
+2026-05-06 07:41:07 POS DCU1 : 239.0, Target : 250.0.
+2026-05-06 07:41:15 FillDCU (Cycle) time: 13.094s
+2026-05-06 07:41:50 ClnCart (Cleaning+Dumping) time: 26.041s
+2026-05-06 07:41:50 --
+2026-05-06 07:42:13 Sequence: FillCart , Time: 21.28s
+2026-05-06 07:42:26 POS DCU1 : 242.6, Target : 250.0.
+2026-05-06 07:42:35 FillDCU (Cycle) time: 13.007s
+2026-05-06 07:44:40 Sequence: FillCart , Time: 21.467s
+2026-05-06 07:45:36 POS DCU1 : 239.9, Target : 250.0.
+2026-05-06 07:45:37 FillDCU (Cycle) time: 10.027s
+2026-05-06 07:48:57 ClnCart (Cleaning+Dumping) time: 32.143s
+2026-05-06 07:48:57 --
+2026-05-06 07:49:16 Sequence: FillCart , Time: 18.568s
+2026-05-06 07:50:19 POS DCU1 : 242.0, Target : 250.0.
+2026-05-06 07:50:20 FillDCU (Cycle) time: 8.792s
+2026-05-06 07:51:54 Sequence: FillCart , Time: 27.459s
+2026-05-06 07:52:11 POS DCU1 : 241.9, Target : 250.0.
+2026-05-06 07:52:17 FillDCU (Cycle) time: 13.018s
+2026-05-06 07:53:25 Sequence: FillCart , Time: 20.561s
+2026-05-06 07:54:39 POS DCU1 : 241.3, Target : 250.0.
+2026-05-06 07:54:39 FillDCU (Cycle) time: 9.717s
+2026-05-06 07:56:01 ClnCart (Cleaning+Dumping) time: 51.287s
+2026-05-06 07:56:01 --
+2026-05-06 07:56:25 Sequence: FillCart , Time: 22.477s
+2026-05-06 07:58:59 POS DCU1 : 238.4, Target : 250.0.
+2026-05-06 07:59:02 FillDCU (Cycle) time: 9.611s
+2026-05-06 08:00:38 ClnCart (Cleaning+Dumping) time: 31.051s
+2026-05-06 08:00:38 --
+2026-05-06 08:01:02 Sequence: FillCart , Time: 22.987s
+2026-05-06 08:01:58 POS DCU1 : 243.0, Target : 250.0.
+2026-05-06 08:02:00 FillDCU (Cycle) time: 10.298s
+2026-05-06 08:03:59 Sequence: FillCart , Time: 15.812s
+2026-05-06 08:04:18 POS DCU1 : 242.4, Target : 250.0.
+2026-05-06 08:04:18 FillDCU (Cycle) time: 9.414s
+2026-05-06 08:06:20 ClnCart (Cleaning+Dumping) time: 95.441s
+2026-05-06 08:06:20 --
+2026-05-06 08:06:38 Sequence: FillCart , Time: 16.629s
+2026-05-06 08:06:54 POS DCU1 : 240.8, Target : 250.0.
+2026-05-06 08:06:55 FillDCU (Cycle) time: 7.454s
+2026-05-06 08:09:30 ClnCart (Cleaning+Dumping) time: 33.073s
+2026-05-06 08:09:30 --
+2026-05-06 08:09:47 Sequence: FillCart , Time: 15.911s
+2026-05-06 08:10:48 POS DCU1 : 240.9, Target : 250.0.
+2026-05-06 08:10:49 FillDCU (Cycle) time: 7.129s
+2026-05-06 08:15:37 ClnCart (Cleaning+Dumping) time: 26.487s
+2026-05-06 08:15:37 --
+2026-05-06 08:15:56 Sequence: FillCart , Time: 17.7s
+2026-05-06 08:16:11 POS DCU1 : 242.7, Target : 250.0.
+2026-05-06 08:16:14 FillDCU (Cycle) time: 9.152s
+2026-05-06 08:17:23 ClnCart (Cleaning+Dumping) time: 30.867s
+2026-05-06 08:17:23 --
+2026-05-06 08:17:46 Sequence: FillCart , Time: 22.478s
+2026-05-06 08:18:43 POS DCU1 : 239.7, Target : 250.0.
+2026-05-06 08:18:45 FillDCU (Cycle) time: 10.275s
+2026-05-06 08:20:07 Sequence: FillCart , Time: 21.867s
+2026-05-06 08:20:30 POS DCU1 : 238.1, Target : 250.0.
+2026-05-06 08:20:32 FillDCU (Cycle) time: 11.411s
+2026-05-06 08:21:52 Sequence: FillCart , Time: 22.437s
+2026-05-06 08:24:19 POS DCU1 : 242.9, Target : 250.0.
+2026-05-06 08:24:24 FillDCU (Cycle) time: 12.786s
+2026-05-06 08:25:55 ClnCart (Cleaning+Dumping) time: 48.98s
+2026-05-06 08:25:55 --
+2026-05-06 08:26:22 Sequence: FillCart , Time: 25.336s
+2026-05-06 08:26:59 POS DCU1 : 237.5, Target : 250.0.
+2026-05-06 08:27:03 FillDCU (Cycle) time: 13.196s
+2026-05-06 08:29:30 ClnCart (Cleaning+Dumping) time: 41.632s
+2026-05-06 08:29:30 --
+2026-05-06 08:29:55 Sequence: FillCart , Time: 24.267s
+2026-05-06 08:31:22 CheckA1Fluid Restart 305.4
+2026-05-06 08:31:24 POS DCU1 : 239.7, Target : 250.0.
+2026-05-06 08:31:26 FillDCU (Cycle) time: 13.088s
+2026-05-06 08:32:50 Sequence: FillCart , Time: 19.653s
+2026-05-06 08:33:18 POS DCU1 : 240.3, Target : 250.0.
+2026-05-06 08:33:21 FillDCU (Cycle) time: 9.54s
+2026-05-06 08:34:32 ClnCart (Cleaning+Dumping) time: 30.875s
+2026-05-06 08:34:32 --
+2026-05-06 08:34:53 Sequence: FillCart , Time: 19.872s
+2026-05-06 08:35:52 POS DCU1 : 239.6, Target : 250.0.
+2026-05-06 08:35:53 FillDCU (Cycle) time: 9.717s
+2026-05-06 08:37:59 Sequence: FillCart , Time: 21.919s
+2026-05-06 08:38:17 POS DCU1 : 242.2, Target : 250.0.
+2026-05-06 08:38:18 FillDCU (Cycle) time: 10.143s
+2026-05-06 08:39:27 Sequence: FillCart , Time: 21.975s
+2026-05-06 08:41:48 POS DCU1 : 241.7, Target : 250.0.
+2026-05-06 08:41:53 FillDCU (Cycle) time: 12.891s
+2026-05-06 08:43:23 ClnCart (Cleaning+Dumping) time: 48.216s
+2026-05-06 08:43:23 --
+2026-05-06 08:43:50 Sequence: FillCart , Time: 25.895s
+2026-05-06 08:44:27 POS DCU1 : 241.0, Target : 250.0.
+2026-05-06 08:44:31 FillDCU (Cycle) time: 13.152s
+2026-05-06 08:46:57 ClnCart (Cleaning+Dumping) time: 41.498s
+2026-05-06 08:46:57 --
+2026-05-06 08:47:24 Sequence: FillCart , Time: 25.29s
+2026-05-06 08:48:48 POS DCU1 : 242.8, Target : 250.0.
+2026-05-06 08:48:54 FillDCU (Cycle) time: 13.166s
+2026-05-06 08:57:16 Sequence: FillCart , Time: 26.26s
+2026-05-06 08:57:31 POS DCU1 : 238.7, Target : 250.0.
+2026-05-06 08:57:39 FillDCU (Cycle) time: 12.969s
+2026-05-06 08:59:03 Sequence: FillCart , Time: 21.015s
+2026-05-06 09:00:50 POS DCU1 : 238.3, Target : 250.0.
+2026-05-06 09:00:51 FillDCU (Cycle) time: 9.953s
+2026-05-06 09:12:23 Sequence: FillCart , Time: 20.423s
+2026-05-06 09:12:39 POS DCU1 : 238.1, Target : 250.0.
+2026-05-06 09:12:41 FillDCU (Cycle) time: 9.159s
+2026-05-06 09:13:40 ClnCart (Cleaning+Dumping) time: 30.868s
+2026-05-06 09:13:40 --
+2026-05-06 09:14:01 Sequence: FillCart , Time: 20.365s
+2026-05-06 09:14:59 POS DCU1 : 242.2, Target : 250.0.
+2026-05-06 09:15:00 FillDCU (Cycle) time: 9.763s
+2026-05-06 09:16:20 Sequence: FillCart , Time: 18.648s
+2026-05-06 09:16:52 POS DCU1 : 239.5, Target : 250.0.
+2026-05-06 09:16:53 FillDCU (Cycle) time: 9.136s
+2026-05-06 09:18:58 ClnCart (Cleaning+Dumping) time: 85.985s
+2026-05-06 09:18:58 --
+2026-05-06 09:19:19 Sequence: FillCart , Time: 19.272s
+2026-05-06 09:19:36 POS DCU1 : 240.6, Target : 250.0.
+2026-05-06 09:19:39 FillDCU (Cycle) time: 9.901s
+2026-05-06 09:20:17 ClnCart (Cleaning+Dumping) time: 27.127s
+2026-05-06 09:20:17 --
+2026-05-06 09:20:45 Sequence: FillCart , Time: 26.256s
+2026-05-06 09:21:22 POS DCU1 : 240.5, Target : 250.0.
+2026-05-06 09:21:26 FillDCU (Cycle) time: 13.054s
+2026-05-06 09:22:44 Sequence: FillCart , Time: 21.669s
+2026-05-06 09:23:58 POS DCU1 : 240.5, Target : 250.0.
+2026-05-06 09:23:59 FillDCU (Cycle) time: 9.923s
+2026-05-06 09:27:13 ClnCart (Cleaning+Dumping) time: 31.329s
+2026-05-06 09:27:13 --
+2026-05-06 09:27:34 Sequence: FillCart , Time: 19.793s
+2026-05-06 09:28:27 POS DCU1 : 242.7, Target : 250.0.
+2026-05-06 09:28:28 FillDCU (Cycle) time: 8.866s
+2026-05-06 09:30:01 Sequence: FillCart , Time: 25.961s
+2026-05-06 09:30:18 POS DCU1 : 240.2, Target : 250.0.
+2026-05-06 09:30:24 FillDCU (Cycle) time: 13.023s
+2026-05-06 09:31:57 Sequence: FillCart , Time: 24.281s
+2026-05-06 09:32:47 POS DCU1 : 241.2, Target : 250.0.
+2026-05-06 09:32:49 FillDCU (Cycle) time: 11.358s
+2026-05-06 09:34:09 ClnCart (Cleaning+Dumping) time: 51.081s
+2026-05-06 09:34:09 --
+2026-05-06 09:34:36 Sequence: FillCart , Time: 25.97s
+2026-05-06 09:36:36 POS DCU1 : 242.0, Target : 250.0.
+2026-05-06 09:36:42 FillDCU (Cycle) time: 13.239s
+2026-05-06 09:38:55 Sequence: FillCart , Time: 19.372s
+2026-05-06 09:39:14 POS DCU1 : 242.3, Target : 250.0.
+2026-05-06 09:39:14 FillDCU (Cycle) time: 9.91s
+2026-05-06 09:45:20 Sequence: FillCart , Time: 20.346s
+2026-05-06 09:45:38 POS DCU1 : 239.5, Target : 250.0.
+2026-05-06 09:45:38 FillDCU (Cycle) time: 9.294s
+2026-05-06 09:46:36 ClnCart (Cleaning+Dumping) time: 30.697s
+2026-05-06 09:46:36 --
+2026-05-06 09:46:57 Sequence: FillCart , Time: 19.713s
+2026-05-06 09:47:56 POS DCU1 : 243.1, Target : 250.0.
+2026-05-06 09:47:57 FillDCU (Cycle) time: 9.715s
+2026-05-06 09:49:22 Sequence: FillCart , Time: 17.627s
+2026-05-06 09:49:42 POS DCU1 : 241.2, Target : 250.0.
+2026-05-06 09:49:42 FillDCU (Cycle) time: 8.95s
+2026-05-06 09:51:22 ClnCart (Cleaning+Dumping) time: 33.977s
+2026-05-06 09:51:22 --
+2026-05-06 09:51:40 Sequence: FillCart , Time: 16.791s
+2026-05-06 09:52:39 POS DCU1 : 242.9, Target : 250.0.
+2026-05-06 09:52:39 FillDCU (Cycle) time: 7.411s
+2026-05-06 09:53:50 Sequence: FillCart , Time: 26.524s
+2026-05-06 09:54:19 POS DCU1 : 240.3, Target : 250.0.
+2026-05-06 09:54:26 FillDCU (Cycle) time: 13.302s
+2026-05-06 09:55:42 Sequence: FillCart , Time: 17.343s
+2026-05-06 09:57:00 POS DCU1 : 241.7, Target : 250.0.
+2026-05-06 09:57:00 FillDCU (Cycle) time: 9.737s
+2026-05-06 10:00:12 ClnCart (Cleaning+Dumping) time: 30.788s
+2026-05-06 10:00:12 --
+2026-05-06 10:00:30 Sequence: FillCart , Time: 16.488s
+2026-05-06 10:01:26 POS DCU1 : 239.5, Target : 250.0.
+2026-05-06 10:01:26 FillDCU (Cycle) time: 7.484s
+2026-05-06 10:02:32 Sequence: FillCart , Time: 17.6s
+2026-05-06 10:03:07 POS DCU1 : 241.8, Target : 250.0.
+2026-05-06 10:03:09 FillDCU (Cycle) time: 8.415s
+2026-05-06 10:04:37 Sequence: FillCart , Time: 16.133s
+2026-05-06 10:06:21 POS DCU1 : 243.5, Target : 250.0.
+2026-05-06 10:06:21 FillDCU (Cycle) time: 7.624s
+2026-05-06 10:08:01 Sequence: FillCart , Time: 18.259s
+2026-05-06 10:10:02 POS DCU1 : 241.7, Target : 250.0.
+2026-05-06 10:10:05 FillDCU (Cycle) time: 8.862s
+2026-05-06 10:12:09 ClnCart (Cleaning+Dumping) time: 33.047s
+2026-05-06 10:12:09 --
+2026-05-06 10:12:27 Sequence: FillCart , Time: 16.504s
+2026-05-06 10:13:29 POS DCU1 : 232.9, Target : 250.0.
+2026-05-06 10:13:30 FillDCU (Cycle) time: 8.24s
+2026-05-06 10:15:08 Sequence: FillCart , Time: 30.511s
+2026-05-06 10:15:24 POS DCU1 : 243.0, Target : 250.0.
+2026-05-06 10:15:31 FillDCU (Cycle) time: 13.198s
+2026-05-06 10:17:23 ClnCart (Cleaning+Dumping) time: 30.822s
+2026-05-06 10:17:23 --
+2026-05-06 10:17:51 Sequence: FillCart , Time: 27.193s
+2026-05-06 10:18:52 POS DCU1 : 243.4, Target : 250.0.
+2026-05-06 10:19:00 FillDCU (Cycle) time: 13.026s
+2026-05-06 10:20:07 Sequence: FillCart , Time: 25.014s
+2026-05-06 10:20:30 POS DCU1 : 241.6, Target : 250.0.
+2026-05-06 10:20:40 FillDCU (Cycle) time: 13.098s
+2026-05-06 10:21:50 ClnCart (Cleaning+Dumping) time: 31.517s
+2026-05-06 10:21:50 --
+2026-05-06 10:22:15 Sequence: FillCart , Time: 24.23s
+2026-05-06 10:22:29 POS DCU1 : 241.8, Target : 250.0.
+2026-05-06 10:22:38 FillDCU (Cycle) time: 13.048s
+2026-05-06 10:24:00 Sequence: FillCart , Time: 19.409s
+2026-05-06 10:24:13 POS DCU1 : 242.2, Target : 250.0.
+2026-05-06 10:24:18 FillDCU (Cycle) time: 8.174s
+2026-05-06 10:26:31 ClnCart (Cleaning+Dumping) time: 32.774s
+2026-05-06 10:26:31 --
+2026-05-06 10:26:49 Sequence: FillCart , Time: 17.362s
+2026-05-06 10:27:49 POS DCU1 : 232.6, Target : 250.0.
+2026-05-06 10:27:50 FillDCU (Cycle) time: 7.434s
+2026-05-06 10:28:57 Sequence: FillCart , Time: 16.123s
+2026-05-06 10:29:29 POS DCU1 : 242.5, Target : 250.0.
+2026-05-06 10:29:31 FillDCU (Cycle) time: 7.085s
+2026-05-06 10:31:42 ClnCart (Cleaning+Dumping) time: 33.342s
+2026-05-06 10:31:42 --
+2026-05-06 10:32:02 Sequence: FillCart , Time: 18.356s
+2026-05-06 10:32:59 POS DCU1 : 239.8, Target : 250.0.
+2026-05-06 10:33:01 FillDCU (Cycle) time: 8.146s
+2026-05-06 10:34:44 ClnCart (Cleaning+Dumping) time: 88.852s
+2026-05-06 10:34:44 --
+2026-05-06 10:35:08 Sequence: FillCart , Time: 23.371s
+2026-05-06 10:35:24 POS DCU1 : 238.3, Target : 250.0.
+2026-05-06 10:35:27 FillDCU (Cycle) time: 9.572s
+2026-05-06 10:37:45 ClnCart (Cleaning+Dumping) time: 100.564s
+2026-05-06 10:37:45 --
+2026-05-06 10:38:09 Sequence: FillCart , Time: 22.731s
+2026-05-06 10:38:27 CheckA1Fluid Restart 253.5
+2026-05-06 10:38:28 POS DCU1 : 241.3, Target : 250.0.
+2026-05-06 10:38:28 FillDCU (Cycle) time: 10.196s
+2026-05-06 10:40:51 Sequence: FillCart , Time: 16.634s
+2026-05-06 10:41:09 POS DCU1 : 239.3, Target : 250.0.
+2026-05-06 10:41:10 FillDCU (Cycle) time: 9.42s
+2026-05-06 10:43:11 ClnCart (Cleaning+Dumping) time: 87.869s
+2026-05-06 10:43:11 --
+2026-05-06 10:43:29 Sequence: FillCart , Time: 16.745s
+2026-05-06 10:43:44 POS DCU1 : 238.4, Target : 250.0.
+2026-05-06 10:43:46 FillDCU (Cycle) time: 7.206s
+2026-05-06 10:45:07 Sequence: FillCart , Time: 30.096s
+2026-05-06 10:45:25 POS DCU1 : 242.8, Target : 250.0.
+2026-05-06 10:45:32 FillDCU (Cycle) time: 13.136s
+2026-05-06 10:47:26 ClnCart (Cleaning+Dumping) time: 33.885s
+2026-05-06 10:47:26 --
+2026-05-06 10:47:54 Sequence: FillCart , Time: 27.158s
+2026-05-06 10:49:16 POS DCU1 : 237.9, Target : 250.0.
+2026-05-06 10:49:21 FillDCU (Cycle) time: 13.155s
+2026-05-06 10:51:47 Sequence: FillCart , Time: 34.47s
+2026-05-06 10:52:02 POS DCU1 : 240.5, Target : 250.0.
+2026-05-06 10:52:10 FillDCU (Cycle) time: 13.077s
+2026-05-06 10:53:07 ClnCart (Cleaning+Dumping) time: 30.874s
+2026-05-06 10:53:07 --
+2026-05-06 10:53:39 Sequence: FillCart , Time: 30.299s
+2026-05-06 10:55:01 POS DCU1 : 241.2, Target : 250.0.
+2026-05-06 10:55:06 FillDCU (Cycle) time: 13.109s
+2026-05-06 10:55:42 ClnCart (Cleaning+Dumping) time: 26.602s
+2026-05-06 10:55:42 --
+2026-05-06 10:56:01 Sequence: FillCart , Time: 18.166s
+2026-05-06 10:56:57 POS DCU1 : 240.2, Target : 250.0.
+2026-05-06 10:57:00 FillDCU (Cycle) time: 9.296s
+2026-05-06 10:59:06 ClnCart (Cleaning+Dumping) time: 30.892s
+2026-05-06 10:59:06 --
+2026-05-06 10:59:29 Sequence: FillCart , Time: 22.188s
+2026-05-06 11:00:27 POS DCU1 : 238.6, Target : 250.0.
+2026-05-06 11:00:28 FillDCU (Cycle) time: 10.324s
+2026-05-06 11:02:03 Sequence: FillCart , Time: 19.696s
+2026-05-06 11:02:21 POS DCU1 : 239.9, Target : 250.0.
+2026-05-06 11:02:22 FillDCU (Cycle) time: 9.577s
+2026-05-06 11:07:56 ClnCart (Cleaning+Dumping) time: 76.484s
+2026-05-06 11:07:56 --
+2026-05-06 11:08:17 Sequence: FillCart , Time: 19.84s
+2026-05-06 11:08:35 FillDCU (Cycle) time: 9.649s
+2026-05-06 11:10:16 ClnCart (Cleaning+Dumping) time: 85.108s
+2026-05-06 11:10:16 --
+2026-05-06 11:10:37 Sequence: FillCart , Time: 19.525s
+2026-05-06 11:10:54 POS DCU1 : 238.5, Target : 250.0.
+2026-05-06 11:10:56 FillDCU (Cycle) time: 9.841s
+2026-05-06 11:14:39 Sequence: FillCart , Time: 20.855s
+2026-05-06 11:14:57 POS DCU1 : 238.3, Target : 250.0.
+2026-05-06 11:15:00 FillDCU (Cycle) time: 11.125s
+2026-05-06 11:17:07 Sequence: FillCart , Time: 15.658s
+2026-05-06 11:18:52 POS DCU1 : 238.5, Target : 250.0.
+2026-05-06 11:18:52 FillDCU (Cycle) time: 8.138s
+2026-05-06 11:19:55 ClnCart (Cleaning+Dumping) time: 26.373s
+2026-05-06 11:19:55 --
+2026-05-06 11:20:15 Sequence: FillCart , Time: 19.129s
+2026-05-06 11:21:36 POS DCU1 : 237.4, Target : 250.0.
+2026-05-06 11:21:40 FillDCU (Cycle) time: 9.234s
+2026-05-06 11:24:52 ClnCart (Cleaning+Dumping) time: 30.859s
+2026-05-06 11:24:52 --
+2026-05-06 11:25:17 Sequence: FillCart , Time: 23.385s
+2026-05-06 11:26:13 POS DCU1 : 241.8, Target : 250.0.
+2026-05-06 11:26:14 FillDCU (Cycle) time: 10.344s
+2026-05-06 11:35:11 Sequence: FillCart , Time: 26.69s
+2026-05-06 11:35:30 POS DCU1 : 242.7, Target : 250.0.
+2026-05-06 11:35:32 FillDCU (Cycle) time: 11.263s
+2026-05-06 11:36:36 ClnCart (Cleaning+Dumping) time: 34.138s
+2026-05-06 11:36:36 --
+2026-05-06 11:36:56 Sequence: FillCart , Time: 19.555s
+2026-05-06 11:40:20 POS DCU1 : 240.7, Target : 250.0.
+2026-05-06 11:40:20 FillDCU (Cycle) time: 10.44s
+2026-05-06 11:41:29 ClnCart (Cleaning+Dumping) time: 31.911s
+2026-05-06 11:41:29 --
+2026-05-06 11:41:49 Sequence: FillCart , Time: 18.797s
+2026-05-06 11:42:50 POS DCU1 : 238.3, Target : 250.0.
+2026-05-06 11:42:51 FillDCU (Cycle) time: 8.142s
+2026-05-06 11:44:14 Sequence: FillCart , Time: 15.22s
+2026-05-06 11:44:32 POS DCU1 : 236.7, Target : 250.0.
+2026-05-06 11:44:32 FillDCU (Cycle) time: 7.186s
+2026-05-06 11:45:34 ClnCart (Cleaning+Dumping) time: 27.378s
+2026-05-06 11:45:34 --
+2026-05-06 11:46:03 Sequence: FillCart , Time: 26.986s
+2026-05-06 11:47:42 POS DCU1 : 238.8, Target : 250.0.
+2026-05-06 11:47:50 FillDCU (Cycle) time: 13.199s
+2026-05-06 11:49:44 Sequence: FillCart , Time: 16.043s
+2026-05-06 11:50:42 POS DCU1 : 239.6, Target : 250.0.
+2026-05-06 11:50:42 FillDCU (Cycle) time: 9.691s
+2026-05-06 11:54:04 ClnCart (Cleaning+Dumping) time: 33.809s
+2026-05-06 11:54:04 --
+2026-05-06 11:54:21 Sequence: FillCart , Time: 15.669s
+2026-05-06 11:55:20 POS DCU1 : 240.9, Target : 250.0.
+2026-05-06 11:55:21 FillDCU (Cycle) time: 7.193s
+2026-05-06 11:56:46 Sequence: FillCart , Time: 33.117s
+2026-05-06 11:57:02 POS DCU1 : 239.9, Target : 250.0.
+2026-05-06 11:57:09 FillDCU (Cycle) time: 13s
+2026-05-06 11:59:09 ClnCart (Cleaning+Dumping) time: 33.421s
+2026-05-06 11:59:09 --
+2026-05-06 11:59:40 Sequence: FillCart , Time: 29.804s
+2026-05-06 11:59:54 POS DCU1 : 241.3, Target : 250.0.
+2026-05-06 12:00:02 FillDCU (Cycle) time: 13.034s
+2026-05-06 12:03:35 Sequence: FillCart , Time: 16.617s
+2026-05-06 12:03:48 POS DCU1 : 240.1, Target : 250.0.
+2026-05-06 12:03:51 FillDCU (Cycle) time: 6.878s
+2026-05-06 12:05:31 Sequence: FillCart , Time: 23.035s
+2026-05-06 12:06:22 POS DCU1 : 240.6, Target : 250.0.
+2026-05-06 12:06:26 FillDCU (Cycle) time: 9.646s
+2026-05-06 12:07:46 ClnCart (Cleaning+Dumping) time: 31.066s
+2026-05-06 12:07:46 --
+2026-05-06 12:08:11 Sequence: FillCart , Time: 23.282s
+2026-05-06 12:09:07 POS DCU1 : 241.1, Target : 250.0.
+2026-05-06 12:09:09 FillDCU (Cycle) time: 10.346s
+2026-05-06 12:11:18 Sequence: FillCart , Time: 15.112s
+2026-05-06 12:11:37 POS DCU1 : 242.6, Target : 250.0.
+2026-05-06 12:11:37 FillDCU (Cycle) time: 9.381s
+2026-05-06 12:16:27 Sequence: FillCart , Time: 11.465s
+2026-05-06 12:16:42 POS DCU1 : 238.2, Target : 250.0.
+2026-05-06 12:16:44 FillDCU (Cycle) time: 7.211s
+2026-05-06 12:21:34 ClnCart (Cleaning+Dumping) time: 32.496s
+2026-05-06 12:21:34 --

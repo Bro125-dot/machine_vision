@@ -1,0 +1,2376 @@
+2026-05-07 11:06:00 Sequence: FillCart , Time: 23.842s
+2026-05-07 11:07:40 StartA1Fluid: Start
+2026-05-07 11:07:40 StartA1Fluid: End
+2026-05-07 11:07:40 StartH1Fluid: Start
+2026-05-07 11:07:41 StartH1Fluid: End
+2026-05-07 11:07:45 POS DCU1 : 239.2, Target : 250.0.
+2026-05-07 11:07:50 CloseA1Fluid: Start
+2026-05-07 11:07:50 CloseA1Fluid: End
+2026-05-07 11:07:50 FillDCU (Cycle) time: 11.269s
+2026-05-07 11:07:50  mainFillDCU END
+2026-05-07 11:10:31 Sequence: FillCart , Time: 21.748s
+2026-05-07 11:12:34 StartA1Fluid: Start
+2026-05-07 11:12:34 StartA1Fluid: End
+2026-05-07 11:12:34 StartH1Fluid: Start
+2026-05-07 11:12:34 StartH1Fluid: End
+2026-05-07 11:12:42 POS DCU1 : 238.0, Target : 250.0.
+2026-05-07 11:12:43 CloseA1Fluid: Start
+2026-05-07 11:12:44 CloseA1Fluid: End
+2026-05-07 11:12:44 FillDCU (Cycle) time: 11.401s
+2026-05-07 11:12:44  mainFillDCU END
+2026-05-07 11:19:04 Sequence: FillCart , Time: 20.315s
+2026-05-07 11:19:14 StartA1Fluid: Start
+2026-05-07 11:19:15 StartA1Fluid: End
+2026-05-07 11:19:15 StartH1Fluid: Start
+2026-05-07 11:19:15 StartH1Fluid: End
+2026-05-07 11:19:23 POS DCU1 : 241.4, Target : 250.0.
+2026-05-07 11:19:23 CloseA1Fluid: Start
+2026-05-07 11:19:24 CloseA1Fluid: End
+2026-05-07 11:19:24 FillDCU (Cycle) time: 10.895s
+2026-05-07 11:19:24  mainFillDCU END
+2026-05-07 11:32:20 Sequence: FillCart , Time: 21.91s
+2026-05-07 11:32:31 StartA1Fluid: Start
+2026-05-07 11:32:32 StartA1Fluid: End
+2026-05-07 11:32:32 StartH1Fluid: Start
+2026-05-07 11:32:32 StartH1Fluid: End
+2026-05-07 11:32:40 POS DCU1 : 239.8, Target : 250.0.
+2026-05-07 11:32:41 CloseA1Fluid: Start
+2026-05-07 11:32:41 CloseA1Fluid: End
+2026-05-07 11:32:42 FillDCU (Cycle) time: 11.5s
+2026-05-07 11:32:42  mainFillDCU END
+2026-05-07 11:35:39 Sequence: FillCart , Time: 24.064s
+2026-05-07 11:38:00 StartA1Fluid: Start
+2026-05-07 11:38:00 StartA1Fluid: End
+2026-05-07 11:38:00 StartH1Fluid: Start
+2026-05-07 11:38:00 StartH1Fluid: End
+2026-05-07 11:38:09 POS DCU1 : 238.3, Target : 250.0.
+2026-05-07 11:38:09 CloseA1Fluid: Start
+2026-05-07 11:38:09 CloseA1Fluid: End
+2026-05-07 11:38:09 FillDCU (Cycle) time: 10.989s
+2026-05-07 11:38:09  mainFillDCU END
+2026-05-07 11:46:15 Sequence: FillCart , Time: 17.44s
+2026-05-07 11:49:07 StartA1Fluid: Start
+2026-05-07 11:49:07 StartA1Fluid: End
+2026-05-07 11:49:07 StartH1Fluid: Start
+2026-05-07 11:49:08 StartH1Fluid: End
+2026-05-07 11:49:15 POS DCU1 : 242.9, Target : 250.0.
+2026-05-07 11:49:16 CloseA1Fluid: Start
+2026-05-07 11:49:16 CloseA1Fluid: End
+2026-05-07 11:49:16 FillDCU (Cycle) time: 10.272s
+2026-05-07 11:49:16  mainFillDCU END
+2026-05-07 11:55:00 Sequence: FillCart , Time: 23.414s
+2026-05-07 11:55:11 StartA1Fluid: Start
+2026-05-07 11:55:11 StartA1Fluid: End
+2026-05-07 11:55:11 StartH1Fluid: Start
+2026-05-07 11:55:11 StartH1Fluid: End
+2026-05-07 11:55:14 POS DCU1 : 242.5, Target : 250.0.
+2026-05-07 11:55:22 CloseA1Fluid: Start
+2026-05-07 11:55:23 CloseA1Fluid: End
+2026-05-07 11:55:23 FillDCU (Cycle) time: 13.203s
+2026-05-07 11:55:23  mainFillDCU END
+2026-05-07 11:58:37 Sequence: FillCart , Time: 17.816s
+2026-05-07 12:00:33 StartA1Fluid: Start
+2026-05-07 12:00:33 StartA1Fluid: End
+2026-05-07 12:00:33 StartH1Fluid: Start
+2026-05-07 12:00:33 StartH1Fluid: End
+2026-05-07 12:00:37 POS DCU1 : 240.1, Target : 250.0.
+2026-05-07 12:00:39 CloseA1Fluid: Start
+2026-05-07 12:00:39 CloseA1Fluid: End
+2026-05-07 12:00:39 FillDCU (Cycle) time: 7.672s
+2026-05-07 12:00:39  mainFillDCU END
+2026-05-07 12:07:11 Sequence: FillCart , Time: 20.409s
+2026-05-07 12:07:22 StartA1Fluid: Start
+2026-05-07 12:07:22 StartA1Fluid: End
+2026-05-07 12:07:22 StartH1Fluid: Start
+2026-05-07 12:07:22 StartH1Fluid: End
+2026-05-07 12:07:27 POS DCU1 : 240.2, Target : 250.0.
+2026-05-07 12:07:30 CloseA1Fluid: Start
+2026-05-07 12:07:30 CloseA1Fluid: End
+2026-05-07 12:07:30 FillDCU (Cycle) time: 10.063s
+2026-05-07 12:07:30  mainFillDCU END
+2026-05-07 12:10:07 Sequence: FillCart , Time: 21.338s
+2026-05-07 12:13:04 StartA1Fluid: Start
+2026-05-07 12:13:05 StartA1Fluid: End
+2026-05-07 12:13:05 StartH1Fluid: Start
+2026-05-07 12:13:05 StartH1Fluid: End
+2026-05-07 12:13:12 POS DCU1 : 243.1, Target : 250.0.
+2026-05-07 12:13:14 CloseA1Fluid: Start
+2026-05-07 12:13:14 CloseA1Fluid: End
+2026-05-07 12:13:14 FillDCU (Cycle) time: 11.271s
+2026-05-07 12:13:14  mainFillDCU END
+2026-05-07 12:19:35 Sequence: FillCart , Time: 24.114s
+2026-05-07 12:19:47 StartA1Fluid: Start
+2026-05-07 12:19:47 StartA1Fluid: End
+2026-05-07 12:19:47 StartH1Fluid: Start
+2026-05-07 12:19:47 StartH1Fluid: End
+2026-05-07 12:19:55 POS DCU1 : 238.6, Target : 250.0.
+2026-05-07 12:19:58 CloseA1Fluid: Start
+2026-05-07 12:19:58 CloseA1Fluid: End
+2026-05-07 12:19:59 FillDCU (Cycle) time: 13.136s
+2026-05-07 12:19:59  mainFillDCU END
+2026-05-07 12:24:13 --
+2026-05-07 12:24:38 Sequence: FillCart , Time: 23.783s
+2026-05-07 12:26:12 StartA1Fluid: Start
+2026-05-07 12:26:12 StartA1Fluid: End
+2026-05-07 12:26:12 StartH1Fluid: Start
+2026-05-07 12:26:12 StartH1Fluid: End
+2026-05-07 12:26:17 POS DCU1 : 238.0, Target : 250.0.
+2026-05-07 12:26:21 CloseA1Fluid: Start
+2026-05-07 12:26:21 CloseA1Fluid: End
+2026-05-07 12:26:21 FillDCU (Cycle) time: 11.063s
+2026-05-07 12:26:21  mainFillDCU END
+2026-05-07 12:33:07 Sequence: FillCart , Time: 20.02s
+2026-05-07 12:33:18 StartA1Fluid: Start
+2026-05-07 12:33:19 StartA1Fluid: End
+2026-05-07 12:33:19 StartH1Fluid: Start
+2026-05-07 12:33:19 StartH1Fluid: End
+2026-05-07 12:33:27 POS DCU1 : 238.3, Target : 250.0.
+2026-05-07 12:33:27 CloseA1Fluid: Start
+2026-05-07 12:33:27 CloseA1Fluid: End
+2026-05-07 12:33:28 FillDCU (Cycle) time: 10.477s
+2026-05-07 12:33:28  mainFillDCU END
+2026-05-07 12:34:49 Sequence: FillCart , Time: 20.376s
+2026-05-07 12:37:47 StartA1Fluid: Start
+2026-05-07 12:37:48 StartA1Fluid: End
+2026-05-07 12:37:48 StartH1Fluid: Start
+2026-05-07 12:37:48 StartH1Fluid: End
+2026-05-07 12:37:55 POS DCU1 : 242.8, Target : 250.0.
+2026-05-07 12:37:56 CloseA1Fluid: Start
+2026-05-07 12:37:57 CloseA1Fluid: End
+2026-05-07 12:37:57 FillDCU (Cycle) time: 10.888s
+2026-05-07 12:37:57  mainFillDCU END
+2026-05-07 12:39:49 Sequence: FillCart , Time: 24.361s
+2026-05-07 12:42:43 StartA1Fluid: Start
+2026-05-07 12:42:43 StartA1Fluid: End
+2026-05-07 12:42:43 StartH1Fluid: Start
+2026-05-07 12:42:43 StartH1Fluid: End
+2026-05-07 12:42:51 POS DCU1 : 243.1, Target : 250.0.
+2026-05-07 12:42:52 CloseA1Fluid: Start
+2026-05-07 12:42:52 CloseA1Fluid: End
+2026-05-07 12:42:53 FillDCU (Cycle) time: 11.192s
+2026-05-07 12:42:53  mainFillDCU END
+2026-05-07 12:49:10 Sequence: FillCart , Time: 23.015s
+2026-05-07 12:49:21 StartA1Fluid: Start
+2026-05-07 12:49:21 StartA1Fluid: End
+2026-05-07 12:49:21 StartH1Fluid: Start
+2026-05-07 12:49:21 StartH1Fluid: End
+2026-05-07 12:49:29 POS DCU1 : 240.6, Target : 250.0.
+2026-05-07 12:49:29 CloseA1Fluid: Start
+2026-05-07 12:49:30 CloseA1Fluid: End
+2026-05-07 12:49:30 FillDCU (Cycle) time: 10.481s
+2026-05-07 12:49:30  mainFillDCU END
+2026-05-07 12:54:28 Sequence: FillCart , Time: 32.471s
+2026-05-07 12:56:40 StartA1Fluid: Start
+2026-05-07 12:56:41 StartA1Fluid: End
+2026-05-07 12:56:41 StartH1Fluid: Start
+2026-05-07 12:56:41 StartH1Fluid: End
+2026-05-07 12:56:48 POS DCU1 : 238.1, Target : 250.0.
+2026-05-07 12:56:52 CloseA1Fluid: Start
+2026-05-07 12:56:52 CloseA1Fluid: End
+2026-05-07 12:56:52 FillDCU (Cycle) time: 13.17s
+2026-05-07 12:56:52  mainFillDCU END
+2026-05-07 12:58:05 --
+2026-05-07 12:58:35 Sequence: FillCart , Time: 28.239s
+2026-05-07 12:59:03 StartA1Fluid: Start
+2026-05-07 12:59:03 StartA1Fluid: End
+2026-05-07 12:59:03 StartH1Fluid: Start
+2026-05-07 12:59:04 StartH1Fluid: End
+2026-05-07 12:59:11 CheckA1Fluid Restart 309.5
+2026-05-07 12:59:11 StartA1Fluid: Start
+2026-05-07 12:59:11 StartA1Fluid: End
+2026-05-07 12:59:13 POS DCU1 : 238.6, Target : 250.0.
+2026-05-07 12:59:15 CloseA1Fluid: Start
+2026-05-07 12:59:15 CloseA1Fluid: End
+2026-05-07 12:59:15 FillDCU (Cycle) time: 13.209s
+2026-05-07 12:59:15  mainFillDCU END
+2026-05-07 13:02:37 Sequence: FillCart , Time: 23.712s
+2026-05-07 13:02:48 StartA1Fluid: Start
+2026-05-07 13:02:48 StartA1Fluid: End
+2026-05-07 13:02:48 StartH1Fluid: Start
+2026-05-07 13:02:48 StartH1Fluid: End
+2026-05-07 13:02:57 POS DCU1 : 241.3, Target : 250.0.
+2026-05-07 13:02:59 CloseA1Fluid: Start
+2026-05-07 13:03:00 CloseA1Fluid: End
+2026-05-07 13:03:00 FillDCU (Cycle) time: 13.329s
+2026-05-07 13:03:00  mainFillDCU END
+2026-05-07 13:11:49 Sequence: FillCart , Time: 22.915s
+2026-05-07 13:12:00 StartA1Fluid: Start
+2026-05-07 13:12:00 StartA1Fluid: End
+2026-05-07 13:12:00 StartH1Fluid: Start
+2026-05-07 13:12:00 StartH1Fluid: End
+2026-05-07 13:12:05 POS DCU1 : 242.1, Target : 250.0.
+2026-05-07 13:12:09 CloseA1Fluid: Start
+2026-05-07 13:12:09 CloseA1Fluid: End
+2026-05-07 13:12:09 FillDCU (Cycle) time: 11.073s
+2026-05-07 13:12:09  mainFillDCU END
+2026-05-07 13:16:58 Sequence: FillCart , Time: 26.2s
+2026-05-07 13:20:14 StartA1Fluid: Start
+2026-05-07 13:20:14 StartA1Fluid: End
+2026-05-07 13:20:14 StartH1Fluid: Start
+2026-05-07 13:20:14 StartH1Fluid: End
+2026-05-07 13:20:22 POS DCU1 : 239.3, Target : 250.0.
+2026-05-07 13:20:25 CloseA1Fluid: Start
+2026-05-07 13:20:25 CloseA1Fluid: End
+2026-05-07 13:20:26 FillDCU (Cycle) time: 13.008s
+2026-05-07 13:20:26  mainFillDCU END
+2026-05-07 13:22:39 Sequence: FillCart , Time: 21.327s
+2026-05-07 13:24:08 StartA1Fluid: Start
+2026-05-07 13:24:08 StartA1Fluid: End
+2026-05-07 13:24:08 StartH1Fluid: Start
+2026-05-07 13:24:09 StartH1Fluid: End
+2026-05-07 13:24:13 POS DCU1 : 238.6, Target : 250.0.
+2026-05-07 13:24:17 CloseA1Fluid: Start
+2026-05-07 13:24:17 CloseA1Fluid: End
+2026-05-07 13:24:17 FillDCU (Cycle) time: 10.779s
+2026-05-07 13:24:17  mainFillDCU END
+2026-05-07 13:31:16 Sequence: FillCart , Time: 14.01s
+2026-05-07 13:31:28 StartA1Fluid: Start
+2026-05-07 13:31:28 StartA1Fluid: End
+2026-05-07 13:31:28 StartH1Fluid: Start
+2026-05-07 13:31:28 StartH1Fluid: End
+2026-05-07 13:31:36 POS DCU1 : 241.9, Target : 250.0.
+2026-05-07 13:31:36 CloseA1Fluid: Start
+2026-05-07 13:31:36 CloseA1Fluid: End
+2026-05-07 13:31:36 FillDCU (Cycle) time: 9.971s
+2026-05-07 13:31:36  mainFillDCU END
+2026-05-07 13:33:10 Sequence: FillCart , Time: 17.817s
+2026-05-07 13:34:13 StartA1Fluid: Start
+2026-05-07 13:34:14 StartA1Fluid: End
+2026-05-07 13:34:14 StartH1Fluid: Start
+2026-05-07 13:34:14 StartH1Fluid: End
+2026-05-07 13:34:17 POS DCU1 : 242.6, Target : 250.0.
+2026-05-07 13:34:20 CloseA1Fluid: Start
+2026-05-07 13:34:20 CloseA1Fluid: End
+2026-05-07 13:34:20 FillDCU (Cycle) time: 7.76s
+2026-05-07 13:34:20  mainFillDCU END
+2026-05-07 13:44:13 Sequence: FillCart , Time: 14.313s
+2026-05-07 13:44:23 StartA1Fluid: Start
+2026-05-07 13:44:24 StartA1Fluid: End
+2026-05-07 13:44:24 StartH1Fluid: Start
+2026-05-07 13:44:24 StartH1Fluid: End
+2026-05-07 13:44:29 POS DCU1 : 242.4, Target : 250.0.
+2026-05-07 13:44:29 CloseA1Fluid: Start
+2026-05-07 13:44:29 CloseA1Fluid: End
+2026-05-07 13:44:29 FillDCU (Cycle) time: 6.961s
+2026-05-07 13:44:29  mainFillDCU END
+2026-05-07 13:46:33 Sequence: FillCart , Time: 21.514s
+2026-05-07 13:47:28 StartA1Fluid: Start
+2026-05-07 13:47:29 StartA1Fluid: End
+2026-05-07 13:47:29 StartH1Fluid: Start
+2026-05-07 13:47:29 StartH1Fluid: End
+2026-05-07 13:47:32 POS DCU1 : 243.3, Target : 250.0.
+2026-05-07 13:47:38 CloseA1Fluid: Start
+2026-05-07 13:47:38 CloseA1Fluid: End
+2026-05-07 13:47:38 FillDCU (Cycle) time: 11.552s
+2026-05-07 13:47:38  mainFillDCU END
+2026-05-07 13:53:52 Sequence: FillCart , Time: 35.315s
+2026-05-07 13:54:03 StartA1Fluid: Start
+2026-05-07 13:54:03 StartA1Fluid: End
+2026-05-07 13:54:03 StartH1Fluid: Start
+2026-05-07 13:54:03 StartH1Fluid: End
+2026-05-07 13:54:12 POS DCU1 : 238.9, Target : 250.0.
+2026-05-07 13:54:14 CloseA1Fluid: Start
+2026-05-07 13:54:15 CloseA1Fluid: End
+2026-05-07 13:54:15 FillDCU (Cycle) time: 13.219s
+2026-05-07 13:54:15  mainFillDCU END
+2026-05-07 13:57:30 --
+2026-05-07 13:58:00 Sequence: FillCart , Time: 29.327s
+2026-05-07 13:58:19 StartA1Fluid: Start
+2026-05-07 13:58:19 StartA1Fluid: End
+2026-05-07 13:58:19 StartH1Fluid: Start
+2026-05-07 13:58:20 StartH1Fluid: End
+2026-05-07 13:58:27 CheckA1Fluid Restart 307.7
+2026-05-07 13:58:27 StartA1Fluid: Start
+2026-05-07 13:58:27 StartA1Fluid: End
+2026-05-07 13:58:28 POS DCU1 : 242.7, Target : 250.0.
+2026-05-07 13:58:31 CloseA1Fluid: Start
+2026-05-07 13:58:31 CloseA1Fluid: End
+2026-05-07 13:58:31 FillDCU (Cycle) time: 13.219s
+2026-05-07 13:58:31  mainFillDCU END
+2026-05-07 13:59:53 --
+2026-05-07 14:00:30 --
+2026-05-07 14:01:09 Sequence: FillCart , Time: 37.413s
+2026-05-07 14:01:20 StartA1Fluid: Start
+2026-05-07 14:01:21 StartA1Fluid: End
+2026-05-07 14:01:21 StartH1Fluid: Start
+2026-05-07 14:01:21 StartH1Fluid: End
+2026-05-07 14:01:31 POS DCU1 : 241.2, Target : 250.0.
+2026-05-07 14:01:32 CloseA1Fluid: Start
+2026-05-07 14:01:32 CloseA1Fluid: End
+2026-05-07 14:01:32 FillDCU (Cycle) time: 13.16s
+2026-05-07 14:01:32  mainFillDCU END
+2026-05-07 14:02:35 --
+2026-05-07 14:03:08 Sequence: FillCart , Time: 32.334s
+2026-05-07 14:03:32 StartA1Fluid: Start
+2026-05-07 14:03:33 StartA1Fluid: End
+2026-05-07 14:03:33 StartH1Fluid: Start
+2026-05-07 14:03:33 StartH1Fluid: End
+2026-05-07 14:03:41 CheckA1Fluid Restart 263.7
+2026-05-07 14:03:41 StartA1Fluid: Start
+2026-05-07 14:03:41 StartA1Fluid: End
+2026-05-07 14:03:42 POS DCU1 : 239.8, Target : 250.0.
+2026-05-07 14:03:44 CloseA1Fluid: Start
+2026-05-07 14:03:44 CloseA1Fluid: End
+2026-05-07 14:03:44 FillDCU (Cycle) time: 13.178s
+2026-05-07 14:03:44  mainFillDCU END
+2026-05-07 14:08:52 Sequence: FillCart , Time: 19.72s
+2026-05-07 14:09:03 StartA1Fluid: Start
+2026-05-07 14:09:03 StartA1Fluid: End
+2026-05-07 14:09:03 StartH1Fluid: Start
+2026-05-07 14:09:03 StartH1Fluid: End
+2026-05-07 14:09:12 POS DCU1 : 240.9, Target : 250.0.
+2026-05-07 14:09:12 CloseA1Fluid: Start
+2026-05-07 14:09:12 CloseA1Fluid: End
+2026-05-07 14:09:13 FillDCU (Cycle) time: 11.012s
+2026-05-07 14:09:13  mainFillDCU END
+2026-05-07 14:26:59 Sequence: FillCart , Time: 25.614s
+2026-05-07 14:27:11 StartA1Fluid: Start
+2026-05-07 14:27:12 StartA1Fluid: End
+2026-05-07 14:27:12 StartH1Fluid: Start
+2026-05-07 14:27:12 StartH1Fluid: End
+2026-05-07 14:27:19 POS DCU1 : 243.1, Target : 250.0.
+2026-05-07 14:27:21 CloseA1Fluid: Start
+2026-05-07 14:27:22 CloseA1Fluid: End
+2026-05-07 14:27:22 FillDCU (Cycle) time: 11.909s
+2026-05-07 14:27:22  mainFillDCU END
+2026-05-07 14:38:00 Sequence: FillCart , Time: 23.611s
+2026-05-07 14:38:12 StartA1Fluid: Start
+2026-05-07 14:38:12 StartA1Fluid: End
+2026-05-07 14:38:12 StartH1Fluid: Start
+2026-05-07 14:38:12 StartH1Fluid: End
+2026-05-07 14:38:21 POS DCU1 : 238.0, Target : 250.0.
+2026-05-07 14:38:22 CloseA1Fluid: Start
+2026-05-07 14:38:22 CloseA1Fluid: End
+2026-05-07 14:38:22 FillDCU (Cycle) time: 11.922s
+2026-05-07 14:38:22  mainFillDCU END
+2026-05-07 14:41:16 Sequence: FillCart , Time: 23.95s
+2026-05-07 14:42:41 StartA1Fluid: Start
+2026-05-07 14:42:42 StartA1Fluid: End
+2026-05-07 14:42:42 StartH1Fluid: Start
+2026-05-07 14:42:42 StartH1Fluid: End
+2026-05-07 14:42:50 POS DCU1 : 240.0, Target : 250.0.
+2026-05-07 14:42:53 CloseA1Fluid: Start
+2026-05-07 14:42:53 CloseA1Fluid: End
+2026-05-07 14:42:53 FillDCU (Cycle) time: 13.2s
+2026-05-07 14:42:53  mainFillDCU END
+2026-05-07 14:50:37 Sequence: FillCart , Time: 24.915s
+2026-05-07 14:50:47 StartA1Fluid: Start
+2026-05-07 14:50:48 StartA1Fluid: End
+2026-05-07 14:50:48 StartH1Fluid: Start
+2026-05-07 14:50:48 StartH1Fluid: End
+2026-05-07 14:50:53 POS DCU1 : 243.2, Target : 250.0.
+2026-05-07 14:50:59 CloseA1Fluid: Start
+2026-05-07 14:50:59 CloseA1Fluid: End
+2026-05-07 14:50:59 FillDCU (Cycle) time: 13.312s
+2026-05-07 14:50:59  mainFillDCU END
+2026-05-07 14:54:21 Sequence: FillCart , Time: 18.257s
+2026-05-07 14:55:38 StartA1Fluid: Start
+2026-05-07 14:55:39 StartA1Fluid: End
+2026-05-07 14:55:39 StartH1Fluid: Start
+2026-05-07 14:55:39 StartH1Fluid: End
+2026-05-07 14:55:44 POS DCU1 : 241.5, Target : 250.0.
+2026-05-07 14:55:45 CloseA1Fluid: Start
+2026-05-07 14:55:45 CloseA1Fluid: End
+2026-05-07 14:55:45 FillDCU (Cycle) time: 7.665s
+2026-05-07 14:55:45  mainFillDCU END
+2026-05-07 14:58:53 Sequence: FillCart , Time: 26.17s
+2026-05-07 14:59:36 StartA1Fluid: Start
+2026-05-07 14:59:36 StartA1Fluid: End
+2026-05-07 14:59:36 StartH1Fluid: Start
+2026-05-07 14:59:36 StartH1Fluid: End
+2026-05-07 14:59:41 POS DCU1 : 241.8, Target : 250.0.
+2026-05-07 14:59:48 CloseA1Fluid: Start
+2026-05-07 14:59:48 CloseA1Fluid: End
+2026-05-07 14:59:48 FillDCU (Cycle) time: 13.391s
+2026-05-07 14:59:48  mainFillDCU END
+2026-05-07 15:01:39 --
+2026-05-07 15:02:01 Sequence: FillCart , Time: 20.687s
+2026-05-07 15:04:49 StartA1Fluid: Start
+2026-05-07 15:04:49 StartA1Fluid: End
+2026-05-07 15:04:49 StartH1Fluid: Start
+2026-05-07 15:04:50 StartH1Fluid: End
+2026-05-07 15:04:58 POS DCU1 : 229.5, Target : 250.0.
+2026-05-07 15:04:58 CloseA1Fluid: Start
+2026-05-07 15:04:58 CloseA1Fluid: End
+2026-05-07 15:04:58 FillDCU (Cycle) time: 10.709s
+2026-05-07 15:04:58  mainFillDCU END
+2026-05-07 15:06:23 --
+2026-05-07 15:06:43 Sequence: FillCart , Time: 18.742s
+2026-05-07 15:07:59 StartA1Fluid: Start
+2026-05-07 15:08:00 StartA1Fluid: End
+2026-05-07 15:08:00 StartH1Fluid: Start
+2026-05-07 15:08:00 StartH1Fluid: End
+2026-05-07 15:08:07 POS DCU1 : 237.7, Target : 250.0.
+2026-05-07 15:08:07 CloseA1Fluid: Start
+2026-05-07 15:08:08 CloseA1Fluid: End
+2026-05-07 15:08:08 FillDCU (Cycle) time: 9.686s
+2026-05-07 15:08:08  mainFillDCU END
+2026-05-07 15:09:12 Sequence: FillCart , Time: 21.26s
+2026-05-07 15:10:12 StartA1Fluid: Start
+2026-05-07 15:10:12 StartA1Fluid: End
+2026-05-07 15:10:12 StartH1Fluid: Start
+2026-05-07 15:10:12 StartH1Fluid: End
+2026-05-07 15:10:19 POS DCU1 : 241.0, Target : 250.0.
+2026-05-07 15:10:21 CloseA1Fluid: Start
+2026-05-07 15:10:21 CloseA1Fluid: End
+2026-05-07 15:10:21 FillDCU (Cycle) time: 10.783s
+2026-05-07 15:10:21  mainFillDCU END
+2026-05-07 15:16:48 Sequence: FillCart , Time: 24.008s
+2026-05-07 15:16:58 StartA1Fluid: Start
+2026-05-07 15:16:59 StartA1Fluid: End
+2026-05-07 15:16:59 StartH1Fluid: Start
+2026-05-07 15:16:59 StartH1Fluid: End
+2026-05-07 15:17:06 POS DCU1 : 239.0, Target : 250.0.
+2026-05-07 15:17:10 CloseA1Fluid: Start
+2026-05-07 15:17:10 CloseA1Fluid: End
+2026-05-07 15:17:10 FillDCU (Cycle) time: 13.215s
+2026-05-07 15:17:10  mainFillDCU END
+2026-05-07 15:20:39 --
+2026-05-07 15:21:04 Sequence: FillCart , Time: 23.917s
+2026-05-07 15:22:53 StartA1Fluid: Start
+2026-05-07 15:22:53 StartA1Fluid: End
+2026-05-07 15:22:53 StartH1Fluid: Start
+2026-05-07 15:22:53 StartH1Fluid: End
+2026-05-07 15:22:57 POS DCU1 : 240.2, Target : 250.0.
+2026-05-07 15:23:02 CloseA1Fluid: Start
+2026-05-07 15:23:02 CloseA1Fluid: End
+2026-05-07 15:23:03 FillDCU (Cycle) time: 11.183s
+2026-05-07 15:23:03  mainFillDCU END
+2026-05-07 15:25:37 Sequence: FillCart , Time: 14.724s
+2026-05-07 15:27:43 StartA1Fluid: Start
+2026-05-07 15:27:44 StartA1Fluid: End
+2026-05-07 15:27:44 StartH1Fluid: Start
+2026-05-07 15:27:44 StartH1Fluid: End
+2026-05-07 15:27:52 POS DCU1 : 239.5, Target : 250.0.
+2026-05-07 15:27:52 CloseA1Fluid: Start
+2026-05-07 15:27:52 CloseA1Fluid: End
+2026-05-07 15:27:52 FillDCU (Cycle) time: 10.479s
+2026-05-07 15:27:52  mainFillDCU END
+2026-05-07 15:32:55 Sequence: FillCart , Time: 23.314s
+2026-05-07 15:33:06 StartA1Fluid: Start
+2026-05-07 15:33:06 StartA1Fluid: End
+2026-05-07 15:33:06 StartH1Fluid: Start
+2026-05-07 15:33:06 StartH1Fluid: End
+2026-05-07 15:33:09 POS DCU1 : 240.6, Target : 250.0.
+2026-05-07 15:33:17 CloseA1Fluid: Start
+2026-05-07 15:33:18 CloseA1Fluid: End
+2026-05-07 15:33:18 FillDCU (Cycle) time: 13.399s
+2026-05-07 15:33:18  mainFillDCU END
+2026-05-07 15:34:59 Sequence: FillCart , Time: 25.721s
+2026-05-07 15:35:10 StartA1Fluid: Start
+2026-05-07 15:35:10 StartA1Fluid: End
+2026-05-07 15:35:10 StartH1Fluid: Start
+2026-05-07 15:35:11 StartH1Fluid: End
+2026-05-07 15:35:15 POS DCU1 : 238.3, Target : 250.0.
+2026-05-07 15:35:19 CloseA1Fluid: Start
+2026-05-07 15:35:20 CloseA1Fluid: End
+2026-05-07 15:35:20 FillDCU (Cycle) time: 10.96s
+2026-05-07 15:35:20  mainFillDCU END
+2026-05-07 15:41:21 Sequence: FillCart , Time: 21.911s
+2026-05-07 15:41:31 StartA1Fluid: Start
+2026-05-07 15:41:31 StartA1Fluid: End
+2026-05-07 15:41:31 StartH1Fluid: Start
+2026-05-07 15:41:32 StartH1Fluid: End
+2026-05-07 15:41:39 POS DCU1 : 239.0, Target : 250.0.
+2026-05-07 15:41:41 CloseA1Fluid: Start
+2026-05-07 15:41:41 CloseA1Fluid: End
+2026-05-07 15:41:41 FillDCU (Cycle) time: 11.194s
+2026-05-07 15:41:41  mainFillDCU END
+2026-05-07 15:47:52 Sequence: FillCart , Time: 17.492s
+2026-05-07 15:50:34 StartA1Fluid: Start
+2026-05-07 15:50:34 StartA1Fluid: End
+2026-05-07 15:50:34 StartH1Fluid: Start
+2026-05-07 15:50:34 StartH1Fluid: End
+2026-05-07 15:50:42 POS DCU1 : 241.1, Target : 250.0.
+2026-05-07 15:50:42 CloseA1Fluid: Start
+2026-05-07 15:50:43 CloseA1Fluid: End
+2026-05-07 15:50:43 FillDCU (Cycle) time: 10.478s
+2026-05-07 15:50:43  mainFillDCU END
+2026-05-07 15:54:22 --
+2026-05-07 15:54:41 Sequence: FillCart , Time: 18.058s
+2026-05-07 15:55:11 StartA1Fluid: Start
+2026-05-07 15:55:12 StartA1Fluid: End
+2026-05-07 15:55:12 StartH1Fluid: Start
+2026-05-07 15:55:12 StartH1Fluid: End
+2026-05-07 15:55:15 POS DCU1 : 238.4, Target : 250.0.
+2026-05-07 15:55:17 CloseA1Fluid: Start
+2026-05-07 15:55:18 CloseA1Fluid: End
+2026-05-07 15:55:18 FillDCU (Cycle) time: 7.664s
+2026-05-07 15:55:18  mainFillDCU END
+2026-05-07 16:01:19 Sequence: FillCart , Time: 26.516s
+2026-05-07 16:01:29 StartA1Fluid: Start
+2026-05-07 16:01:30 StartA1Fluid: End
+2026-05-07 16:01:30 StartH1Fluid: Start
+2026-05-07 16:01:30 StartH1Fluid: End
+2026-05-07 16:01:35 POS DCU1 : 238.0, Target : 250.0.
+2026-05-07 16:01:41 CloseA1Fluid: Start
+2026-05-07 16:01:41 CloseA1Fluid: End
+2026-05-07 16:01:42 FillDCU (Cycle) time: 13.277s
+2026-05-07 16:01:42  mainFillDCU END
+2026-05-07 16:19:41 Sequence: FillCart , Time: 25.912s
+2026-05-07 16:19:51 StartA1Fluid: Start
+2026-05-07 16:19:52 StartA1Fluid: End
+2026-05-07 16:19:52 StartH1Fluid: Start
+2026-05-07 16:19:52 StartH1Fluid: End
+2026-05-07 16:19:57 POS DCU1 : 238.7, Target : 250.0.
+2026-05-07 16:20:01 CloseA1Fluid: Start
+2026-05-07 16:20:01 CloseA1Fluid: End
+2026-05-07 16:20:01 FillDCU (Cycle) time: 11.003s
+2026-05-07 16:20:01  mainFillDCU END
+2026-05-07 16:21:00 Sequence: FillCart , Time: 24.686s
+2026-05-07 16:24:27 StartA1Fluid: Start
+2026-05-07 16:24:28 StartA1Fluid: End
+2026-05-07 16:24:28 StartH1Fluid: Start
+2026-05-07 16:24:28 StartH1Fluid: End
+2026-05-07 16:24:36 POS DCU1 : 240.7, Target : 250.0.
+2026-05-07 16:24:39 CloseA1Fluid: Start
+2026-05-07 16:24:39 CloseA1Fluid: End
+2026-05-07 16:24:39 FillDCU (Cycle) time: 13.094s
+2026-05-07 16:24:39  mainFillDCU END
+2026-05-07 16:30:15 Sequence: FillCart , Time: 24.111s
+2026-05-07 16:30:26 StartA1Fluid: Start
+2026-05-07 16:30:26 StartA1Fluid: End
+2026-05-07 16:30:26 StartH1Fluid: Start
+2026-05-07 16:30:27 StartH1Fluid: End
+2026-05-07 16:30:32 POS DCU1 : 243.0, Target : 250.0.
+2026-05-07 16:30:35 CloseA1Fluid: Start
+2026-05-07 16:30:36 CloseA1Fluid: End
+2026-05-07 16:30:36 FillDCU (Cycle) time: 10.974s
+2026-05-07 16:30:36  mainFillDCU END
+2026-05-07 16:39:16 Sequence: FillCart , Time: 23.616s
+2026-05-07 16:39:27 StartA1Fluid: Start
+2026-05-07 16:39:27 StartA1Fluid: End
+2026-05-07 16:39:27 StartH1Fluid: Start
+2026-05-07 16:39:27 StartH1Fluid: End
+2026-05-07 16:39:35 POS DCU1 : 243.1, Target : 250.0.
+2026-05-07 16:39:38 CloseA1Fluid: Start
+2026-05-07 16:39:38 CloseA1Fluid: End
+2026-05-07 16:39:39 FillDCU (Cycle) time: 13.189s
+2026-05-07 16:39:39  mainFillDCU END
+2026-05-07 16:45:33 Sequence: FillCart , Time: 20.313s
+2026-05-07 16:45:43 StartA1Fluid: Start
+2026-05-07 16:45:44 StartA1Fluid: End
+2026-05-07 16:45:44 StartH1Fluid: Start
+2026-05-07 16:45:44 StartH1Fluid: End
+2026-05-07 16:45:46 POS DCU1 : 239.2, Target : 250.0.
+2026-05-07 16:45:52 CloseA1Fluid: Start
+2026-05-07 16:45:52 CloseA1Fluid: End
+2026-05-07 16:45:52 FillDCU (Cycle) time: 10.047s
+2026-05-07 16:45:52  mainFillDCU END
+2026-05-07 16:55:16 Sequence: FillCart , Time: 21.916s
+2026-05-07 16:55:26 StartA1Fluid: Start
+2026-05-07 16:55:27 StartA1Fluid: End
+2026-05-07 16:55:27 StartH1Fluid: Start
+2026-05-07 16:55:27 StartH1Fluid: End
+2026-05-07 16:55:34 POS DCU1 : 242.4, Target : 250.0.
+2026-05-07 16:55:36 CloseA1Fluid: Start
+2026-05-07 16:55:37 CloseA1Fluid: End
+2026-05-07 16:55:37 FillDCU (Cycle) time: 11.707s
+2026-05-07 16:55:37  mainFillDCU END
+2026-05-07 16:59:19 Sequence: FillCart , Time: 26.068s
+2026-05-07 17:02:22 StartA1Fluid: Start
+2026-05-07 17:02:22 StartA1Fluid: End
+2026-05-07 17:02:22 StartH1Fluid: Start
+2026-05-07 17:02:22 StartH1Fluid: End
+2026-05-07 17:02:31 POS DCU1 : 242.0, Target : 250.0.
+2026-05-07 17:02:31 CloseA1Fluid: Start
+2026-05-07 17:02:32 CloseA1Fluid: End
+2026-05-07 17:02:32 FillDCU (Cycle) time: 11.3s
+2026-05-07 17:02:32  mainFillDCU END
+2026-05-07 17:06:50 Sequence: FillCart , Time: 23.894s
+2026-05-07 17:07:30 StartA1Fluid: Start
+2026-05-07 17:07:30 StartA1Fluid: End
+2026-05-07 17:07:30 StartH1Fluid: Start
+2026-05-07 17:07:30 StartH1Fluid: End
+2026-05-07 17:07:38 POS DCU1 : 239.4, Target : 250.0.
+2026-05-07 17:07:41 CloseA1Fluid: Start
+2026-05-07 17:07:42 CloseA1Fluid: End
+2026-05-07 17:07:42 FillDCU (Cycle) time: 13.19s
+2026-05-07 17:07:42  mainFillDCU END
+2026-05-07 17:10:45 Sequence: FillCart , Time: 17.734s
+2026-05-07 17:11:33 StartA1Fluid: Start
+2026-05-07 17:11:33 StartA1Fluid: End
+2026-05-07 17:11:33 StartH1Fluid: Start
+2026-05-07 17:11:34 StartH1Fluid: End
+2026-05-07 17:11:38 POS DCU1 : 240.3, Target : 250.0.
+2026-05-07 17:11:39 CloseA1Fluid: Start
+2026-05-07 17:11:39 CloseA1Fluid: End
+2026-05-07 17:11:39 FillDCU (Cycle) time: 7.577s
+2026-05-07 17:11:39  mainFillDCU END
+2026-05-07 17:21:29 Sequence: FillCart , Time: 22.316s
+2026-05-07 17:21:40 StartA1Fluid: Start
+2026-05-07 17:21:41 StartA1Fluid: End
+2026-05-07 17:21:41 StartH1Fluid: Start
+2026-05-07 17:21:41 StartH1Fluid: End
+2026-05-07 17:21:46 POS DCU1 : 239.4, Target : 250.0.
+2026-05-07 17:21:49 CloseA1Fluid: Start
+2026-05-07 17:21:49 CloseA1Fluid: End
+2026-05-07 17:21:49 FillDCU (Cycle) time: 10.073s
+2026-05-07 17:21:49  mainFillDCU END
+2026-05-07 17:23:06 Sequence: FillCart , Time: 19.755s
+2026-05-07 17:26:09 StartA1Fluid: Start
+2026-05-07 17:26:09 StartA1Fluid: End
+2026-05-07 17:26:09 StartH1Fluid: Start
+2026-05-07 17:26:09 StartH1Fluid: End
+2026-05-07 17:26:16 POS DCU1 : 242.7, Target : 250.0.
+2026-05-07 17:26:16 CloseA1Fluid: Start
+2026-05-07 17:26:17 CloseA1Fluid: End
+2026-05-07 17:26:17 FillDCU (Cycle) time: 9.278s
+2026-05-07 17:26:17  mainFillDCU END
+2026-05-07 17:31:52 Sequence: FillCart , Time: 32.918s
+2026-05-07 17:32:03 StartA1Fluid: Start
+2026-05-07 17:32:04 StartA1Fluid: End
+2026-05-07 17:32:04 StartH1Fluid: Start
+2026-05-07 17:32:04 StartH1Fluid: End
+2026-05-07 17:32:08 POS DCU1 : 243.0, Target : 250.0.
+2026-05-07 17:32:15 CloseA1Fluid: Start
+2026-05-07 17:32:15 CloseA1Fluid: End
+2026-05-07 17:32:15 FillDCU (Cycle) time: 13.2s
+2026-05-07 17:32:15  mainFillDCU END
+2026-05-07 17:35:23 --
+2026-05-07 17:35:53 Sequence: FillCart , Time: 28.03s
+2026-05-07 17:36:20 StartA1Fluid: Start
+2026-05-07 17:36:21 StartA1Fluid: End
+2026-05-07 17:36:21 StartH1Fluid: Start
+2026-05-07 17:36:21 StartH1Fluid: End
+2026-05-07 17:36:28 CheckA1Fluid Restart 311.4
+2026-05-07 17:36:28 StartA1Fluid: Start
+2026-05-07 17:36:29 StartA1Fluid: End
+2026-05-07 17:36:30 POS DCU1 : 240.6, Target : 250.0.
+2026-05-07 17:36:32 CloseA1Fluid: Start
+2026-05-07 17:36:32 CloseA1Fluid: End
+2026-05-07 17:36:32 FillDCU (Cycle) time: 13.201s
+2026-05-07 17:36:32  mainFillDCU END
+2026-05-07 17:52:22 Sequence: FillCart , Time: 24.908s
+2026-05-07 17:52:33 StartA1Fluid: Start
+2026-05-07 17:52:33 StartA1Fluid: End
+2026-05-07 17:52:33 StartH1Fluid: Start
+2026-05-07 17:52:33 StartH1Fluid: End
+2026-05-07 17:52:42 POS DCU1 : 243.3, Target : 250.0.
+2026-05-07 17:52:42 CloseA1Fluid: Start
+2026-05-07 17:52:43 CloseA1Fluid: End
+2026-05-07 17:52:43 FillDCU (Cycle) time: 11.199s
+2026-05-07 17:52:43  mainFillDCU END
+2026-05-07 17:58:15 Sequence: FillCart , Time: 20.911s
+2026-05-07 17:59:29 StartA1Fluid: Start
+2026-05-07 17:59:30 StartA1Fluid: End
+2026-05-07 17:59:30 StartH1Fluid: Start
+2026-05-07 17:59:30 StartH1Fluid: End
+2026-05-07 17:59:38 POS DCU1 : 240.9, Target : 250.0.
+2026-05-07 17:59:38 CloseA1Fluid: Start
+2026-05-07 17:59:38 CloseA1Fluid: End
+2026-05-07 17:59:39 FillDCU (Cycle) time: 10.698s
+2026-05-07 17:59:39  mainFillDCU END
+2026-05-07 18:01:53 Sequence: FillCart , Time: 33.403s
+2026-05-07 18:04:23 StartA1Fluid: Start
+2026-05-07 18:04:24 StartA1Fluid: End
+2026-05-07 18:04:24 StartH1Fluid: Start
+2026-05-07 18:04:24 StartH1Fluid: End
+2026-05-07 18:04:31 POS DCU1 : 240.9, Target : 250.0.
+2026-05-07 18:04:35 CloseA1Fluid: Start
+2026-05-07 18:04:35 CloseA1Fluid: End
+2026-05-07 18:04:35 FillDCU (Cycle) time: 13.202s
+2026-05-07 18:04:35  mainFillDCU END
+2026-05-07 18:05:48 --
+2026-05-07 18:06:17 Sequence: FillCart , Time: 28.633s
+2026-05-07 18:06:36 StartA1Fluid: Start
+2026-05-07 18:06:37 StartA1Fluid: End
+2026-05-07 18:06:37 StartH1Fluid: Start
+2026-05-07 18:06:37 StartH1Fluid: End
+2026-05-07 18:06:45 CheckA1Fluid Restart 273.2
+2026-05-07 18:06:45 StartA1Fluid: Start
+2026-05-07 18:06:45 StartA1Fluid: End
+2026-05-07 18:06:46 POS DCU1 : 243.6, Target : 250.0.
+2026-05-07 18:06:48 CloseA1Fluid: Start
+2026-05-07 18:06:48 CloseA1Fluid: End
+2026-05-07 18:06:48 FillDCU (Cycle) time: 13.211s
+2026-05-07 18:06:48  mainFillDCU END
+2026-05-07 18:13:37 Sequence: FillCart , Time: 23.014s
+2026-05-07 18:13:48 StartA1Fluid: Start
+2026-05-07 18:13:48 StartA1Fluid: End
+2026-05-07 18:13:48 StartH1Fluid: Start
+2026-05-07 18:13:48 StartH1Fluid: End
+2026-05-07 18:13:57 POS DCU1 : 239.9, Target : 250.0.
+2026-05-07 18:13:59 CloseA1Fluid: Start
+2026-05-07 18:14:00 CloseA1Fluid: End
+2026-05-07 18:14:00 FillDCU (Cycle) time: 13.348s
+2026-05-07 18:14:00  mainFillDCU END
+2026-05-07 18:32:31 Sequence: FillCart , Time: 20.616s
+2026-05-07 18:32:42 StartA1Fluid: Start
+2026-05-07 18:32:43 StartA1Fluid: End
+2026-05-07 18:32:43 StartH1Fluid: Start
+2026-05-07 18:32:43 StartH1Fluid: End
+2026-05-07 18:32:48 POS DCU1 : 239.5, Target : 250.0.
+2026-05-07 18:32:51 CloseA1Fluid: Start
+2026-05-07 18:32:52 CloseA1Fluid: End
+2026-05-07 18:32:52 FillDCU (Cycle) time: 10.484s
+2026-05-07 18:32:52  mainFillDCU END
+2026-05-07 18:38:22 Sequence: FillCart , Time: 21.24s
+2026-05-07 18:40:52 StartA1Fluid: Start
+2026-05-07 18:40:53 StartA1Fluid: End
+2026-05-07 18:40:53 StartH1Fluid: Start
+2026-05-07 18:40:53 StartH1Fluid: End
+2026-05-07 18:41:00 POS DCU1 : 239.3, Target : 250.0.
+2026-05-07 18:41:02 CloseA1Fluid: Start
+2026-05-07 18:41:02 CloseA1Fluid: End
+2026-05-07 18:41:02 FillDCU (Cycle) time: 11.082s
+2026-05-07 18:41:02  mainFillDCU END
+2026-05-07 18:42:38 --
+2026-05-07 18:43:06 Sequence: FillCart , Time: 26.181s
+2026-05-07 18:45:46 StartA1Fluid: Start
+2026-05-07 18:45:47 StartA1Fluid: End
+2026-05-07 18:45:47 StartH1Fluid: Start
+2026-05-07 18:45:47 StartH1Fluid: End
+2026-05-07 18:45:55 POS DCU1 : 238.2, Target : 250.0.
+2026-05-07 18:45:56 CloseA1Fluid: Start
+2026-05-07 18:45:56 CloseA1Fluid: End
+2026-05-07 18:45:56 FillDCU (Cycle) time: 10.989s
+2026-05-07 18:45:56  mainFillDCU END
+2026-05-07 18:48:06 --
+2026-05-07 18:48:22 Sequence: FillCart , Time: 14.635s
+2026-05-07 18:50:46 StartA1Fluid: Start
+2026-05-07 18:50:46 StartA1Fluid: End
+2026-05-07 18:50:46 StartH1Fluid: Start
+2026-05-07 18:50:46 StartH1Fluid: End
+2026-05-07 18:50:54 POS DCU1 : 240.6, Target : 250.0.
+2026-05-07 18:50:54 CloseA1Fluid: Start
+2026-05-07 18:50:55 CloseA1Fluid: End
+2026-05-07 18:50:55 FillDCU (Cycle) time: 10.273s
+2026-05-07 18:50:55  mainFillDCU END
+2026-05-07 18:55:46 Sequence: FillCart , Time: 20.315s
+2026-05-07 18:55:57 StartA1Fluid: Start
+2026-05-07 18:55:57 StartA1Fluid: End
+2026-05-07 18:55:57 StartH1Fluid: Start
+2026-05-07 18:55:58 StartH1Fluid: End
+2026-05-07 18:56:01 POS DCU1 : 241.5, Target : 250.0.
+2026-05-07 18:56:06 CloseA1Fluid: Start
+2026-05-07 18:56:07 CloseA1Fluid: End
+2026-05-07 18:56:07 FillDCU (Cycle) time: 10.901s
+2026-05-07 18:56:07  mainFillDCU END
+2026-05-07 18:57:09 --
+2026-05-07 18:57:34 Sequence: FillCart , Time: 23.799s
+2026-05-07 19:00:27 StartA1Fluid: Start
+2026-05-07 19:00:27 StartA1Fluid: End
+2026-05-07 19:00:27 StartH1Fluid: Start
+2026-05-07 19:00:28 StartH1Fluid: End
+2026-05-07 19:00:35 POS DCU1 : 241.4, Target : 250.0.
+2026-05-07 19:00:39 CloseA1Fluid: Start
+2026-05-07 19:00:39 CloseA1Fluid: End
+2026-05-07 19:00:39 FillDCU (Cycle) time: 13.387s
+2026-05-07 19:00:39  mainFillDCU END
+2026-05-07 19:02:01 --
+2026-05-07 19:02:21 Sequence: FillCart , Time: 18.123s
+2026-05-07 19:04:30 StartA1Fluid: Start
+2026-05-07 19:04:30 StartA1Fluid: End
+2026-05-07 19:04:30 StartH1Fluid: Start
+2026-05-07 19:04:30 StartH1Fluid: End
+2026-05-07 19:04:34 POS DCU1 : 240.5, Target : 250.0.
+2026-05-07 19:04:36 CloseA1Fluid: Start
+2026-05-07 19:04:36 CloseA1Fluid: End
+2026-05-07 19:04:36 FillDCU (Cycle) time: 7.772s
+2026-05-07 19:04:36  mainFillDCU END
+2026-05-07 19:06:23 --
+2026-05-07 19:06:45 Sequence: FillCart , Time: 20.43s
+2026-05-07 19:08:17 StartA1Fluid: Start
+2026-05-07 19:08:17 StartA1Fluid: End
+2026-05-07 19:08:17 StartH1Fluid: Start
+2026-05-07 19:08:18 StartH1Fluid: End
+2026-05-07 19:08:22 POS DCU1 : 241.1, Target : 250.0.
+2026-05-07 19:08:26 CloseA1Fluid: Start
+2026-05-07 19:08:27 CloseA1Fluid: End
+2026-05-07 19:08:27 FillDCU (Cycle) time: 11.066s
+2026-05-07 19:08:27  mainFillDCU END
+2026-05-07 19:28:25 Sequence: FillCart , Time: 21.315s
+2026-05-07 19:28:36 StartA1Fluid: Start
+2026-05-07 19:28:37 StartA1Fluid: End
+2026-05-07 19:28:37 StartH1Fluid: Start
+2026-05-07 19:28:37 StartH1Fluid: End
+2026-05-07 19:28:45 POS DCU1 : 239.9, Target : 250.0.
+2026-05-07 19:28:45 CloseA1Fluid: Start
+2026-05-07 19:28:46 CloseA1Fluid: End
+2026-05-07 19:28:46 FillDCU (Cycle) time: 10.79s
+2026-05-07 19:28:46  mainFillDCU END
+2026-05-07 19:47:34 Sequence: FillCart , Time: 22.512s
+2026-05-07 19:47:46 StartA1Fluid: Start
+2026-05-07 19:47:46 StartA1Fluid: End
+2026-05-07 19:47:46 StartH1Fluid: Start
+2026-05-07 19:47:46 StartH1Fluid: End
+2026-05-07 19:47:54 POS DCU1 : 240.8, Target : 250.0.
+2026-05-07 19:47:54 CloseA1Fluid: Start
+2026-05-07 19:47:54 CloseA1Fluid: End
+2026-05-07 19:47:55 FillDCU (Cycle) time: 10.168s
+2026-05-07 19:47:55  mainFillDCU END
+2026-05-07 19:54:43 Sequence: FillCart , Time: 21.795s
+2026-05-07 19:54:54 StartA1Fluid: Start
+2026-05-07 19:54:54 StartA1Fluid: End
+2026-05-07 19:54:54 StartH1Fluid: Start
+2026-05-07 19:54:54 StartH1Fluid: End
+2026-05-07 19:55:01 POS DCU1 : 242.3, Target : 250.0.
+2026-05-07 19:55:03 CloseA1Fluid: Start
+2026-05-07 19:55:03 CloseA1Fluid: End
+2026-05-07 19:55:03 FillDCU (Cycle) time: 11.091s
+2026-05-07 19:55:03  mainFillDCU END
+2026-05-07 20:04:50 Sequence: FillCart , Time: 23.312s
+2026-05-07 20:05:01 StartA1Fluid: Start
+2026-05-07 20:05:02 StartA1Fluid: End
+2026-05-07 20:05:02 StartH1Fluid: Start
+2026-05-07 20:05:02 StartH1Fluid: End
+2026-05-07 20:05:09 POS DCU1 : 243.1, Target : 250.0.
+2026-05-07 20:05:13 CloseA1Fluid: Start
+2026-05-07 20:05:13 CloseA1Fluid: End
+2026-05-07 20:05:13 FillDCU (Cycle) time: 13.409s
+2026-05-07 20:05:13  mainFillDCU END
+2026-05-07 20:13:16 Sequence: FillCart , Time: 24.811s
+2026-05-07 20:13:27 StartA1Fluid: Start
+2026-05-07 20:13:27 StartA1Fluid: End
+2026-05-07 20:13:27 StartH1Fluid: Start
+2026-05-07 20:13:27 StartH1Fluid: End
+2026-05-07 20:13:31 POS DCU1 : 242.1, Target : 250.0.
+2026-05-07 20:13:38 CloseA1Fluid: Start
+2026-05-07 20:13:39 CloseA1Fluid: End
+2026-05-07 20:13:39 FillDCU (Cycle) time: 13.188s
+2026-05-07 20:13:39  mainFillDCU END
+2026-05-07 20:19:42 Sequence: FillCart , Time: 24.315s
+2026-05-07 20:19:53 StartA1Fluid: Start
+2026-05-07 20:19:54 StartA1Fluid: End
+2026-05-07 20:19:54 StartH1Fluid: Start
+2026-05-07 20:19:54 StartH1Fluid: End
+2026-05-07 20:19:59 POS DCU1 : 239.8, Target : 250.0.
+2026-05-07 20:20:05 CloseA1Fluid: Start
+2026-05-07 20:20:05 CloseA1Fluid: End
+2026-05-07 20:20:05 FillDCU (Cycle) time: 13.4s
+2026-05-07 20:20:05  mainFillDCU END
+2026-05-07 20:23:51 --
+2026-05-07 20:24:19 Sequence: FillCart , Time: 26.458s
+2026-05-07 20:24:29 StartA1Fluid: Start
+2026-05-07 20:24:30 StartA1Fluid: End
+2026-05-07 20:24:30 StartH1Fluid: Start
+2026-05-07 20:24:30 StartH1Fluid: End
+2026-05-07 20:24:34 POS DCU1 : 240.3, Target : 250.0.
+2026-05-07 20:24:39 CloseA1Fluid: Start
+2026-05-07 20:24:39 CloseA1Fluid: End
+2026-05-07 20:24:39 FillDCU (Cycle) time: 11.073s
+2026-05-07 20:24:39  mainFillDCU END
+2026-05-07 20:41:32 Sequence: FillCart , Time: 23.01s
+2026-05-07 20:41:43 StartA1Fluid: Start
+2026-05-07 20:41:43 StartA1Fluid: End
+2026-05-07 20:41:43 StartH1Fluid: Start
+2026-05-07 20:41:44 StartH1Fluid: End
+2026-05-07 20:41:51 POS DCU1 : 240.6, Target : 250.0.
+2026-05-07 20:41:53 CloseA1Fluid: Start
+2026-05-07 20:41:53 CloseA1Fluid: End
+2026-05-07 20:41:53 FillDCU (Cycle) time: 11.2s
+2026-05-07 20:41:53  mainFillDCU END
+2026-05-07 20:51:08 Sequence: FillCart , Time: 24.608s
+2026-05-07 20:51:18 StartA1Fluid: Start
+2026-05-07 20:51:19 StartA1Fluid: End
+2026-05-07 20:51:19 StartH1Fluid: Start
+2026-05-07 20:51:19 StartH1Fluid: End
+2026-05-07 20:51:27 POS DCU1 : 243.5, Target : 250.0.
+2026-05-07 20:51:30 CloseA1Fluid: Start
+2026-05-07 20:51:30 CloseA1Fluid: End
+2026-05-07 20:51:30 FillDCU (Cycle) time: 13.198s
+2026-05-07 20:51:30  mainFillDCU END
+2026-05-07 20:54:59 Sequence: FillCart , Time: 19.74s
+2026-05-07 20:55:10 StartA1Fluid: Start
+2026-05-07 20:55:10 StartA1Fluid: End
+2026-05-07 20:55:10 StartH1Fluid: Start
+2026-05-07 20:55:11 StartH1Fluid: End
+2026-05-07 20:55:16 POS DCU1 : 227.9, Target : 250.0.
+2026-05-07 20:55:16 CloseA1Fluid: Start
+2026-05-07 20:55:16 CloseA1Fluid: End
+2026-05-07 20:55:17 FillDCU (Cycle) time: 7.98s
+2026-05-07 20:55:17  mainFillDCU END
+2026-05-07 21:26:12 StartA1Fluid: Start
+2026-05-07 21:26:13 StartA1Fluid: End
+2026-05-07 21:26:13 StartH1Fluid: Start
+2026-05-07 21:26:17 POS DCU1 : 240.6, Target : 250.0.
+2026-05-07 21:26:17 CloseA1Fluid: Start
+2026-05-07 21:26:18 CloseA1Fluid: End
+2026-05-07 21:26:18 FillDCU (Cycle) time: 6.703s
+2026-05-07 21:26:18  mainFillDCU END
+2026-05-07 21:31:01 --
+2026-05-07 21:32:54 --
+2026-05-07 21:33:50 --
+2026-05-07 21:50:48 Sequence: FillCart , Time: 26.315s
+2026-05-07 21:50:59 StartA1Fluid: Start
+2026-05-07 21:50:59 StartH1Fluid: Start
+2026-05-07 21:50:59 StartH1Fluid: End
+2026-05-07 21:51:10 CloseA1Fluid: Start
+2026-05-07 21:51:10 CloseA1Fluid: End
+2026-05-07 21:51:10 FillDCU (Cycle) time: 12.634s
+2026-05-07 21:51:10  mainFillDCU END
+2026-05-07 22:10:01 StartA1Fluid: Start
+2026-05-07 22:10:02 StartA1Fluid: End
+2026-05-07 22:10:02 StartH1Fluid: Start
+2026-05-07 22:10:06 POS DCU1 : 238.7, Target : 250.0.
+2026-05-07 22:10:06 CloseA1Fluid: Start
+2026-05-07 22:10:07 CloseA1Fluid: End
+2026-05-07 22:10:07 FillDCU (Cycle) time: 6.905s
+2026-05-07 22:10:07  mainFillDCU END
+2026-05-08 03:20:32 Sequence: FillCart , Time: 24.612s
+2026-05-08 03:20:42 StartA1Fluid: Start
+2026-05-08 03:20:42 StartH1Fluid: Start
+2026-05-08 03:20:42 StartH1Fluid: End
+2026-05-08 03:20:54 CloseA1Fluid: Start
+2026-05-08 03:20:54 CloseA1Fluid: End
+2026-05-08 03:20:54 FillDCU (Cycle) time: 12.941s
+2026-05-08 03:20:54  mainFillDCU END
+2026-05-08 03:21:37 Sequence: FillCart , Time: 24.037s
+2026-05-08 03:22:55 StartA1Fluid: Start
+2026-05-08 03:22:55 StartA1Fluid: End
+2026-05-08 03:22:55 StartH1Fluid: Start
+2026-05-08 03:22:56 StartH1Fluid: End
+2026-05-08 03:22:57 POS DCU1 : 237.9, Target : 250.0.
+2026-05-08 03:23:06 CloseA1Fluid: Start
+2026-05-08 03:23:07 CloseA1Fluid: End
+2026-05-08 03:23:07 FillDCU (Cycle) time: 13.159s
+2026-05-08 03:23:07  mainFillDCU END
+2026-05-08 03:28:17 Sequence: FillCart , Time: 24.511s
+2026-05-08 03:28:28 StartA1Fluid: Start
+2026-05-08 03:28:28 StartH1Fluid: Start
+2026-05-08 03:28:29 StartH1Fluid: End
+2026-05-08 03:28:38 CloseA1Fluid: Start
+2026-05-08 03:28:38 CloseA1Fluid: End
+2026-05-08 03:28:39 FillDCU (Cycle) time: 11.273s
+2026-05-08 03:28:39  mainFillDCU END
+2026-05-08 03:35:51 StartA1Fluid: Start
+2026-05-08 03:35:51 StartA1Fluid: End
+2026-05-08 03:35:51 StartH1Fluid: Start
+2026-05-08 03:36:00 POS DCU1 : 242.7, Target : 250.0.
+2026-05-08 03:36:00 CloseA1Fluid: Start
+2026-05-08 03:36:01 CloseA1Fluid: End
+2026-05-08 03:36:01 FillDCU (Cycle) time: 11.104s
+2026-05-08 03:36:01  mainFillDCU END
+2026-05-08 03:39:53 --
+2026-05-08 03:41:01 --
+2026-05-08 03:43:36 --
+2026-05-08 03:44:24 --
+2026-05-08 06:04:02 Sequence: FillCart , Time: 24.813s
+2026-05-08 06:04:12 StartA1Fluid: Start
+2026-05-08 06:04:12 StartH1Fluid: Start
+2026-05-08 06:04:13 StartH1Fluid: End
+2026-05-08 06:04:24 CloseA1Fluid: Start
+2026-05-08 06:04:24 CloseA1Fluid: End
+2026-05-08 06:04:24 FillDCU (Cycle) time: 12.826s
+2026-05-08 06:04:24  mainFillDCU END
+2026-05-08 06:05:06 Sequence: FillCart , Time: 28.019s
+2026-05-08 06:08:44 StartA1Fluid: Start
+2026-05-08 06:08:45 StartA1Fluid: End
+2026-05-08 06:08:45 StartH1Fluid: Start
+2026-05-08 06:08:45 StartH1Fluid: End
+2026-05-08 06:08:53 POS DCU1 : 237.9, Target : 250.0.
+2026-05-08 06:08:56 CloseA1Fluid: Start
+2026-05-08 06:08:56 CloseA1Fluid: End
+2026-05-08 06:08:56 FillDCU (Cycle) time: 12.974s
+2026-05-08 06:08:56  mainFillDCU END
+2026-05-08 06:10:17 Sequence: FillCart , Time: 25.159s
+2026-05-08 06:12:40 StartA1Fluid: Start
+2026-05-08 06:12:40 StartA1Fluid: End
+2026-05-08 06:12:40 StartH1Fluid: Start
+2026-05-08 06:12:40 StartH1Fluid: End
+2026-05-08 06:12:44 POS DCU1 : 240.7, Target : 250.0.
+2026-05-08 06:12:49 CloseA1Fluid: Start
+2026-05-08 06:12:49 CloseA1Fluid: End
+2026-05-08 06:12:49 FillDCU (Cycle) time: 10.978s
+2026-05-08 06:12:49  mainFillDCU END
+2026-05-08 06:15:29 --
+2026-05-08 06:15:53 Sequence: FillCart , Time: 23.245s
+2026-05-08 06:18:21 StartA1Fluid: Start
+2026-05-08 06:18:21 StartA1Fluid: End
+2026-05-08 06:18:21 StartH1Fluid: Start
+2026-05-08 06:18:22 StartH1Fluid: End
+2026-05-08 06:18:30 POS DCU1 : 238.3, Target : 250.0.
+2026-05-08 06:18:32 CloseA1Fluid: Start
+2026-05-08 06:18:33 CloseA1Fluid: End
+2026-05-08 06:18:33 FillDCU (Cycle) time: 12.987s
+2026-05-08 06:18:33  mainFillDCU END
+2026-05-08 06:21:30 Sequence: FillCart , Time: 23.842s
+2026-05-08 06:23:07 StartA1Fluid: Start
+2026-05-08 06:23:08 StartA1Fluid: End
+2026-05-08 06:23:08 StartH1Fluid: Start
+2026-05-08 06:23:08 StartH1Fluid: End
+2026-05-08 06:23:12 POS DCU1 : 243.3, Target : 250.0.
+2026-05-08 06:23:16 CloseA1Fluid: Start
+2026-05-08 06:23:17 CloseA1Fluid: End
+2026-05-08 06:23:17 FillDCU (Cycle) time: 10.764s
+2026-05-08 06:23:17  mainFillDCU END
+2026-05-08 06:28:51 --
+2026-05-08 06:29:15 Sequence: FillCart , Time: 23.65s
+2026-05-08 06:31:18 StartA1Fluid: Start
+2026-05-08 06:31:19 StartA1Fluid: End
+2026-05-08 06:31:19 StartH1Fluid: Start
+2026-05-08 06:31:19 StartH1Fluid: End
+2026-05-08 06:31:27 POS DCU1 : 239.7, Target : 250.0.
+2026-05-08 06:31:30 CloseA1Fluid: Start
+2026-05-08 06:31:30 CloseA1Fluid: End
+2026-05-08 06:31:30 FillDCU (Cycle) time: 13.488s
+2026-05-08 06:31:30  mainFillDCU END
+2026-05-08 06:33:35 Sequence: FillCart , Time: 18.937s
+2026-05-08 06:33:51 StartA1Fluid: Start
+2026-05-08 06:33:52 StartA1Fluid: End
+2026-05-08 06:33:52 StartH1Fluid: Start
+2026-05-08 06:33:52 StartH1Fluid: End
+2026-05-08 06:33:56 POS DCU1 : 243.3, Target : 250.0.
+2026-05-08 06:33:57 CloseA1Fluid: Start
+2026-05-08 06:33:57 CloseA1Fluid: End
+2026-05-08 06:33:58 FillDCU (Cycle) time: 7.664s
+2026-05-08 06:33:58  mainFillDCU END
+2026-05-08 06:41:03 Sequence: FillCart , Time: 24.512s
+2026-05-08 06:41:14 StartA1Fluid: Start
+2026-05-08 06:41:15 StartA1Fluid: End
+2026-05-08 06:41:15 StartH1Fluid: Start
+2026-05-08 06:41:15 StartH1Fluid: End
+2026-05-08 06:41:19 POS DCU1 : 243.7, Target : 250.0.
+2026-05-08 06:41:23 CloseA1Fluid: Start
+2026-05-08 06:41:24 CloseA1Fluid: End
+2026-05-08 06:41:24 FillDCU (Cycle) time: 10.966s
+2026-05-08 06:41:24  mainFillDCU END
+2026-05-08 06:49:44 Sequence: FillCart , Time: 25.017s
+2026-05-08 06:49:54 StartA1Fluid: Start
+2026-05-08 06:49:55 StartA1Fluid: End
+2026-05-08 06:49:55 StartH1Fluid: Start
+2026-05-08 06:49:55 StartH1Fluid: End
+2026-05-08 06:50:03 POS DCU1 : 243.2, Target : 250.0.
+2026-05-08 06:50:04 CloseA1Fluid: Start
+2026-05-08 06:50:04 CloseA1Fluid: End
+2026-05-08 06:50:05 FillDCU (Cycle) time: 11.198s
+2026-05-08 06:50:05  mainFillDCU END
+2026-05-08 06:55:03 Sequence: FillCart , Time: 18.146s
+2026-05-08 06:57:45 StartA1Fluid: Start
+2026-05-08 06:57:45 StartA1Fluid: End
+2026-05-08 06:57:45 StartH1Fluid: Start
+2026-05-08 06:57:46 StartH1Fluid: End
+2026-05-08 06:57:53 POS DCU1 : 240.7, Target : 250.0.
+2026-05-08 06:57:55 CloseA1Fluid: Start
+2026-05-08 06:57:56 CloseA1Fluid: End
+2026-05-08 06:57:56 FillDCU (Cycle) time: 11.994s
+2026-05-08 06:57:56  mainFillDCU END
+2026-05-08 06:59:41 Sequence: FillCart , Time: 18.161s
+2026-05-08 07:02:39 StartA1Fluid: Start
+2026-05-08 07:02:40 StartA1Fluid: End
+2026-05-08 07:02:40 StartH1Fluid: Start
+2026-05-08 07:02:40 StartH1Fluid: End
+2026-05-08 07:02:49 POS DCU1 : 242.8, Target : 250.0.
+2026-05-08 07:02:49 CloseA1Fluid: Start
+2026-05-08 07:02:49 CloseA1Fluid: End
+2026-05-08 07:02:49 FillDCU (Cycle) time: 11.079s
+2026-05-08 07:02:49  mainFillDCU END
+2026-05-08 07:08:54 Sequence: FillCart , Time: 26.514s
+2026-05-08 07:09:05 StartA1Fluid: Start
+2026-05-08 07:09:05 StartA1Fluid: End
+2026-05-08 07:09:05 StartH1Fluid: Start
+2026-05-08 07:09:06 StartH1Fluid: End
+2026-05-08 07:09:10 POS DCU1 : 241.6, Target : 250.0.
+2026-05-08 07:09:14 CloseA1Fluid: Start
+2026-05-08 07:09:15 CloseA1Fluid: End
+2026-05-08 07:09:15 FillDCU (Cycle) time: 11.072s
+2026-05-08 07:09:15  mainFillDCU END
+2026-05-08 07:13:25 Sequence: FillCart , Time: 27.076s
+2026-05-08 07:14:38 StartA1Fluid: Start
+2026-05-08 07:14:39 StartA1Fluid: End
+2026-05-08 07:14:39 StartH1Fluid: Start
+2026-05-08 07:14:39 StartH1Fluid: End
+2026-05-08 07:14:47 POS DCU1 : 242.3, Target : 250.0.
+2026-05-08 07:14:50 CloseA1Fluid: Start
+2026-05-08 07:14:50 CloseA1Fluid: End
+2026-05-08 07:14:50 FillDCU (Cycle) time: 13.099s
+2026-05-08 07:14:50  mainFillDCU END
+2026-05-08 07:16:34 Sequence: FillCart , Time: 17.022s
+2026-05-08 07:18:42 StartA1Fluid: Start
+2026-05-08 07:18:42 StartA1Fluid: End
+2026-05-08 07:18:42 StartH1Fluid: Start
+2026-05-08 07:18:42 StartH1Fluid: End
+2026-05-08 07:18:48 POS DCU1 : 242.5, Target : 250.0.
+2026-05-08 07:18:48 CloseA1Fluid: Start
+2026-05-08 07:18:48 CloseA1Fluid: End
+2026-05-08 07:18:49 FillDCU (Cycle) time: 8.074s
+2026-05-08 07:18:49  mainFillDCU END
+2026-05-08 07:28:59 Sequence: FillCart , Time: 26.31s
+2026-05-08 07:29:09 StartA1Fluid: Start
+2026-05-08 07:29:10 StartA1Fluid: End
+2026-05-08 07:29:10 StartH1Fluid: Start
+2026-05-08 07:29:10 StartH1Fluid: End
+2026-05-08 07:29:15 POS DCU1 : 241.8, Target : 250.0.
+2026-05-08 07:29:19 CloseA1Fluid: Start
+2026-05-08 07:29:19 CloseA1Fluid: End
+2026-05-08 07:29:19 FillDCU (Cycle) time: 10.882s
+2026-05-08 07:29:19  mainFillDCU END
+2026-05-08 07:39:40 Sequence: FillCart , Time: 18.016s
+2026-05-08 07:39:51 StartA1Fluid: Start
+2026-05-08 07:39:52 StartA1Fluid: End
+2026-05-08 07:39:52 StartH1Fluid: Start
+2026-05-08 07:39:52 StartH1Fluid: End
+2026-05-08 07:40:00 POS DCU1 : 239.2, Target : 250.0.
+2026-05-08 07:40:00 CloseA1Fluid: Start
+2026-05-08 07:40:00 CloseA1Fluid: End
+2026-05-08 07:40:00 FillDCU (Cycle) time: 10.295s
+2026-05-08 07:40:00  mainFillDCU END
+2026-05-08 07:46:09 Sequence: FillCart , Time: 21.11s
+2026-05-08 07:46:20 StartA1Fluid: Start
+2026-05-08 07:46:20 StartA1Fluid: End
+2026-05-08 07:46:20 StartH1Fluid: Start
+2026-05-08 07:46:20 StartH1Fluid: End
+2026-05-08 07:46:25 POS DCU1 : 237.8, Target : 250.0.
+2026-05-08 07:46:29 CloseA1Fluid: Start
+2026-05-08 07:46:30 CloseA1Fluid: End
+2026-05-08 07:46:30 FillDCU (Cycle) time: 11.105s
+2026-05-08 07:46:30  mainFillDCU END
+2026-05-08 07:49:21 Sequence: FillCart , Time: 25.648s
+2026-05-08 07:51:22 StartA1Fluid: Start
+2026-05-08 07:51:23 StartA1Fluid: End
+2026-05-08 07:51:23 StartH1Fluid: Start
+2026-05-08 07:51:23 StartH1Fluid: End
+2026-05-08 07:51:31 POS DCU1 : 240.3, Target : 250.0.
+2026-05-08 07:51:31 CloseA1Fluid: Start
+2026-05-08 07:51:32 CloseA1Fluid: End
+2026-05-08 07:51:32 FillDCU (Cycle) time: 10.876s
+2026-05-08 07:51:32  mainFillDCU END
+2026-05-08 07:58:05 Sequence: FillCart , Time: 24.817s
+2026-05-08 07:58:15 StartA1Fluid: Start
+2026-05-08 07:58:16 StartA1Fluid: End
+2026-05-08 07:58:16 StartH1Fluid: Start
+2026-05-08 07:58:16 StartH1Fluid: End
+2026-05-08 07:58:24 POS DCU1 : 241.3, Target : 250.0.
+2026-05-08 07:58:25 CloseA1Fluid: Start
+2026-05-08 07:58:25 CloseA1Fluid: End
+2026-05-08 07:58:25 FillDCU (Cycle) time: 11.19s
+2026-05-08 07:58:25  mainFillDCU END
+2026-05-08 08:02:52 Sequence: FillCart , Time: 20.786s
+2026-05-08 08:03:27 StartA1Fluid: Start
+2026-05-08 08:03:28 StartA1Fluid: End
+2026-05-08 08:03:28 StartH1Fluid: Start
+2026-05-08 08:03:28 StartH1Fluid: End
+2026-05-08 08:03:36 POS DCU1 : 239.5, Target : 250.0.
+2026-05-08 08:03:37 CloseA1Fluid: Start
+2026-05-08 08:03:37 CloseA1Fluid: End
+2026-05-08 08:03:37 FillDCU (Cycle) time: 10.901s
+2026-05-08 08:03:37  mainFillDCU END
+2026-05-08 08:07:08 Sequence: FillCart , Time: 26.706s
+2026-05-08 08:08:22 StartA1Fluid: Start
+2026-05-08 08:08:22 StartA1Fluid: End
+2026-05-08 08:08:22 StartH1Fluid: Start
+2026-05-08 08:08:23 StartH1Fluid: End
+2026-05-08 08:08:30 POS DCU1 : 238.5, Target : 250.0.
+2026-05-08 08:08:31 CloseA1Fluid: Start
+2026-05-08 08:08:32 CloseA1Fluid: End
+2026-05-08 08:08:32 FillDCU (Cycle) time: 11.081s
+2026-05-08 08:08:32  mainFillDCU END
+2026-05-08 08:12:47 Sequence: FillCart , Time: 23.914s
+2026-05-08 08:13:23 StartA1Fluid: Start
+2026-05-08 08:13:23 StartA1Fluid: End
+2026-05-08 08:13:23 StartH1Fluid: Start
+2026-05-08 08:13:23 StartH1Fluid: End
+2026-05-08 08:13:31 POS DCU1 : 240.5, Target : 250.0.
+2026-05-08 08:13:34 CloseA1Fluid: Start
+2026-05-08 08:13:35 CloseA1Fluid: End
+2026-05-08 08:13:35 FillDCU (Cycle) time: 13.196s
+2026-05-08 08:13:35  mainFillDCU END
+2026-05-08 08:19:20 Sequence: FillCart , Time: 17.413s
+2026-05-08 08:19:31 StartA1Fluid: Start
+2026-05-08 08:19:31 StartA1Fluid: End
+2026-05-08 08:19:31 StartH1Fluid: Start
+2026-05-08 08:19:31 StartH1Fluid: End
+2026-05-08 08:19:36 POS DCU1 : 242.5, Target : 250.0.
+2026-05-08 08:19:37 CloseA1Fluid: Start
+2026-05-08 08:19:37 CloseA1Fluid: End
+2026-05-08 08:19:37 FillDCU (Cycle) time: 7.554s
+2026-05-08 08:19:37  mainFillDCU END
+2026-05-08 08:28:59 Sequence: FillCart , Time: 22.11s
+2026-05-08 08:29:09 StartA1Fluid: Start
+2026-05-08 08:29:10 StartA1Fluid: End
+2026-05-08 08:29:10 StartH1Fluid: Start
+2026-05-08 08:29:10 StartH1Fluid: End
+2026-05-08 08:29:14 POS DCU1 : 241.6, Target : 250.0.
+2026-05-08 08:29:19 CloseA1Fluid: Start
+2026-05-08 08:29:19 CloseA1Fluid: End
+2026-05-08 08:29:19 FillDCU (Cycle) time: 11.296s
+2026-05-08 08:29:19  mainFillDCU END
+2026-05-08 08:44:49 Sequence: FillCart , Time: 30.314s
+2026-05-08 08:45:00 StartA1Fluid: Start
+2026-05-08 08:45:00 StartH1Fluid: Start
+2026-05-08 08:45:00 StartH1Fluid: End
+2026-05-08 08:45:11 CloseA1Fluid: Start
+2026-05-08 08:45:12 CloseA1Fluid: End
+2026-05-08 08:45:12 FillDCU (Cycle) time: 12.865s
+2026-05-08 08:45:12  mainFillDCU END
+2026-05-08 08:52:58 Sequence: FillCart , Time: 21.013s
+2026-05-08 08:53:10 StartA1Fluid: Start
+2026-05-08 08:53:10 StartA1Fluid: End
+2026-05-08 08:53:10 StartH1Fluid: Start
+2026-05-08 08:53:11 StartH1Fluid: End
+2026-05-08 08:53:18 POS DCU1 : 242.5, Target : 250.0.
+2026-05-08 08:53:19 CloseA1Fluid: Start
+2026-05-08 08:53:20 CloseA1Fluid: End
+2026-05-08 08:53:20 FillDCU (Cycle) time: 10.908s
+2026-05-08 08:53:20  mainFillDCU END
+2026-05-08 08:54:20 --
+2026-05-08 08:54:39 Sequence: FillCart , Time: 18.336s
+2026-05-08 08:57:38 StartA1Fluid: Start
+2026-05-08 08:57:39 StartA1Fluid: End
+2026-05-08 08:57:39 StartH1Fluid: Start
+2026-05-08 08:57:39 StartH1Fluid: End
+2026-05-08 08:57:47 POS DCU1 : 238.8, Target : 250.0.
+2026-05-08 08:57:47 CloseA1Fluid: Start
+2026-05-08 08:57:47 CloseA1Fluid: End
+2026-05-08 08:57:47 FillDCU (Cycle) time: 10.182s
+2026-05-08 08:57:47  mainFillDCU END
+2026-05-08 09:14:13 Sequence: FillCart , Time: 31.114s
+2026-05-08 09:14:24 StartA1Fluid: Start
+2026-05-08 09:14:24 StartA1Fluid: End
+2026-05-08 09:14:24 StartH1Fluid: Start
+2026-05-08 09:14:25 StartH1Fluid: End
+2026-05-08 09:14:29 POS DCU1 : 239.7, Target : 250.0.
+2026-05-08 09:14:35 CloseA1Fluid: Start
+2026-05-08 09:14:36 CloseA1Fluid: End
+2026-05-08 09:14:36 FillDCU (Cycle) time: 13.166s
+2026-05-08 09:14:36  mainFillDCU END
+2026-05-08 09:15:36 --
+2026-05-08 09:16:01 Sequence: FillCart , Time: 24.256s
+2026-05-08 09:17:05 StartA1Fluid: Start
+2026-05-08 09:17:06 StartA1Fluid: End
+2026-05-08 09:17:06 StartH1Fluid: Start
+2026-05-08 09:17:06 StartH1Fluid: End
+2026-05-08 09:17:09 POS DCU1 : 243.3, Target : 250.0.
+2026-05-08 09:17:15 CloseA1Fluid: Start
+2026-05-08 09:17:15 CloseA1Fluid: End
+2026-05-08 09:17:15 FillDCU (Cycle) time: 11.277s
+2026-05-08 09:17:15  mainFillDCU END
+2026-05-08 09:19:07 --
+2026-05-08 09:19:23 Sequence: FillCart , Time: 15.671s
+2026-05-08 09:21:49 StartA1Fluid: Start
+2026-05-08 09:21:50 StartA1Fluid: End
+2026-05-08 09:21:50 StartH1Fluid: Start
+2026-05-08 09:21:50 StartH1Fluid: End
+2026-05-08 09:21:58 POS DCU1 : 241.4, Target : 250.0.
+2026-05-08 09:21:58 CloseA1Fluid: Start
+2026-05-08 09:21:59 CloseA1Fluid: End
+2026-05-08 09:21:59 FillDCU (Cycle) time: 10.569s
+2026-05-08 09:21:59  mainFillDCU END
+2026-05-08 09:23:07 --
+2026-05-08 09:23:24 Sequence: FillCart , Time: 15.825s
+2026-05-08 09:24:24 StartA1Fluid: Start
+2026-05-08 09:24:24 StartA1Fluid: End
+2026-05-08 09:24:24 StartH1Fluid: Start
+2026-05-08 09:24:25 StartH1Fluid: End
+2026-05-08 09:24:28 POS DCU1 : 240.9, Target : 250.0.
+2026-05-08 09:24:29 CloseA1Fluid: Start
+2026-05-08 09:24:29 CloseA1Fluid: End
+2026-05-08 09:24:29 FillDCU (Cycle) time: 6.543s
+2026-05-08 09:24:29  mainFillDCU END
+2026-05-08 09:25:14 --
+2026-05-08 09:25:42 Sequence: FillCart , Time: 26.741s
+2026-05-08 09:26:06 StartA1Fluid: Start
+2026-05-08 09:26:06 StartA1Fluid: End
+2026-05-08 09:26:06 StartH1Fluid: Start
+2026-05-08 09:26:06 StartH1Fluid: End
+2026-05-08 09:26:09 POS DCU1 : 241.3, Target : 250.0.
+2026-05-08 09:26:15 CloseA1Fluid: Start
+2026-05-08 09:26:15 CloseA1Fluid: End
+2026-05-08 09:26:15 FillDCU (Cycle) time: 11.061s
+2026-05-08 09:26:15  mainFillDCU END
+2026-05-08 09:28:03 Sequence: FillCart , Time: 20.187s
+2026-05-08 09:31:07 StartA1Fluid: Start
+2026-05-08 09:31:08 StartA1Fluid: End
+2026-05-08 09:31:08 StartH1Fluid: Start
+2026-05-08 09:31:08 StartH1Fluid: End
+2026-05-08 09:31:16 POS DCU1 : 243.2, Target : 250.0.
+2026-05-08 09:31:17 CloseA1Fluid: Start
+2026-05-08 09:31:17 CloseA1Fluid: End
+2026-05-08 09:31:17 FillDCU (Cycle) time: 10.889s
+2026-05-08 09:31:17  mainFillDCU END
+2026-05-08 09:37:24 Sequence: FillCart , Time: 17.318s
+2026-05-08 09:37:35 StartA1Fluid: Start
+2026-05-08 09:37:35 StartA1Fluid: End
+2026-05-08 09:37:35 StartH1Fluid: Start
+2026-05-08 09:37:35 StartH1Fluid: End
+2026-05-08 09:37:43 POS DCU1 : 241.9, Target : 250.0.
+2026-05-08 09:37:43 CloseA1Fluid: Start
+2026-05-08 09:37:43 CloseA1Fluid: End
+2026-05-08 09:37:43 FillDCU (Cycle) time: 9.888s
+2026-05-08 09:37:43  mainFillDCU END
+2026-05-08 09:41:46 --
+2026-05-08 09:42:10 Sequence: FillCart , Time: 23.14s
+2026-05-08 09:43:39 StartA1Fluid: Start
+2026-05-08 09:43:39 StartA1Fluid: End
+2026-05-08 09:43:39 StartH1Fluid: Start
+2026-05-08 09:43:40 StartH1Fluid: End
+2026-05-08 09:43:44 POS DCU1 : 241.2, Target : 250.0.
+2026-05-08 09:43:51 CloseA1Fluid: Start
+2026-05-08 09:43:51 CloseA1Fluid: End
+2026-05-08 09:43:51 FillDCU (Cycle) time: 13.276s
+2026-05-08 09:43:51  mainFillDCU END
+2026-05-08 09:46:50 --
+2026-05-08 09:47:10 Sequence: FillCart , Time: 19.111s
+2026-05-08 09:48:53 StartA1Fluid: Start
+2026-05-08 09:48:53 StartA1Fluid: End
+2026-05-08 09:48:53 StartH1Fluid: Start
+2026-05-08 09:48:53 StartH1Fluid: End
+2026-05-08 09:48:57 POS DCU1 : 242.6, Target : 250.0.
+2026-05-08 09:48:59 CloseA1Fluid: Start
+2026-05-08 09:48:59 CloseA1Fluid: End
+2026-05-08 09:48:59 FillDCU (Cycle) time: 7.664s
+2026-05-08 09:48:59  mainFillDCU END
+2026-05-08 09:51:46 Sequence: FillCart , Time: 27.566s
+2026-05-08 09:53:00 StartA1Fluid: Start
+2026-05-08 09:53:00 StartA1Fluid: End
+2026-05-08 09:53:00 StartH1Fluid: Start
+2026-05-08 09:53:00 StartH1Fluid: End
+2026-05-08 09:53:05 POS DCU1 : 243.5, Target : 250.0.
+2026-05-08 09:53:11 CloseA1Fluid: Start
+2026-05-08 09:53:11 CloseA1Fluid: End
+2026-05-08 09:53:11 FillDCU (Cycle) time: 12.978s
+2026-05-08 09:53:11  mainFillDCU END
+2026-05-08 09:55:57 Sequence: FillCart , Time: 13.318s
+2026-05-08 09:57:44 StartA1Fluid: Start
+2026-05-08 09:57:45 StartA1Fluid: End
+2026-05-08 09:57:45 StartH1Fluid: Start
+2026-05-08 09:57:45 StartH1Fluid: End
+2026-05-08 09:57:50 POS DCU1 : 243.3, Target : 250.0.
+2026-05-08 09:57:50 CloseA1Fluid: Start
+2026-05-08 09:57:50 CloseA1Fluid: End
+2026-05-08 09:57:51 FillDCU (Cycle) time: 7.756s
+2026-05-08 09:57:51  mainFillDCU END
+2026-05-08 10:06:43 Sequence: FillCart , Time: 26.413s
+2026-05-08 10:06:54 StartA1Fluid: Start
+2026-05-08 10:06:55 StartA1Fluid: End
+2026-05-08 10:06:55 StartH1Fluid: Start
+2026-05-08 10:06:55 StartH1Fluid: End
+2026-05-08 10:06:59 POS DCU1 : 243.2, Target : 250.0.
+2026-05-08 10:07:03 CloseA1Fluid: Start
+2026-05-08 10:07:04 CloseA1Fluid: End
+2026-05-08 10:07:04 FillDCU (Cycle) time: 10.75s
+2026-05-08 10:07:04  mainFillDCU END
+2026-05-08 10:10:54 Sequence: FillCart , Time: 14.518s
+2026-05-08 10:14:23 StartA1Fluid: Start
+2026-05-08 10:14:23 StartA1Fluid: End
+2026-05-08 10:14:23 StartH1Fluid: Start
+2026-05-08 10:14:23 StartH1Fluid: End
+2026-05-08 10:14:31 POS DCU1 : 243.4, Target : 250.0.
+2026-05-08 10:14:31 CloseA1Fluid: Start
+2026-05-08 10:14:32 CloseA1Fluid: End
+2026-05-08 10:14:32 FillDCU (Cycle) time: 10.362s
+2026-05-08 10:14:32  mainFillDCU END
+2026-05-08 10:16:35 Sequence: FillCart , Time: 17.137s
+2026-05-08 10:18:48 StartA1Fluid: Start
+2026-05-08 10:18:49 StartA1Fluid: End
+2026-05-08 10:18:49 StartH1Fluid: Start
+2026-05-08 10:18:49 StartH1Fluid: End
+2026-05-08 10:18:52 POS DCU1 : 238.2, Target : 250.0.
+2026-05-08 10:18:55 CloseA1Fluid: Start
+2026-05-08 10:18:55 CloseA1Fluid: End
+2026-05-08 10:18:55 FillDCU (Cycle) time: 7.653s
+2026-05-08 10:18:55  mainFillDCU END
+2026-05-08 10:25:43 Sequence: FillCart , Time: 20.11s
+2026-05-08 10:25:53 StartA1Fluid: Start
+2026-05-08 10:25:53 StartA1Fluid: End
+2026-05-08 10:25:53 StartH1Fluid: Start
+2026-05-08 10:25:54 StartH1Fluid: End
+2026-05-08 10:25:58 POS DCU1 : 238.1, Target : 250.0.
+2026-05-08 10:25:59 CloseA1Fluid: Start
+2026-05-08 10:25:59 CloseA1Fluid: End
+2026-05-08 10:25:59 FillDCU (Cycle) time: 7.454s
+2026-05-08 10:25:59  mainFillDCU END
+2026-05-08 10:54:40 Sequence: FillCart , Time: 30.712s
+2026-05-08 10:54:51 StartA1Fluid: Start
+2026-05-08 10:54:51 StartA1Fluid: End
+2026-05-08 10:54:51 StartH1Fluid: Start
+2026-05-08 10:54:52 StartH1Fluid: End
+2026-05-08 10:54:56 POS DCU1 : 241.9, Target : 250.0.
+2026-05-08 10:55:03 CloseA1Fluid: Start
+2026-05-08 10:55:03 CloseA1Fluid: End
+2026-05-08 10:55:03 FillDCU (Cycle) time: 13.271s
+2026-05-08 10:55:03  mainFillDCU END
+2026-05-08 11:10:12 Sequence: FillCart , Time: 24.112s
+2026-05-08 11:10:23 StartA1Fluid: Start
+2026-05-08 11:10:23 StartA1Fluid: End
+2026-05-08 11:10:23 StartH1Fluid: Start
+2026-05-08 11:10:23 StartH1Fluid: End
+2026-05-08 11:10:30 POS DCU1 : 239.9, Target : 250.0.
+2026-05-08 11:10:35 CloseA1Fluid: Start
+2026-05-08 11:10:35 CloseA1Fluid: End
+2026-05-08 11:10:35 FillDCU (Cycle) time: 13.397s
+2026-05-08 11:10:35  mainFillDCU END
+2026-05-08 11:26:40 --
+2026-05-08 11:27:07 Sequence: FillCart , Time: 25.615s
+2026-05-08 11:27:18 StartA1Fluid: Start
+2026-05-08 11:27:18 StartA1Fluid: End
+2026-05-08 11:27:18 StartH1Fluid: Start
+2026-05-08 11:27:19 StartH1Fluid: End
+2026-05-08 11:27:24 POS DCU1 : 238.1, Target : 250.0.
+2026-05-08 11:27:30 CloseA1Fluid: Start
+2026-05-08 11:27:30 CloseA1Fluid: End
+2026-05-08 11:27:30 FillDCU (Cycle) time: 13.216s
+2026-05-08 11:27:30  mainFillDCU END
+2026-05-08 11:28:55 --
+2026-05-08 11:29:21 Sequence: FillCart , Time: 24.32s
+2026-05-08 11:31:24 StartA1Fluid: Start
+2026-05-08 11:31:25 StartA1Fluid: End
+2026-05-08 11:31:25 StartH1Fluid: Start
+2026-05-08 11:31:25 StartH1Fluid: End
+2026-05-08 11:31:30 POS DCU1 : 239.0, Target : 250.0.
+2026-05-08 11:31:36 CloseA1Fluid: Start
+2026-05-08 11:31:36 CloseA1Fluid: End
+2026-05-08 11:31:36 FillDCU (Cycle) time: 13.496s
+2026-05-08 11:31:36  mainFillDCU END
+2026-05-08 11:35:39 --
+2026-05-08 11:36:04 Sequence: FillCart , Time: 24.315s
+2026-05-08 11:36:15 StartA1Fluid: Start
+2026-05-08 11:36:15 StartA1Fluid: End
+2026-05-08 11:36:15 StartH1Fluid: Start
+2026-05-08 11:36:15 StartH1Fluid: End
+2026-05-08 11:36:21 CheckA1Fluid Restart 378.9
+2026-05-08 11:36:21 StartA1Fluid: Start
+2026-05-08 11:36:22 StartA1Fluid: End
+2026-05-08 11:36:24 POS DCU1 : 243.1, Target : 250.0.
+2026-05-08 11:36:26 CloseA1Fluid: Start
+2026-05-08 11:36:27 CloseA1Fluid: End
+2026-05-08 11:36:27 FillDCU (Cycle) time: 13.214s
+2026-05-08 11:36:27  mainFillDCU END
+2026-05-08 11:44:43 Sequence: FillCart , Time: 22.114s
+2026-05-08 11:44:53 StartA1Fluid: Start
+2026-05-08 11:44:53 StartH1Fluid: Start
+2026-05-08 11:44:54 StartH1Fluid: End
+2026-05-08 11:45:02 CloseA1Fluid: Start
+2026-05-08 11:45:03 CloseA1Fluid: End
+2026-05-08 11:45:03 FillDCU (Cycle) time: 10.532s
+2026-05-08 11:45:03  mainFillDCU END
+2026-05-08 11:48:38 Sequence: FillCart , Time: 25.31s
+2026-05-08 11:51:13 StartA1Fluid: Start
+2026-05-08 11:51:14 StartA1Fluid: End
+2026-05-08 11:51:14 StartH1Fluid: Start
+2026-05-08 11:51:14 StartH1Fluid: End
+2026-05-08 11:51:22 POS DCU1 : 238.7, Target : 250.0.
+2026-05-08 11:51:25 CloseA1Fluid: Start
+2026-05-08 11:51:25 CloseA1Fluid: End
+2026-05-08 11:51:25 FillDCU (Cycle) time: 13.209s
+2026-05-08 11:51:25  mainFillDCU END
+2026-05-08 11:53:19 --
+2026-05-08 11:53:42 Sequence: FillCart , Time: 21.226s
+2026-05-08 11:58:14 StartA1Fluid: Start
+2026-05-08 11:58:15 StartA1Fluid: End
+2026-05-08 11:58:15 StartH1Fluid: Start
+2026-05-08 11:58:15 StartH1Fluid: End
+2026-05-08 11:58:22 POS DCU1 : 241.4, Target : 250.0.
+2026-05-08 11:58:23 CloseA1Fluid: Start
+2026-05-08 11:58:24 CloseA1Fluid: End
+2026-05-08 11:58:24 FillDCU (Cycle) time: 10.911s
+2026-05-08 11:58:24  mainFillDCU END
+2026-05-08 12:00:17 --
+2026-05-08 12:00:35 Sequence: FillCart , Time: 17.355s
+2026-05-08 12:03:32 StartA1Fluid: Start
+2026-05-08 12:03:33 StartA1Fluid: End
+2026-05-08 12:03:33 StartH1Fluid: Start
+2026-05-08 12:03:33 StartH1Fluid: End
+2026-05-08 12:03:41 POS DCU1 : 241.3, Target : 250.0.
+2026-05-08 12:03:41 CloseA1Fluid: Start
+2026-05-08 12:03:41 CloseA1Fluid: End
+2026-05-08 12:03:41 FillDCU (Cycle) time: 10.177s
+2026-05-08 12:03:41  mainFillDCU END
+2026-05-08 12:06:02 Sequence: FillCart , Time: 24.515s
+2026-05-08 12:06:13 StartA1Fluid: Start
+2026-05-08 12:06:13 StartH1Fluid: Start
+2026-05-08 12:06:13 StartH1Fluid: End
+2026-05-08 12:06:24 CloseA1Fluid: Start
+2026-05-08 12:06:24 CloseA1Fluid: End
+2026-05-08 12:06:24 FillDCU (Cycle) time: 12.676s
+2026-05-08 12:06:24  mainFillDCU END
+2026-05-08 12:07:52 Sequence: FillCart , Time: 26.534s
+2026-05-08 12:09:09 StartA1Fluid: Start
+2026-05-08 12:09:09 StartA1Fluid: End
+2026-05-08 12:09:09 StartH1Fluid: Start
+2026-05-08 12:09:10 StartH1Fluid: End
+2026-05-08 12:09:13 POS DCU1 : 243.0, Target : 250.0.
+2026-05-08 12:09:18 CloseA1Fluid: Start
+2026-05-08 12:09:19 CloseA1Fluid: End
+2026-05-08 12:09:19 FillDCU (Cycle) time: 11.179s
+2026-05-08 12:09:19  mainFillDCU END
+2026-05-08 12:11:25 Sequence: FillCart , Time: 26.492s
+2026-05-08 12:14:44 StartA1Fluid: Start
+2026-05-08 12:14:44 StartA1Fluid: End
+2026-05-08 12:14:44 StartH1Fluid: Start
+2026-05-08 12:14:44 StartH1Fluid: End
+2026-05-08 12:14:52 POS DCU1 : 240.5, Target : 250.0.
+2026-05-08 12:14:55 CloseA1Fluid: Start
+2026-05-08 12:14:56 CloseA1Fluid: End
+2026-05-08 12:14:56 FillDCU (Cycle) time: 13.202s
+2026-05-08 12:14:56  mainFillDCU END
+2026-05-08 12:18:03 Sequence: FillCart , Time: 25.842s
+2026-05-08 12:19:54 StartA1Fluid: Start
+2026-05-08 12:19:54 StartA1Fluid: End
+2026-05-08 12:19:54 StartH1Fluid: Start
+2026-05-08 12:19:55 StartH1Fluid: End
+2026-05-08 12:20:00 POS DCU1 : 242.0, Target : 250.0.
+2026-05-08 12:20:05 CloseA1Fluid: Start
+2026-05-08 12:20:06 CloseA1Fluid: End
+2026-05-08 12:20:06 FillDCU (Cycle) time: 13.191s
+2026-05-08 12:20:06  mainFillDCU END
+2026-05-08 12:23:01 --
+2026-05-08 12:23:27 Sequence: FillCart , Time: 24.479s
+2026-05-08 12:24:17 StartA1Fluid: Start
+2026-05-08 12:24:17 StartA1Fluid: End
+2026-05-08 12:24:17 StartH1Fluid: Start
+2026-05-08 12:24:18 StartH1Fluid: End
+2026-05-08 12:24:23 POS DCU1 : 239.5, Target : 250.0.
+2026-05-08 12:24:29 CloseA1Fluid: Start
+2026-05-08 12:24:29 CloseA1Fluid: End
+2026-05-08 12:24:29 FillDCU (Cycle) time: 13.287s
+2026-05-08 12:24:29  mainFillDCU END
+2026-05-08 12:26:10 --
+2026-05-08 12:26:34 Sequence: FillCart , Time: 23.442s
+2026-05-08 12:26:45 StartA1Fluid: Start
+2026-05-08 12:26:45 StartA1Fluid: End
+2026-05-08 12:26:45 StartH1Fluid: Start
+2026-05-08 12:26:45 StartH1Fluid: End
+2026-05-08 12:26:48 POS DCU1 : 239.1, Target : 250.0.
+2026-05-08 12:26:56 CloseA1Fluid: Start
+2026-05-08 12:26:57 CloseA1Fluid: End
+2026-05-08 12:26:57 FillDCU (Cycle) time: 13.269s
+2026-05-08 12:26:57  mainFillDCU END
+2026-05-08 12:29:28 Sequence: FillCart , Time: 18.012s
+2026-05-08 12:29:38 StartA1Fluid: Start
+2026-05-08 12:29:39 StartA1Fluid: End
+2026-05-08 12:29:39 StartH1Fluid: Start
+2026-05-08 12:29:39 StartH1Fluid: End
+2026-05-08 12:29:41 POS DCU1 : 241.4, Target : 250.0.
+2026-05-08 12:29:44 CloseA1Fluid: Start
+2026-05-08 12:29:45 CloseA1Fluid: End
+2026-05-08 12:29:45 FillDCU (Cycle) time: 7.665s
+2026-05-08 12:29:45  mainFillDCU END
+2026-05-08 12:32:01 Sequence: FillCart , Time: 21.126s
+2026-05-08 12:33:04 StartA1Fluid: Start
+2026-05-08 12:33:05 StartA1Fluid: End
+2026-05-08 12:33:05 StartH1Fluid: Start
+2026-05-08 12:33:05 StartH1Fluid: End
+2026-05-08 12:33:10 POS DCU1 : 242.0, Target : 250.0.
+2026-05-08 12:33:14 CloseA1Fluid: Start
+2026-05-08 12:33:14 CloseA1Fluid: End
+2026-05-08 12:33:14 FillDCU (Cycle) time: 10.773s
+2026-05-08 12:33:14  mainFillDCU END
+2026-05-08 12:35:08 Sequence: FillCart , Time: 24.564s
+2026-05-08 12:37:58 StartA1Fluid: Start
+2026-05-08 12:37:58 StartA1Fluid: End
+2026-05-08 12:37:58 StartH1Fluid: Start
+2026-05-08 12:37:58 StartH1Fluid: End
+2026-05-08 12:38:06 POS DCU1 : 238.0, Target : 250.0.
+2026-05-08 12:38:07 CloseA1Fluid: Start
+2026-05-08 12:38:07 CloseA1Fluid: End
+2026-05-08 12:38:07 FillDCU (Cycle) time: 10.973s
+2026-05-08 12:38:07  mainFillDCU END
+2026-05-08 12:44:55 Sequence: FillCart , Time: 22.711s
+2026-05-08 12:45:06 StartA1Fluid: Start
+2026-05-08 12:45:07 StartA1Fluid: End
+2026-05-08 12:45:07 StartH1Fluid: Start
+2026-05-08 12:45:07 StartH1Fluid: End
+2026-05-08 12:45:15 POS DCU1 : 241.7, Target : 250.0.
+2026-05-08 12:45:15 CloseA1Fluid: Start
+2026-05-08 12:45:15 CloseA1Fluid: End
+2026-05-08 12:45:16 FillDCU (Cycle) time: 10.532s
+2026-05-08 12:45:16  mainFillDCU END
+2026-05-08 12:53:48 Sequence: FillCart , Time: 17.914s
+2026-05-08 12:53:59 StartA1Fluid: Start
+2026-05-08 12:54:00 StartA1Fluid: End
+2026-05-08 12:54:00 StartH1Fluid: Start
+2026-05-08 12:54:00 StartH1Fluid: End
+2026-05-08 12:54:07 POS DCU1 : 237.9, Target : 250.0.
+2026-05-08 12:54:07 CloseA1Fluid: Start
+2026-05-08 12:54:08 CloseA1Fluid: End
+2026-05-08 12:54:08 FillDCU (Cycle) time: 9.771s
+2026-05-08 12:54:08  mainFillDCU END
+2026-05-08 13:02:12 Sequence: FillCart , Time: 25.217s
+2026-05-08 13:02:23 StartA1Fluid: Start
+2026-05-08 13:02:23 StartA1Fluid: End
+2026-05-08 13:02:23 StartH1Fluid: Start
+2026-05-08 13:02:23 StartH1Fluid: End
+2026-05-08 13:02:28 POS DCU1 : 238.3, Target : 250.0.
+2026-05-08 13:02:32 CloseA1Fluid: Start
+2026-05-08 13:02:32 CloseA1Fluid: End
+2026-05-08 13:02:33 FillDCU (Cycle) time: 11.083s
+2026-05-08 13:02:33  mainFillDCU END
+2026-05-08 13:08:34 Sequence: FillCart , Time: 23.917s
+2026-05-08 13:08:44 StartA1Fluid: Start
+2026-05-08 13:08:45 StartA1Fluid: End
+2026-05-08 13:08:45 StartH1Fluid: Start
+2026-05-08 13:08:45 StartH1Fluid: End
+2026-05-08 13:08:53 POS DCU1 : 239.2, Target : 250.0.
+2026-05-08 13:08:54 CloseA1Fluid: Start
+2026-05-08 13:08:54 CloseA1Fluid: End
+2026-05-08 13:08:54 FillDCU (Cycle) time: 10.992s
+2026-05-08 13:08:54  mainFillDCU END
+2026-05-08 13:12:30 Sequence: FillCart , Time: 24.742s
+2026-05-08 13:13:59 StartA1Fluid: Start
+2026-05-08 13:14:00 StartA1Fluid: End
+2026-05-08 13:14:00 StartH1Fluid: Start
+2026-05-08 13:14:00 StartH1Fluid: End
+2026-05-08 13:14:08 POS DCU1 : 240.6, Target : 250.0.
+2026-05-08 13:14:09 CloseA1Fluid: Start
+2026-05-08 13:14:09 CloseA1Fluid: End
+2026-05-08 13:14:09 FillDCU (Cycle) time: 11.193s
+2026-05-08 13:14:09  mainFillDCU END
+2026-05-08 14:05:30 Sequence: FillCart , Time: 20.014s
+2026-05-08 14:05:42 StartA1Fluid: Start
+2026-05-08 14:05:42 StartA1Fluid: End
+2026-05-08 14:05:42 StartH1Fluid: Start
+2026-05-08 14:05:43 StartH1Fluid: End
+2026-05-08 14:05:51 POS DCU1 : 237.9, Target : 250.0.
+2026-05-08 14:05:51 CloseA1Fluid: Start
+2026-05-08 14:05:51 CloseA1Fluid: End
+2026-05-08 14:05:51 FillDCU (Cycle) time: 10.692s
+2026-05-08 14:05:51  mainFillDCU END
+2026-05-08 14:12:05 Sequence: FillCart , Time: 15.13s
+2026-05-08 14:15:30 StartA1Fluid: Start
+2026-05-08 14:15:31 StartA1Fluid: End
+2026-05-08 14:15:31 StartH1Fluid: Start
+2026-05-08 14:15:31 StartH1Fluid: End
+2026-05-08 14:15:38 POS DCU1 : 241.9, Target : 250.0.
+2026-05-08 14:15:38 CloseA1Fluid: Start
+2026-05-08 14:15:38 CloseA1Fluid: End
+2026-05-08 14:15:38 FillDCU (Cycle) time: 9.569s
+2026-05-08 14:15:38  mainFillDCU END
+2026-05-08 17:19:16 StartA1Fluid: Start
+2026-05-08 17:19:17 StartA1Fluid: End
+2026-05-08 17:19:17 StartH1Fluid: Start
+2026-05-08 17:19:22 POS DCU1 : 238.9, Target : 250.0.
+2026-05-08 17:19:22 CloseA1Fluid: Start
+2026-05-08 17:19:22 CloseA1Fluid: End
+2026-05-08 17:19:22 FillDCU (Cycle) time: 7.003s
+2026-05-08 17:19:22  mainFillDCU END
+2026-05-08 17:25:17 --
+2026-05-08 17:27:16 --
+2026-05-08 17:28:13 --
+2026-05-11 03:13:12 Sequence: FillCart , Time: 24.709s
+2026-05-11 03:13:22 StartA1Fluid: Start
+2026-05-11 03:13:22 StartH1Fluid: Start
+2026-05-11 03:13:23 StartH1Fluid: End
+2026-05-11 03:13:34 CloseA1Fluid: Start
+2026-05-11 03:13:34 CloseA1Fluid: End
+2026-05-11 03:13:34 FillDCU (Cycle) time: 13.048s
+2026-05-11 03:13:34  mainFillDCU END
+2026-05-11 03:45:48 StartA1Fluid: Start
+2026-05-11 03:45:49 StartA1Fluid: End
+2026-05-11 03:45:49 StartH1Fluid: Start
+2026-05-11 03:45:49 POS DCU1 : 239.9, Target : 250.0.
+2026-05-11 03:45:49 CloseA1Fluid: Start
+2026-05-11 03:45:50 CloseA1Fluid: End
+2026-05-11 03:45:50 FillDCU (Cycle) time: 2.998s
+2026-05-11 03:45:50  mainFillDCU END
+2026-05-11 06:14:57 Sequence: FillCart , Time: 24.315s
+2026-05-11 06:15:08 StartA1Fluid: Start
+2026-05-11 06:15:08 StartH1Fluid: Start
+2026-05-11 06:15:08 StartH1Fluid: End
+2026-05-11 06:15:16 CloseA1Fluid: Start
+2026-05-11 06:15:17 CloseA1Fluid: End
+2026-05-11 06:15:17 FillDCU (Cycle) time: 10.265s
+2026-05-11 06:15:17  mainFillDCU END
+2026-05-11 06:26:51 Sequence: FillCart , Time: 24.213s
+2026-05-11 06:27:01 StartA1Fluid: Start
+2026-05-11 06:27:02 StartA1Fluid: End
+2026-05-11 06:27:02 StartH1Fluid: Start
+2026-05-11 06:27:02 StartH1Fluid: End
+2026-05-11 06:27:10 POS DCU1 : 242.1, Target : 250.0.
+2026-05-11 06:27:11 CloseA1Fluid: Start
+2026-05-11 06:27:11 CloseA1Fluid: End
+2026-05-11 06:27:11 FillDCU (Cycle) time: 11.004s
+2026-05-11 06:27:11  mainFillDCU END
+2026-05-11 06:28:50 Sequence: FillCart , Time: 14.157s
+2026-05-11 06:31:35 StartA1Fluid: Start
+2026-05-11 06:31:36 StartA1Fluid: End
+2026-05-11 06:31:36 StartH1Fluid: Start
+2026-05-11 06:31:36 StartH1Fluid: End
+2026-05-11 06:31:44 POS DCU1 : 239.1, Target : 250.0.
+2026-05-11 06:31:44 CloseA1Fluid: Start
+2026-05-11 06:31:44 CloseA1Fluid: End
+2026-05-11 06:31:44 FillDCU (Cycle) time: 10.368s
+2026-05-11 06:31:44  mainFillDCU END
+2026-05-11 06:43:02 Sequence: FillCart , Time: 17.504s
+2026-05-11 06:43:14 StartA1Fluid: Start
+2026-05-11 06:43:14 StartA1Fluid: End
+2026-05-11 06:43:14 StartH1Fluid: Start
+2026-05-11 06:43:14 StartH1Fluid: End
+2026-05-11 06:43:17 POS DCU1 : 239.9, Target : 250.0.
+2026-05-11 06:43:24 CloseA1Fluid: Start
+2026-05-11 06:43:24 CloseA1Fluid: End
+2026-05-11 06:43:25 FillDCU (Cycle) time: 12.103s
+2026-05-11 06:43:25  mainFillDCU END
+2026-05-11 06:52:04 Sequence: FillCart , Time: 19.115s
+2026-05-11 06:52:15 StartA1Fluid: Start
+2026-05-11 06:52:16 StartA1Fluid: End
+2026-05-11 06:52:16 StartH1Fluid: Start
+2026-05-11 06:52:16 StartH1Fluid: End
+2026-05-11 06:52:25 POS DCU1 : 240.3, Target : 250.0.
+2026-05-11 06:52:25 CloseA1Fluid: Start
+2026-05-11 06:52:25 CloseA1Fluid: End
+2026-05-11 06:52:25 FillDCU (Cycle) time: 11.215s
+2026-05-11 06:52:25  mainFillDCU END
+2026-05-11 06:53:56 --
+2026-05-11 06:54:12 Sequence: FillCart , Time: 14.525s
+2026-05-11 06:57:14 StartA1Fluid: Start
+2026-05-11 06:57:14 StartA1Fluid: End
+2026-05-11 06:57:14 StartH1Fluid: Start
+2026-05-11 06:57:14 StartH1Fluid: End
+2026-05-11 06:57:21 POS DCU1 : 238.7, Target : 250.0.
+2026-05-11 06:57:21 CloseA1Fluid: Start
+2026-05-11 06:57:21 CloseA1Fluid: End
+2026-05-11 06:57:21 FillDCU (Cycle) time: 8.963s
+2026-05-11 06:57:21  mainFillDCU END
+2026-05-11 07:02:05 Sequence: FillCart , Time: 20.414s
+2026-05-11 07:02:16 StartA1Fluid: Start
+2026-05-11 07:02:16 StartA1Fluid: End
+2026-05-11 07:02:16 StartH1Fluid: Start
+2026-05-11 07:02:16 StartH1Fluid: End
+2026-05-11 07:02:19 POS DCU1 : 240.7, Target : 250.0.
+2026-05-11 07:02:25 CloseA1Fluid: Start
+2026-05-11 07:02:25 CloseA1Fluid: End
+2026-05-11 07:02:25 FillDCU (Cycle) time: 10.469s
+2026-05-11 07:02:25  mainFillDCU END
+2026-05-11 07:03:42 --
+2026-05-11 07:04:07 Sequence: FillCart , Time: 23.772s
+2026-05-11 07:06:45 StartA1Fluid: Start
+2026-05-11 07:06:45 StartA1Fluid: End
+2026-05-11 07:06:45 StartH1Fluid: Start
+2026-05-11 07:06:46 StartH1Fluid: End
+2026-05-11 07:06:53 POS DCU1 : 240.0, Target : 250.0.
+2026-05-11 07:06:57 CloseA1Fluid: Start
+2026-05-11 07:06:57 CloseA1Fluid: End
+2026-05-11 07:06:57 FillDCU (Cycle) time: 13.171s
+2026-05-11 07:06:57  mainFillDCU END
+2026-05-11 07:34:37 Sequence: FillCart , Time: 22.811s
+2026-05-11 07:34:48 StartA1Fluid: Start
+2026-05-11 07:34:49 StartA1Fluid: End
+2026-05-11 07:34:49 StartH1Fluid: Start
+2026-05-11 07:34:49 StartH1Fluid: End
+2026-05-11 07:34:49 POS DCU1 : 243.0, Target : 250.0.
+2026-05-11 07:34:57 CloseA1Fluid: Start
+2026-05-11 07:34:57 CloseA1Fluid: End
+2026-05-11 07:34:57 FillDCU (Cycle) time: 10.263s
+2026-05-11 07:34:57  mainFillDCU END
+2026-05-11 07:48:05 Sequence: FillCart , Time: 26.518s
+2026-05-11 07:48:16 StartA1Fluid: Start
+2026-05-11 07:48:17 StartA1Fluid: End
+2026-05-11 07:48:17 StartH1Fluid: Start
+2026-05-11 07:48:17 StartH1Fluid: End
+2026-05-11 07:48:24 POS DCU1 : 238.6, Target : 250.0.
+2026-05-11 07:48:28 CloseA1Fluid: Start
+2026-05-11 07:48:28 CloseA1Fluid: End
+2026-05-11 07:48:28 FillDCU (Cycle) time: 13.214s
+2026-05-11 07:48:28  mainFillDCU END
+2026-05-11 07:54:34 Sequence: FillCart , Time: 24.114s
+2026-05-11 07:56:23 StartA1Fluid: Start
+2026-05-11 07:56:23 StartA1Fluid: End
+2026-05-11 07:56:23 StartH1Fluid: Start
+2026-05-11 07:56:23 StartH1Fluid: End
+2026-05-11 07:56:28 POS DCU1 : 241.1, Target : 250.0.
+2026-05-11 07:56:32 CloseA1Fluid: Start
+2026-05-11 07:56:32 CloseA1Fluid: End
+2026-05-11 07:56:33 FillDCU (Cycle) time: 11.167s
+2026-05-11 07:56:33  mainFillDCU END
+2026-05-11 07:59:12 Sequence: FillCart , Time: 18.141s
+2026-05-11 08:01:53 StartA1Fluid: Start
+2026-05-11 08:01:54 StartA1Fluid: End
+2026-05-11 08:01:54 StartH1Fluid: Start
+2026-05-11 08:01:54 StartH1Fluid: End
+2026-05-11 08:02:02 POS DCU1 : 239.1, Target : 250.0.
+2026-05-11 08:02:02 CloseA1Fluid: Start
+2026-05-11 08:02:02 CloseA1Fluid: End
+2026-05-11 08:02:02 FillDCU (Cycle) time: 10.388s
+2026-05-11 08:02:02  mainFillDCU END
+2026-05-11 08:05:47 Sequence: FillCart , Time: 24.21s
+2026-05-11 08:05:58 StartA1Fluid: Start
+2026-05-11 08:05:59 StartA1Fluid: End
+2026-05-11 08:05:59 StartH1Fluid: Start
+2026-05-11 08:05:59 StartH1Fluid: End
+2026-05-11 08:06:03 POS DCU1 : 239.4, Target : 250.0.
+2026-05-11 08:06:10 CloseA1Fluid: Start
+2026-05-11 08:06:10 CloseA1Fluid: End
+2026-05-11 08:06:10 FillDCU (Cycle) time: 13.169s
+2026-05-11 08:06:10  mainFillDCU END
+2026-05-11 08:14:54 Sequence: FillCart , Time: 21.618s
+2026-05-11 08:15:06 StartA1Fluid: Start
+2026-05-11 08:15:06 StartH1Fluid: Start
+2026-05-11 08:15:06 StartH1Fluid: End
+2026-05-11 08:15:14 CloseA1Fluid: Start
+2026-05-11 08:15:15 CloseA1Fluid: End
+2026-05-11 08:15:15 FillDCU (Cycle) time: 9.837s
+2026-05-11 08:15:15  mainFillDCU END
+2026-05-11 08:16:20 Sequence: FillCart , Time: 14.144s
+2026-05-11 08:19:40 StartA1Fluid: Start
+2026-05-11 08:19:40 StartA1Fluid: End
+2026-05-11 08:19:40 StartH1Fluid: Start
+2026-05-11 08:19:40 StartH1Fluid: End
+2026-05-11 08:19:48 POS DCU1 : 237.9, Target : 250.0.
+2026-05-11 08:19:48 CloseA1Fluid: Start
+2026-05-11 08:19:48 CloseA1Fluid: End
+2026-05-11 08:19:48 FillDCU (Cycle) time: 9.568s
+2026-05-11 08:19:48  mainFillDCU END
+2026-05-11 08:26:00 Sequence: FillCart , Time: 19.311s
+2026-05-11 08:26:10 StartA1Fluid: Start
+2026-05-11 08:26:11 StartA1Fluid: End
+2026-05-11 08:26:11 StartH1Fluid: Start
+2026-05-11 08:26:11 StartH1Fluid: End
+2026-05-11 08:26:14 POS DCU1 : 239.2, Target : 250.0.
+2026-05-11 08:26:18 CloseA1Fluid: Start
+2026-05-11 08:26:19 CloseA1Fluid: End
+2026-05-11 08:26:19 FillDCU (Cycle) time: 9.669s
+2026-05-11 08:26:19  mainFillDCU END
+2026-05-11 08:29:52 --
+2026-05-11 08:30:29 Sequence: FillCart , Time: 35.183s
+2026-05-11 08:32:41 StartA1Fluid: Start
+2026-05-11 08:32:42 StartA1Fluid: End
+2026-05-11 08:32:42 StartH1Fluid: Start
+2026-05-11 08:32:42 StartH1Fluid: End
+2026-05-11 08:32:48 POS DCU1 : 239.6, Target : 250.0.
+2026-05-11 08:32:53 CloseA1Fluid: Start
+2026-05-11 08:32:53 CloseA1Fluid: End
+2026-05-11 08:32:53 FillDCU (Cycle) time: 13.279s
+2026-05-11 08:32:53  mainFillDCU END
+2026-05-11 08:34:04 --
+2026-05-11 08:39:10 Sequence: FillCart , Time: 28.428s
+2026-05-11 08:39:21 StartA1Fluid: Start
+2026-05-11 08:39:21 StartA1Fluid: End
+2026-05-11 08:39:21 StartH1Fluid: Start
+2026-05-11 08:39:22 StartH1Fluid: End
+2026-05-11 08:39:28 CheckA1Fluid Restart 340.8
+2026-05-11 08:39:28 StartA1Fluid: Start
+2026-05-11 08:39:28 StartA1Fluid: End
+2026-05-11 08:39:30 POS DCU1 : 240.7, Target : 250.0.
+2026-05-11 08:39:32 CloseA1Fluid: Start
+2026-05-11 08:39:33 CloseA1Fluid: End
+2026-05-11 08:39:33 FillDCU (Cycle) time: 13.111s
+2026-05-11 08:39:33  mainFillDCU END
+2026-05-11 08:44:58 Sequence: FillCart , Time: 22.614s
+2026-05-11 08:45:10 StartA1Fluid: Start
+2026-05-11 08:45:11 StartA1Fluid: End
+2026-05-11 08:45:11 StartH1Fluid: Start
+2026-05-11 08:45:11 StartH1Fluid: End
+2026-05-11 08:45:19 POS DCU1 : 243.0, Target : 250.0.
+2026-05-11 08:45:19 CloseA1Fluid: Start
+2026-05-11 08:45:19 CloseA1Fluid: End
+2026-05-11 08:45:20 FillDCU (Cycle) time: 10.699s
+2026-05-11 08:45:20  mainFillDCU END
+2026-05-11 08:55:42 Sequence: FillCart , Time: 19.916s
+2026-05-11 08:55:53 StartA1Fluid: Start
+2026-05-11 08:55:53 StartH1Fluid: Start
+2026-05-11 08:55:54 StartH1Fluid: End
+2026-05-11 08:56:02 CloseA1Fluid: Start
+2026-05-11 08:56:02 CloseA1Fluid: End
+2026-05-11 08:56:02 FillDCU (Cycle) time: 10.037s
+2026-05-11 08:56:02  mainFillDCU END
+2026-05-11 09:02:49 --
+2026-05-11 09:03:10 Sequence: FillCart , Time: 20.611s
+2026-05-11 09:03:21 StartA1Fluid: Start
+2026-05-11 09:03:21 StartH1Fluid: Start
+2026-05-11 09:03:22 StartH1Fluid: End
+2026-05-11 09:03:31 CloseA1Fluid: Start
+2026-05-11 09:03:31 CloseA1Fluid: End
+2026-05-11 09:03:31 FillDCU (Cycle) time: 10.937s
+2026-05-11 09:03:31  mainFillDCU END
+2026-05-11 09:09:59 Sequence: FillCart , Time: 24.612s
+2026-05-11 09:10:10 StartA1Fluid: Start
+2026-05-11 09:10:10 StartA1Fluid: End
+2026-05-11 09:10:10 StartH1Fluid: Start
+2026-05-11 09:10:10 StartH1Fluid: End
+2026-05-11 09:10:18 POS DCU1 : 238.2, Target : 250.0.
+2026-05-11 09:10:19 CloseA1Fluid: Start
+2026-05-11 09:10:19 CloseA1Fluid: End
+2026-05-11 09:10:20 FillDCU (Cycle) time: 11.085s
+2026-05-11 09:10:20  mainFillDCU END
+2026-05-11 09:22:53 Sequence: FillCart , Time: 21.911s
+2026-05-11 09:23:04 StartA1Fluid: Start
+2026-05-11 09:23:05 StartA1Fluid: End
+2026-05-11 09:23:05 StartH1Fluid: Start
+2026-05-11 09:23:05 StartH1Fluid: End
+2026-05-11 09:23:13 POS DCU1 : 230.1, Target : 250.0.
+2026-05-11 09:23:13 CloseA1Fluid: Start
+2026-05-11 09:23:14 CloseA1Fluid: End
+2026-05-11 09:23:14 FillDCU (Cycle) time: 10.602s
+2026-05-11 09:23:14  mainFillDCU END
+2026-05-11 09:28:07 Sequence: FillCart , Time: 23.643s
+2026-05-11 09:30:26 StartA1Fluid: Start
+2026-05-11 09:30:26 StartA1Fluid: End
+2026-05-11 09:30:26 StartH1Fluid: Start
+2026-05-11 09:30:27 StartH1Fluid: End
+2026-05-11 09:30:33 POS DCU1 : 239.1, Target : 250.0.
+2026-05-11 09:30:37 CloseA1Fluid: Start
+2026-05-11 09:30:38 CloseA1Fluid: End
+2026-05-11 09:30:38 FillDCU (Cycle) time: 12.975s
+2026-05-11 09:30:38  mainFillDCU END
+2026-05-11 09:32:02 --
+2026-05-11 09:32:21 Sequence: FillCart , Time: 17.955s
+2026-05-11 09:34:36 StartA1Fluid: Start
+2026-05-11 09:34:37 StartA1Fluid: End
+2026-05-11 09:34:37 StartH1Fluid: Start
+2026-05-11 09:34:37 StartH1Fluid: End
+2026-05-11 09:34:42 POS DCU1 : 241.5, Target : 250.0.
+2026-05-11 09:34:43 CloseA1Fluid: Start
+2026-05-11 09:34:43 CloseA1Fluid: End
+2026-05-11 09:34:43 FillDCU (Cycle) time: 7.662s
+2026-05-11 09:34:43  mainFillDCU END
+2026-05-11 09:40:13 Sequence: FillCart , Time: 22.314s
+2026-05-11 09:40:24 StartA1Fluid: Start
+2026-05-11 09:40:25 StartA1Fluid: End
+2026-05-11 09:40:25 StartH1Fluid: Start
+2026-05-11 09:40:25 StartH1Fluid: End
+2026-05-11 09:40:29 POS DCU1 : 241.4, Target : 250.0.
+2026-05-11 09:40:34 CloseA1Fluid: Start
+2026-05-11 09:40:34 CloseA1Fluid: End
+2026-05-11 09:40:34 FillDCU (Cycle) time: 11.606s
+2026-05-11 09:40:34  mainFillDCU END
+2026-05-11 09:43:31 Sequence: FillCart , Time: 19.953s
+2026-05-11 09:46:10 StartA1Fluid: Start
+2026-05-11 09:46:10 StartA1Fluid: End
+2026-05-11 09:46:10 StartH1Fluid: Start
+2026-05-11 09:46:10 StartH1Fluid: End
+2026-05-11 09:46:19 POS DCU1 : 241.8, Target : 250.0.
+2026-05-11 09:46:19 CloseA1Fluid: Start
+2026-05-11 09:46:19 CloseA1Fluid: End
+2026-05-11 09:46:19 FillDCU (Cycle) time: 11.019s
+2026-05-11 09:46:19  mainFillDCU END
+2026-05-11 09:54:32 Sequence: FillCart , Time: 25.013s
+2026-05-11 09:54:43 StartA1Fluid: Start
+2026-05-11 09:54:43 StartA1Fluid: End
+2026-05-11 09:54:43 StartH1Fluid: Start
+2026-05-11 09:54:43 StartH1Fluid: End
+2026-05-11 09:54:51 POS DCU1 : 241.9, Target : 250.0.
+2026-05-11 09:54:54 CloseA1Fluid: Start
+2026-05-11 09:54:55 CloseA1Fluid: End
+2026-05-11 09:54:55 FillDCU (Cycle) time: 13.291s
+2026-05-11 09:54:55  mainFillDCU END
+2026-05-11 10:08:08 Sequence: FillCart , Time: 21.763s
+2026-05-11 10:10:59 StartA1Fluid: Start
+2026-05-11 10:11:00 StartA1Fluid: End
+2026-05-11 10:11:00 StartH1Fluid: Start
+2026-05-11 10:11:00 StartH1Fluid: End
+2026-05-11 10:11:05 POS DCU1 : 241.5, Target : 250.0.
+2026-05-11 10:11:09 CloseA1Fluid: Start
+2026-05-11 10:11:09 CloseA1Fluid: End
+2026-05-11 10:11:09 FillDCU (Cycle) time: 11.188s
+2026-05-11 10:11:09  mainFillDCU END
+2026-05-11 10:14:09 Sequence: FillCart , Time: 22.873s
+2026-05-11 10:15:50 StartA1Fluid: Start
+2026-05-11 10:15:50 StartA1Fluid: End
+2026-05-11 10:15:50 StartH1Fluid: Start
+2026-05-11 10:15:51 StartH1Fluid: End
+2026-05-11 10:15:58 POS DCU1 : 237.9, Target : 250.0.
+2026-05-11 10:15:59 CloseA1Fluid: Start
+2026-05-11 10:15:59 CloseA1Fluid: End
+2026-05-11 10:15:59 FillDCU (Cycle) time: 10.574s
+2026-05-11 10:15:59  mainFillDCU END
+2026-05-11 10:18:38 Sequence: FillCart , Time: 17.044s
+2026-05-11 10:20:52 StartA1Fluid: Start
+2026-05-11 10:20:52 StartA1Fluid: End
+2026-05-11 10:20:52 StartH1Fluid: Start
+2026-05-11 10:20:53 StartH1Fluid: End
+2026-05-11 10:21:00 POS DCU1 : 243.2, Target : 250.0.
+2026-05-11 10:21:00 CloseA1Fluid: Start
+2026-05-11 10:21:00 CloseA1Fluid: End
+2026-05-11 10:21:00 FillDCU (Cycle) time: 9.586s
+2026-05-11 10:21:00  mainFillDCU END
+2026-05-11 10:57:17 Sequence: FillCart , Time: 20.112s
+2026-05-11 10:57:28 StartA1Fluid: Start
+2026-05-11 10:57:28 StartA1Fluid: End
+2026-05-11 10:57:28 StartH1Fluid: Start
+2026-05-11 10:57:28 StartH1Fluid: End
+2026-05-11 10:57:33 POS DCU1 : 243.5, Target : 250.0.
+2026-05-11 10:57:36 CloseA1Fluid: Start
+2026-05-11 10:57:36 CloseA1Fluid: End
+2026-05-11 10:57:37 FillDCU (Cycle) time: 10.165s
+2026-05-11 10:57:37  mainFillDCU END
+2026-05-11 10:58:37 Sequence: FillCart , Time: 21.275s
+2026-05-11 11:01:58 StartA1Fluid: Start
+2026-05-11 11:01:59 StartA1Fluid: End
+2026-05-11 11:01:59 StartH1Fluid: Start
+2026-05-11 11:01:59 StartH1Fluid: End
+2026-05-11 11:02:06 POS DCU1 : 239.4, Target : 250.0.
+2026-05-11 11:02:08 CloseA1Fluid: Start
+2026-05-11 11:02:08 CloseA1Fluid: End
+2026-05-11 11:02:08 FillDCU (Cycle) time: 10.765s
+2026-05-11 11:02:08  mainFillDCU END
+2026-05-11 11:03:31 Sequence: FillCart , Time: 26.143s
+2026-05-11 11:06:52 StartA1Fluid: Start
+2026-05-11 11:06:53 StartA1Fluid: End
+2026-05-11 11:06:53 StartH1Fluid: Start
+2026-05-11 11:06:53 StartH1Fluid: End
+2026-05-11 11:07:01 POS DCU1 : 240.4, Target : 250.0.
+2026-05-11 11:07:04 CloseA1Fluid: Start
+2026-05-11 11:07:04 CloseA1Fluid: End
+2026-05-11 11:07:04 FillDCU (Cycle) time: 12.99s
+2026-05-11 11:07:04  mainFillDCU END
+2026-05-11 11:11:47 Sequence: FillCart , Time: 23.044s
+2026-05-11 11:13:16 StartA1Fluid: Start
+2026-05-11 11:13:16 StartA1Fluid: End
+2026-05-11 11:13:16 StartH1Fluid: Start
+2026-05-11 11:13:16 StartH1Fluid: End
+2026-05-11 11:13:26 POS DCU1 : 234.8, Target : 250.0.
+2026-05-11 11:13:26 CloseA1Fluid: Start
+2026-05-11 11:13:27 CloseA1Fluid: End
+2026-05-11 11:13:27 FillDCU (Cycle) time: 12.479s
+2026-05-11 11:13:27  mainFillDCU END
+2026-05-11 11:19:27 Sequence: FillCart , Time: 22.111s
+2026-05-11 11:19:38 StartA1Fluid: Start
+2026-05-11 11:19:39 StartA1Fluid: End
+2026-05-11 11:19:39 StartH1Fluid: Start
+2026-05-11 11:19:39 StartH1Fluid: End
+2026-05-11 11:19:48 POS DCU1 : 241.8, Target : 250.0.
+2026-05-11 11:19:48 CloseA1Fluid: Start
+2026-05-11 11:19:48 CloseA1Fluid: End
+2026-05-11 11:19:48 FillDCU (Cycle) time: 11.103s
+2026-05-11 11:19:48  mainFillDCU END
+2026-05-11 11:32:51 Sequence: FillCart , Time: 25.118s
+2026-05-11 11:33:02 StartA1Fluid: Start
+2026-05-11 11:33:02 StartA1Fluid: End
+2026-05-11 11:33:02 StartH1Fluid: Start
+2026-05-11 11:33:02 StartH1Fluid: End
+2026-05-11 11:33:10 POS DCU1 : 238.3, Target : 250.0.
+2026-05-11 11:33:11 CloseA1Fluid: Start
+2026-05-11 11:33:12 CloseA1Fluid: End
+2026-05-11 11:33:12 FillDCU (Cycle) time: 11.093s
+2026-05-11 11:33:12  mainFillDCU END
+2026-05-11 11:34:12 --
+2026-05-11 11:34:37 Sequence: FillCart , Time: 24.1s
+2026-05-11 11:37:35 StartA1Fluid: Start
+2026-05-11 11:37:35 StartA1Fluid: End
+2026-05-11 11:37:35 StartH1Fluid: Start
+2026-05-11 11:37:36 StartH1Fluid: End
+2026-05-11 11:37:43 POS DCU1 : 237.9, Target : 250.0.
+2026-05-11 11:37:44 CloseA1Fluid: Start
+2026-05-11 11:37:44 CloseA1Fluid: End
+2026-05-11 11:37:44 FillDCU (Cycle) time: 10.472s
+2026-05-11 11:37:44  mainFillDCU END
+2026-05-11 11:41:22 Sequence: FillCart , Time: 24.38s
+2026-05-11 11:42:31 StartA1Fluid: Start
+2026-05-11 11:42:31 StartA1Fluid: End
+2026-05-11 11:42:31 StartH1Fluid: Start
+2026-05-11 11:42:31 StartH1Fluid: End
+2026-05-11 11:42:38 POS DCU1 : 242.8, Target : 250.0.
+2026-05-11 11:42:42 CloseA1Fluid: Start
+2026-05-11 11:42:42 CloseA1Fluid: End
+2026-05-11 11:42:43 FillDCU (Cycle) time: 13.183s
+2026-05-11 11:42:43  mainFillDCU END
+2026-05-11 11:48:07 Sequence: FillCart , Time: 23.812s
+2026-05-11 11:48:19 StartA1Fluid: Start
+2026-05-11 11:48:20 StartA1Fluid: End
+2026-05-11 11:48:20 StartH1Fluid: Start
+2026-05-11 11:48:20 StartH1Fluid: End
+2026-05-11 11:48:25 POS DCU1 : 239.6, Target : 250.0.
+2026-05-11 11:48:31 CloseA1Fluid: Start
+2026-05-11 11:48:31 CloseA1Fluid: End
+2026-05-11 11:48:31 FillDCU (Cycle) time: 13.194s
+2026-05-11 11:48:31  mainFillDCU END
+2026-05-11 11:53:59 Sequence: FillCart , Time: 17.764s
+2026-05-11 11:55:35 StartA1Fluid: Start
+2026-05-11 11:55:35 StartA1Fluid: End
+2026-05-11 11:55:35 StartH1Fluid: Start
+2026-05-11 11:55:35 StartH1Fluid: End
+2026-05-11 11:55:39 POS DCU1 : 238.9, Target : 250.0.
+2026-05-11 11:55:41 CloseA1Fluid: Start
+2026-05-11 11:55:41 CloseA1Fluid: End
+2026-05-11 11:55:41 FillDCU (Cycle) time: 7.668s
+2026-05-11 11:55:41  mainFillDCU END
+2026-05-11 12:02:13 Sequence: FillCart , Time: 23.514s
+2026-05-11 12:02:23 StartA1Fluid: Start
+2026-05-11 12:02:24 StartA1Fluid: End
+2026-05-11 12:02:24 StartH1Fluid: Start
+2026-05-11 12:02:24 StartH1Fluid: End
+2026-05-11 12:02:28 POS DCU1 : 240.0, Target : 250.0.
+2026-05-11 12:02:35 CloseA1Fluid: Start
+2026-05-11 12:02:35 CloseA1Fluid: End
+2026-05-11 12:02:35 FillDCU (Cycle) time: 13.372s
+2026-05-11 12:02:35  mainFillDCU END
+2026-05-11 12:07:20 Sequence: FillCart , Time: 23.783s
+2026-05-11 12:09:39 StartA1Fluid: Start
+2026-05-11 12:09:40 StartA1Fluid: End
+2026-05-11 12:09:40 StartH1Fluid: Start
+2026-05-11 12:09:40 StartH1Fluid: End
+2026-05-11 12:09:44 POS DCU1 : 238.1, Target : 250.0.
+2026-05-11 12:09:48 CloseA1Fluid: Start
+2026-05-11 12:09:49 CloseA1Fluid: End
+2026-05-11 12:09:49 FillDCU (Cycle) time: 10.859s
+2026-05-11 12:09:49  mainFillDCU END
+2026-05-11 12:16:38 Sequence: FillCart , Time: 19.812s
+2026-05-11 12:16:49 StartA1Fluid: Start
+2026-05-11 12:16:49 StartA1Fluid: End
+2026-05-11 12:16:49 StartH1Fluid: Start
+2026-05-11 12:16:50 StartH1Fluid: End
+2026-05-11 12:16:57 POS DCU1 : 242.1, Target : 250.0.
+2026-05-11 12:16:58 CloseA1Fluid: Start
+2026-05-11 12:16:58 CloseA1Fluid: End
+2026-05-11 12:16:58 FillDCU (Cycle) time: 10.486s
+2026-05-11 12:16:58  mainFillDCU END
+2026-05-11 12:22:07 Sequence: FillCart , Time: 22.025s
+2026-05-11 12:24:04 StartA1Fluid: Start
+2026-05-11 12:24:04 StartA1Fluid: End
+2026-05-11 12:24:04 StartH1Fluid: Start
+2026-05-11 12:24:05 StartH1Fluid: End
+2026-05-11 12:24:12 POS DCU1 : 242.3, Target : 250.0.
+2026-05-11 12:24:14 CloseA1Fluid: Start
+2026-05-11 12:24:14 CloseA1Fluid: End
+2026-05-11 12:24:14 FillDCU (Cycle) time: 11.374s
+2026-05-11 12:24:14  mainFillDCU END
+2026-05-11 12:26:20 Sequence: FillCart , Time: 18.099s
+2026-05-11 12:28:58 StartA1Fluid: Start
+2026-05-11 12:28:58 StartA1Fluid: End
+2026-05-11 12:28:58 StartH1Fluid: Start
+2026-05-11 12:28:58 StartH1Fluid: End
+2026-05-11 12:29:07 POS DCU1 : 241.3, Target : 250.0.
+2026-05-11 12:29:07 CloseA1Fluid: Start
+2026-05-11 12:29:07 CloseA1Fluid: End
+2026-05-11 12:29:07 FillDCU (Cycle) time: 10.756s
+2026-05-11 12:29:07  mainFillDCU END
+2026-05-11 12:33:35 Sequence: FillCart , Time: 24.244s
+2026-05-11 12:34:11 StartA1Fluid: Start
+2026-05-11 12:34:12 StartA1Fluid: End
+2026-05-11 12:34:12 StartH1Fluid: Start
+2026-05-11 12:34:12 StartH1Fluid: End
+2026-05-11 12:34:16 POS DCU1 : 242.2, Target : 250.0.
+2026-05-11 12:34:23 CloseA1Fluid: Start
+2026-05-11 12:34:23 CloseA1Fluid: End
+2026-05-11 12:34:23 FillDCU (Cycle) time: 13.281s
+2026-05-11 12:34:23  mainFillDCU END
+2026-05-11 12:39:27 Sequence: FillCart , Time: 21.711s
+2026-05-11 12:39:38 StartA1Fluid: Start
+2026-05-11 12:39:38 StartH1Fluid: Start
+2026-05-11 12:39:39 StartH1Fluid: End
+2026-05-11 12:39:48 CloseA1Fluid: Start
+2026-05-11 12:39:48 CloseA1Fluid: End
+2026-05-11 12:39:48 FillDCU (Cycle) time: 10.99s
+2026-05-11 12:39:48  mainFillDCU END
+2026-05-11 12:43:26 Sequence: FillCart , Time: 26.773s
+2026-05-11 12:46:33 StartA1Fluid: Start
+2026-05-11 12:46:34 StartA1Fluid: End
+2026-05-11 12:46:34 StartH1Fluid: Start
+2026-05-11 12:46:34 StartH1Fluid: End
+2026-05-11 12:46:42 POS DCU1 : 239.5, Target : 250.0.
+2026-05-11 12:46:43 CloseA1Fluid: Start
+2026-05-11 12:46:43 CloseA1Fluid: End
+2026-05-11 12:46:43 FillDCU (Cycle) time: 10.888s
+2026-05-11 12:46:43  mainFillDCU END
+2026-05-11 12:47:49 Sequence: FillCart , Time: 9.841s
+2026-05-11 12:51:32 StartA1Fluid: Start
+2026-05-11 12:51:33 StartA1Fluid: End
+2026-05-11 12:51:33 StartH1Fluid: Start
+2026-05-11 12:51:33 StartH1Fluid: End
+2026-05-11 12:51:41 POS DCU1 : 242.5, Target : 250.0.
+2026-05-11 12:51:41 CloseA1Fluid: Start
+2026-05-11 12:51:41 CloseA1Fluid: End
+2026-05-11 12:51:41 FillDCU (Cycle) time: 10.277s
+2026-05-11 12:51:41  mainFillDCU END
+2026-05-11 13:11:10 Sequence: FillCart , Time: 21.21s
+2026-05-11 13:11:20 StartA1Fluid: Start
+2026-05-11 13:11:21 StartA1Fluid: End
+2026-05-11 13:11:21 StartH1Fluid: Start
+2026-05-11 13:11:21 StartH1Fluid: End
+2026-05-11 13:11:24 POS DCU1 : 237.7, Target : 250.0.
+2026-05-11 13:11:30 CloseA1Fluid: Start
+2026-05-11 13:11:30 CloseA1Fluid: End
+2026-05-11 13:11:30 FillDCU (Cycle) time: 11.071s
+2026-05-11 13:11:30  mainFillDCU END
+2026-05-11 13:17:24 StartA1Fluid: Start
+2026-05-11 13:17:25 StartA1Fluid: End
+2026-05-11 13:17:25 StartH1Fluid: Start
+2026-05-11 13:17:33 POS DCU1 : 241.2, Target : 250.0.
+2026-05-11 13:17:33 CloseA1Fluid: Start
+2026-05-11 13:17:33 CloseA1Fluid: End
+2026-05-11 13:17:33 FillDCU (Cycle) time: 10.233s
+2026-05-11 13:17:33  mainFillDCU END
+2026-05-11 13:46:09 Sequence: FillCart , Time: 20.71s
+2026-05-11 13:46:19 StartA1Fluid: Start
+2026-05-11 13:46:19 StartH1Fluid: Start
+2026-05-11 13:46:19 StartH1Fluid: End
+2026-05-11 13:46:28 CloseA1Fluid: Start
+2026-05-11 13:46:28 CloseA1Fluid: End
+2026-05-11 13:46:28 FillDCU (Cycle) time: 10.44s
+2026-05-11 13:46:28  mainFillDCU END
+2026-05-11 13:48:10 Sequence: FillCart , Time: 23.11s
+2026-05-11 13:50:49 StartA1Fluid: Start
+2026-05-11 13:50:49 StartA1Fluid: End
+2026-05-11 13:50:49 StartH1Fluid: Start
+2026-05-11 13:50:49 StartH1Fluid: End
+2026-05-11 13:50:57 POS DCU1 : 243.0, Target : 250.0.
+2026-05-11 13:51:00 CloseA1Fluid: Start
+2026-05-11 13:51:01 CloseA1Fluid: End
+2026-05-11 13:51:01 FillDCU (Cycle) time: 13.195s
+2026-05-11 13:51:01  mainFillDCU END
+2026-05-11 13:55:52 Sequence: FillCart , Time: 22.209s
+2026-05-11 13:56:02 StartA1Fluid: Start
+2026-05-11 13:56:03 StartA1Fluid: End
+2026-05-11 13:56:03 StartH1Fluid: Start
+2026-05-11 13:56:03 StartH1Fluid: End
+2026-05-11 13:56:07 POS DCU1 : 239.2, Target : 250.0.
+2026-05-11 13:56:13 CloseA1Fluid: Start
+2026-05-11 13:56:13 CloseA1Fluid: End
+2026-05-11 13:56:13 FillDCU (Cycle) time: 11.775s
+2026-05-11 13:56:13  mainFillDCU END
+2026-05-11 14:02:29 Sequence: FillCart , Time: 26.69s
+2026-05-11 14:03:40 StartA1Fluid: Start
+2026-05-11 14:03:40 StartA1Fluid: End
+2026-05-11 14:03:40 StartH1Fluid: Start
+2026-05-11 14:03:40 StartH1Fluid: End
+2026-05-11 14:03:49 POS DCU1 : 240.2, Target : 250.0.
+2026-05-11 14:03:51 CloseA1Fluid: Start
+2026-05-11 14:03:51 CloseA1Fluid: End
+2026-05-11 14:03:52 FillDCU (Cycle) time: 13.213s
+2026-05-11 14:03:52  mainFillDCU END
+2026-05-11 14:09:08 Sequence: FillCart , Time: 24.913s
+2026-05-11 14:11:57 StartA1Fluid: Start
+2026-05-11 14:11:58 StartA1Fluid: End
+2026-05-11 14:11:58 StartH1Fluid: Start
+2026-05-11 14:11:58 StartH1Fluid: End
+2026-05-11 14:12:03 POS DCU1 : 242.5, Target : 250.0.
+2026-05-11 14:12:07 CloseA1Fluid: Start
+2026-05-11 14:12:07 CloseA1Fluid: End
+2026-05-11 14:12:07 FillDCU (Cycle) time: 11.07s
+2026-05-11 14:12:07  mainFillDCU END
+2026-05-11 14:18:47 Sequence: FillCart , Time: 24.612s
+2026-05-11 14:18:58 StartA1Fluid: Start
+2026-05-11 14:18:58 StartA1Fluid: End
+2026-05-11 14:18:58 StartH1Fluid: Start
+2026-05-11 14:18:59 StartH1Fluid: End
+2026-05-11 14:19:06 POS DCU1 : 241.3, Target : 250.0.
+2026-05-11 14:19:09 CloseA1Fluid: Start
+2026-05-11 14:19:10 CloseA1Fluid: End
+2026-05-11 14:19:10 FillDCU (Cycle) time: 13.199s
+2026-05-11 14:19:10  mainFillDCU END
+2026-05-11 14:23:18 Sequence: FillCart , Time: 18.155s
+2026-05-11 14:24:53 StartA1Fluid: Start
+2026-05-11 14:24:54 StartA1Fluid: End
+2026-05-11 14:24:54 StartH1Fluid: Start
+2026-05-11 14:24:54 StartH1Fluid: End
+2026-05-11 14:24:59 POS DCU1 : 238.2, Target : 250.0.
+2026-05-11 14:24:59 CloseA1Fluid: Start
+2026-05-11 14:25:00 CloseA1Fluid: End
+2026-05-11 14:25:00 FillDCU (Cycle) time: 7.868s
+2026-05-11 14:25:00  mainFillDCU END
+2026-05-11 14:28:58 Sequence: FillCart , Time: 24.971s
+2026-05-11 14:29:36 StartA1Fluid: Start
+2026-05-11 14:29:37 StartA1Fluid: End
+2026-05-11 14:29:37 StartH1Fluid: Start
+2026-05-11 14:29:37 StartH1Fluid: End
+2026-05-11 14:29:42 POS DCU1 : 239.1, Target : 250.0.
+2026-05-11 14:29:48 CloseA1Fluid: Start
+2026-05-11 14:29:48 CloseA1Fluid: End
+2026-05-11 14:29:48 FillDCU (Cycle) time: 13.17s
+2026-05-11 14:29:48  mainFillDCU END
+2026-05-11 14:37:17 --
+2026-05-11 14:37:43 Sequence: FillCart , Time: 24.942s
+2026-05-11 14:39:06 StartA1Fluid: Start
+2026-05-11 14:39:06 StartA1Fluid: End
+2026-05-11 14:39:06 StartH1Fluid: Start
+2026-05-11 14:39:06 StartH1Fluid: End
+2026-05-11 14:39:11 POS DCU1 : 239.5, Target : 250.0.
+2026-05-11 14:39:15 CloseA1Fluid: Start
+2026-05-11 14:39:16 CloseA1Fluid: End
+2026-05-11 14:39:16 FillDCU (Cycle) time: 11.27s
+2026-05-11 14:39:16  mainFillDCU END
+2026-05-11 14:41:48 Sequence: FillCart , Time: 20.55s
+2026-05-11 14:43:59 StartA1Fluid: Start
+2026-05-11 14:44:00 StartA1Fluid: End
+2026-05-11 14:44:00 StartH1Fluid: Start
+2026-05-11 14:44:00 StartH1Fluid: End
+2026-05-11 14:44:08 POS DCU1 : 243.4, Target : 250.0.
+2026-05-11 14:44:08 CloseA1Fluid: Start
+2026-05-11 14:44:09 CloseA1Fluid: End
+2026-05-11 14:44:09 FillDCU (Cycle) time: 10.682s
+2026-05-11 14:44:09  mainFillDCU END
+2026-05-11 14:45:51 --
+2026-05-11 14:46:16 Sequence: FillCart , Time: 23.779s
+2026-05-11 14:48:53 StartA1Fluid: Start
+2026-05-11 14:48:54 StartA1Fluid: End
+2026-05-11 14:48:54 StartH1Fluid: Start
+2026-05-11 14:48:54 StartH1Fluid: End
+2026-05-11 14:49:01 POS DCU1 : 241.3, Target : 250.0.
+2026-05-11 14:49:03 CloseA1Fluid: Start
+2026-05-11 14:49:03 CloseA1Fluid: End
+2026-05-11 14:49:03 FillDCU (Cycle) time: 11.175s
+2026-05-11 14:49:03  mainFillDCU END
+2026-05-11 14:51:38 Sequence: FillCart , Time: 23.678s
+2026-05-11 14:53:52 StartA1Fluid: Start
+2026-05-11 14:53:52 StartA1Fluid: End
+2026-05-11 14:53:52 StartH1Fluid: Start
+2026-05-11 14:53:53 StartH1Fluid: End
+2026-05-11 14:54:01 POS DCU1 : 240.4, Target : 250.0.
+2026-05-11 14:54:04 CloseA1Fluid: Start
+2026-05-11 14:54:04 CloseA1Fluid: End
+2026-05-11 14:54:04 FillDCU (Cycle) time: 13.182s
+2026-05-11 14:54:04  mainFillDCU END
+2026-05-11 14:57:06 Sequence: FillCart , Time: 20.108s
+2026-05-11 14:57:17 StartA1Fluid: Start
+2026-05-11 14:57:17 StartA1Fluid: End
+2026-05-11 14:57:17 StartH1Fluid: Start
+2026-05-11 14:57:17 StartH1Fluid: End
+2026-05-11 14:57:18 POS DCU1 : 237.9, Target : 250.0.
+2026-05-11 14:57:26 CloseA1Fluid: Start
+2026-05-11 14:57:26 CloseA1Fluid: End
+2026-05-11 14:57:26 FillDCU (Cycle) time: 10.79s
+2026-05-11 14:57:26  mainFillDCU END
+2026-05-11 15:00:02 --
+2026-05-11 15:00:28 Sequence: FillCart , Time: 24.15s
+2026-05-11 15:02:50 StartA1Fluid: Start
+2026-05-11 15:02:51 StartA1Fluid: End
+2026-05-11 15:02:51 StartH1Fluid: Start
+2026-05-11 15:02:51 StartH1Fluid: End
+2026-05-11 15:02:58 POS DCU1 : 243.5, Target : 250.0.
+2026-05-11 15:03:00 CloseA1Fluid: Start
+2026-05-11 15:03:00 CloseA1Fluid: End
+2026-05-11 15:03:00 FillDCU (Cycle) time: 11.179s
+2026-05-11 15:03:00  mainFillDCU END
+2026-05-11 15:04:55 Sequence: FillCart , Time: 21.03s
+2026-05-11 15:07:49 StartA1Fluid: Start
+2026-05-11 15:07:49 StartA1Fluid: End
+2026-05-11 15:07:49 StartH1Fluid: Start
+2026-05-11 15:07:50 StartH1Fluid: End
+2026-05-11 15:07:58 POS DCU1 : 242.2, Target : 250.0.
+2026-05-11 15:07:58 CloseA1Fluid: Start
+2026-05-11 15:07:58 CloseA1Fluid: End
+2026-05-11 15:07:58 FillDCU (Cycle) time: 10.684s
+2026-05-11 15:07:58  mainFillDCU END
+2026-05-11 15:10:46 Sequence: FillCart , Time: 17.323s
+2026-05-11 15:13:16 StartA1Fluid: Start
+2026-05-11 15:13:17 StartA1Fluid: End
+2026-05-11 15:13:17 StartH1Fluid: Start
+2026-05-11 15:13:17 StartH1Fluid: End
+2026-05-11 15:13:24 POS DCU1 : 240.0, Target : 250.0.
+2026-05-11 15:13:24 CloseA1Fluid: Start
+2026-05-11 15:13:25 CloseA1Fluid: End
+2026-05-11 15:13:25 FillDCU (Cycle) time: 9.88s
+2026-05-11 15:13:25  mainFillDCU END
+2026-05-11 15:16:09 --
+2026-05-11 15:16:33 Sequence: FillCart , Time: 23.29s
+2026-05-11 15:16:59 StartA1Fluid: Start
+2026-05-11 15:16:59 StartA1Fluid: End
+2026-05-11 15:16:59 StartH1Fluid: Start
+2026-05-11 15:16:59 StartH1Fluid: End
+2026-05-11 15:17:04 POS DCU1 : 241.5, Target : 250.0.
+2026-05-11 15:17:10 CloseA1Fluid: Start
+2026-05-11 15:17:11 CloseA1Fluid: End
+2026-05-11 15:17:11 FillDCU (Cycle) time: 13.367s
+2026-05-11 15:17:11  mainFillDCU END
+2026-05-11 15:22:06 Sequence: FillCart , Time: 21.43s
+2026-05-11 15:22:51 StartA1Fluid: Start
+2026-05-11 15:22:52 StartA1Fluid: End
+2026-05-11 15:22:52 StartH1Fluid: Start
+2026-05-11 15:22:52 StartH1Fluid: End
+2026-05-11 15:22:56 POS DCU1 : 239.0, Target : 250.0.
+2026-05-11 15:23:00 CloseA1Fluid: Start
+2026-05-11 15:23:01 CloseA1Fluid: End
+2026-05-11 15:23:01 FillDCU (Cycle) time: 10.654s
+2026-05-11 15:23:01  mainFillDCU END
+2026-05-11 15:26:50 Sequence: FillCart , Time: 22.53s
+2026-05-11 15:28:39 StartA1Fluid: Start
+2026-05-11 15:28:40 StartA1Fluid: End
+2026-05-11 15:28:40 StartH1Fluid: Start
+2026-05-11 15:28:40 StartH1Fluid: End
+2026-05-11 15:28:47 POS DCU1 : 242.1, Target : 250.0.
+2026-05-11 15:28:49 CloseA1Fluid: Start
+2026-05-11 15:28:49 CloseA1Fluid: End
+2026-05-11 15:28:50 FillDCU (Cycle) time: 11.772s
+2026-05-11 15:28:50  mainFillDCU END
+2026-05-11 15:51:50 Sequence: FillCart , Time: 23.516s
+2026-05-11 15:52:02 StartA1Fluid: Start
+2026-05-11 15:52:03 StartA1Fluid: End
+2026-05-11 15:52:03 StartH1Fluid: Start
+2026-05-11 15:52:03 StartH1Fluid: End
+2026-05-11 15:52:11 POS DCU1 : 241.2, Target : 250.0.
+2026-05-11 15:52:14 CloseA1Fluid: Start
+2026-05-11 15:52:14 CloseA1Fluid: End
+2026-05-11 15:52:14 FillDCU (Cycle) time: 13.111s
+2026-05-11 15:52:14  mainFillDCU END

@@ -1,0 +1,153 @@
+1,
+2,
+3,
+4,
+5,Nero Noctis
+6,Bianco Monocerus
+7,Giallo Auge
+8,Nero Helene
+9,Grigio Nimbus
+10,Verde Lares
+11,Grigio Keres
+12,Bianco Icarus
+13,Blue Eleos
+96,Marrone Alcestis
+14,Rosso Anteros
+16,Rosso Mars
+17,Verde Mantis UNI
+15,Blue Astraeus
+18,Verde Mantis Perle
+19,Arancio Borealis UNI 
+20,Arancio Borealis Perle
+21,Giallo Inti UNI
+22,Giallo Inti Perle
+23,Verde Scandal
+24,Ballon White L1 Ground
+25,Ballon White L2 Perle
+26,Verde Hydra
+27,Grigio Telesto
+28,Blu Cepheus L1 Ground
+29,Blu Cepheus L2 Perle
+30,Nero Granatus
+31,Grigio Hati
+32,Verde Selvans L1
+33,Verde Selvans Perle
+34,Viola Pasifae L1 Ground
+35,Viola Pasifae Perle
+36,Marrone Eklipsis
+37,Grigio Antares
+38,Viola Mithras
+39,Blue Aegir
+40,Bronzo Hypnos
+41,Rosso Efesto L1
+42,Rosso Efesto L2
+43,Grigio Askr
+44,Arancio Argos L1
+45,Arancio Argos Perle
+46,Blue Vestri
+47,Verde Silvanus
+48,Rosso Bala
+49,Blu Caelum
+50,Blue Nethuns L1
+51,Blu Nethuns L2 Uni
+52,Arancio Xanto L1
+53,Arancio Xanto Perle
+54,Bronzo Zante
+55,Verde Citrea L1
+56,Verde Citrea Transl
+57,Rosso Arancio
+58,Bianco Comes L1
+59,Bianco Comes Perle
+60,Blue Notte
+61,Oro Elios
+62,Verde Gea
+63,Verde Viper
+64,Blu Lacus
+65,Blu Okeanos
+66,Verde Turbine
+67,Grigio Lynx
+68,Blu Uranus L1
+69,Blu Uranus Perle
+70,Bianco Phanes
+71,Azzurro Polozia
+72,Verde Metallic
+73,Grigio China
+74,Grigio Acheso
+75,Grigio Titans
+76,Bianco Asopo L1
+77,Bianco Asopo Perle
+78,Arancio Anthaeus L1
+79,Arancio Anthaeus Perle
+80,Piastre
+81,Vesuvgrau
+82,Arancio Miura L1
+83,Arancio Miura Perle
+84,Arancio Apodis L1
+85,Arancio Apodis L2
+86,Arancio Eclipse
+87,Bianco Sapphirus L1
+88,Bianco Sapphirus Perle
+89,Blu Glauco
+90,Blu Hal L1
+91,Blu Hal L2
+95,Rosa Clori
+97,Viola Galaxia
+98,Arancio Egon L1
+99,Arancio Egon L2
+100,Blu Marinus L1
+101,Blu Marinus L2
+102,Grigio Crater
+103,Blu Grifo
+104,Blu le mans
+105,Verde Ermes
+106,Blu Marinus BASF
+107,T400
+108,PRIMER BASF
+109,Blu Mehit
+110,B. Sapphirus L1 BASF
+111,B. Sapphirus L2 BASF
+112,V. Mercurius L1 BASF
+113,V. Mercurius L2 BASF
+114,V.Mercurius L1 PPG
+115,V.Mercurius L2 PPG
+116,TEST UNI
+117,TEST MET/PER
+118,Giallo Radii L1
+119,Giallo Radii L2
+120,Giallo Countach L1
+121,Blu Cepheus 2L PPG
+122,Giallo Countach 2L PPG
+123,Giallo Inti accent colors
+124,Verde Mantis accent colors
+125,Arancio Borealis accent colors
+126,Blu Indaco accent colors
+999,Cleaning
+130,Oro Alba PPG
+131,Viola 30th
+133,Grigio Liqueo L2 PPG
+134,Verde Agave L1 PPG
+135,Verde Agave L2 PPG
+137,Giallo Crius L2 BASF
+138,Blu Uranus L1 BASF
+139,Blu Uranus L2 BASF
+140,Viola Venus L1 Axalta
+141,Viola Venus L2 Axalta
+142,Bianco Asopo L1 BASF
+143,Bianco Asopo L2 BASF
+145,Blu Uranus L1 PPG
+146,Blu Uranus L2 PPG
+147,Bianco Siderale L1 PPG
+148,Bianco Siderale L2 PPG
+149,Viola Pasifae L1 PPG
+150,Viola Pasifae L2 PPG
+151,Blu Acapulco BASF
+152,Giallo Tenerife L1 BASF
+153,Giallo Tenerife L2 BASF
+154,Viola Venus L1 PPG
+155,Viola Venus L2 PPG
+156,Celeste Kami L1 PPG
+157,Celeste Kami L1 PPG
+158,Giallo Tenerife L1 PPG
+159,Giallo Tenerife L2 PPG
+160,Celeste Delos PPG
+161,Adhesion Promoter

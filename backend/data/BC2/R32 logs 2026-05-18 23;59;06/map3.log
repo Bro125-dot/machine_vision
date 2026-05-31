@@ -1,0 +1,1746 @@
+2026-04-21 12:07:05 --- Trajectory --- 
+2026-04-21 12:07:05 Prog : HURACAN_SP_BC2_R32_EXT Skid: 160 Paint : 0.
+2026-04-21 12:07:05 ------------------ 
+2026-04-21 12:15:52  Vol : HURACAN_BC2_R32_Plastic Skid: 46 Calcul Vol : 63 Color: 29.
+2026-04-21 12:15:52  ---------------------------
+2026-04-21 12:21:48  Vol : HURACAN_BC2_R32_INT Skid: 139 Calcul Vol : 18 Color: 29.
+2026-04-21 12:21:48  ---------------------------
+2026-04-21 12:21:54  Vol : HURACAN_BC2_R32_EXT_new Skid: 139 Calcul Vol : 225 Color: 29.
+2026-04-21 12:21:54  ---------------------------
+2026-04-21 12:47:03 --- Trajectory --- 
+2026-04-21 12:47:03 Prog : HURACAN_SP_BC2_R32_EXT Skid: 160 Paint : 0.
+2026-04-21 12:47:03 ------------------ 
+2026-04-21 12:54:51  Default Volume : URUS_PA2_BC2_R32_EXT_2026 Skid: 74.
+2026-04-21 12:54:52  Vol : URUS_PA2_BC2_R32_EXT_2026 Skid: 74 Calcul Vol : 650 Color: 11.
+2026-04-21 12:54:52  ---------------------------
+2026-04-21 12:59:04 --- Trajectory --- 
+2026-04-21 12:59:04 Prog : HURACAN_BC2_R32_Plastic Skid: 46 Paint : 106.
+2026-04-21 12:59:04 ------------------ 
+2026-04-21 13:03:27 --- Trajectory INT --- 
+2026-04-21 13:03:27  HURACAN_BC2_R31_INT " Skid: 139 Paint : 0.
+2026-04-21 13:03:27 --- --- 
+2026-04-21 13:03:29 --- Trajectory --- 
+2026-04-21 13:03:29 Prog : HURACAN_BC2_R32_INT Skid: 139 Paint : 16.
+2026-04-21 13:03:29 ------------------ 
+2026-04-21 13:05:59 --- Trajectory --- 
+2026-04-21 13:05:59 Prog : HURACAN_BC2_R32_EXT_new Skid: 139 Paint : 202.
+2026-04-21 13:05:59 ------------------ 
+2026-04-21 13:33:50 --- Trajectory --- 
+2026-04-21 13:33:50 Prog : HURACAN_BC2_R32_EXT_new Skid: 139 Paint : 0.
+2026-04-21 13:33:50 ------------------ 
+2026-04-21 13:49:10  Default Volume : URUS_PA2_BC2_R32_EXT_2026 Skid: 4.
+2026-04-21 13:49:12  Vol : URUS_PA2_BC2_R32_EXT_2026 Skid: 4 Calcul Vol : 650 Color: 29.
+2026-04-21 13:49:12  ---------------------------
+2026-04-21 14:28:25 --- Trajectory --- 
+2026-04-21 14:28:25 Prog : HURACAN_BC2_R32_EXT_new Skid: 139 Paint : 0.
+2026-04-21 14:28:25 ------------------ 
+2026-04-21 14:38:58  Default Volume : URUS_PA2_BC2_R32_EXT_2026 Skid: 68.
+2026-04-21 14:39:00  Vol : URUS_PA2_BC2_R32_EXT_2026 Skid: 68 Calcul Vol : 650 Color: 9.
+2026-04-21 14:39:00  ---------------------------
+2026-04-21 14:58:38  Vol : HURACAN_BC2_R32_INT Skid: 60 Calcul Vol : 0 Color: 14.
+2026-04-21 14:58:38  ---------------------------
+2026-04-21 14:58:43  Default Volume : HURACAN_SP_BC2_R32_EXT Skid: 60.
+2026-04-21 14:58:45  Vol : HURACAN_SP_BC2_R32_EXT Skid: 60 Calcul Vol : 650 Color: 14.
+2026-04-21 14:58:45  ---------------------------
+2026-04-21 15:07:31  Vol : HURACAN_BC2_R32_Plastic Skid: 45 Calcul Vol : 118 Color: 112.
+2026-04-21 15:07:31  ---------------------------
+2026-04-21 15:12:57  Vol : HURACAN_BC2_R32_INT Skid: 14 Calcul Vol : 28 Color: 112.
+2026-04-21 15:12:57  ---------------------------
+2026-04-21 15:13:03  Vol : HURACAN_BC2_R32_EXT_new Skid: 14 Calcul Vol : 356 Color: 112.
+2026-04-21 15:13:03  ---------------------------
+2026-04-21 15:24:12 --- Trajectory --- 
+2026-04-21 15:24:12 Prog : HURACAN_BC2_R32_EXT_new Skid: 139 Paint : 0.
+2026-04-21 15:24:12 ------------------ 
+2026-04-21 15:27:07 --- Trajectory INT --- 
+2026-04-21 15:27:07  HURACAN_BC2_R31_INT " Skid: 60 Paint : 0.
+2026-04-21 15:27:07 --- --- 
+2026-04-21 15:27:10 --- Trajectory --- 
+2026-04-21 15:27:10 Prog : HURACAN_BC2_R32_INT Skid: 60 Paint : 0.
+2026-04-21 15:27:10 ------------------ 
+2026-04-21 15:28:49  Vol : URUS_PA2_R32_Plastic Skid: 7 Calcul Vol : 5 Color: 35.
+2026-04-21 15:28:49  ---------------------------
+2026-04-21 15:29:44 --- Trajectory --- 
+2026-04-21 15:29:44 Prog : HURACAN_SP_BC2_R32_EXT Skid: 60 Paint : 267.
+2026-04-21 15:29:44 ------------------ 
+2026-04-21 15:32:34  Default Volume : URUS_PA2_BC2_R32_EXT_2026 Skid: 233.
+2026-04-21 15:32:36  Vol : URUS_PA2_BC2_R32_EXT_2026 Skid: 233 Calcul Vol : 650 Color: 35.
+2026-04-21 15:32:36  ---------------------------
+2026-04-21 15:37:19 --- Trajectory --- 
+2026-04-21 15:37:19 Prog : HURACAN_BC2_R32_Plastic Skid: 45 Paint : 186.
+2026-04-21 15:37:19 ------------------ 
+2026-04-21 15:37:37  Vol : HURACAN_BC2_R32_INT Skid: 120 Calcul Vol : 18 Color: 11.
+2026-04-21 15:37:37  ---------------------------
+2026-04-21 15:37:43  Vol : HURACAN_BC2_R32_EXT_new Skid: 120 Calcul Vol : 342 Color: 11.
+2026-04-21 15:37:43  ---------------------------
+2026-04-21 15:43:14 --- Trajectory INT --- 
+2026-04-21 15:43:14  HURACAN_BC2_R31_INT " Skid: 14 Paint : 0.
+2026-04-21 15:43:14 --- --- 
+2026-04-21 15:43:17 --- Trajectory --- 
+2026-04-21 15:43:17 Prog : HURACAN_BC2_R32_INT Skid: 14 Paint : 27.
+2026-04-21 15:43:17 ------------------ 
+2026-04-21 15:45:46 --- Trajectory --- 
+2026-04-21 15:45:46 Prog : HURACAN_BC2_R32_EXT_new Skid: 14 Paint : 335.
+2026-04-21 15:45:46 ------------------ 
+2026-04-21 15:52:13  Vol : URUS_PA2_R32_Plastic Skid: 98 Calcul Vol : 5 Color: 18.
+2026-04-21 15:52:13  ---------------------------
+2026-04-21 15:56:55 --- Trajectory --- 
+2026-04-21 15:56:55 Prog : HURACAN_BC2_R32_EXT_new Skid: 14 Paint : 0.
+2026-04-21 15:56:55 ------------------ 
+2026-04-21 16:03:24 --- Trajectory --- 
+2026-04-21 16:03:24 Prog : HURACAN_BC2_R32_EXT_new Skid: 14 Paint : 0.
+2026-04-21 16:03:24 ------------------ 
+2026-04-21 16:05:29 --- Trajectory INT --- 
+2026-04-21 16:05:29  HURACAN_BC2_R31_INT " Skid: 120 Paint : 0.
+2026-04-21 16:05:29 --- --- 
+2026-04-21 16:05:32 --- Trajectory --- 
+2026-04-21 16:05:32 Prog : HURACAN_BC2_R32_INT Skid: 120 Paint : 16.
+2026-04-21 16:05:32 ------------------ 
+2026-04-21 16:07:40 --- Trajectory --- 
+2026-04-21 16:07:40 Prog : HURACAN_BC2_R32_EXT_new Skid: 120 Paint : 181.
+2026-04-21 16:07:40 ------------------ 
+2026-04-21 16:19:44 --- Trajectory --- 
+2026-04-21 16:19:44 Prog : HURACAN_BC2_R32_EXT_new Skid: 120 Paint : 0.
+2026-04-21 16:19:44 ------------------ 
+2026-04-21 17:01:23  Vol : URUS_PA2_R32_Plastic Skid: 11 Calcul Vol : 10 Color: 62.
+2026-04-21 17:01:23  ---------------------------
+2026-04-21 17:10:45  Vol : HURACAN_BC2_R32_Plastic Skid: 97 Calcul Vol : 96 Color: 97.
+2026-04-21 17:10:45  ---------------------------
+2026-04-21 17:14:53  Vol : HURACAN_BC2_R32_INT Skid: 85 Calcul Vol : 28 Color: 97.
+2026-04-21 17:14:53  ---------------------------
+2026-04-21 17:14:59  Vol : HURACAN_BC2_R32_EXT_new Skid: 85 Calcul Vol : 339 Color: 97.
+2026-04-21 17:14:59  ---------------------------
+2026-04-21 17:19:37  Vol : URUS_PA2SPORT_R32_EXT Skid: 21 Calcul Vol : 881 Color: 26.
+2026-04-21 17:19:37  ---------------------------
+2026-04-21 17:27:19 --- Trajectory --- 
+2026-04-21 17:27:19 Prog : HURACAN_BC2_R32_EXT_new Skid: 120 Paint : 0.
+2026-04-21 17:27:19 ------------------ 
+2026-04-21 17:37:48 --- Trajectory --- 
+2026-04-21 17:37:48 Prog : HURACAN_BC2_R32_Plastic Skid: 97 Paint : 172.
+2026-04-21 17:37:48 ------------------ 
+2026-04-21 17:42:16 --- Trajectory INT --- 
+2026-04-21 17:42:16  HURACAN_BC2_R31_INT " Skid: 85 Paint : 0.
+2026-04-21 17:42:16 --- --- 
+2026-04-21 17:42:19 --- Trajectory --- 
+2026-04-21 17:42:19 Prog : HURACAN_BC2_R32_INT Skid: 85 Paint : 27.
+2026-04-21 17:42:19 ------------------ 
+2026-04-21 17:44:48 --- Trajectory --- 
+2026-04-21 17:44:48 Prog : HURACAN_BC2_R32_EXT_new Skid: 85 Paint : 319.
+2026-04-21 17:44:48 ------------------ 
+2026-04-21 17:48:41 --- Trajectory --- 
+2026-04-21 17:48:41 Prog : URUS_PA2SPORT_R32_EXT Skid: 21 Paint : 392.
+2026-04-21 17:48:41 ------------------ 
+2026-04-21 18:12:20  Vol : URUS_PA2_R32_Plastic Skid: 186 Calcul Vol : 10 Color: 26.
+2026-04-21 18:12:20  ---------------------------
+2026-04-21 18:26:19 --- Trajectory --- 
+2026-04-21 18:26:19 Prog : URUS_PA2SPORT_R32_EXT Skid: 21 Paint : 0.
+2026-04-21 18:26:19 ------------------ 
+2026-04-21 18:36:53  Vol : URUS_PA2_R32_Plastic Skid: 259 Calcul Vol : 10 Color: 22.
+2026-04-21 18:36:53  ---------------------------
+2026-04-21 18:50:35 --- Trajectory --- 
+2026-04-21 18:50:35 Prog : URUS_PA2SPORT_R32_EXT Skid: 21 Paint : 0.
+2026-04-21 18:50:35 ------------------ 
+2026-04-21 18:53:22  Vol : HURACAN_BC2_R32_Plastic Skid: 45 Calcul Vol : 157 Color: 113.
+2026-04-21 18:53:22  ---------------------------
+2026-04-21 18:57:14  Vol : HURACAN_BC2_R32_INT Skid: 14 Calcul Vol : 38 Color: 113.
+2026-04-21 18:57:14  ---------------------------
+2026-04-21 18:57:20  Vol : HURACAN_BC2_R32_EXT_new Skid: 14 Calcul Vol : 477 Color: 113.
+2026-04-21 18:57:20  ---------------------------
+2026-04-21 19:12:51 --- Trajectory --- 
+2026-04-21 19:12:51 Prog : HURACAN_BC2_R32_Plastic Skid: 45 Paint : 265.
+2026-04-21 19:12:51 ------------------ 
+2026-04-21 19:22:59  Vol : URUS_PA2_R32_Plastic Skid: 149 Calcul Vol : 7 Color: 53.
+2026-04-21 19:22:59  ---------------------------
+2026-04-21 19:26:46 --- Trajectory INT --- 
+2026-04-21 19:26:46  HURACAN_BC2_R31_INT " Skid: 14 Paint : 0.
+2026-04-21 19:26:46 --- --- 
+2026-04-21 19:26:48 --- Trajectory --- 
+2026-04-21 19:26:48 Prog : HURACAN_BC2_R32_INT Skid: 14 Paint : 37.
+2026-04-21 19:26:48 ------------------ 
+2026-04-21 19:27:18  Default Volume : URUS_PA2_BC2_R32_EXT_2026 Skid: 80.
+2026-04-21 19:27:20  Vol : URUS_PA2_BC2_R32_EXT_2026 Skid: 80 Calcul Vol : 650 Color: 53.
+2026-04-21 19:27:20  ---------------------------
+2026-04-21 19:29:18 --- Trajectory --- 
+2026-04-21 19:29:18 Prog : HURACAN_BC2_R32_EXT_new Skid: 14 Paint : 461.
+2026-04-21 19:29:18 ------------------ 
+2026-04-21 19:42:26 --- Trajectory --- 
+2026-04-21 19:42:26 Prog : HURACAN_BC2_R32_EXT_new Skid: 14 Paint : 0.
+2026-04-21 19:42:26 ------------------ 
+2026-04-21 19:49:44  Vol : HURACAN_BC2_R32_INT Skid: 59 Calcul Vol : 0 Color: 14.
+2026-04-21 19:49:44  ---------------------------
+2026-04-21 19:49:50  Vol : HURACAN_BC2_R32_EXT_new Skid: 59 Calcul Vol : 333 Color: 14.
+2026-04-21 19:49:50  ---------------------------
+2026-04-21 19:50:55 --- Trajectory --- 
+2026-04-21 19:50:55 Prog : HURACAN_BC2_R32_EXT_new Skid: 14 Paint : 0.
+2026-04-21 19:50:55 ------------------ 
+2026-04-21 20:15:09 --- Trajectory INT --- 
+2026-04-21 20:15:09  HURACAN_BC2_R31_INT " Skid: 59 Paint : 0.
+2026-04-21 20:15:09 --- --- 
+2026-04-21 20:15:12 --- Trajectory --- 
+2026-04-21 20:15:12 Prog : HURACAN_BC2_R32_INT Skid: 59 Paint : 0.
+2026-04-21 20:15:12 ------------------ 
+2026-04-21 20:17:35 --- Trajectory --- 
+2026-04-21 20:17:35 Prog : HURACAN_BC2_R32_EXT_new Skid: 59 Paint : 173.
+2026-04-21 20:17:35 ------------------ 
+2026-04-21 20:57:59  Default Volume : URUS_PA2_BC2_R32_EXT_2026 Skid: 237.
+2026-04-21 20:58:01  Vol : URUS_PA2_BC2_R32_EXT_2026 Skid: 237 Calcul Vol : 650 Color: 62.
+2026-04-21 20:58:01  ---------------------------
+2026-04-21 21:32:24 --- Trajectory --- 
+2026-04-21 21:32:24 Prog : HURACAN_BC2_R32_EXT_new Skid: 59 Paint : 0.
+2026-04-21 21:32:24 ------------------ 
+2026-04-22 02:39:20  Default Volume : URUS_PA2_BC2_R32_EXT_2026 Skid: 78.
+2026-04-22 02:39:21  Vol : URUS_PA2_BC2_R32_EXT_2026 Skid: 78 Calcul Vol : 650 Color: 12.
+2026-04-22 02:39:21  ---------------------------
+2026-04-22 03:21:01 --- Trajectory --- 
+2026-04-22 03:21:01 Prog : HURACAN_BC2_R32_EXT_new Skid: 15615 Paint : 271.
+2026-04-22 03:21:01 ------------------ 
+2026-04-22 03:36:07 --- Trajectory --- 
+2026-04-22 03:36:07 Prog : HURACAN_BC2_R32_EXT_new Skid: 15615 Paint : 0.
+2026-04-22 03:36:07 ------------------ 
+2026-04-22 03:41:14  Default Volume : URUS_PA2_BC2_R32_EXT_2026 Skid: 24.
+2026-04-22 03:41:16  Vol : URUS_PA2_BC2_R32_EXT_2026 Skid: 24 Calcul Vol : 650 Color: 22.
+2026-04-22 03:41:16  ---------------------------
+2026-04-22 06:12:28 --- Trajectory --- 
+2026-04-22 06:12:28 Prog : HURACAN_BC2_R32_EXT_new Skid: 15615 Paint : 0.
+2026-04-22 06:12:28 ------------------ 
+2026-04-22 06:47:42  Default Volume : URUS_PA2_BC2_R32_EXT_2026 Skid: 148.
+2026-04-22 06:47:43  Vol : URUS_PA2_BC2_R32_EXT_2026 Skid: 148 Calcul Vol : 650 Color: 20.
+2026-04-22 06:47:43  ---------------------------
+2026-04-22 06:50:20  Vol : URUS_PA2_R32_Plastic Skid: 67 Calcul Vol : 10 Color: 20.
+2026-04-22 06:50:20  ---------------------------
+2026-04-22 06:56:31  Default Volume : URUS_PA2_BC2_R32_EXT_2026 Skid: 245.
+2026-04-22 06:56:33  Vol : URUS_PA2_BC2_R32_EXT_2026 Skid: 245 Calcul Vol : 650 Color: 26.
+2026-04-22 06:56:33  ---------------------------
+2026-04-22 07:10:55  Vol : HURACAN_BC2_R32_Plastic Skid: 45 Calcul Vol : 110 Color: 145.
+2026-04-22 07:10:55  ---------------------------
+2026-04-22 07:14:27 --- Trajectory --- 
+2026-04-22 07:14:27 Prog : HURACAN_BC2_R32_EXT_new Skid: 15615 Paint : 0.
+2026-04-22 07:14:27 ------------------ 
+2026-04-22 07:15:59  Vol : HURACAN_BC2_R32_INT Skid: 131 Calcul Vol : 28 Color: 68.
+2026-04-22 07:15:59  ---------------------------
+2026-04-22 07:16:05  Vol : HURACAN_BC2_R32_EXT_new Skid: 131 Calcul Vol : 384 Color: 68.
+2026-04-22 07:16:05  ---------------------------
+2026-04-22 07:17:45 --- Trajectory --- 
+2026-04-22 07:17:45 Prog : HURACAN_BC2_R32_EXT_new Skid: 15615 Paint : 0.
+2026-04-22 07:17:45 ------------------ 
+2026-04-22 07:23:20 --- Trajectory --- 
+2026-04-22 07:23:20 Prog : HURACAN_BC2_R32_EXT_new Skid: 15615 Paint : 0.
+2026-04-22 07:23:20 ------------------ 
+2026-04-22 07:25:57  Vol : HURACAN_BC2_R32_Plastic Skid: 45 Calcul Vol : 121 Color: 68.
+2026-04-22 07:25:57  ---------------------------
+2026-04-22 07:47:11 --- Trajectory --- 
+2026-04-22 07:47:11 Prog : HURACAN_BC2_R32_Plastic Skid: 45 Paint : 197.
+2026-04-22 07:47:11 ------------------ 
+2026-04-22 07:50:23 --- Trajectory INT --- 
+2026-04-22 07:50:23  HURACAN_BC2_R31_INT " Skid: 131 Paint : 0.
+2026-04-22 07:50:23 --- --- 
+2026-04-22 07:50:26 --- Trajectory --- 
+2026-04-22 07:50:26 Prog : HURACAN_BC2_R32_INT Skid: 131 Paint : 27.
+2026-04-22 07:50:26 ------------------ 
+2026-04-22 07:52:55 --- Trajectory --- 
+2026-04-22 07:52:55 Prog : HURACAN_BC2_R32_EXT_new Skid: 131 Paint : 365.
+2026-04-22 07:52:56 ------------------ 
+2026-04-22 07:59:20  Default Volume : URUS_PA2_BC2_R32_EXT_2026 Skid: 168.
+2026-04-22 07:59:21  Vol : URUS_PA2_BC2_R32_EXT_2026 Skid: 168 Calcul Vol : 650 Color: 11.
+2026-04-22 07:59:21  ---------------------------
+2026-04-22 08:29:17 --- Trajectory --- 
+2026-04-22 08:29:17 Prog : HURACAN_BC2_R32_EXT_new Skid: 131 Paint : 0.
+2026-04-22 08:29:17 ------------------ 
+2026-04-22 08:57:04  Vol : HURACAN_BC2_R32_INT Skid: 230 Calcul Vol : 29 Color: 9.
+2026-04-22 08:57:04  ---------------------------
+2026-04-22 08:57:10  Vol : HURACAN_BC2_R32_EXT_new Skid: 230 Calcul Vol : 333 Color: 9.
+2026-04-22 08:57:10  ---------------------------
+2026-04-22 09:07:05  Vol : URUS_PA2_R32_Plastic Skid: 98 Calcul Vol : 5 Color: 68.
+2026-04-22 09:07:05  ---------------------------
+2026-04-22 09:12:04  Default Volume : URUS_PA2_BC2_R32_EXT_2026 Skid: 57.
+2026-04-22 09:12:05  Vol : URUS_PA2_BC2_R32_EXT_2026 Skid: 57 Calcul Vol : 650 Color: 68.
+2026-04-22 09:12:05  ---------------------------
+2026-04-22 09:21:47 --- Trajectory INT --- 
+2026-04-22 09:21:47  HURACAN_BC2_R31_INT " Skid: 230 Paint : 0.
+2026-04-22 09:21:47 --- --- 
+2026-04-22 09:21:50 --- Trajectory --- 
+2026-04-22 09:21:50 Prog : HURACAN_BC2_R32_INT Skid: 230 Paint : 27.
+2026-04-22 09:21:50 ------------------ 
+2026-04-22 09:23:58 --- Trajectory --- 
+2026-04-22 09:23:58 Prog : HURACAN_BC2_R32_EXT_new Skid: 230 Paint : 176.
+2026-04-22 09:23:58 ------------------ 
+2026-04-22 09:29:58 --- Trajectory --- 
+2026-04-22 09:29:58 Prog : HURACAN_BC2_R32_EXT_new Skid: 230 Paint : 0.
+2026-04-22 09:29:58 ------------------ 
+2026-04-22 09:39:45 --- Trajectory --- 
+2026-04-22 09:39:45 Prog : HURACAN_BC2_R32_EXT_new Skid: 230 Paint : 0.
+2026-04-22 09:39:45 ------------------ 
+2026-04-22 10:05:38  Default Volume : URUS_PA2_BC2_R32_EXT_2026 Skid: 213.
+2026-04-22 10:05:40  Vol : URUS_PA2_BC2_R32_EXT_2026 Skid: 213 Calcul Vol : 650 Color: 62.
+2026-04-22 10:05:40  ---------------------------
+2026-04-22 10:10:33  Vol : URUS_PA2_R32_Plastic Skid: 149 Calcul Vol : 10 Color: 62.
+2026-04-22 10:10:33  ---------------------------
+2026-04-22 10:33:39 --- Trajectory --- 
+2026-04-22 10:33:39 Prog : HURACAN_BC2_R32_EXT_new Skid: 230 Paint : 0.
+2026-04-22 10:33:39 ------------------ 
+2026-04-22 10:43:22 --- Trajectory --- 
+2026-04-22 10:43:22 Prog : HURACAN_BC2_R32_EXT_new Skid: 230 Paint : 0.
+2026-04-22 10:43:22 ------------------ 
+2026-04-22 11:03:46  Default Volume : URUS_ACCENTSKID_R32 Skid: 34.
+2026-04-22 11:03:47  Vol : URUS_ACCENTSKID_R32 Skid: 34 Calcul Vol : 650 Color: 125.
+2026-04-22 11:03:47  ---------------------------
+2026-04-22 11:08:58  Vol : URUS_PA2_R32_Plastic Skid: 169 Calcul Vol : 10 Color: 20.
+2026-04-22 11:08:58  ---------------------------
+2026-04-22 11:26:01  Vol : HURACAN_BC2_R32_Plastic Skid: 45 Calcul Vol : 76 Color: 69.
+2026-04-22 11:26:01  ---------------------------
+2026-04-22 11:30:03  Vol : HURACAN_BC2_R32_INT Skid: 131 Calcul Vol : 27 Color: 69.
+2026-04-22 11:30:03  ---------------------------
+2026-04-22 11:30:08  Vol : HURACAN_BC2_R32_EXT_new Skid: 131 Calcul Vol : 294 Color: 69.
+2026-04-22 11:30:08  ---------------------------
+2026-04-22 11:34:39 --- Trajectory --- 
+2026-04-22 11:34:39 Prog : URUS_ACCENTSKID_R32 Skid: 34 Paint : 0.
+2026-04-22 11:34:39 ------------------ 
+2026-04-22 11:38:17  Default Volume : URUS_ACCENTSKID_R32 Skid: 34.
+2026-04-22 11:38:19  Vol : URUS_ACCENTSKID_R32 Skid: 34 Calcul Vol : 650 Color: 125.
+2026-04-22 11:38:19  ---------------------------
+2026-04-22 11:39:56 --- Trajectory --- 
+2026-04-22 11:39:57 Prog : URUS_ACCENTSKID_R32 Skid: 34 Paint : 0.
+2026-04-22 11:39:57 ------------------ 
+2026-04-22 11:52:19 --- Trajectory --- 
+2026-04-22 11:52:19 Prog : HURACAN_BC2_R32_Plastic Skid: 45 Paint : 133.
+2026-04-22 11:52:19 ------------------ 
+2026-04-22 11:55:36 --- Trajectory INT --- 
+2026-04-22 11:55:36  HURACAN_BC2_R31_INT " Skid: 131 Paint : 0.
+2026-04-22 11:55:36 --- --- 
+2026-04-22 11:55:39 --- Trajectory --- 
+2026-04-22 11:55:39 Prog : HURACAN_BC2_R32_INT Skid: 131 Paint : 25.
+2026-04-22 11:55:39 ------------------ 
+2026-04-22 11:58:08 --- Trajectory --- 
+2026-04-22 11:58:08 Prog : HURACAN_BC2_R32_EXT_new Skid: 131 Paint : 271.
+2026-04-22 11:58:08 ------------------ 
+2026-04-22 12:02:13 --- Trajectory --- 
+2026-04-22 12:02:13 Prog : URUS_ACCENTSKID_R32 Skid: 34 Paint : 0.
+2026-04-22 12:02:13 ------------------ 
+2026-04-22 12:25:57  Default Volume : URUS_PA2_BC2_R32_EXT_2026 Skid: 152.
+2026-04-22 12:25:59  Vol : URUS_PA2_BC2_R32_EXT_2026 Skid: 152 Calcul Vol : 650 Color: 11.
+2026-04-22 12:25:59  ---------------------------
+2026-04-22 12:33:38  Default Volume : URUS_PA2_BC2_R32_EXT_2026 Skid: 5.
+2026-04-22 12:33:39  Vol : URUS_PA2_BC2_R32_EXT_2026 Skid: 5 Calcul Vol : 650 Color: 9.
+2026-04-22 12:33:39  ---------------------------
+2026-04-22 12:42:43  Vol : HURACAN_BC2_R32_Plastic Skid: 97 Calcul Vol : 116 Color: 22.
+2026-04-22 12:42:43  ---------------------------
+2026-04-22 12:51:29  Vol : URUS_PA2_R32_Plastic Skid: 98 Calcul Vol : 1 Color: 69.
+2026-04-22 12:51:29  ---------------------------
+2026-04-22 12:55:21  Default Volume : URUS_PA2_BC2_R32_EXT_2026 Skid: 57.
+2026-04-22 12:55:23  Vol : URUS_PA2_BC2_R32_EXT_2026 Skid: 57 Calcul Vol : 650 Color: 69.
+2026-04-22 12:55:23  ---------------------------
+2026-04-22 12:57:00 --- Trajectory --- 
+2026-04-22 12:57:00 Prog : URUS_ACCENTSKID_R32 Skid: 34 Paint : 0.
+2026-04-22 12:57:00 ------------------ 
+2026-04-22 12:59:00  Vol : HURACAN_BC2_R32_Plastic Skid: 110 Calcul Vol : 90 Color: 102.
+2026-04-22 12:59:00  ---------------------------
+2026-04-22 13:01:51 --- Trajectory --- 
+2026-04-22 13:01:51 Prog : URUS_ACCENTSKID_R32 Skid: 34 Paint : 0.
+2026-04-22 13:01:51 ------------------ 
+2026-04-22 13:05:38 --- Trajectory --- 
+2026-04-22 13:05:38 Prog : HURACAN_BC2_R32_Plastic Skid: 97 Paint : 161.
+2026-04-22 13:05:38 ------------------ 
+2026-04-22 13:14:07 --- Trajectory --- 
+2026-04-22 13:14:07 Prog : HURACAN_BC2_R32_Plastic Skid: 97 Paint : 0.
+2026-04-22 13:14:07 ------------------ 
+2026-04-22 13:14:24  Vol : HURACAN_BC2_R32_INT Skid: 4 Calcul Vol : 28 Color: 102.
+2026-04-22 13:14:24  ---------------------------
+2026-04-22 13:14:30  Vol : HURACAN_BC2_R32_EXT_new Skid: 4 Calcul Vol : 317 Color: 102.
+2026-04-22 13:14:30  ---------------------------
+2026-04-22 13:20:34 --- Trajectory --- 
+2026-04-22 13:20:34 Prog : HURACAN_BC2_R32_Plastic Skid: 97 Paint : 0.
+2026-04-22 13:20:34 ------------------ 
+2026-04-22 13:22:09  Vol : HURACAN_BC2_R32_Plastic Skid: 46 Calcul Vol : 93 Color: 85.
+2026-04-22 13:22:09  ---------------------------
+2026-04-22 13:24:20 --- Trajectory --- 
+2026-04-22 13:24:20 Prog : HURACAN_BC2_R32_Plastic Skid: 110 Paint : 149.
+2026-04-22 13:24:20 ------------------ 
+2026-04-22 13:27:01  Vol : HURACAN_BC2_R32_INT Skid: 9 Calcul Vol : 24 Color: 85.
+2026-04-22 13:27:01  ---------------------------
+2026-04-22 13:27:07  Vol : HURACAN_BC2_R32_EXT_new Skid: 9 Calcul Vol : 287 Color: 85.
+2026-04-22 13:27:07  ---------------------------
+2026-04-22 13:34:59 --- Trajectory INT --- 
+2026-04-22 13:34:59  HURACAN_BC2_R31_INT " Skid: 4 Paint : 0.
+2026-04-22 13:34:59 --- --- 
+2026-04-22 13:35:02 --- Trajectory --- 
+2026-04-22 13:35:02 Prog : HURACAN_BC2_R32_INT Skid: 4 Paint : 27.
+2026-04-22 13:35:02 ------------------ 
+2026-04-22 13:36:41  Vol : HURACAN_BC2_R32_INT Skid: 29 Calcul Vol : 19 Color: 22.
+2026-04-22 13:36:41  ---------------------------
+2026-04-22 13:36:47  Vol : HURACAN_BC2_R32_EXT_new Skid: 29 Calcul Vol : 376 Color: 22.
+2026-04-22 13:36:47  ---------------------------
+2026-04-22 13:37:32 --- Trajectory --- 
+2026-04-22 13:37:32 Prog : HURACAN_BC2_R32_EXT_new Skid: 4 Paint : 297.
+2026-04-22 13:37:32 ------------------ 
+2026-04-22 13:45:43 --- Trajectory --- 
+2026-04-22 13:45:43 Prog : HURACAN_BC2_R32_Plastic Skid: 46 Paint : 165.
+2026-04-22 13:45:43 ------------------ 
+2026-04-22 13:49:26 --- Trajectory INT --- 
+2026-04-22 13:49:26  HURACAN_BC2_R31_INT " Skid: 9 Paint : 0.
+2026-04-22 13:49:26 --- --- 
+2026-04-22 13:49:29 --- Trajectory --- 
+2026-04-22 13:49:29 Prog : HURACAN_BC2_R32_INT Skid: 9 Paint : 24.
+2026-04-22 13:49:29 ------------------ 
+2026-04-22 13:51:58 --- Trajectory --- 
+2026-04-22 13:51:58 Prog : HURACAN_BC2_R32_EXT_new Skid: 9 Paint : 281.
+2026-04-22 13:51:58 ------------------ 
+2026-04-22 14:07:14 --- Trajectory INT --- 
+2026-04-22 14:07:14  HURACAN_BC2_R31_INT " Skid: 29 Paint : 0.
+2026-04-22 14:07:14 --- --- 
+2026-04-22 14:07:17 --- Trajectory --- 
+2026-04-22 14:07:17 Prog : HURACAN_BC2_R32_INT Skid: 29 Paint : 17.
+2026-04-22 14:07:18 ------------------ 
+2026-04-22 14:09:47 --- Trajectory --- 
+2026-04-22 14:09:47 Prog : HURACAN_BC2_R32_EXT_new Skid: 29 Paint : 357.
+2026-04-22 14:09:47 ------------------ 
+2026-04-22 14:18:45  Default Volume : URUS_PA2_BC2_R32_EXT_2026 Skid: 202.
+2026-04-22 14:18:46  Vol : URUS_PA2_BC2_R32_EXT_2026 Skid: 202 Calcul Vol : 650 Color: 11.
+2026-04-22 14:18:46  ---------------------------
+2026-04-22 14:23:58  Vol : URUS_PA2_R32_Plastic Skid: 7 Calcul Vol : 10 Color: 27.
+2026-04-22 14:23:58  ---------------------------
+2026-04-22 14:41:51  Default Volume : URUS_PA2_BC2_R32_EXT_2026 Skid: 38.
+2026-04-22 14:41:53  Vol : URUS_PA2_BC2_R32_EXT_2026 Skid: 38 Calcul Vol : 650 Color: 11.
+2026-04-22 14:41:53  ---------------------------
+2026-04-22 14:44:20 --- Trajectory --- 
+2026-04-22 14:44:20 Prog : HURACAN_BC2_R32_EXT_new Skid: 29 Paint : 0.
+2026-04-22 14:44:20 ------------------ 
+2026-04-22 14:46:48  Vol : HURACAN_BC2_R32_Plastic Skid: 157 Calcul Vol : 64 Color: 34.
+2026-04-22 14:46:48  ---------------------------
+2026-04-22 14:47:47 --- Trajectory --- 
+2026-04-22 14:47:47 Prog : HURACAN_BC2_R32_EXT_new Skid: 29 Paint : 0.
+2026-04-22 14:47:47 ------------------ 
+2026-04-22 14:53:27  Vol : HURACAN_BC2_R32_INT Skid: 74 Calcul Vol : 18 Color: 34.
+2026-04-22 14:53:27  ---------------------------
+2026-04-22 14:53:33  Vol : HURACAN_BC2_R32_EXT_new Skid: 74 Calcul Vol : 237 Color: 34.
+2026-04-22 14:53:33  ---------------------------
+2026-04-22 14:57:14  Vol : URUS_PA2SPORT_R32_EXT Skid: 142 Calcul Vol : 448 Color: 26.
+2026-04-22 14:57:14  ---------------------------
+2026-04-22 15:01:39  Default Volume : URUS_PA2_BC2_R32_EXT_2026 Skid: 138.
+2026-04-22 15:01:40  Vol : URUS_PA2_BC2_R32_EXT_2026 Skid: 138 Calcul Vol : 650 Color: 12.
+2026-04-22 15:01:40  ---------------------------
+2026-04-22 15:10:17 --- Trajectory --- 
+2026-04-22 15:10:17 Prog : HURACAN_BC2_R32_EXT_new Skid: 29 Paint : 0.
+2026-04-22 15:10:17 ------------------ 
+2026-04-22 15:14:04 --- Trajectory --- 
+2026-04-22 15:14:04 Prog : HURACAN_BC2_R32_Plastic Skid: 157 Paint : 107.
+2026-04-22 15:14:04 ------------------ 
+2026-04-22 15:16:59 --- Trajectory INT --- 
+2026-04-22 15:16:59  HURACAN_BC2_R31_INT " Skid: 74 Paint : 0.
+2026-04-22 15:16:59 --- --- 
+2026-04-22 15:17:02 --- Trajectory --- 
+2026-04-22 15:17:02 Prog : HURACAN_BC2_R32_INT Skid: 74 Paint : 16.
+2026-04-22 15:17:02 ------------------ 
+2026-04-22 15:19:31 --- Trajectory --- 
+2026-04-22 15:19:31 Prog : HURACAN_BC2_R32_EXT_new Skid: 74 Paint : 213.
+2026-04-22 15:19:31 ------------------ 
+2026-04-22 15:25:52 --- Trajectory --- 
+2026-04-22 15:25:52 Prog : URUS_PA2SPORT_R32_EXT Skid: 142 Paint : 408.
+2026-04-22 15:25:52 ------------------ 
+2026-04-22 15:36:46  Vol : URUS_PA2_R32_Plastic Skid: 149 Calcul Vol : 10 Color: 102.
+2026-04-22 15:36:46  ---------------------------
+2026-04-22 15:43:43 --- Trajectory --- 
+2026-04-22 15:43:43 Prog : URUS_PA2SPORT_R32_EXT Skid: 142 Paint : 0.
+2026-04-22 15:43:43 ------------------ 
+2026-04-22 15:45:58  Default Volume : URUS_PA2_BC2_R32_EXT_2026 Skid: 167.
+2026-04-22 15:45:59  Vol : URUS_PA2_BC2_R32_EXT_2026 Skid: 167 Calcul Vol : 650 Color: 10.
+2026-04-22 15:45:59  ---------------------------
+2026-04-22 15:58:50  Vol : URUS_PA2_R32_Plastic Skid: 169 Calcul Vol : 10 Color: 50.
+2026-04-22 15:58:50  ---------------------------
+2026-04-22 16:01:51  Default Volume : URUS_PA2_BC2_R32_EXT_2026 Skid: 153.
+2026-04-22 16:01:52  Vol : URUS_PA2_BC2_R32_EXT_2026 Skid: 153 Calcul Vol : 650 Color: 20.
+2026-04-22 16:01:52  ---------------------------
+2026-04-22 16:05:25 --- Trajectory --- 
+2026-04-22 16:05:25 Prog : URUS_PA2SPORT_R32_EXT Skid: 142 Paint : 0.
+2026-04-22 16:05:25 ------------------ 
+2026-04-22 16:11:02  Vol : HURACAN_BC2_R32_INT Skid: 60 Calcul Vol : 0 Color: 14.
+2026-04-22 16:11:02  ---------------------------
+2026-04-22 16:11:07  Default Volume : HURACAN_SP_BC2_R32_EXT Skid: 60.
+2026-04-22 16:11:09  Vol : HURACAN_SP_BC2_R32_EXT Skid: 60 Calcul Vol : 650 Color: 14.
+2026-04-22 16:11:09  ---------------------------
+2026-04-22 16:16:26  Vol : HURACAN_BC2_R32_Plastic Skid: 45 Calcul Vol : 121 Color: 68.
+2026-04-22 16:16:26  ---------------------------
+2026-04-22 16:16:36 --- Trajectory --- 
+2026-04-22 16:16:36 Prog : URUS_PA2SPORT_R32_EXT Skid: 142 Paint : 0.
+2026-04-22 16:16:36 ------------------ 
+2026-04-22 16:20:03 --- Trajectory --- 
+2026-04-22 16:20:03 Prog : URUS_PA2SPORT_R32_EXT Skid: 142 Paint : 0.
+2026-04-22 16:20:03 ------------------ 
+2026-04-22 16:26:49 --- Trajectory --- 
+2026-04-22 16:26:49 Prog : URUS_PA2SPORT_R32_EXT Skid: 142 Paint : 0.
+2026-04-22 16:26:49 ------------------ 
+2026-04-22 16:33:41  Default Volume : URUS_PA2_BC2_R32_EXT_2026 Skid: 14.
+2026-04-22 16:33:42  Vol : URUS_PA2_BC2_R32_EXT_2026 Skid: 14 Calcul Vol : 650 Color: 27.
+2026-04-22 16:33:42  ---------------------------
+2026-04-22 16:36:18 --- Trajectory INT --- 
+2026-04-22 16:36:18  HURACAN_BC2_R31_INT " Skid: 60 Paint : 0.
+2026-04-22 16:36:18 --- --- 
+2026-04-22 16:36:21 --- Trajectory --- 
+2026-04-22 16:36:21 Prog : HURACAN_BC2_R32_INT Skid: 60 Paint : 0.
+2026-04-22 16:36:21 ------------------ 
+2026-04-22 16:37:28  Vol : URUS_PA2_R32_Plastic Skid: 98 Calcul Vol : 10 Color: 9.
+2026-04-22 16:37:28  ---------------------------
+2026-04-22 16:39:01 --- Trajectory --- 
+2026-04-22 16:39:01 Prog : HURACAN_SP_BC2_R32_EXT Skid: 60 Paint : 267.
+2026-04-22 16:39:01 ------------------ 
+2026-04-22 16:42:27 --- Trajectory --- 
+2026-04-22 16:42:27 Prog : HURACAN_BC2_R32_Plastic Skid: 45 Paint : 197.
+2026-04-22 16:42:27 ------------------ 
+2026-04-22 17:00:30 --- Trajectory --- 
+2026-04-22 17:00:30 Prog : HURACAN_BC2_R32_Plastic Skid: 45 Paint : 0.
+2026-04-22 17:00:30 ------------------ 
+2026-04-22 17:03:57 --- Trajectory --- 
+2026-04-22 17:03:57 Prog : HURACAN_BC2_R32_Plastic Skid: 45 Paint : 0.
+2026-04-22 17:03:57 ------------------ 
+2026-04-22 18:35:03  Vol : URUS_PA2_R32_Plastic Skid: 7 Calcul Vol : 10 Color: 34.
+2026-04-22 18:35:03  ---------------------------
+2026-04-22 18:44:24  Default Volume : URUS_PA2_BC2_R32_EXT_2026 Skid: 204.
+2026-04-22 18:44:26  Vol : URUS_PA2_BC2_R32_EXT_2026 Skid: 204 Calcul Vol : 650 Color: 11.
+2026-04-22 18:44:26  ---------------------------
+2026-04-22 18:54:29 --- Trajectory --- 
+2026-04-22 18:54:30 Prog : HURACAN_BC2_R32_Plastic Skid: 45 Paint : 0.
+2026-04-22 18:54:30 ------------------ 
+2026-04-22 18:55:58  Vol : HURACAN_BC2_R32_Plastic Skid: 157 Calcul Vol : 109 Color: 35.
+2026-04-22 18:55:58  ---------------------------
+2026-04-22 18:59:44  Vol : HURACAN_BC2_R32_INT Skid: 74 Calcul Vol : 23 Color: 35.
+2026-04-22 18:59:44  ---------------------------
+2026-04-22 18:59:50  Vol : HURACAN_BC2_R32_EXT_new Skid: 74 Calcul Vol : 295 Color: 35.
+2026-04-22 18:59:50  ---------------------------
+2026-04-22 19:08:37 --- Trajectory --- 
+2026-04-22 19:08:37 Prog : HURACAN_BC2_R32_Plastic Skid: 45 Paint : 0.
+2026-04-22 19:08:37 ------------------ 
+2026-04-22 19:13:17  Vol : HURACAN_BC2_R32_INT Skid: 131 Calcul Vol : 28 Color: 68.
+2026-04-22 19:13:17  ---------------------------
+2026-04-22 19:13:23  Vol : HURACAN_BC2_R32_EXT_new Skid: 131 Calcul Vol : 385 Color: 68.
+2026-04-22 19:13:23  ---------------------------
+2026-04-22 19:17:38 --- Trajectory --- 
+2026-04-22 19:17:38 Prog : HURACAN_BC2_R32_Plastic Skid: 157 Paint : 168.
+2026-04-22 19:17:38 ------------------ 
+2026-04-22 19:20:52 --- Trajectory INT --- 
+2026-04-22 19:20:52  HURACAN_BC2_R31_INT " Skid: 74 Paint : 0.
+2026-04-22 19:20:52 --- --- 
+2026-04-22 19:20:55 --- Trajectory --- 
+2026-04-22 19:20:55 Prog : HURACAN_BC2_R32_INT Skid: 74 Paint : 21.
+2026-04-22 19:20:55 ------------------ 
+2026-04-22 19:23:24 --- Trajectory --- 
+2026-04-22 19:23:24 Prog : HURACAN_BC2_R32_EXT_new Skid: 74 Paint : 273.
+2026-04-22 19:23:24 ------------------ 
+2026-04-22 19:26:40  Vol : URUS_PA2_R32_Plastic Skid: 67 Calcul Vol : 6 Color: 88.
+2026-04-22 19:26:40  ---------------------------
+2026-04-22 19:32:00  Default Volume : URUS_PA2_BC2_R32_EXT_2026 Skid: 206.
+2026-04-22 19:32:01  Vol : URUS_PA2_BC2_R32_EXT_2026 Skid: 206 Calcul Vol : 650 Color: 88.
+2026-04-22 19:32:01  ---------------------------
+2026-04-22 19:38:41 --- Trajectory INT --- 
+2026-04-22 19:38:41  HURACAN_BC2_R31_INT " Skid: 131 Paint : 0.
+2026-04-22 19:38:41 --- --- 
+2026-04-22 19:38:44 --- Trajectory --- 
+2026-04-22 19:38:44 Prog : HURACAN_BC2_R32_INT Skid: 131 Paint : 27.
+2026-04-22 19:38:44 ------------------ 
+2026-04-22 19:41:13 --- Trajectory --- 
+2026-04-22 19:41:13 Prog : HURACAN_BC2_R32_EXT_new Skid: 131 Paint : 365.
+2026-04-22 19:41:13 ------------------ 
+2026-04-22 19:41:20  Vol : HURACAN_BC2_R32_Plastic Skid: 45 Calcul Vol : 76 Color: 69.
+2026-04-22 19:41:20  ---------------------------
+2026-04-22 19:49:53  Default Volume : URUS_PA2_BC2_R32_EXT_2026 Skid: 133.
+2026-04-22 19:49:54  Vol : URUS_PA2_BC2_R32_EXT_2026 Skid: 133 Calcul Vol : 650 Color: 102.
+2026-04-22 19:49:54  ---------------------------
+2026-04-22 19:51:39 --- Trajectory --- 
+2026-04-22 19:51:39 Prog : HURACAN_BC2_R32_EXT_new Skid: 131 Paint : 0.
+2026-04-22 19:51:39 ------------------ 
+2026-04-22 19:58:46 --- Trajectory --- 
+2026-04-22 19:58:46 Prog : HURACAN_BC2_R32_EXT_new Skid: 131 Paint : 0.
+2026-04-22 19:58:46 ------------------ 
+2026-04-22 20:00:01  Vol : URUS_PA2_R32_Plastic Skid: 102 Calcul Vol : 10 Color: 130.
+2026-04-22 20:00:01  ---------------------------
+2026-04-22 20:03:50  Default Volume : URUS_PA2_BC2_R32_EXT_2026 Skid: 80.
+2026-04-22 20:03:52  Vol : URUS_PA2_BC2_R32_EXT_2026 Skid: 80 Calcul Vol : 650 Color: 130.
+2026-04-22 20:03:52  ---------------------------
+2026-04-22 20:07:10 --- Trajectory --- 
+2026-04-22 20:07:10 Prog : HURACAN_BC2_R32_Plastic Skid: 45 Paint : 133.
+2026-04-22 20:07:10 ------------------ 
+2026-04-22 20:08:31  Default Volume : URUS_PA2_BC2_R32_EXT_2026 Skid: 130.
+2026-04-22 20:08:33  Vol : URUS_PA2_BC2_R32_EXT_2026 Skid: 130 Calcul Vol : 650 Color: 11.
+2026-04-22 20:08:33  ---------------------------
+2026-04-22 20:18:00 --- Trajectory --- 
+2026-04-22 20:18:00 Prog : HURACAN_BC2_R32_Plastic Skid: 45 Paint : 0.
+2026-04-22 20:18:00 ------------------ 
+2026-04-22 20:24:46 --- Trajectory --- 
+2026-04-22 20:24:46 Prog : HURACAN_BC2_R32_Plastic Skid: 45 Paint : 0.
+2026-04-22 20:24:46 ------------------ 
+2026-04-22 20:31:48 --- Trajectory --- 
+2026-04-22 20:31:48 Prog : HURACAN_BC2_R32_Plastic Skid: 45 Paint : 0.
+2026-04-22 20:31:48 ------------------ 
+2026-04-22 20:36:53 --- Trajectory --- 
+2026-04-22 20:36:53 Prog : HURACAN_BC2_R32_Plastic Skid: 45 Paint : 0.
+2026-04-22 20:36:53 ------------------ 
+2026-04-22 20:40:18  Default Volume : URUS_PA2_BC2_R32_EXT_2026 Skid: 244.
+2026-04-22 20:40:19  Vol : URUS_PA2_BC2_R32_EXT_2026 Skid: 244 Calcul Vol : 650 Color: 50.
+2026-04-22 20:40:19  ---------------------------
+2026-04-22 20:45:18  Default Volume : URUS_PA2_BC2_R32_EXT_2026 Skid: 220.
+2026-04-22 20:45:19  Vol : URUS_PA2_BC2_R32_EXT_2026 Skid: 220 Calcul Vol : 650 Color: 15.
+2026-04-22 20:45:19  ---------------------------
+2026-04-22 20:52:28  Vol : URUS_PA2_R32_Plastic Skid: 169 Calcul Vol : 10 Color: 51.
+2026-04-22 20:52:28  ---------------------------
+2026-04-22 20:57:52  Vol : HURACAN_BC2_R32_Plastic Skid: 164 Calcul Vol : 63 Color: 29.
+2026-04-22 20:57:52  ---------------------------
+2026-04-22 21:08:45 --- Trajectory --- 
+2026-04-22 21:08:45 Prog : HURACAN_BC2_R32_Plastic Skid: 45 Paint : 0.
+2026-04-22 21:08:45 ------------------ 
+2026-04-22 21:13:49 --- Trajectory --- 
+2026-04-22 21:13:49 Prog : HURACAN_BC2_R32_Plastic Skid: 45 Paint : 0.
+2026-04-22 21:13:49 ------------------ 
+2026-04-22 21:17:17 --- Trajectory --- 
+2026-04-22 21:17:17 Prog : HURACAN_BC2_R32_Plastic Skid: 45 Paint : 0.
+2026-04-22 21:17:17 ------------------ 
+2026-04-22 21:22:37 --- Trajectory --- 
+2026-04-22 21:22:37 Prog : HURACAN_BC2_R32_Plastic Skid: 164 Paint : 106.
+2026-04-22 21:22:37 ------------------ 
+2026-04-23 01:54:56  Default Volume : URUS_PA2_BC2_R32_EXT_2026 Skid: 26.
+2026-04-23 01:54:58  Vol : URUS_PA2_BC2_R32_EXT_2026 Skid: 26 Calcul Vol : 650 Color: 12.
+2026-04-23 01:54:58  ---------------------------
+2026-04-23 03:04:55 --- Trajectory --- 
+2026-04-23 03:04:55 Prog : HURACAN_BC2_R32_EXT_new Skid: 15616 Paint : 271.
+2026-04-23 03:04:55 ------------------ 
+2026-04-23 03:27:42 --- Trajectory --- 
+2026-04-23 03:27:42 Prog : HURACAN_BC2_R32_EXT_new Skid: 15616 Paint : 0.
+2026-04-23 03:27:42 ------------------ 
+2026-04-23 05:55:18  Default Volume : URUS_PA2_BC2_R32_EXT_2026 Skid: 221.
+2026-04-23 05:55:19  Vol : URUS_PA2_BC2_R32_EXT_2026 Skid: 221 Calcul Vol : 650 Color: 9.
+2026-04-23 05:55:19  ---------------------------
+2026-04-23 06:19:15  Vol : HURACAN_BC2_R32_INT Skid: 29 Calcul Vol : 19 Color: 22.
+2026-04-23 06:19:15  ---------------------------
+2026-04-23 06:19:21  Vol : HURACAN_BC2_R32_EXT_new Skid: 29 Calcul Vol : 376 Color: 22.
+2026-04-23 06:19:21  ---------------------------
+2026-04-23 06:29:13  Vol : HURACAN_BC2_R32_INT Skid: 233 Calcul Vol : 18 Color: 29.
+2026-04-23 06:29:13  ---------------------------
+2026-04-23 06:29:19  Vol : HURACAN_BC2_R32_EXT_new Skid: 233 Calcul Vol : 225 Color: 29.
+2026-04-23 06:29:19  ---------------------------
+2026-04-23 06:34:32 --- Trajectory --- 
+2026-04-23 06:34:32 Prog : HURACAN_BC2_R32_EXT_new Skid: 15616 Paint : 0.
+2026-04-23 06:34:32 ------------------ 
+2026-04-23 06:38:22  Vol : HURACAN_BC2_R32_INT Skid: 131 Calcul Vol : 27 Color: 69.
+2026-04-23 06:38:22  ---------------------------
+2026-04-23 06:38:28  Vol : HURACAN_BC2_R32_EXT_new Skid: 131 Calcul Vol : 293 Color: 69.
+2026-04-23 06:38:28  ---------------------------
+2026-04-23 06:42:49 --- Trajectory INT --- 
+2026-04-23 06:42:49  HURACAN_BC2_R31_INT " Skid: 29 Paint : 0.
+2026-04-23 06:42:49 --- --- 
+2026-04-23 06:42:52 --- Trajectory --- 
+2026-04-23 06:42:52 Prog : HURACAN_BC2_R32_INT Skid: 29 Paint : 17.
+2026-04-23 06:42:52 ------------------ 
+2026-04-23 06:45:21 --- Trajectory --- 
+2026-04-23 06:45:21 Prog : HURACAN_BC2_R32_EXT_new Skid: 29 Paint : 357.
+2026-04-23 06:45:21 ------------------ 
+2026-04-23 06:48:13  Vol : URUS_PA2_R32_Plastic Skid: 259 Calcul Vol : 4 Color: 99.
+2026-04-23 06:48:13  ---------------------------
+2026-04-23 06:52:42 --- Trajectory INT --- 
+2026-04-23 06:52:42  HURACAN_BC2_R31_INT " Skid: 233 Paint : 0.
+2026-04-23 06:52:42 --- --- 
+2026-04-23 06:52:44 --- Trajectory --- 
+2026-04-23 06:52:44 Prog : HURACAN_BC2_R32_INT Skid: 233 Paint : 16.
+2026-04-23 06:52:44 ------------------ 
+2026-04-23 06:53:15  Default Volume : URUS_PA2_BC2_R32_EXT_2026 Skid: 79.
+2026-04-23 06:53:16  Vol : URUS_PA2_BC2_R32_EXT_2026 Skid: 79 Calcul Vol : 650 Color: 99.
+2026-04-23 06:53:16  ---------------------------
+2026-04-23 06:55:14 --- Trajectory --- 
+2026-04-23 06:55:14 Prog : HURACAN_BC2_R32_EXT_new Skid: 233 Paint : 202.
+2026-04-23 06:55:14 ------------------ 
+2026-04-23 07:02:23 --- Trajectory INT --- 
+2026-04-23 07:02:23  HURACAN_BC2_R31_INT " Skid: 131 Paint : 0.
+2026-04-23 07:02:23 --- --- 
+2026-04-23 07:02:26 --- Trajectory --- 
+2026-04-23 07:02:26 Prog : HURACAN_BC2_R32_INT Skid: 131 Paint : 25.
+2026-04-23 07:02:26 ------------------ 
+2026-04-23 07:04:56 --- Trajectory --- 
+2026-04-23 07:04:56 Prog : HURACAN_BC2_R32_EXT_new Skid: 131 Paint : 271.
+2026-04-23 07:04:56 ------------------ 
+2026-04-23 07:20:07 --- Trajectory --- 
+2026-04-23 07:20:07 Prog : HURACAN_BC2_R32_EXT_new Skid: 131 Paint : 0.
+2026-04-23 07:20:07 ------------------ 
+2026-04-23 07:23:15  Default Volume : URUS_PA2_BC2_R32_EXT_2026 Skid: 116.
+2026-04-23 07:23:17  Vol : URUS_PA2_BC2_R32_EXT_2026 Skid: 116 Calcul Vol : 650 Color: 150.
+2026-04-23 07:23:17  ---------------------------
+2026-04-23 07:25:20  Vol : URUS_PA2_R32_Plastic Skid: 11 Calcul Vol : 10 Color: 150.
+2026-04-23 07:25:20  ---------------------------
+2026-04-23 07:27:12 --- Trajectory --- 
+2026-04-23 07:27:12 Prog : HURACAN_BC2_R32_EXT_new Skid: 131 Paint : 0.
+2026-04-23 07:27:12 ------------------ 
+2026-04-23 07:48:56 --- Trajectory --- 
+2026-04-23 07:48:56 Prog : HURACAN_BC2_R32_EXT_new Skid: 131 Paint : 0.
+2026-04-23 07:48:56 ------------------ 
+2026-04-23 07:51:57 --- Trajectory --- 
+2026-04-23 07:51:57 Prog : HURACAN_BC2_R32_EXT_new Skid: 131 Paint : 0.
+2026-04-23 07:51:57 ------------------ 
+2026-04-23 07:55:40  Vol : HURACAN_BC2_R32_INT Skid: 237 Calcul Vol : 39 Color: 62.
+2026-04-23 07:55:40  ---------------------------
+2026-04-23 07:55:46  Vol : HURACAN_BC2_R32_EXT_new Skid: 237 Calcul Vol : 430 Color: 62.
+2026-04-23 07:55:46  ---------------------------
+2026-04-23 07:59:57  Vol : HURACAN_BC2_R32_Plastic Skid: 200 Calcul Vol : 37 Color: 62.
+2026-04-23 07:59:57  ---------------------------
+2026-04-23 08:37:05 --- Trajectory INT --- 
+2026-04-23 08:37:05  HURACAN_BC2_R31_INT " Skid: 237 Paint : 0.
+2026-04-23 08:37:05 --- --- 
+2026-04-23 08:37:08 --- Trajectory --- 
+2026-04-23 08:37:08 Prog : HURACAN_BC2_R32_INT Skid: 237 Paint : 38.
+2026-04-23 08:37:08 ------------------ 
+2026-04-23 08:39:38 --- Trajectory --- 
+2026-04-23 08:39:38 Prog : HURACAN_BC2_R32_EXT_new Skid: 237 Paint : 412.
+2026-04-23 08:39:38 ------------------ 
+2026-04-23 08:40:51  Default Volume : URUS_PA2_BC2_R32_EXT_2026 Skid: 49.
+2026-04-23 08:40:52  Vol : URUS_PA2_BC2_R32_EXT_2026 Skid: 49 Calcul Vol : 650 Color: 9.
+2026-04-23 08:40:52  ---------------------------
+2026-04-23 08:41:24 --- Trajectory --- 
+2026-04-23 08:41:24 Prog : HURACAN_BC2_R32_Plastic Skid: 200 Paint : 42.
+2026-04-23 08:41:24 ------------------ 
+2026-04-23 08:49:07  Vol : URUS_PA2_R32_Plastic Skid: 169 Calcul Vol : 10 Color: 50.
+2026-04-23 08:49:07  ---------------------------
+2026-04-23 09:07:55 --- Trajectory --- 
+2026-04-23 09:07:55 Prog : HURACAN_BC2_R32_Plastic Skid: 200 Paint : 0.
+2026-04-23 09:07:55 ------------------ 
+2026-04-23 09:14:15 --- Trajectory --- 
+2026-04-23 09:14:15 Prog : HURACAN_BC2_R32_Plastic Skid: 200 Paint : 0.
+2026-04-23 09:14:15 ------------------ 
+2026-04-23 09:17:02  Vol : URUS_PA2_R32_Plastic Skid: 186 Calcul Vol : 10 Color: 54.
+2026-04-23 09:17:02  ---------------------------
+2026-04-23 09:20:18  Default Volume : URUS_PA2_BC2_R32_EXT_2026 Skid: 20.
+2026-04-23 09:20:19  Vol : URUS_PA2_BC2_R32_EXT_2026 Skid: 20 Calcul Vol : 650 Color: 54.
+2026-04-23 09:20:19  ---------------------------
+2026-04-23 09:29:06  Vol : URUS_PA2_R32_Plastic Skid: 98 Calcul Vol : 10 Color: 106.
+2026-04-23 09:29:06  ---------------------------
+2026-04-23 09:34:19 --- Trajectory --- 
+2026-04-23 09:34:19 Prog : HURACAN_BC2_R32_Plastic Skid: 200 Paint : 0.
+2026-04-23 09:34:19 ------------------ 
+2026-04-23 09:35:05  Default Volume : URUS_PA2_BC2_R32_EXT_2026 Skid: 81.
+2026-04-23 09:35:06  Vol : URUS_PA2_BC2_R32_EXT_2026 Skid: 81 Calcul Vol : 650 Color: 106.
+2026-04-23 09:35:06  ---------------------------
+2026-04-23 09:46:00 --- Trajectory --- 
+2026-04-23 09:46:00 Prog : HURACAN_BC2_R32_Plastic Skid: 200 Paint : 0.
+2026-04-23 09:46:00 ------------------ 
+2026-04-23 09:51:23 --- Trajectory --- 
+2026-04-23 09:51:23 Prog : HURACAN_BC2_R32_Plastic Skid: 200 Paint : 0.
+2026-04-23 09:51:23 ------------------ 
+2026-04-23 09:53:39  Vol : HURACAN_BC2_R32_Plastic Skid: 234 Calcul Vol : 99 Color: 27.
+2026-04-23 09:53:39  ---------------------------
+2026-04-23 09:58:31  Vol : HURACAN_BC2_R32_INT Skid: 168 Calcul Vol : 24 Color: 27.
+2026-04-23 09:58:31  ---------------------------
+2026-04-23 09:58:37  Vol : HURACAN_BC2_R32_EXT_new Skid: 168 Calcul Vol : 293 Color: 27.
+2026-04-23 09:58:37  ---------------------------
+2026-04-23 09:58:48 --- Trajectory --- 
+2026-04-23 09:58:48 Prog : HURACAN_BC2_R32_Plastic Skid: 200 Paint : 0.
+2026-04-23 09:58:48 ------------------ 
+2026-04-23 10:05:28 --- Trajectory --- 
+2026-04-23 10:05:28 Prog : HURACAN_BC2_R32_Plastic Skid: 200 Paint : 0.
+2026-04-23 10:05:28 ------------------ 
+2026-04-23 10:20:09 --- Trajectory --- 
+2026-04-23 10:20:09 Prog : HURACAN_BC2_R32_Plastic Skid: 234 Paint : 165.
+2026-04-23 10:20:09 ------------------ 
+2026-04-23 10:26:30 --- Trajectory INT --- 
+2026-04-23 10:26:30  HURACAN_BC2_R31_INT " Skid: 168 Paint : 0.
+2026-04-23 10:26:30 --- --- 
+2026-04-23 10:26:33 --- Trajectory --- 
+2026-04-23 10:26:33 Prog : HURACAN_BC2_R32_INT Skid: 168 Paint : 23.
+2026-04-23 10:26:33 ------------------ 
+2026-04-23 10:29:02 --- Trajectory --- 
+2026-04-23 10:29:02 Prog : HURACAN_BC2_R32_EXT_new Skid: 168 Paint : 271.
+2026-04-23 10:29:02 ------------------ 
+2026-04-23 10:30:34  Default Volume : URUS_PA2_BC2_R32_EXT_2026 Skid: 244.
+2026-04-23 10:30:36  Vol : URUS_PA2_BC2_R32_EXT_2026 Skid: 244 Calcul Vol : 650 Color: 51.
+2026-04-23 10:30:36  ---------------------------
+2026-04-23 10:41:26  Vol : HURACAN_BC2_R32_INT Skid: 52 Calcul Vol : 30 Color: 13.
+2026-04-23 10:41:26  ---------------------------
+2026-04-23 10:41:32  Vol : HURACAN_BC2_R32_EXT_new Skid: 52 Calcul Vol : 399 Color: 13.
+2026-04-23 10:41:32  ---------------------------
+2026-04-23 11:01:21 --- Trajectory --- 
+2026-04-23 11:01:21 Prog : HURACAN_BC2_R32_EXT_new Skid: 168 Paint : 0.
+2026-04-23 11:01:21 ------------------ 
+2026-04-23 11:05:19 --- Trajectory --- 
+2026-04-23 11:05:19 Prog : HURACAN_BC2_R32_EXT_new Skid: 168 Paint : 0.
+2026-04-23 11:05:19 ------------------ 
+2026-04-23 11:13:30 --- Trajectory INT --- 
+2026-04-23 11:13:30  HURACAN_BC2_R31_INT " Skid: 52 Paint : 0.
+2026-04-23 11:13:30 --- --- 
+2026-04-23 11:13:33 --- Trajectory --- 
+2026-04-23 11:13:33 Prog : HURACAN_BC2_R32_INT Skid: 52 Paint : 29.
+2026-04-23 11:13:33 ------------------ 
+2026-04-23 11:15:41 --- Trajectory --- 
+2026-04-23 11:15:41 Prog : HURACAN_BC2_R32_EXT_new Skid: 52 Paint : 218.
+2026-04-23 11:15:41 ------------------ 
+2026-04-23 11:17:17 --- Trajectory --- 
+2026-04-23 11:17:17 Prog : HURACAN_BC2_R32_EXT_new Skid: 52 Paint : 0.
+2026-04-23 11:17:17 ------------------ 
+2026-04-23 11:25:43 --- Trajectory --- 
+2026-04-23 11:25:43 Prog : HURACAN_BC2_R32_EXT_new Skid: 52 Paint : 0.
+2026-04-23 11:25:43 ------------------ 
+2026-04-23 11:38:37  Vol : HURACAN_BC2_R32_Plastic Skid: 164 Calcul Vol : 64 Color: 34.
+2026-04-23 11:38:37  ---------------------------
+2026-04-23 11:45:10  Vol : HURACAN_BC2_R32_INT Skid: 208 Calcul Vol : 18 Color: 34.
+2026-04-23 11:45:10  ---------------------------
+2026-04-23 11:45:16  Vol : HURACAN_BC2_R32_EXT_new Skid: 208 Calcul Vol : 236 Color: 34.
+2026-04-23 11:45:16  ---------------------------
+2026-04-23 11:57:43  Vol : URUS_PA2_R32_Plastic Skid: 169 Calcul Vol : 3 Color: 51.
+2026-04-23 11:57:43  ---------------------------
+2026-04-23 12:14:42 --- Trajectory --- 
+2026-04-23 12:14:43 Prog : HURACAN_BC2_R32_Plastic Skid: 164 Paint : 107.
+2026-04-23 12:14:43 ------------------ 
+2026-04-23 12:18:12 --- Trajectory INT --- 
+2026-04-23 12:18:12  HURACAN_BC2_R31_INT " Skid: 208 Paint : 0.
+2026-04-23 12:18:12 --- --- 
+2026-04-23 12:18:14 --- Trajectory --- 
+2026-04-23 12:18:14 Prog : HURACAN_BC2_R32_INT Skid: 208 Paint : 16.
+2026-04-23 12:18:14 ------------------ 
+2026-04-23 12:20:44 --- Trajectory --- 
+2026-04-23 12:20:44 Prog : HURACAN_BC2_R32_EXT_new Skid: 208 Paint : 213.
+2026-04-23 12:20:44 ------------------ 
+2026-04-23 12:31:03 --- Trajectory --- 
+2026-04-23 12:31:03 Prog : HURACAN_BC2_R32_EXT_new Skid: 208 Paint : 0.
+2026-04-23 12:31:03 ------------------ 
+2026-04-23 13:09:20  Vol : HURACAN_BC2_R32_INT Skid: 24 Calcul Vol : 22 Color: 53.
+2026-04-23 13:09:20  ---------------------------
+2026-04-23 13:09:26  Vol : HURACAN_BC2_R32_EXT_new Skid: 24 Calcul Vol : 273 Color: 53.
+2026-04-23 13:09:26  ---------------------------
+2026-04-23 13:12:24  Vol : HURACAN_BC2_R32_Plastic Skid: 46 Calcul Vol : 98 Color: 53.
+2026-04-23 13:12:24  ---------------------------
+2026-04-23 13:19:06  Default Volume : URUS_PA2_BC2_R32_EXT_2026 Skid: 126.
+2026-04-23 13:19:07  Vol : URUS_PA2_BC2_R32_EXT_2026 Skid: 126 Calcul Vol : 650 Color: 34.
+2026-04-23 13:19:07  ---------------------------
+2026-04-23 13:23:35  Default Volume : URUS_PA2_BC2_R32_EXT_2026 Skid: 78.
+2026-04-23 13:23:37  Vol : URUS_PA2_BC2_R32_EXT_2026 Skid: 78 Calcul Vol : 650 Color: 9.
+2026-04-23 13:23:37  ---------------------------
+2026-04-23 13:32:47  Vol : URUS_PA2_R32_Plastic Skid: 7 Calcul Vol : 10 Color: 35.
+2026-04-23 13:32:47  ---------------------------
+2026-04-23 13:37:35 --- Trajectory INT --- 
+2026-04-23 13:37:35  HURACAN_BC2_R31_INT " Skid: 24 Paint : 0.
+2026-04-23 13:37:35 --- --- 
+2026-04-23 13:37:38 --- Trajectory --- 
+2026-04-23 13:37:38 Prog : HURACAN_BC2_R32_INT Skid: 24 Paint : 21.
+2026-04-23 13:37:38 ------------------ 
+2026-04-23 13:40:08 --- Trajectory --- 
+2026-04-23 13:40:08 Prog : HURACAN_BC2_R32_EXT_new Skid: 24 Paint : 251.
+2026-04-23 13:40:08 ------------------ 
+2026-04-23 13:43:15 --- Trajectory --- 
+2026-04-23 13:43:15 Prog : HURACAN_BC2_R32_Plastic Skid: 46 Paint : 156.
+2026-04-23 13:43:15 ------------------ 
+2026-04-23 13:46:45  Default Volume : URUS_PA2_BC2_R32_EXT_2026 Skid: 85.
+2026-04-23 13:46:47  Vol : URUS_PA2_BC2_R32_EXT_2026 Skid: 85 Calcul Vol : 650 Color: 15.
+2026-04-23 13:46:47  ---------------------------
+2026-04-23 13:48:56 --- Trajectory --- 
+2026-04-23 13:48:56 Prog : HURACAN_BC2_R32_Plastic Skid: 46 Paint : 0.
+2026-04-23 13:48:56 ------------------ 
+2026-04-23 13:54:38 --- Trajectory --- 
+2026-04-23 13:54:38 Prog : HURACAN_BC2_R32_Plastic Skid: 46 Paint : 0.
+2026-04-23 13:54:38 ------------------ 
+2026-04-23 14:00:42 --- Trajectory --- 
+2026-04-23 14:00:42 Prog : HURACAN_BC2_R32_Plastic Skid: 46 Paint : 0.
+2026-04-23 14:00:42 ------------------ 
+2026-04-23 14:15:00  Vol : URUS_PA2_R32_Plastic Skid: 102 Calcul Vol : 10 Color: 15.
+2026-04-23 14:15:00  ---------------------------
+2026-04-23 14:19:27 --- Trajectory --- 
+2026-04-23 14:19:27 Prog : HURACAN_BC2_R32_Plastic Skid: 46 Paint : 0.
+2026-04-23 14:19:27 ------------------ 
+2026-04-23 14:38:33 --- Trajectory --- 
+2026-04-23 14:38:33 Prog : HURACAN_BC2_R32_Plastic Skid: 46 Paint : 0.
+2026-04-23 14:38:33 ------------------ 
+2026-04-23 14:48:03  Vol : URUS_PA2_R32_Plastic Skid: 67 Calcul Vol : 10 Color: 20.
+2026-04-23 14:48:03  ---------------------------
+2026-04-23 14:52:14  Vol : HURACAN_BC2_R32_Plastic Skid: 45 Calcul Vol : 116 Color: 22.
+2026-04-23 14:52:14  ---------------------------
+2026-04-23 15:12:46 --- Trajectory --- 
+2026-04-23 15:12:46 Prog : HURACAN_BC2_R32_Plastic Skid: 46 Paint : 0.
+2026-04-23 15:12:46 ------------------ 
+2026-04-23 15:17:35 --- Trajectory --- 
+2026-04-23 15:17:35 Prog : HURACAN_BC2_R32_Plastic Skid: 45 Paint : 161.
+2026-04-23 15:17:35 ------------------ 
+2026-04-23 15:19:48  Vol : URUS_PA2_R32_Plastic Skid: 149 Calcul Vol : 1 Color: 75.
+2026-04-23 15:19:48  ---------------------------
+2026-04-23 15:23:22  Default Volume : URUS_PA2_BC2_R32_EXT_2026 Skid: 66.
+2026-04-23 15:23:23  Vol : URUS_PA2_BC2_R32_EXT_2026 Skid: 66 Calcul Vol : 650 Color: 75.
+2026-04-23 15:23:23  ---------------------------
+2026-04-23 15:35:22  Default Volume : URUS_PA2_BC2_R32_EXT_2026 Skid: 4.
+2026-04-23 15:35:23  Vol : URUS_PA2_BC2_R32_EXT_2026 Skid: 4 Calcul Vol : 650 Color: 50.
+2026-04-23 15:35:23  ---------------------------
+2026-04-23 15:39:41 --- Trajectory --- 
+2026-04-23 15:39:41 Prog : HURACAN_BC2_R32_Plastic Skid: 45 Paint : 0.
+2026-04-23 15:39:41 ------------------ 
+2026-04-23 15:40:53  Vol : HURACAN_BC2_R32_INT Skid: 105 Calcul Vol : 19 Color: 22.
+2026-04-23 15:40:53  ---------------------------
+2026-04-23 15:40:59  Vol : HURACAN_BC2_R32_EXT_new Skid: 105 Calcul Vol : 377 Color: 22.
+2026-04-23 15:40:59  ---------------------------
+2026-04-23 15:51:03 --- Trajectory --- 
+2026-04-23 15:51:03 Prog : HURACAN_BC2_R32_Plastic Skid: 45 Paint : 0.
+2026-04-23 15:51:03 ------------------ 
+2026-04-23 15:51:24  Vol : URUS_PA2_R32_Plastic Skid: 180 Calcul Vol : 6 Color: 50.
+2026-04-23 15:51:24  ---------------------------
+2026-04-23 16:02:20 --- Trajectory --- 
+2026-04-23 16:02:20 Prog : HURACAN_BC2_R32_Plastic Skid: 45 Paint : 0.
+2026-04-23 16:02:20 ------------------ 
+2026-04-23 16:04:03  Vol : HURACAN_BC2_R32_Plastic Skid: 164 Calcul Vol : 109 Color: 35.
+2026-04-23 16:04:03  ---------------------------
+2026-04-23 16:04:50 --- Trajectory INT --- 
+2026-04-23 16:04:50  HURACAN_BC2_R31_INT " Skid: 105 Paint : 0.
+2026-04-23 16:04:50 --- --- 
+2026-04-23 16:04:53 --- Trajectory --- 
+2026-04-23 16:04:53 Prog : HURACAN_BC2_R32_INT Skid: 105 Paint : 17.
+2026-04-23 16:04:53 ------------------ 
+2026-04-23 16:06:42  Vol : HURACAN_BC2_R32_INT Skid: 208 Calcul Vol : 23 Color: 35.
+2026-04-23 16:06:42  ---------------------------
+2026-04-23 16:06:48  Vol : HURACAN_BC2_R32_EXT_new Skid: 208 Calcul Vol : 295 Color: 35.
+2026-04-23 16:06:48  ---------------------------
+2026-04-23 16:07:22 --- Trajectory --- 
+2026-04-23 16:07:22 Prog : HURACAN_BC2_R32_EXT_new Skid: 105 Paint : 357.
+2026-04-23 16:07:22 ------------------ 
+2026-04-23 16:13:22 --- Trajectory --- 
+2026-04-23 16:13:22 Prog : HURACAN_BC2_R32_EXT_new Skid: 105 Paint : 0.
+2026-04-23 16:13:22 ------------------ 
+2026-04-23 16:14:56  Default Volume : URUS_PA2_BC2_R32_EXT_2026 Skid: 59.
+2026-04-23 16:14:58  Vol : URUS_PA2_BC2_R32_EXT_2026 Skid: 59 Calcul Vol : 650 Color: 11.
+2026-04-23 16:14:58  ---------------------------
+2026-04-23 16:24:55 --- Trajectory --- 
+2026-04-23 16:24:55 Prog : HURACAN_BC2_R32_Plastic Skid: 164 Paint : 168.
+2026-04-23 16:24:55 ------------------ 
+2026-04-23 16:28:31 --- Trajectory INT --- 
+2026-04-23 16:28:31  HURACAN_BC2_R31_INT " Skid: 208 Paint : 0.
+2026-04-23 16:28:31 --- --- 
+2026-04-23 16:28:34 --- Trajectory --- 
+2026-04-23 16:28:34 Prog : HURACAN_BC2_R32_INT Skid: 208 Paint : 21.
+2026-04-23 16:28:34 ------------------ 
+2026-04-23 16:31:04 --- Trajectory --- 
+2026-04-23 16:31:04 Prog : HURACAN_BC2_R32_EXT_new Skid: 208 Paint : 273.
+2026-04-23 16:31:04 ------------------ 
+2026-04-23 16:34:22  Default Volume : URUS_PA2_BC2_R32_EXT_2026 Skid: 133.
+2026-04-23 16:34:24  Vol : URUS_PA2_BC2_R32_EXT_2026 Skid: 133 Calcul Vol : 650 Color: 27.
+2026-04-23 16:34:24  ---------------------------
+2026-04-23 16:44:28 --- Trajectory --- 
+2026-04-23 16:44:28 Prog : HURACAN_BC2_R32_EXT_new Skid: 208 Paint : 0.
+2026-04-23 16:44:28 ------------------ 
+2026-04-23 16:56:24  Default Volume : URUS_PA2_BC2_R32_EXT_2026 Skid: 126.
+2026-04-23 16:56:25  Vol : URUS_PA2_BC2_R32_EXT_2026 Skid: 126 Calcul Vol : 650 Color: 35.
+2026-04-23 16:56:25  ---------------------------
+2026-04-23 16:59:14 --- Trajectory --- 
+2026-04-23 16:59:14 Prog : HURACAN_BC2_R32_EXT_new Skid: 208 Paint : 0.
+2026-04-23 16:59:14 ------------------ 
+2026-04-23 17:00:51  Vol : URUS_PA2_R32_Plastic Skid: 98 Calcul Vol : 10 Color: 27.
+2026-04-23 17:00:51  ---------------------------
+2026-04-23 17:13:47  Default Volume : URUS_PA2_BC2_R32_EXT_2026 Skid: 204.
+2026-04-23 17:13:49  Vol : URUS_PA2_BC2_R32_EXT_2026 Skid: 204 Calcul Vol : 650 Color: 11.
+2026-04-23 17:13:49  ---------------------------
+2026-04-23 17:29:35 --- Trajectory --- 
+2026-04-23 17:29:35 Prog : HURACAN_BC2_R32_EXT_new Skid: 208 Paint : 0.
+2026-04-23 17:29:35 ------------------ 
+2026-04-23 17:34:55 --- Trajectory --- 
+2026-04-23 17:34:55 Prog : HURACAN_BC2_R32_EXT_new Skid: 208 Paint : 0.
+2026-04-23 17:34:55 ------------------ 
+2026-04-23 17:49:13 --- Trajectory --- 
+2026-04-23 17:49:13 Prog : HURACAN_BC2_R32_EXT_new Skid: 208 Paint : 0.
+2026-04-23 17:49:13 ------------------ 
+2026-04-23 18:17:28  Vol : HURACAN_BC2_R32_INT Skid: 160 Calcul Vol : 24 Color: 99.
+2026-04-23 18:17:28  ---------------------------
+2026-04-23 18:17:33  Default Volume : HURACAN_SP_BC2_R32_EXT Skid: 160.
+2026-04-23 18:17:34  Vol : HURACAN_SP_BC2_R32_EXT Skid: 160 Calcul Vol : 650 Color: 99.
+2026-04-23 18:17:34  ---------------------------
+2026-04-23 18:38:20 --- Trajectory INT --- 
+2026-04-23 18:38:20  HURACAN_BC2_R31_INT " Skid: 160 Paint : 0.
+2026-04-23 18:38:20 --- --- 
+2026-04-23 18:38:22 --- Trajectory --- 
+2026-04-23 18:38:22 Prog : HURACAN_BC2_R32_INT Skid: 160 Paint : 23.
+2026-04-23 18:38:22 ------------------ 
+2026-04-23 18:41:26 --- Trajectory --- 
+2026-04-23 18:41:26 Prog : HURACAN_SP_BC2_R32_EXT Skid: 160 Paint : 292.
+2026-04-23 18:41:26 ------------------ 
+2026-04-23 18:42:23  Default Volume : URUS_PA2_BC2_R32_EXT_2026 Skid: 152.
+2026-04-23 18:42:24  Vol : URUS_PA2_BC2_R32_EXT_2026 Skid: 152 Calcul Vol : 650 Color: 20.
+2026-04-23 18:42:24  ---------------------------
+2026-04-23 19:08:24 --- Trajectory --- 
+2026-04-23 19:08:24 Prog : HURACAN_SP_BC2_R32_EXT Skid: 160 Paint : 0.
+2026-04-23 19:08:24 ------------------ 
+2026-04-23 19:16:16  Default Volume : URUS_PA2_BC2_R32_EXT_2026 Skid: 207.
+2026-04-23 19:16:17  Vol : URUS_PA2_BC2_R32_EXT_2026 Skid: 207 Calcul Vol : 650 Color: 16.
+2026-04-23 19:16:17  ---------------------------
+2026-04-23 19:25:43  Vol : URUS_PA2_R32_Plastic Skid: 186 Calcul Vol : 10 Color: 75.
+2026-04-23 19:25:43  ---------------------------
+2026-04-23 19:35:04  Default Volume : URUS_PA2_BC2_R32_EXT_2026 Skid: 4.
+2026-04-23 19:35:06  Vol : URUS_PA2_BC2_R32_EXT_2026 Skid: 4 Calcul Vol : 650 Color: 51.
+2026-04-23 19:35:06  ---------------------------
+2026-04-23 19:37:18  Vol : URUS_PA2_R32_Plastic Skid: 180 Calcul Vol : 10 Color: 51.
+2026-04-23 19:37:18  ---------------------------
+2026-04-23 19:42:08 --- Trajectory --- 
+2026-04-23 19:42:08 Prog : HURACAN_SP_BC2_R32_EXT Skid: 160 Paint : 0.
+2026-04-23 19:42:08 ------------------ 
+2026-04-23 19:48:28 --- Trajectory --- 
+2026-04-23 19:48:28 Prog : HURACAN_SP_BC2_R32_EXT Skid: 160 Paint : 0.
+2026-04-23 19:48:28 ------------------ 
+2026-04-23 20:04:33 --- Trajectory --- 
+2026-04-23 20:04:33 Prog : HURACAN_SP_BC2_R32_EXT Skid: 160 Paint : 0.
+2026-04-23 20:04:33 ------------------ 
+2026-04-23 20:07:58  Vol : HURACAN_BC2_R32_INT Skid: 166 Calcul Vol : 30 Color: 13.
+2026-04-23 20:07:58  ---------------------------
+2026-04-23 20:08:04  Vol : HURACAN_BC2_R32_EXT_new Skid: 166 Calcul Vol : 399 Color: 13.
+2026-04-23 20:08:04  ---------------------------
+2026-04-23 20:08:22 --- Trajectory --- 
+2026-04-23 20:08:22 Prog : HURACAN_SP_BC2_R32_EXT Skid: 160 Paint : 0.
+2026-04-23 20:08:22 ------------------ 
+2026-04-23 20:35:18 --- Trajectory INT --- 
+2026-04-23 20:35:18  HURACAN_BC2_R31_INT " Skid: 166 Paint : 0.
+2026-04-23 20:35:18 --- --- 
+2026-04-23 20:35:20 --- Trajectory --- 
+2026-04-23 20:35:20 Prog : HURACAN_BC2_R32_INT Skid: 166 Paint : 29.
+2026-04-23 20:35:20 ------------------ 
+2026-04-23 20:37:29 --- Trajectory --- 
+2026-04-23 20:37:29 Prog : HURACAN_BC2_R32_EXT_new Skid: 166 Paint : 218.
+2026-04-23 20:37:29 ------------------ 
+2026-04-23 20:43:17  Vol : HURACAN_BC2_R32_Plastic Skid: 110 Calcul Vol : 63 Color: 53.
+2026-04-23 20:43:17  ---------------------------
+2026-04-23 20:53:03  Vol : HURACAN_BC2_R32_INT Skid: 33 Calcul Vol : 22 Color: 53.
+2026-04-23 20:53:03  ---------------------------
+2026-04-23 20:53:09  Vol : HURACAN_BC2_R32_EXT_new Skid: 33 Calcul Vol : 273 Color: 53.
+2026-04-23 20:53:09  ---------------------------
+2026-04-23 21:08:16 --- Trajectory --- 
+2026-04-23 21:08:16 Prog : HURACAN_BC2_R32_Plastic Skid: 110 Paint : 123.
+2026-04-23 21:08:16 ------------------ 
+2026-04-23 21:19:50 --- Trajectory INT --- 
+2026-04-23 21:19:50  HURACAN_BC2_R31_INT " Skid: 33 Paint : 0.
+2026-04-23 21:19:50 --- --- 
+2026-04-23 21:19:53 --- Trajectory --- 
+2026-04-23 21:19:53 Prog : HURACAN_BC2_R32_INT Skid: 33 Paint : 21.
+2026-04-23 21:19:53 ------------------ 
+2026-04-23 21:22:22 --- Trajectory --- 
+2026-04-23 21:22:22 Prog : HURACAN_BC2_R32_EXT_new Skid: 33 Paint : 251.
+2026-04-23 21:22:22 ------------------ 
+2026-04-24 00:40:56  Default Volume : URUS_PA2_BC2_R32_EXT_2026 Skid: 26.
+2026-04-24 00:40:57  Vol : URUS_PA2_BC2_R32_EXT_2026 Skid: 26 Calcul Vol : 650 Color: 12.
+2026-04-24 00:40:57  ---------------------------
+2026-04-24 03:14:54 --- Trajectory --- 
+2026-04-24 03:14:54 Prog : HURACAN_BC2_R32_EXT_new Skid: 15621 Paint : 271.
+2026-04-24 03:14:54 ------------------ 
+2026-04-24 03:32:05 --- Trajectory --- 
+2026-04-24 03:32:05 Prog : HURACAN_BC2_R32_EXT_new Skid: 15621 Paint : 0.
+2026-04-24 03:32:05 ------------------ 
+2026-04-24 03:37:05  Default Volume : URUS_PA2_BC2_R32_EXT_2026 Skid: 81.
+2026-04-24 03:37:07  Vol : URUS_PA2_BC2_R32_EXT_2026 Skid: 81 Calcul Vol : 650 Color: 106.
+2026-04-24 03:37:07  ---------------------------
+2026-04-24 06:07:45 --- Trajectory --- 
+2026-04-24 06:07:45 Prog : HURACAN_BC2_R32_EXT_new Skid: 15621 Paint : 0.
+2026-04-24 06:07:45 ------------------ 
+2026-04-24 06:39:16  Vol : HURACAN_BC2_R32_INT Skid: 105 Calcul Vol : 19 Color: 22.
+2026-04-24 06:39:16  ---------------------------
+2026-04-24 06:39:22  Vol : HURACAN_BC2_R32_EXT_new Skid: 105 Calcul Vol : 377 Color: 22.
+2026-04-24 06:39:22  ---------------------------
+2026-04-24 07:21:58  Vol : HURACAN_BC2_R32_INT Skid: 105 Calcul Vol : 19 Color: 22.
+2026-04-24 07:21:58  ---------------------------
+2026-04-24 07:22:04  Vol : HURACAN_BC2_R32_EXT_new Skid: 105 Calcul Vol : 377 Color: 22.
+2026-04-24 07:22:04  ---------------------------
+2026-04-24 07:42:07 --- Trajectory INT --- 
+2026-04-24 07:42:07  HURACAN_BC2_R31_INT " Skid: 105 Paint : 0.
+2026-04-24 07:42:07 --- --- 
+2026-04-24 07:42:10 --- Trajectory --- 
+2026-04-24 07:42:10 Prog : HURACAN_BC2_R32_INT Skid: 105 Paint : 17.
+2026-04-24 07:42:10 ------------------ 
+2026-04-24 07:44:39 --- Trajectory --- 
+2026-04-24 07:44:39 Prog : HURACAN_BC2_R32_EXT_new Skid: 105 Paint : 357.
+2026-04-24 07:44:39 ------------------ 
+2026-04-24 08:00:51  Vol : HURACAN_BC2_R32_INT Skid: 206 Calcul Vol : 29 Color: 9.
+2026-04-24 08:00:51  ---------------------------
+2026-04-24 08:00:57  Vol : HURACAN_BC2_R32_EXT_new Skid: 206 Calcul Vol : 333 Color: 9.
+2026-04-24 08:00:57  ---------------------------
+2026-04-24 08:15:13  Vol : HURACAN_BC2_R32_Plastic Skid: 46 Calcul Vol : 37 Color: 9.
+2026-04-24 08:15:13  ---------------------------
+2026-04-24 08:34:57 --- Trajectory INT --- 
+2026-04-24 08:34:57  HURACAN_BC2_R31_INT " Skid: 206 Paint : 0.
+2026-04-24 08:34:57 --- --- 
+2026-04-24 08:35:00 --- Trajectory --- 
+2026-04-24 08:35:00 Prog : HURACAN_BC2_R32_INT Skid: 206 Paint : 27.
+2026-04-24 08:35:00 ------------------ 
+2026-04-24 08:37:36 --- Trajectory --- 
+2026-04-24 08:37:36 Prog : HURACAN_BC2_R32_EXT_new Skid: 206 Paint : 254.
+2026-04-24 08:37:36 ------------------ 
+2026-04-24 08:44:44  Default Volume : URUS_PA2_BC2_R32_EXT_2026 Skid: 221.
+2026-04-24 08:44:45  Vol : URUS_PA2_BC2_R32_EXT_2026 Skid: 221 Calcul Vol : 650 Color: 75.
+2026-04-24 08:44:45  ---------------------------
+2026-04-24 08:46:23 --- Trajectory --- 
+2026-04-24 08:46:23 Prog : HURACAN_BC2_R32_Plastic Skid: 46 Paint : 34.
+2026-04-24 08:46:23 ------------------ 
+2026-04-24 08:49:32  Vol : URUS_PA2_R32_Plastic Skid: 169 Calcul Vol : 10 Color: 97.
+2026-04-24 08:49:32  ---------------------------
+2026-04-24 09:23:52 --- Trajectory --- 
+2026-04-24 09:23:52 Prog : HURACAN_BC2_R32_Plastic Skid: 46 Paint : 0.
+2026-04-24 09:23:52 ------------------ 
+2026-04-24 09:27:02  Vol : URUS_PA2_R32_Plastic Skid: 7 Calcul Vol : 10 Color: 18.
+2026-04-24 09:27:02  ---------------------------
+2026-04-24 09:27:28 --- Trajectory --- 
+2026-04-24 09:27:28 Prog : HURACAN_BC2_R32_Plastic Skid: 46 Paint : 0.
+2026-04-24 09:27:28 ------------------ 
+2026-04-24 09:40:20  Vol : HURACAN_BC2_R32_INT Skid: 208 Calcul Vol : 18 Color: 34.
+2026-04-24 09:40:20  ---------------------------
+2026-04-24 09:40:26  Vol : HURACAN_BC2_R32_EXT_new Skid: 208 Calcul Vol : 237 Color: 34.
+2026-04-24 09:40:26  ---------------------------
+2026-04-24 09:49:45  Vol : HURACAN_BC2_R32_Plastic Skid: 110 Calcul Vol : 64 Color: 34.
+2026-04-24 09:49:45  ---------------------------
+2026-04-24 09:52:17 --- Trajectory --- 
+2026-04-24 09:52:17 Prog : HURACAN_BC2_R32_Plastic Skid: 46 Paint : 0.
+2026-04-24 09:52:17 ------------------ 
+2026-04-24 09:57:18  Vol : HURACAN_BC2_R32_INT Skid: 232 Calcul Vol : 18 Color: 34.
+2026-04-24 09:57:18  ---------------------------
+2026-04-24 09:57:24  Vol : HURACAN_BC2_R32_EXT_new Skid: 232 Calcul Vol : 237 Color: 34.
+2026-04-24 09:57:24  ---------------------------
+2026-04-24 10:10:25 --- Trajectory INT --- 
+2026-04-24 10:10:25  HURACAN_BC2_R31_INT " Skid: 208 Paint : 0.
+2026-04-24 10:10:25 --- --- 
+2026-04-24 10:10:28 --- Trajectory --- 
+2026-04-24 10:10:28 Prog : HURACAN_BC2_R32_INT Skid: 208 Paint : 16.
+2026-04-24 10:10:28 ------------------ 
+2026-04-24 10:12:58 --- Trajectory --- 
+2026-04-24 10:12:58 Prog : HURACAN_BC2_R32_EXT_new Skid: 208 Paint : 213.
+2026-04-24 10:12:58 ------------------ 
+2026-04-24 10:20:22 --- Trajectory --- 
+2026-04-24 10:20:22 Prog : HURACAN_BC2_R32_Plastic Skid: 110 Paint : 107.
+2026-04-24 10:20:22 ------------------ 
+2026-04-24 10:23:45 --- Trajectory INT --- 
+2026-04-24 10:23:45  HURACAN_BC2_R31_INT " Skid: 232 Paint : 0.
+2026-04-24 10:23:45 --- --- 
+2026-04-24 10:23:48 --- Trajectory --- 
+2026-04-24 10:23:48 Prog : HURACAN_BC2_R32_INT Skid: 232 Paint : 16.
+2026-04-24 10:23:48 ------------------ 
+2026-04-24 10:24:16  Vol : URUS_PA2_R32_Plastic Skid: 67 Calcul Vol : 3 Color: 68.
+2026-04-24 10:24:16  ---------------------------
+2026-04-24 10:26:17 --- Trajectory --- 
+2026-04-24 10:26:17 Prog : HURACAN_BC2_R32_EXT_new Skid: 232 Paint : 213.
+2026-04-24 10:26:17 ------------------ 
+2026-04-24 10:29:26  Default Volume : URUS_PA2_BC2_R32_EXT_2026 Skid: 130.
+2026-04-24 10:29:27  Vol : URUS_PA2_BC2_R32_EXT_2026 Skid: 130 Calcul Vol : 650 Color: 68.
+2026-04-24 10:29:27  ---------------------------
+2026-04-24 10:32:55  Default Volume : URUS_PA2_BC2_R32_EXT_2026 Skid: 61.
+2026-04-24 10:32:57  Vol : URUS_PA2_BC2_R32_EXT_2026 Skid: 61 Calcul Vol : 650 Color: 11.
+2026-04-24 10:32:57  ---------------------------
+2026-04-24 10:43:51 --- Trajectory --- 
+2026-04-24 10:43:51 Prog : HURACAN_BC2_R32_EXT_new Skid: 232 Paint : 0.
+2026-04-24 10:43:51 ------------------ 
+2026-04-24 10:52:54 --- Trajectory --- 
+2026-04-24 10:52:54 Prog : HURACAN_BC2_R32_EXT_new Skid: 232 Paint : 0.
+2026-04-24 10:52:54 ------------------ 
+2026-04-24 10:55:37  Vol : HURACAN_BC2_R32_Plastic Skid: 194 Calcul Vol : 178 Color: 146.
+2026-04-24 10:55:37  ---------------------------
+2026-04-24 10:58:07  Vol : HURACAN_BC2_R32_INT Skid: 156 Calcul Vol : 26 Color: 146.
+2026-04-24 10:58:07  ---------------------------
+2026-04-24 10:58:13  Vol : HURACAN_BC2_R32_EXT_new Skid: 156 Calcul Vol : 333 Color: 146.
+2026-04-24 10:58:13  ---------------------------
+2026-04-24 10:59:46 --- Trajectory --- 
+2026-04-24 10:59:46 Prog : HURACAN_BC2_R32_EXT_new Skid: 232 Paint : 0.
+2026-04-24 10:59:46 ------------------ 
+2026-04-24 11:07:52  Default Volume : URUS_PA2_BC2_R32_EXT_2026 Skid: 212.
+2026-04-24 11:07:54  Vol : URUS_PA2_BC2_R32_EXT_2026 Skid: 212 Calcul Vol : 650 Color: 137.
+2026-04-24 11:07:54  ---------------------------
+2026-04-24 11:18:05  Vol : URUS_PA2_R32_Plastic Skid: 102 Calcul Vol : 10 Color: 99.
+2026-04-24 11:18:05  ---------------------------
+2026-04-24 11:27:50  Default Volume : URUS_PA2_BC2_R32_EXT_2026 Skid: 68.
+2026-04-24 11:27:52  Vol : URUS_PA2_BC2_R32_EXT_2026 Skid: 68 Calcul Vol : 650 Color: 99.
+2026-04-24 11:27:52  ---------------------------
+2026-04-24 11:32:04 --- Trajectory --- 
+2026-04-24 11:32:04 Prog : HURACAN_BC2_R32_Plastic Skid: 194 Paint : 168.
+2026-04-24 11:32:04 ------------------ 
+2026-04-24 11:33:38 --- Trajectory INT --- 
+2026-04-24 11:33:38  HURACAN_BC2_R31_INT " Skid: 156 Paint : 0.
+2026-04-24 11:33:38 --- --- 
+2026-04-24 11:33:41 --- Trajectory --- 
+2026-04-24 11:33:41 Prog : HURACAN_BC2_R32_INT Skid: 156 Paint : 25.
+2026-04-24 11:33:41 ------------------ 
+2026-04-24 11:36:10 --- Trajectory --- 
+2026-04-24 11:36:10 Prog : HURACAN_BC2_R32_EXT_new Skid: 156 Paint : 312.
+2026-04-24 11:36:10 ------------------ 
+2026-04-24 11:38:33  Default Volume : URUS_PA2_BC2_R32_EXT_2026 Skid: 20.
+2026-04-24 11:38:35  Vol : URUS_PA2_BC2_R32_EXT_2026 Skid: 20 Calcul Vol : 650 Color: 97.
+2026-04-24 11:38:35  ---------------------------
+2026-04-24 11:45:57 --- Trajectory --- 
+2026-04-24 11:45:57 Prog : HURACAN_BC2_R32_EXT_new Skid: 156 Paint : 0.
+2026-04-24 11:45:57 ------------------ 
+2026-04-24 11:49:04 --- Trajectory --- 
+2026-04-24 11:49:04 Prog : HURACAN_BC2_R32_EXT_new Skid: 156 Paint : 0.
+2026-04-24 11:49:04 ------------------ 
+2026-04-24 11:55:45 --- Trajectory --- 
+2026-04-24 11:55:45 Prog : HURACAN_BC2_R32_EXT_new Skid: 156 Paint : 0.
+2026-04-24 11:55:45 ------------------ 
+2026-04-24 12:05:32  Vol : HURACAN_BC2_R32_Plastic Skid: 200 Calcul Vol : 96 Color: 106.
+2026-04-24 12:05:32  ---------------------------
+2026-04-24 12:10:01  Vol : HURACAN_BC2_R32_INT Skid: 210 Calcul Vol : 28 Color: 106.
+2026-04-24 12:10:01  ---------------------------
+2026-04-24 12:10:07  Vol : HURACAN_BC2_R32_EXT_new Skid: 210 Calcul Vol : 346 Color: 106.
+2026-04-24 12:10:07  ---------------------------
+2026-04-24 12:11:38 --- Trajectory --- 
+2026-04-24 12:11:38 Prog : HURACAN_BC2_R32_EXT_new Skid: 156 Paint : 0.
+2026-04-24 12:11:38 ------------------ 
+2026-04-24 12:29:51 --- Trajectory --- 
+2026-04-24 12:29:51 Prog : HURACAN_BC2_R32_Plastic Skid: 200 Paint : 172.
+2026-04-24 12:29:51 ------------------ 
+2026-04-24 12:33:04 --- Trajectory INT --- 
+2026-04-24 12:33:04  HURACAN_BC2_R31_INT " Skid: 210 Paint : 0.
+2026-04-24 12:33:04 --- --- 
+2026-04-24 12:33:06 --- Trajectory --- 
+2026-04-24 12:33:06 Prog : HURACAN_BC2_R32_INT Skid: 210 Paint : 27.
+2026-04-24 12:33:06 ------------------ 
+2026-04-24 12:35:36 --- Trajectory --- 
+2026-04-24 12:35:36 Prog : HURACAN_BC2_R32_EXT_new Skid: 210 Paint : 325.
+2026-04-24 12:35:36 ------------------ 
+2026-04-24 12:44:15  Default Volume : URUS_PA2_BC2_R32_EXT_2026 Skid: 126.
+2026-04-24 12:44:16  Vol : URUS_PA2_BC2_R32_EXT_2026 Skid: 126 Calcul Vol : 650 Color: 11.
+2026-04-24 12:44:16  ---------------------------
+2026-04-24 13:21:30 --- Trajectory --- 
+2026-04-24 13:21:30 Prog : HURACAN_BC2_R32_EXT_new Skid: 210 Paint : 0.
+2026-04-24 13:21:30 ------------------ 
+2026-04-27 05:36:16 --- Trajectory --- 
+2026-04-27 05:36:16 Prog : HURACAN_BC2_R32_EXT_new Skid: 15622 Paint : 320.
+2026-04-27 05:36:16 ------------------ 
+2026-04-27 06:07:46  Vol : HURACAN_BC2_R32_INT Skid: 208 Calcul Vol : 23 Color: 35.
+2026-04-27 06:07:46  ---------------------------
+2026-04-27 06:07:52  Vol : HURACAN_BC2_R32_EXT_new Skid: 208 Calcul Vol : 295 Color: 35.
+2026-04-27 06:07:52  ---------------------------
+2026-04-27 06:35:55 --- Trajectory INT --- 
+2026-04-27 06:35:55  HURACAN_BC2_R31_INT " Skid: 208 Paint : 0.
+2026-04-27 06:35:55 --- --- 
+2026-04-27 06:35:58 --- Trajectory --- 
+2026-04-27 06:35:58 Prog : HURACAN_BC2_R32_INT Skid: 208 Paint : 21.
+2026-04-27 06:35:58 ------------------ 
+2026-04-27 06:38:27 --- Trajectory --- 
+2026-04-27 06:38:27 Prog : HURACAN_BC2_R32_EXT_new Skid: 208 Paint : 273.
+2026-04-27 06:38:27 ------------------ 
+2026-04-27 07:09:49  Default Volume : URUS_PA2_BC2_R32_EXT_2026 Skid: 133.
+2026-04-27 07:09:50  Vol : URUS_PA2_BC2_R32_EXT_2026 Skid: 133 Calcul Vol : 650 Color: 11.
+2026-04-27 07:09:50  ---------------------------
+2026-04-27 07:50:56  Vol : HURACAN_BC2_R32_Plastic Skid: 110 Calcul Vol : 109 Color: 35.
+2026-04-27 07:50:56  ---------------------------
+2026-04-27 07:55:49  Vol : HURACAN_BC2_R32_INT Skid: 232 Calcul Vol : 23 Color: 35.
+2026-04-27 07:55:49  ---------------------------
+2026-04-27 07:55:55  Vol : HURACAN_BC2_R32_EXT_new Skid: 232 Calcul Vol : 295 Color: 35.
+2026-04-27 07:55:55  ---------------------------
+2026-04-27 08:03:33  Default Volume : URUS_PA2_BC2_R32_EXT_2026 Skid: 130.
+2026-04-27 08:03:35  Vol : URUS_PA2_BC2_R32_EXT_2026 Skid: 130 Calcul Vol : 650 Color: 69.
+2026-04-27 08:03:35  ---------------------------
+2026-04-27 08:07:28  Vol : URUS_PA2_R32_Plastic Skid: 67 Calcul Vol : 10 Color: 69.
+2026-04-27 08:07:28  ---------------------------
+2026-04-27 08:10:56 --- Trajectory --- 
+2026-04-27 08:10:56 Prog : HURACAN_BC2_R32_EXT_new Skid: 208 Paint : 0.
+2026-04-27 08:10:56 ------------------ 
+2026-04-27 08:19:33 --- Trajectory --- 
+2026-04-27 08:19:33 Prog : HURACAN_BC2_R32_Plastic Skid: 110 Paint : 168.
+2026-04-27 08:19:33 ------------------ 
+2026-04-27 08:27:40 --- Trajectory INT --- 
+2026-04-27 08:27:40  HURACAN_BC2_R31_INT " Skid: 232 Paint : 0.
+2026-04-27 08:27:40 --- --- 
+2026-04-27 08:27:43 --- Trajectory --- 
+2026-04-27 08:27:43 Prog : HURACAN_BC2_R32_INT Skid: 232 Paint : 21.
+2026-04-27 08:27:43 ------------------ 
+2026-04-27 08:30:13 --- Trajectory --- 
+2026-04-27 08:30:13 Prog : HURACAN_BC2_R32_EXT_new Skid: 232 Paint : 273.
+2026-04-27 08:30:13 ------------------ 
+2026-04-27 08:31:33  Vol : HURACAN_BC2_R32_Plastic Skid: 157 Calcul Vol : 75 Color: 18.
+2026-04-27 08:31:33  ---------------------------
+2026-04-27 08:36:56  Vol : HURACAN_BC2_R32_INT Skid: 161 Calcul Vol : 18 Color: 18.
+2026-04-27 08:36:56  ---------------------------
+2026-04-27 08:37:02  Vol : HURACAN_BC2_R32_EXT_new Skid: 161 Calcul Vol : 212 Color: 18.
+2026-04-27 08:37:02  ---------------------------
+2026-04-27 08:39:06 --- Trajectory --- 
+2026-04-27 08:39:06 Prog : HURACAN_BC2_R32_EXT_new Skid: 232 Paint : 0.
+2026-04-27 08:39:06 ------------------ 
+2026-04-27 08:41:33  Default Volume : URUS_PA2_BC2_R32_EXT_2026 Skid: 245.
+2026-04-27 08:41:34  Vol : URUS_PA2_BC2_R32_EXT_2026 Skid: 245 Calcul Vol : 650 Color: 11.
+2026-04-27 08:41:34  ---------------------------
+2026-04-27 08:42:23 --- Trajectory --- 
+2026-04-27 08:42:23 Prog : HURACAN_BC2_R32_EXT_new Skid: 232 Paint : 0.
+2026-04-27 08:42:23 ------------------ 
+2026-04-27 08:56:34  Default Volume : URUS_PA2_BC2_R32_EXT_2026 Skid: 37.
+2026-04-27 08:56:36  Vol : URUS_PA2_BC2_R32_EXT_2026 Skid: 37 Calcul Vol : 650 Color: 18.
+2026-04-27 08:56:36  ---------------------------
+2026-04-27 08:59:26 --- Trajectory --- 
+2026-04-27 08:59:27 Prog : HURACAN_BC2_R32_Plastic Skid: 157 Paint : 118.
+2026-04-27 08:59:27 ------------------ 
+2026-04-27 09:00:37  Vol : URUS_PA2_R32_Plastic Skid: 7 Calcul Vol : 10 Color: 11.
+2026-04-27 09:00:37  ---------------------------
+2026-04-27 09:04:01 --- Trajectory INT --- 
+2026-04-27 09:04:01  HURACAN_BC2_R31_INT " Skid: 161 Paint : 0.
+2026-04-27 09:04:01 --- --- 
+2026-04-27 09:04:03 --- Trajectory --- 
+2026-04-27 09:04:03 Prog : HURACAN_BC2_R32_INT Skid: 161 Paint : 16.
+2026-04-27 09:04:03 ------------------ 
+2026-04-27 09:06:33 --- Trajectory --- 
+2026-04-27 09:06:33 Prog : HURACAN_BC2_R32_EXT_new Skid: 161 Paint : 188.
+2026-04-27 09:06:33 ------------------ 
+2026-04-27 09:10:56 --- Trajectory --- 
+2026-04-27 09:10:56 Prog : HURACAN_BC2_R32_EXT_new Skid: 161 Paint : 0.
+2026-04-27 09:10:56 ------------------ 
+2026-04-27 09:23:56 --- Trajectory --- 
+2026-04-27 09:23:56 Prog : HURACAN_BC2_R32_EXT_new Skid: 161 Paint : 0.
+2026-04-27 09:23:56 ------------------ 
+2026-04-27 09:27:23 --- Trajectory --- 
+2026-04-27 09:27:23 Prog : HURACAN_BC2_R32_EXT_new Skid: 161 Paint : 0.
+2026-04-27 09:27:23 ------------------ 
+2026-04-27 09:37:48  Default Volume : URUS_PA2_BC2_R32_EXT_2026 Skid: 99.
+2026-04-27 09:37:49  Vol : URUS_PA2_BC2_R32_EXT_2026 Skid: 99 Calcul Vol : 650 Color: 26.
+2026-04-27 09:37:49  ---------------------------
+2026-04-27 09:46:31  Default Volume : URUS_PA2_BC2_R32_EXT_2026 Skid: 122.
+2026-04-27 09:46:32  Vol : URUS_PA2_BC2_R32_EXT_2026 Skid: 122 Calcul Vol : 650 Color: 77.
+2026-04-27 09:46:32  ---------------------------
+2026-04-27 10:09:28 --- Trajectory --- 
+2026-04-27 10:09:28 Prog : HURACAN_BC2_R32_EXT_new Skid: 161 Paint : 0.
+2026-04-27 10:09:28 ------------------ 
+2026-04-27 10:14:53  Vol : URUS_PA2_R32_Plastic Skid: 180 Calcul Vol : 10 Color: 53.
+2026-04-27 10:14:53  ---------------------------
+2026-04-27 10:20:04  Default Volume : URUS_PA2_BC2_R32_EXT_2026 Skid: 220.
+2026-04-27 10:20:06  Vol : URUS_PA2_BC2_R32_EXT_2026 Skid: 220 Calcul Vol : 650 Color: 53.
+2026-04-27 10:20:06  ---------------------------
+2026-04-27 10:24:41  Vol : HURACAN_BC2_R32_INT Skid: 29 Calcul Vol : 18 Color: 11.
+2026-04-27 10:24:41  ---------------------------
+2026-04-27 10:24:46  Vol : HURACAN_BC2_R32_EXT_new Skid: 29 Calcul Vol : 342 Color: 11.
+2026-04-27 10:24:46  ---------------------------
+2026-04-27 10:32:01  Vol : HURACAN_BC2_R32_Plastic Skid: 45 Calcul Vol : 112 Color: 11.
+2026-04-27 10:32:01  ---------------------------
+2026-04-27 10:33:20 --- Trajectory --- 
+2026-04-27 10:33:20 Prog : HURACAN_BC2_R32_EXT_new Skid: 161 Paint : 0.
+2026-04-27 10:33:20 ------------------ 
+2026-04-27 10:39:35 --- Trajectory --- 
+2026-04-27 10:39:35 Prog : HURACAN_BC2_R32_EXT_new Skid: 161 Paint : 0.
+2026-04-27 10:39:35 ------------------ 
+2026-04-27 10:49:05 --- Trajectory INT --- 
+2026-04-27 10:49:05  HURACAN_BC2_R31_INT " Skid: 29 Paint : 0.
+2026-04-27 10:49:05 --- --- 
+2026-04-27 10:49:07 --- Trajectory --- 
+2026-04-27 10:49:07 Prog : HURACAN_BC2_R32_INT Skid: 29 Paint : 16.
+2026-04-27 10:49:07 ------------------ 
+2026-04-27 10:51:36 --- Trajectory --- 
+2026-04-27 10:51:36 Prog : HURACAN_BC2_R32_EXT_new Skid: 29 Paint : 321.
+2026-04-27 10:51:36 ------------------ 
+2026-04-27 10:54:49 --- Trajectory --- 
+2026-04-27 10:54:49 Prog : HURACAN_BC2_R32_Plastic Skid: 45 Paint : 186.
+2026-04-27 10:54:49 ------------------ 
+2026-04-27 11:20:33  Default Volume : URUS_PA2_BC2_R32_EXT_2026 Skid: 99.
+2026-04-27 11:20:35  Vol : URUS_PA2_BC2_R32_EXT_2026 Skid: 99 Calcul Vol : 650 Color: 26.
+2026-04-27 11:20:35  ---------------------------
+2026-04-27 11:35:00  Vol : URUS_PA2_R32_Plastic Skid: 186 Calcul Vol : 10 Color: 54.
+2026-04-27 11:35:00  ---------------------------
+2026-04-27 11:51:28  Default Volume : URUS_PA2_BC2_R32_EXT_2026 Skid: 244.
+2026-04-27 11:51:30  Vol : URUS_PA2_BC2_R32_EXT_2026 Skid: 244 Calcul Vol : 650 Color: 11.
+2026-04-27 11:51:30  ---------------------------
+2026-04-27 11:55:27 --- Trajectory --- 
+2026-04-27 11:55:27 Prog : HURACAN_BC2_R32_Plastic Skid: 45 Paint : 0.
+2026-04-27 11:55:27 ------------------ 
+2026-04-27 12:11:28 --- Trajectory --- 
+2026-04-27 12:11:28 Prog : HURACAN_BC2_R32_Plastic Skid: 45 Paint : 0.
+2026-04-27 12:11:28 ------------------ 
+2026-04-27 12:19:51  Vol : URUS_PA2_R32_Plastic Skid: 197 Calcul Vol : 10 Color: 53.
+2026-04-27 12:19:51  ---------------------------
+2026-04-27 12:27:40 --- Trajectory --- 
+2026-04-27 12:27:40 Prog : HURACAN_BC2_R32_Plastic Skid: 45 Paint : 0.
+2026-04-27 12:27:40 ------------------ 
+2026-04-27 12:47:47 --- Trajectory --- 
+2026-04-27 12:47:47 Prog : HURACAN_BC2_R32_Plastic Skid: 45 Paint : 0.
+2026-04-27 12:47:47 ------------------ 
+2026-04-27 12:52:33  Vol : HURACAN_BC2_R32_INT Skid: 202 Calcul Vol : 18 Color: 11.
+2026-04-27 12:52:33  ---------------------------
+2026-04-27 12:52:39  Vol : HURACAN_BC2_R32_EXT_new Skid: 202 Calcul Vol : 342 Color: 11.
+2026-04-27 12:52:39  ---------------------------
+2026-04-27 13:15:33 --- Trajectory INT --- 
+2026-04-27 13:15:33  HURACAN_BC2_R31_INT " Skid: 202 Paint : 0.
+2026-04-27 13:15:33 --- --- 
+2026-04-27 13:15:36 --- Trajectory --- 
+2026-04-27 13:15:36 Prog : HURACAN_BC2_R32_INT Skid: 202 Paint : 16.
+2026-04-27 13:15:36 ------------------ 
+2026-04-27 13:17:44 --- Trajectory --- 
+2026-04-27 13:17:44 Prog : HURACAN_BC2_R32_EXT_new Skid: 202 Paint : 181.
+2026-04-27 13:17:44 ------------------ 
+2026-04-27 13:23:55  Default Volume : URUS_PA2_BC2_R32_EXT_2026 Skid: 233.
+2026-04-27 13:23:57  Vol : URUS_PA2_BC2_R32_EXT_2026 Skid: 233 Calcul Vol : 650 Color: 10.
+2026-04-27 13:23:57  ---------------------------
+2026-04-27 13:46:07 --- Trajectory --- 
+2026-04-27 13:46:07 Prog : HURACAN_BC2_R32_EXT_new Skid: 202 Paint : 0.
+2026-04-27 13:46:07 ------------------ 
+2026-04-27 13:47:54  Vol : HURACAN_BC2_R32_Plastic Skid: 164 Calcul Vol : 100 Color: 15.
+2026-04-27 13:47:54  ---------------------------
+2026-04-27 13:52:14  Vol : HURACAN_BC2_R32_INT Skid: 203 Calcul Vol : 20 Color: 15.
+2026-04-27 13:52:14  ---------------------------
+2026-04-27 13:52:20  Vol : HURACAN_BC2_R32_EXT_new Skid: 203 Calcul Vol : 230 Color: 15.
+2026-04-27 13:52:20  ---------------------------
+2026-04-27 14:07:45 --- Trajectory --- 
+2026-04-27 14:07:46 Prog : HURACAN_BC2_R32_Plastic Skid: 164 Paint : 178.
+2026-04-27 14:07:46 ------------------ 
+2026-04-27 14:11:29 --- Trajectory INT --- 
+2026-04-27 14:11:29  HURACAN_BC2_R31_INT " Skid: 203 Paint : 0.
+2026-04-27 14:11:29 --- --- 
+2026-04-27 14:11:32 --- Trajectory --- 
+2026-04-27 14:11:32 Prog : HURACAN_BC2_R32_INT Skid: 203 Paint : 18.
+2026-04-27 14:11:32 ------------------ 
+2026-04-27 14:14:01 --- Trajectory --- 
+2026-04-27 14:14:01 Prog : HURACAN_BC2_R32_EXT_new Skid: 203 Paint : 207.
+2026-04-27 14:14:01 ------------------ 
+2026-04-27 14:56:36  Default Volume : URUS_PA2_BC2_R32_EXT_2026 Skid: 158.
+2026-04-27 14:56:38  Vol : URUS_PA2_BC2_R32_EXT_2026 Skid: 158 Calcul Vol : 650 Color: 53.
+2026-04-27 14:56:38  ---------------------------
+2026-04-27 15:13:45  Vol : URUS_PA2_R32_Plastic Skid: 98 Calcul Vol : 10 Color: 55.
+2026-04-27 15:13:45  ---------------------------
+2026-04-27 15:16:55  Default Volume : URUS_PA2_BC2_R32_EXT_2026 Skid: 163.
+2026-04-27 15:16:56  Vol : URUS_PA2_BC2_R32_EXT_2026 Skid: 163 Calcul Vol : 650 Color: 55.
+2026-04-27 15:16:56  ---------------------------
+2026-04-27 15:21:22 --- Trajectory --- 
+2026-04-27 15:21:22 Prog : HURACAN_BC2_R32_EXT_new Skid: 203 Paint : 0.
+2026-04-27 15:21:22 ------------------ 
+2026-04-27 15:37:52 --- Trajectory --- 
+2026-04-27 15:37:52 Prog : HURACAN_BC2_R32_EXT_new Skid: 203 Paint : 0.
+2026-04-27 15:37:53 ------------------ 
+2026-04-27 15:44:13 --- Trajectory --- 
+2026-04-27 15:44:13 Prog : HURACAN_BC2_R32_EXT_new Skid: 203 Paint : 0.
+2026-04-27 15:44:13 ------------------ 
+2026-04-27 16:41:37  Vol : HURACAN_BC2_R32_Plastic Skid: 97 Calcul Vol : 39 Color: 29.
+2026-04-27 16:41:37  ---------------------------
+2026-04-27 17:01:08 --- Trajectory --- 
+2026-04-27 17:01:08 Prog : HURACAN_BC2_R32_Plastic Skid: 97 Paint : 60.
+2026-04-27 17:01:08 ------------------ 
+2026-04-27 17:23:47  Vol : HURACAN_BC2_R32_INT Skid: 50 Calcul Vol : 18 Color: 29.
+2026-04-27 17:23:47  ---------------------------
+2026-04-27 17:23:53  Vol : HURACAN_BC2_R32_EXT_new Skid: 50 Calcul Vol : 225 Color: 29.
+2026-04-27 17:23:53  ---------------------------
+2026-04-27 17:35:03  Default Volume : URUS_PA2_BC2_R32_EXT_2026 Skid: 81.
+2026-04-27 17:35:05  Vol : URUS_PA2_BC2_R32_EXT_2026 Skid: 81 Calcul Vol : 650 Color: 54.
+2026-04-27 17:35:05  ---------------------------
+2026-04-27 17:39:49  Vol : HURACAN_BC2_R32_INT Skid: 52 Calcul Vol : 30 Color: 16.
+2026-04-27 17:39:49  ---------------------------
+2026-04-27 17:39:54  Vol : HURACAN_BC2_R32_EXT_new Skid: 52 Calcul Vol : 356 Color: 16.
+2026-04-27 17:39:54  ---------------------------
+2026-04-27 17:42:59 --- Trajectory INT --- 
+2026-04-27 17:42:59  HURACAN_BC2_R31_INT " Skid: 50 Paint : 0.
+2026-04-27 17:42:59 --- --- 
+2026-04-27 17:43:02 --- Trajectory --- 
+2026-04-27 17:43:02 Prog : HURACAN_BC2_R32_INT Skid: 50 Paint : 16.
+2026-04-27 17:43:02 ------------------ 
+2026-04-27 17:45:31 --- Trajectory --- 
+2026-04-27 17:45:31 Prog : HURACAN_BC2_R32_EXT_new Skid: 50 Paint : 202.
+2026-04-27 17:45:31 ------------------ 
+2026-04-27 17:59:08 --- Trajectory --- 
+2026-04-27 17:59:08 Prog : HURACAN_BC2_R32_EXT_new Skid: 50 Paint : 0.
+2026-04-27 17:59:08 ------------------ 
+2026-04-27 18:01:13 --- Trajectory INT --- 
+2026-04-27 18:01:13  HURACAN_BC2_R31_INT " Skid: 52 Paint : 0.
+2026-04-27 18:01:13 --- --- 
+2026-04-27 18:01:16 --- Trajectory --- 
+2026-04-27 18:01:16 Prog : HURACAN_BC2_R32_INT Skid: 52 Paint : 29.
+2026-04-27 18:01:16 ------------------ 
+2026-04-27 18:03:24 --- Trajectory --- 
+2026-04-27 18:03:24 Prog : HURACAN_BC2_R32_EXT_new Skid: 52 Paint : 190.
+2026-04-27 18:03:24 ------------------ 
+2026-04-27 18:28:01  Vol : URUS_PA2_R32_Plastic Skid: 7 Calcul Vol : 5 Color: 29.
+2026-04-27 18:28:01  ---------------------------
+2026-04-27 18:38:54  Vol : HURACAN_BC2_R32_INT Skid: 232 Calcul Vol : 18 Color: 34.
+2026-04-27 18:38:54  ---------------------------
+2026-04-27 18:38:59  Vol : HURACAN_BC2_R32_EXT_new Skid: 232 Calcul Vol : 237 Color: 34.
+2026-04-27 18:38:59  ---------------------------
+2026-04-27 18:45:50 --- Trajectory --- 
+2026-04-27 18:45:50 Prog : HURACAN_BC2_R32_EXT_new Skid: 52 Paint : 0.
+2026-04-27 18:45:50 ------------------ 
+2026-04-27 19:00:09 --- Trajectory INT --- 
+2026-04-27 19:00:09  HURACAN_BC2_R31_INT " Skid: 232 Paint : 0.
+2026-04-27 19:00:09 --- --- 
+2026-04-27 19:00:12 --- Trajectory --- 
+2026-04-27 19:00:12 Prog : HURACAN_BC2_R32_INT Skid: 232 Paint : 16.
+2026-04-27 19:00:12 ------------------ 
+2026-04-27 19:02:42 --- Trajectory --- 
+2026-04-27 19:02:42 Prog : HURACAN_BC2_R32_EXT_new Skid: 232 Paint : 213.
+2026-04-27 19:02:42 ------------------ 
+2026-04-27 19:16:53  Default Volume : URUS_PA2_BC2_R32_EXT_2026 Skid: 152.
+2026-04-27 19:16:55  Vol : URUS_PA2_BC2_R32_EXT_2026 Skid: 152 Calcul Vol : 650 Color: 15.
+2026-04-27 19:16:55  ---------------------------
+2026-04-27 19:31:44  Vol : HURACAN_BC2_R32_INT Skid: 203 Calcul Vol : 20 Color: 15.
+2026-04-27 19:31:44  ---------------------------
+2026-04-27 19:31:50  Vol : HURACAN_BC2_R32_EXT_new Skid: 203 Calcul Vol : 230 Color: 15.
+2026-04-27 19:31:50  ---------------------------
+2026-04-27 19:36:19  Vol : URUS_PA2_R32_Plastic Skid: 102 Calcul Vol : 3 Color: 27.
+2026-04-27 19:36:19  ---------------------------
+2026-04-27 19:43:22 --- Trajectory --- 
+2026-04-27 19:43:22 Prog : HURACAN_BC2_R32_EXT_new Skid: 232 Paint : 0.
+2026-04-27 19:43:22 ------------------ 
+2026-04-27 19:55:03  Vol : URUS_PA2_R32_Plastic Skid: 169 Calcul Vol : 10 Color: 99.
+2026-04-27 19:55:03  ---------------------------
+2026-04-27 19:59:40  Default Volume : URUS_PA2_BC2_R32_EXT_2026 Skid: 221.
+2026-04-27 19:59:42  Vol : URUS_PA2_BC2_R32_EXT_2026 Skid: 221 Calcul Vol : 650 Color: 99.
+2026-04-27 19:59:42  ---------------------------
+2026-04-27 20:05:17 --- Trajectory INT --- 
+2026-04-27 20:05:17  HURACAN_BC2_R31_INT " Skid: 203 Paint : 0.
+2026-04-27 20:05:17 --- --- 
+2026-04-27 20:05:20 --- Trajectory --- 
+2026-04-27 20:05:20 Prog : HURACAN_BC2_R32_INT Skid: 203 Paint : 18.
+2026-04-27 20:05:20 ------------------ 
+2026-04-27 20:07:50 --- Trajectory --- 
+2026-04-27 20:07:50 Prog : HURACAN_BC2_R32_EXT_new Skid: 203 Paint : 207.
+2026-04-27 20:07:50 ------------------ 
+2026-04-27 20:12:18 --- Trajectory --- 
+2026-04-27 20:12:18 Prog : HURACAN_BC2_R32_EXT_new Skid: 203 Paint : 0.
+2026-04-27 20:12:18 ------------------ 
+2026-04-27 20:23:26 --- Trajectory --- 
+2026-04-27 20:23:26 Prog : HURACAN_BC2_R32_EXT_new Skid: 203 Paint : 0.
+2026-04-27 20:23:26 ------------------ 
+2026-04-27 20:34:47 --- Trajectory --- 
+2026-04-27 20:34:47 Prog : HURACAN_BC2_R32_EXT_new Skid: 203 Paint : 0.
+2026-04-27 20:34:47 ------------------ 
+2026-04-27 20:38:13  Vol : URUS_PA2_R32_Plastic Skid: 67 Calcul Vol : 10 Color: 68.
+2026-04-27 20:38:13  ---------------------------
+2026-04-27 20:42:59  Vol : URUS_PA2_R32_Plastic Skid: 259 Calcul Vol : 10 Color: 131.
+2026-04-27 20:42:59  ---------------------------
+2026-04-27 20:47:06  Default Volume : URUS_PA2_BC2_R32_EXT_2026 Skid: 210.
+2026-04-27 20:47:08  Vol : URUS_PA2_BC2_R32_EXT_2026 Skid: 210 Calcul Vol : 650 Color: 131.
+2026-04-27 20:47:08  ---------------------------
+2026-04-27 21:02:12 --- Trajectory --- 
+2026-04-27 21:02:12 Prog : HURACAN_BC2_R32_EXT_new Skid: 203 Paint : 0.
+2026-04-27 21:02:12 ------------------ 
+2026-04-27 21:06:23 --- Trajectory --- 
+2026-04-27 21:06:23 Prog : HURACAN_BC2_R32_EXT_new Skid: 203 Paint : 0.
+2026-04-27 21:06:23 ------------------ 
+2026-04-27 21:12:30 --- Trajectory --- 
+2026-04-27 21:12:30 Prog : HURACAN_BC2_R32_EXT_new Skid: 203 Paint : 0.
+2026-04-27 21:12:30 ------------------ 
+2026-04-28 05:35:27 --- Trajectory --- 
+2026-04-28 05:35:27 Prog : HURACAN_BC2_R32_EXT_new Skid: 15623 Paint : 320.
+2026-04-28 05:35:27 ------------------ 
+2026-04-28 05:55:31  Default Volume : URUS_PA2_BC2_R32_EXT_2026 Skid: 193.
+2026-04-28 05:55:33  Vol : URUS_PA2_BC2_R32_EXT_2026 Skid: 193 Calcul Vol : 650 Color: 27.
+2026-04-28 05:55:33  ---------------------------
+2026-04-28 06:45:55 --- Trajectory --- 
+2026-04-28 06:45:55 Prog : HURACAN_BC2_R32_EXT_new Skid: 15623 Paint : 0.
+2026-04-28 06:45:55 ------------------ 
+2026-04-28 06:59:40  Vol : HURACAN_BC2_R32_Plastic Skid: 110 Calcul Vol : 74 Color: 22.
+2026-04-28 06:59:40  ---------------------------
+2026-04-28 07:03:33  Vol : HURACAN_BC2_R32_INT Skid: 232 Calcul Vol : 23 Color: 35.
+2026-04-28 07:03:33  ---------------------------
+2026-04-28 07:03:39  Vol : HURACAN_BC2_R32_EXT_new Skid: 232 Calcul Vol : 295 Color: 35.
+2026-04-28 07:03:39  ---------------------------
+2026-04-28 07:07:32  Vol : HURACAN_BC2_R32_INT Skid: 207 Calcul Vol : 19 Color: 22.
+2026-04-28 07:07:32  ---------------------------
+2026-04-28 07:07:37  Vol : HURACAN_BC2_R32_EXT_new Skid: 207 Calcul Vol : 376 Color: 22.
+2026-04-28 07:07:37  ---------------------------
+2026-04-28 07:23:59 --- Trajectory --- 
+2026-04-28 07:23:59 Prog : HURACAN_BC2_R32_Plastic Skid: 110 Paint : 121.
+2026-04-28 07:23:59 ------------------ 
+2026-04-28 07:27:41 --- Trajectory INT --- 
+2026-04-28 07:27:41  HURACAN_BC2_R31_INT " Skid: 232 Paint : 0.
+2026-04-28 07:27:41 --- --- 
+2026-04-28 07:27:44 --- Trajectory --- 
+2026-04-28 07:27:44 Prog : HURACAN_BC2_R32_INT Skid: 232 Paint : 21.
+2026-04-28 07:27:44 ------------------ 
+2026-04-28 07:30:13 --- Trajectory --- 
+2026-04-28 07:30:13 Prog : HURACAN_BC2_R32_EXT_new Skid: 232 Paint : 273.
+2026-04-28 07:30:13 ------------------ 
+2026-04-28 07:33:02 --- Trajectory INT --- 
+2026-04-28 07:33:02  HURACAN_BC2_R31_INT " Skid: 207 Paint : 0.
+2026-04-28 07:33:02 --- --- 
+2026-04-28 07:33:05 --- Trajectory --- 
+2026-04-28 07:33:05 Prog : HURACAN_BC2_R32_INT Skid: 207 Paint : 17.
+2026-04-28 07:33:05 ------------------ 
+2026-04-28 07:35:35 --- Trajectory --- 
+2026-04-28 07:35:35 Prog : HURACAN_BC2_R32_EXT_new Skid: 207 Paint : 357.
+2026-04-28 07:35:35 ------------------ 
+2026-04-28 07:37:15  Vol : URUS_PA2_R32_Plastic Skid: 67 Calcul Vol : 6 Color: 69.
+2026-04-28 07:37:15  ---------------------------
+2026-04-28 07:57:54 --- Trajectory --- 
+2026-04-28 07:57:54 Prog : HURACAN_BC2_R32_EXT_new Skid: 207 Paint : 0.
+2026-04-28 07:57:54 ------------------ 
+2026-04-28 07:59:52  Default Volume : URUS_PA2_BC2_R32_EXT_2026 Skid: 5.
+2026-04-28 07:59:54  Vol : URUS_PA2_BC2_R32_EXT_2026 Skid: 5 Calcul Vol : 650 Color: 29.
+2026-04-28 07:59:54  ---------------------------
+2026-04-28 08:26:03 --- Trajectory --- 
+2026-04-28 08:26:03 Prog : HURACAN_BC2_R32_EXT_new Skid: 207 Paint : 0.
+2026-04-28 08:26:03 ------------------ 
+2026-04-28 08:56:47  Default Volume : URUS_PA2_BC2_R32_EXT_2026 Skid: 126.
+2026-04-28 08:56:49  Vol : URUS_PA2_BC2_R32_EXT_2026 Skid: 126 Calcul Vol : 650 Color: 60.
+2026-04-28 08:56:49  ---------------------------
+2026-04-28 09:03:03  Vol : URUS_PA2_R32_Plastic Skid: 197 Calcul Vol : 10 Color: 60.
+2026-04-28 09:03:03  ---------------------------
+2026-04-28 09:18:38  Vol : HURACAN_BC2_R32_Plastic Skid: 234 Calcul Vol : 96 Color: 106.
+2026-04-28 09:18:38  ---------------------------
+2026-04-28 09:22:58  Vol : HURACAN_BC2_R32_INT Skid: 245 Calcul Vol : 28 Color: 106.
+2026-04-28 09:22:58  ---------------------------
+2026-04-28 09:23:04  Vol : HURACAN_BC2_R32_EXT_new Skid: 245 Calcul Vol : 346 Color: 106.
+2026-04-28 09:23:04  ---------------------------
+2026-04-28 09:30:06 --- Trajectory --- 
+2026-04-28 09:30:06 Prog : HURACAN_BC2_R32_EXT_new Skid: 207 Paint : 0.
+2026-04-28 09:30:06 ------------------ 
+2026-04-28 09:34:58 --- Trajectory --- 
+2026-04-28 09:34:58 Prog : HURACAN_BC2_R32_EXT_new Skid: 207 Paint : 0.
+2026-04-28 09:34:58 ------------------ 
+2026-04-28 09:45:10 --- Trajectory --- 
+2026-04-28 09:45:10 Prog : HURACAN_BC2_R32_Plastic Skid: 234 Paint : 172.
+2026-04-28 09:45:10 ------------------ 
+2026-04-28 09:48:29 --- Trajectory INT --- 
+2026-04-28 09:48:29  HURACAN_BC2_R31_INT " Skid: 245 Paint : 0.
+2026-04-28 09:48:29 --- --- 
+2026-04-28 09:48:32 --- Trajectory --- 
+2026-04-28 09:48:32 Prog : HURACAN_BC2_R32_INT Skid: 245 Paint : 27.
+2026-04-28 09:48:32 ------------------ 
+2026-04-28 09:50:27  Default Volume : URUS_ACCENTSKID_R32 Skid: 34.
+2026-04-28 09:50:28  Vol : URUS_ACCENTSKID_R32 Skid: 34 Calcul Vol : 650 Color: 16.
+2026-04-28 09:50:28  ---------------------------
+2026-04-28 09:51:02 --- Trajectory --- 
+2026-04-28 09:51:02 Prog : HURACAN_BC2_R32_EXT_new Skid: 245 Paint : 325.
+2026-04-28 09:51:02 ------------------ 
+2026-04-28 09:59:20  Vol : HURACAN_BC2_R32_Plastic Skid: 46 Calcul Vol : 63 Color: 29.
+2026-04-28 09:59:20  ---------------------------
+2026-04-28 10:06:14  Vol : HURACAN_BC2_R32_INT Skid: 57 Calcul Vol : 18 Color: 29.
+2026-04-28 10:06:14  ---------------------------
+2026-04-28 10:06:19  Default Volume : HURACAN_SP_BC2_R32_EXT Skid: 57.
+2026-04-28 10:06:21  Vol : HURACAN_SP_BC2_R32_EXT Skid: 57 Calcul Vol : 650 Color: 29.
+2026-04-28 10:06:21  ---------------------------
+2026-04-28 10:36:03  Default Volume : URUS_ACCENTSKID_R32 Skid: 34.
+2026-04-28 10:36:05  Vol : URUS_ACCENTSKID_R32 Skid: 34 Calcul Vol : 650 Color: 16.
+2026-04-28 10:36:05  ---------------------------
+2026-04-28 10:41:46 --- Trajectory --- 
+2026-04-28 10:41:46 Prog : HURACAN_BC2_R32_Plastic Skid: 46 Paint : 95.
+2026-04-28 10:41:46 ------------------ 
+2026-04-28 10:47:39  Default Volume : URUS_PA2_BC2_R32_EXT_2026 Skid: 223.
+2026-04-28 10:47:40  Vol : URUS_PA2_BC2_R32_EXT_2026 Skid: 223 Calcul Vol : 650 Color: 11.
+2026-04-28 10:47:40  ---------------------------
+2026-04-28 10:48:09 --- Trajectory INT --- 
+2026-04-28 10:48:09  HURACAN_BC2_R31_INT " Skid: 57 Paint : 0.
+2026-04-28 10:48:09 --- --- 
+2026-04-28 10:48:12 --- Trajectory --- 
+2026-04-28 10:48:12 Prog : HURACAN_BC2_R32_INT Skid: 57 Paint : 16.
+2026-04-28 10:48:12 ------------------ 
+2026-04-28 10:51:16 --- Trajectory --- 
+2026-04-28 10:51:16 Prog : HURACAN_SP_BC2_R32_EXT Skid: 57 Paint : 217.
+2026-04-28 10:51:16 ------------------ 
+2026-04-28 11:17:16 --- Trajectory --- 
+2026-04-28 11:17:16 Prog : URUS_ACCENTSKID_R32 Skid: 34 Paint : 0.
+2026-04-28 11:17:16 ------------------ 
+2026-04-28 11:30:19 --- Trajectory --- 
+2026-04-28 11:30:19 Prog : URUS_ACCENTSKID_R32 Skid: 34 Paint : 0.
+2026-04-28 11:30:19 ------------------ 
+2026-04-28 11:32:14  Vol : URUS_PA2_R32_Plastic Skid: 186 Calcul Vol : 10 Color: 53.
+2026-04-28 11:32:14  ---------------------------
+2026-04-28 11:36:54  Default Volume : URUS_PA2_BC2_R32_EXT_2026 Skid: 158.
+2026-04-28 11:36:55  Vol : URUS_PA2_BC2_R32_EXT_2026 Skid: 158 Calcul Vol : 650 Color: 11.
+2026-04-28 11:36:55  ---------------------------
+2026-04-28 11:59:16 --- Trajectory --- 
+2026-04-28 11:59:16 Prog : URUS_ACCENTSKID_R32 Skid: 34 Paint : 0.
+2026-04-28 11:59:16 ------------------ 
+2026-04-28 12:07:01 --- Trajectory --- 
+2026-04-28 12:07:01 Prog : URUS_ACCENTSKID_R32 Skid: 34 Paint : 0.
+2026-04-28 12:07:01 ------------------ 
+2026-04-28 12:27:14  Vol : URUS_PA2_R32_Plastic Skid: 7 Calcul Vol : 10 Color: 27.
+2026-04-28 12:27:14  ---------------------------
+2026-04-28 12:46:04  Vol : HURACAN_BC2_R32_Plastic Skid: 45 Calcul Vol : 64 Color: 20.
+2026-04-28 12:46:04  ---------------------------
+2026-04-28 12:50:48  Vol : HURACAN_BC2_R32_INT Skid: 138 Calcul Vol : 18 Color: 20.
+2026-04-28 12:50:48  ---------------------------
+2026-04-28 12:50:54  Vol : HURACAN_BC2_R32_EXT_new Skid: 138 Calcul Vol : 208 Color: 20.
+2026-04-28 12:50:54  ---------------------------
+2026-04-28 13:00:21 --- Trajectory --- 
+2026-04-28 13:00:21 Prog : URUS_ACCENTSKID_R32 Skid: 34 Paint : 0.
+2026-04-28 13:00:21 ------------------ 
+2026-04-28 13:05:18  Vol : HURACAN_BC2_R32_INT Skid: 20 Calcul Vol : 22 Color: 53.
+2026-04-28 13:05:18  ---------------------------
+2026-04-28 13:05:24  Vol : HURACAN_BC2_R32_EXT_new Skid: 20 Calcul Vol : 273 Color: 53.
+2026-04-28 13:05:24  ---------------------------
+2026-04-28 13:07:19  Vol : HURACAN_BC2_R32_Plastic Skid: 200 Calcul Vol : 77 Color: 53.
+2026-04-28 13:07:19  ---------------------------
+2026-04-28 13:13:06 --- Trajectory --- 
+2026-04-28 13:13:06 Prog : HURACAN_BC2_R32_Plastic Skid: 45 Paint : 168.
+2026-04-28 13:13:06 ------------------ 
+2026-04-28 13:16:31 --- Trajectory INT --- 
+2026-04-28 13:16:31  HURACAN_BC2_R31_INT " Skid: 138 Paint : 0.
+2026-04-28 13:16:31 --- --- 
+2026-04-28 13:16:34 --- Trajectory --- 
+2026-04-28 13:16:34 Prog : HURACAN_BC2_R32_INT Skid: 138 Paint : 16.
+2026-04-28 13:16:34 ------------------ 
+2026-04-28 13:17:50  Vol : URUS_PA2_R32_Plastic Skid: 102 Calcul Vol : 1 Color: 131.
+2026-04-28 13:17:50  ---------------------------
+2026-04-28 13:19:03 --- Trajectory --- 
+2026-04-28 13:19:03 Prog : HURACAN_BC2_R32_EXT_new Skid: 138 Paint : 184.
+2026-04-28 13:19:03 ------------------ 
+2026-04-28 13:35:03 --- Trajectory INT --- 
+2026-04-28 13:35:03  HURACAN_BC2_R31_INT " Skid: 20 Paint : 0.
+2026-04-28 13:35:03 --- --- 
+2026-04-28 13:35:05 --- Trajectory --- 
+2026-04-28 13:35:05 Prog : HURACAN_BC2_R32_INT Skid: 20 Paint : 21.
+2026-04-28 13:35:05 ------------------ 
+2026-04-28 13:37:34 --- Trajectory --- 
+2026-04-28 13:37:34 Prog : HURACAN_BC2_R32_EXT_new Skid: 20 Paint : 251.
+2026-04-28 13:37:34 ------------------ 
+2026-04-28 13:40:24 --- Trajectory --- 
+2026-04-28 13:40:24 Prog : HURACAN_BC2_R32_Plastic Skid: 200 Paint : 156.
+2026-04-28 13:40:24 ------------------ 
+2026-04-28 13:46:54 --- Trajectory --- 
+2026-04-28 13:46:54 Prog : HURACAN_BC2_R32_Plastic Skid: 200 Paint : 0.
+2026-04-28 13:46:54 ------------------ 
+2026-04-28 13:58:29  Default Volume : URUS_PA2_BC2_R32_EXT_2026 Skid: 37.
+2026-04-28 13:58:31  Vol : URUS_PA2_BC2_R32_EXT_2026 Skid: 37 Calcul Vol : 650 Color: 53.
+2026-04-28 13:58:31  ---------------------------
+2026-04-28 14:14:50  Vol : URUS_PA2_R32_Plastic Skid: 169 Calcul Vol : 10 Color: 29.
+2026-04-28 14:14:50  ---------------------------
+2026-04-28 14:18:43  Vol : HURACAN_BC2_R32_Plastic Skid: 97 Calcul Vol : 99 Color: 27.
+2026-04-28 14:18:43  ---------------------------
+2026-04-28 14:23:06  Vol : URUS_PA2_R32_Plastic Skid: 101 Calcul Vol : 1 Color: 22.
+2026-04-28 14:23:06  ---------------------------
+2026-04-28 14:26:12 --- Trajectory --- 
+2026-04-28 14:26:12 Prog : HURACAN_BC2_R32_Plastic Skid: 200 Paint : 0.
+2026-04-28 14:26:12 ------------------ 
+2026-04-28 14:44:22  Vol : URUS_PA2_R32_Plastic Skid: 42 Calcul Vol : 10 Color: 27.
+2026-04-28 14:44:22  ---------------------------
+2026-04-28 14:47:20 --- Trajectory --- 
+2026-04-28 14:47:20 Prog : HURACAN_BC2_R32_Plastic Skid: 200 Paint : 0.
+2026-04-28 14:47:20 ------------------ 
+2026-04-28 14:49:17  Default Volume : URUS_PA2_BC2_R32_EXT_2026 Skid: 233.
+2026-04-28 14:49:18  Vol : URUS_PA2_BC2_R32_EXT_2026 Skid: 233 Calcul Vol : 650 Color: 131.
+2026-04-28 14:49:18  ---------------------------
+2026-04-28 14:51:38 --- Trajectory --- 
+2026-04-28 14:51:38 Prog : HURACAN_BC2_R32_Plastic Skid: 97 Paint : 165.
+2026-04-28 14:51:38 ------------------ 
+2026-04-28 14:55:32 --- Trajectory --- 
+2026-04-28 14:55:32 Prog : HURACAN_BC2_R32_Plastic Skid: 97 Paint : 0.
+2026-04-28 14:55:32 ------------------ 
+2026-04-28 15:09:04 --- Trajectory --- 
+2026-04-28 15:09:04 Prog : HURACAN_BC2_R32_Plastic Skid: 97 Paint : 0.
+2026-04-28 15:09:04 ------------------ 
+2026-04-28 15:15:04  Default Volume : URUS_PA2_BC2_R32_EXT_2026 Skid: 31.
+2026-04-28 15:15:06  Vol : URUS_PA2_BC2_R32_EXT_2026 Skid: 31 Calcul Vol : 650 Color: 22.
+2026-04-28 15:15:06  ---------------------------
+2026-04-28 15:19:23 --- Trajectory --- 
+2026-04-28 15:19:23 Prog : HURACAN_BC2_R32_Plastic Skid: 97 Paint : 0.
+2026-04-28 15:19:23 ------------------ 
+2026-04-28 15:36:27  Vol : URUS_PA2SPORT_R32_EXT Skid: 142 Calcul Vol : 436 Color: 15.
+2026-04-28 15:36:27  ---------------------------
+2026-04-28 15:45:35 --- Trajectory --- 
+2026-04-28 15:45:35 Prog : HURACAN_BC2_R32_Plastic Skid: 97 Paint : 0.
+2026-04-28 15:45:35 ------------------ 
+2026-04-28 15:48:59  Default Volume : URUS_PA2_BC2_R32_EXT_2026 Skid: 133.
+2026-04-28 15:49:00  Vol : URUS_PA2_BC2_R32_EXT_2026 Skid: 133 Calcul Vol : 650 Color: 29.
+2026-04-28 15:49:00  ---------------------------
+2026-04-28 15:52:31  Default Volume : URUS_PA2_BC2_R32_EXT_2026 Skid: 38.
+2026-04-28 15:52:33  Vol : URUS_PA2_BC2_R32_EXT_2026 Skid: 38 Calcul Vol : 650 Color: 27.
+2026-04-28 15:52:33  ---------------------------
+2026-04-28 15:57:43  Default Volume : URUS_PA2_BC2_R32_EXT_2026 Skid: 21.
+2026-04-28 15:57:45  Vol : URUS_PA2_BC2_R32_EXT_2026 Skid: 21 Calcul Vol : 650 Color: 9.
+2026-04-28 15:57:45  ---------------------------
+2026-04-28 16:14:34  Default Volume : URUS_PA2_BC2_R32_EXT_2026 Skid: 26.
+2026-04-28 16:14:35  Vol : URUS_PA2_BC2_R32_EXT_2026 Skid: 26 Calcul Vol : 650 Color: 55.
+2026-04-28 16:14:35  ---------------------------
+2026-04-28 16:27:49 --- Trajectory --- 
+2026-04-28 16:27:49 Prog : URUS_PA2SPORT_R32_EXT Skid: 142 Paint : 0.
+2026-04-28 16:27:49 ------------------ 
+2026-04-28 16:29:26  Vol : HURACAN_BC2_R32_INT Skid: 203 Calcul Vol : 20 Color: 15.
+2026-04-28 16:29:26  ---------------------------
+2026-04-28 16:29:32  Vol : HURACAN_BC2_R32_EXT_new Skid: 203 Calcul Vol : 0 Color: 15.
+2026-04-28 16:29:32  ---------------------------
+2026-04-28 16:32:22 --- Trajectory --- 
+2026-04-28 16:32:22 Prog : URUS_PA2SPORT_R32_EXT Skid: 142 Paint : 0.
+2026-04-28 16:32:22 ------------------ 
+2026-04-28 16:37:41 --- Trajectory --- 
+2026-04-28 16:37:41 Prog : URUS_PA2SPORT_R32_EXT Skid: 142 Paint : 0.
+2026-04-28 16:37:41 ------------------ 
+2026-04-28 16:47:26 --- Trajectory --- 
+2026-04-28 16:47:26 Prog : URUS_PA2SPORT_R32_EXT Skid: 142 Paint : 0.
+2026-04-28 16:47:26 ------------------ 
+2026-04-28 16:51:13  Default Volume : URUS_PA2_BC2_R32_EXT_2026 Skid: 50.
+2026-04-28 16:51:15  Vol : URUS_PA2_BC2_R32_EXT_2026 Skid: 50 Calcul Vol : 650 Color: 13.
+2026-04-28 16:51:15  ---------------------------
+2026-04-28 16:59:08 --- Trajectory --- 
+2026-04-28 16:59:08 Prog : HURACAN_BC2_R32_INT Skid: 203 Paint : 0.
+2026-04-28 16:59:08 ------------------ 
+2026-04-28 16:59:48  Vol : URUS_PA2_R32_Plastic Skid: 186 Calcul Vol : 10 Color: 41.
+2026-04-28 16:59:48  ---------------------------
+2026-04-28 17:00:25 --- Trajectory --- 
+2026-04-28 17:00:25 Prog : HURACAN_BC2_R32_EXT_new Skid: 203 Paint : 0.
+2026-04-28 17:00:25 ------------------ 
+2026-04-28 17:04:01  Default Volume : URUS_PA2_BC2_R32_EXT_2026 Skid: 60.
+2026-04-28 17:04:03  Vol : URUS_PA2_BC2_R32_EXT_2026 Skid: 60 Calcul Vol : 650 Color: 41.
+2026-04-28 17:04:03  ---------------------------
+2026-04-28 17:12:33  Vol : URUS_PA2_R32_Plastic Skid: 259 Calcul Vol : 10 Color: 29.
+2026-04-28 17:12:33  ---------------------------
+2026-04-28 17:17:14  Vol : URUS_PA2_R32_Plastic Skid: 67 Calcul Vol : 10 Color: 25.
