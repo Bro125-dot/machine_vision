@@ -3,6 +3,8 @@ import { BarsOutlined } from '@ant-design/icons';
 import { useParams , useNavigate } from 'react-router-dom'
 import {useEffect , useState} from 'react'
 
+const API_URL = 'https://machine-vision-vv40.onrender.com'
+
 
 function Pagematrix(){
     const {Header , Content} = Layout
@@ -14,7 +16,7 @@ function Pagematrix(){
     const nav = useNavigate()
     const [infomatrice , setInfomatrice] = useState()
     useEffect(()=>{
-        fetch(`http://localhost:3000/matrici/${robot}/${matrice}`)
+        fetch(`${API_URL}/matrici/${robot}/${matrice}`)
         .then(res => res.json())
         .then(data => (
             setInfomatrice(data)

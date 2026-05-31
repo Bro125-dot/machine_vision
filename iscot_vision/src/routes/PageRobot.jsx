@@ -6,6 +6,8 @@ import image from '../assets/IRB 5500.jpg'
 import { ArrowLeftOutlined } from '@ant-design/icons';
 import GeneralNav from '../components/General_navbar'
 
+
+
 function Robots(){
     const {Header , Content} = Layout
     const {cabina} = useParams()

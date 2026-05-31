@@ -4,6 +4,9 @@ import { Layout } from 'antd'
 import { useNavigate, useParams } from 'react-router-dom'
 import { useEffect, useState } from 'react'
 
+
+const API_URL = 'https://machine-vision-vv40.onrender.com'
+
 function Pagelistskids() {
   const { Content } = Layout
   const { cabina, robot } = useParams()
@@ -17,7 +20,7 @@ function Pagelistskids() {
   })
 
   useEffect(() => {
-    fetch(`http://localhost:3000/skids-overview?cabina=${cabina}&robot=${robot}`)
+    fetch(`${API_URL}/skids-overview?cabina=${cabina}&robot=${robot}`)
       .then(res => res.json())
       .then(response => {
         const skidObject = response.data || {}
