@@ -3,93 +3,93 @@ import { Loadcmddata } from '../services/loadercmd.js'
 const data = Loadcmddata()
 
 const CMD_EVENTS = {
-  "Cmd1": {
-    "name": "Mastership Acquire",
-    "description": "Richiede il controllo esclusivo del controller ABB."
+  Cmd1: {
+    name: 'Controllo PLC',
+    description: 'I robot tornano sotto comando PLC.'
   },
-  "Cmd2": {
-    "name": "Mastership Release",
-    "description": "Rilascia il controllo esclusivo del controller."
+  Cmd2: {
+    name: 'Controllo Teach Pendant',
+    description: 'I robot sono comandati da controller / teach pendant.'
   },
-  "Cmd101": {
-    "name": "Reset",
-    "description": "Reset del controller."
+  Cmd101: {
+    name: 'Reset',
+    description: 'Reset del controller.'
   },
-  "Cmd102": {
-    "name": "Stop",
-    "description": "Quick stop dei robot coinvolti nel processo."
+  Cmd102: {
+    name: 'Stop',
+    description: 'Quick stop dei robot coinvolti nel processo.'
   },
-  "Cmd103": {
-    "name": "Continue",
-    "description": "Riprende produzione, programma o cambio materiale."
+  Cmd103: {
+    name: 'Continue',
+    description: 'Riprende produzione, programma o cambio materiale.'
   },
-  "Cmd106": {
-    "name": "Auto Mode Ack",
-    "description": "Conferma il passaggio a modalità automatica."
+  Cmd106: {
+    name: 'Auto Mode Ack',
+    description: 'Conferma il passaggio a modalità automatica.'
   },
-  "Cmd107": {
-    "name": "Start",
-    "description": "Riavvia il task principale e abilita i motori."
+  Cmd107: {
+    name: 'Start / Recovery',
+    description: 'Riavvia il task principale e abilita i motori.'
   },
-  "Cmd110": {
-    "name": "Motors On",
-    "description": "Accensione motori robot."
+  Cmd110: {
+    name: 'Motors On',
+    description: 'Accensione motori robot.'
   },
-  "Cmd140": {
-    "name": "Request Manual",
-    "description": "Richiede modalità manuale a velocità ridotta."
+  Cmd140: {
+    name: 'Cabina in Manuale',
+    description: 'La cabina viene messa in manuale.'
   },
-  "Cmd141": {
-    "name": "Request Auto",
-    "description": "Richiede modalità automatica."
+  Cmd141: {
+    name: 'Richiesta Automatico',
+    description: 'Richiede modalità automatica.'
   },
-  "Cmd203": {
-    "name": "Resume Material Change",
-    "description": "Riprende il cambio materiale."
+  Cmd203: {
+    name: 'Resume Material Change',
+    description: 'Riprende il cambio materiale.'
   },
-  "Cmd204": {
-    "name": "Cancel Material Change",
-    "description": "Annulla il cambio materiale."
+  Cmd204: {
+    name: 'Cancel Material Change',
+    description: 'Annulla il cambio materiale.'
   },
-  "Cmd302": {
-    "name": "Applicator Enable",
-    "description": "Abilita l'applicatore vernice."
+  Cmd302: {
+    name: 'Applicatore ON',
+    description: 'Abilita l applicatore vernice.'
   },
-  "Cmd303": {
-    "name": "Applicator Disable",
-    "description": "Disabilita l'applicatore vernice."
+  Cmd303: {
+    name: 'Applicatore OFF',
+    description: 'Disabilita l applicatore vernice.'
   },
-  "Cmd314": {
-    "name": "HV Enable",
-    "description": "Abilita l'alta tensione degli applicatori."
+  Cmd314: {
+    name: 'HV ON',
+    description: 'Abilita alta tensione degli applicatori.'
   },
-  "Cmd315": {
-    "name": "HV Disable",
-    "description": "Disabilita l'alta tensione degli applicatori."
+  Cmd315: {
+    name: 'HV OFF',
+    description: 'Disabilita alta tensione degli applicatori.'
   },
-  "Cmd401": {
-    "name": "Material Load",
-    "description": "Carica un materiale nel robot."
+  Cmd401: {
+    name: 'Carico materiale',
+    description: 'Carica un materiale nel robot.'
   },
-  "Cmd405": {
-    "name": "High Priority Program",
-    "description": "Inserisce un programma prioritario."
+  Cmd405: {
+    name: 'Programma prioritario',
+    description: 'Inserisce un programma prioritario.'
   },
-  "Cmd413": {
-    "name": "Program Loaded",
-    "description": "Robot pronto e in attesa dello start esterno."
+  Cmd413: {
+    name: 'External Start / Inizio applicazione',
+    description: 'Robot pronto, external start ricevuto. Inizio reale applicazione.'
   },
-  "Cmd421": {
-    "name": "Append Job",
-    "description": "Inserisce un job in coda."
+  Cmd421: {
+    name: 'Job ricevuto',
+    description: 'Il PLC ha ricevuto il job con i dati dello skid.'
   },
-  "Cmd422": {
-    "name": "Insert Job",
-    "description": "Inserisce un job in una posizione specifica della coda."
+  Cmd422: {
+    name: 'Inserimento job',
+    description: 'Inserisce un job in una posizione specifica della coda.'
   },
-  "Cmd750": {
-    "name": "Material Change Operation",
-    "description": "Operazioni avanzate del motore cambio materiale."
+  Cmd750: {
+    name: 'Cambio materiale',
+    description: 'Operazione avanzata del motore cambio materiale.'
   }
 }
 
@@ -118,6 +118,42 @@ function formatDuration(seconds) {
   }
 
   return `${minutes} min ${remainingSeconds} sec`
+}
+
+function subtractSeconds(timestamp, seconds) {
+  if (!timestamp) return null
+
+  const date = new Date(timestamp.replace(' ', 'T'))
+
+  if (Number.isNaN(date.getTime())) return null
+
+  date.setSeconds(date.getSeconds() - seconds)
+
+  return date.toISOString().slice(0, 19).replace('T', ' ')
+}
+
+function closeProcesso(processo, fineTimestamp, nextStartTimestamp = null) {
+  if (!processo || processo.fineProcesso) return
+
+  processo.fineProcesso = fineTimestamp
+  processo.nextExternalStart = nextStartTimestamp
+
+  processo.durataApplicazioneSecondi = secondsBetween(
+    processo.inizioApplicazione,
+    processo.fineProcesso
+  )
+
+  processo.durataApplicazione = formatDuration(
+    processo.durataApplicazioneSecondi
+  )
+
+  processo.timeline.push({
+    timestamp: fineTimestamp,
+    comando: 'CALC',
+    evento: 'Fine applicazione stimata',
+    categoria: 'processo',
+    note: 'Calcolata come prossimo Cmd413 meno 40 secondi'
+  })
 }
 
 function parseCmdLine(riga) {
@@ -151,6 +187,42 @@ function parseCmd421FromParts(parti) {
     colore: parti[5],
     bit: parti.slice(6, 9)
   }
+}
+
+function getCategoria(comando) {
+  if (comando === 'Cmd421' || comando === 'Cmd422' || comando === 'Cmd405') {
+    return 'job'
+  }
+
+  if (comando === 'Cmd413') {
+    return 'processo'
+  }
+
+  if (comando === 'Cmd102') {
+    return 'anomalia'
+  }
+
+  if (comando === 'Cmd107') {
+    return 'recovery'
+  }
+
+  if (comando === 'Cmd140' || comando === 'Cmd141' || comando === 'Cmd106') {
+    return 'modo'
+  }
+
+  if (comando === 'Cmd750' || comando === 'Cmd401' || comando === 'Cmd203' || comando === 'Cmd204') {
+    return 'materiale'
+  }
+
+  if (comando === 'Cmd302' || comando === 'Cmd303' || comando === 'Cmd314' || comando === 'Cmd315') {
+    return 'verniciatura'
+  }
+
+  if (comando === 'Cmd1' || comando === 'Cmd2' || comando === 'Cmd101' || comando === 'Cmd103' || comando === 'Cmd110') {
+    return 'controllo'
+  }
+
+  return 'altro'
 }
 
 export function robot_chiavi(data) {
@@ -206,6 +278,7 @@ export function parseProcessiByRobot(testo) {
       .sort((a, b) => a.timestamp.localeCompare(b.timestamp))
 
     let processoCorrente = null
+    let ultimoProcessoConStart = null
 
     for (const event of righe) {
       const comandoInfo = CMD_EVENTS[event.comando]
@@ -213,25 +286,6 @@ export function parseProcessiByRobot(testo) {
       if (!comandoInfo) continue
 
       if (event.comando === 'Cmd421') {
-        if (processoCorrente) {
-          processoCorrente.fineProcesso = event.timestamp
-          processoCorrente.timeline.push({
-            timestamp: event.timestamp,
-            comando: event.comando,
-            evento: 'Fine ciclo / nuovo job',
-            categoria: 'job'
-          })
-
-          processoCorrente.durataApplicazioneSecondi = secondsBetween(
-            processoCorrente.inizioApplicazione,
-            processoCorrente.fineProcesso
-          )
-
-          processoCorrente.durataApplicazione = formatDuration(
-            processoCorrente.durataApplicazioneSecondi
-          )
-        }
-
         const parti = event.raw.split(',')
         const cmd421Data = parseCmd421FromParts(parti)
         const skid = Number(cmd421Data.skid)
@@ -239,11 +293,18 @@ export function parseProcessiByRobot(testo) {
         processoCorrente = {
           skid,
           jobRicevuto: event.timestamp,
+
+          // nuova logica:
+          // inizio = primo Cmd413 dopo il Cmd421
+          // fine = prossimo Cmd413 meno 40 secondi
           inizioApplicazione: null,
           fineProcesso: null,
+          nextExternalStart: null,
+
           durataApplicazioneSecondi: null,
           durataApplicazione: null,
           note: null,
+
           anomalie: {
             stop: 0,
             recovery: 0,
@@ -252,12 +313,13 @@ export function parseProcessiByRobot(testo) {
             controlloPLC: false,
             controlloTeachPendant: false
           },
+
           timeline: [
             {
               timestamp: event.timestamp,
               comando: event.comando,
-              evento: comandoInfo.evento,
-              categoria: comandoInfo.categoria,
+              evento: 'Job ricevuto',
+              categoria: 'job',
               programma: cmd421Data.programma,
               colore: cmd421Data.colore
             }
@@ -278,14 +340,31 @@ export function parseProcessiByRobot(testo) {
       const timelineEvent = {
         timestamp: event.timestamp,
         comando: event.comando,
-        evento: comandoInfo.evento,
-        categoria: comandoInfo.categoria
+        evento: comandoInfo.name,
+        categoria: getCategoria(event.comando),
+        description: comandoInfo.description
       }
 
       processoCorrente.timeline.push(timelineEvent)
 
-      if (event.comando === 'Cmd413' && !processoCorrente.inizioApplicazione) {
-        processoCorrente.inizioApplicazione = event.timestamp
+      if (event.comando === 'Cmd413') {
+        // Questo Cmd413 è l external start del processo corrente.
+        if (!processoCorrente.inizioApplicazione) {
+          processoCorrente.inizioApplicazione = event.timestamp
+        }
+
+        // Lo stesso Cmd413 indica anche che il processo precedente è finito
+        // circa 40 secondi prima.
+        if (
+          ultimoProcessoConStart &&
+          ultimoProcessoConStart !== processoCorrente &&
+          !ultimoProcessoConStart.fineProcesso
+        ) {
+          const fineStimata = subtractSeconds(event.timestamp, 40)
+          closeProcesso(ultimoProcessoConStart, fineStimata, event.timestamp)
+        }
+
+        ultimoProcessoConStart = processoCorrente
       }
 
       if (event.comando === 'Cmd102') {
@@ -313,30 +392,26 @@ export function parseProcessiByRobot(testo) {
       }
     }
 
-    if (processoCorrente && !processoCorrente.fineProcesso) {
-      processoCorrente.note = 'Fine processo non trovata: manca il Cmd421 successivo'
-
-      if (!processoCorrente.inizioApplicazione) {
-        processoCorrente.note = 'Cmd413 non trovato: inizio applicazione non disponibile'
-      }
-    }
-
     for (const skidKey of Object.keys(risultato[chiave])) {
       for (const processo of risultato[chiave][skidKey]) {
-        if (!processo.inizioApplicazione && !processo.note) {
+        if (!processo.inizioApplicazione) {
           processo.note = 'Cmd413 non trovato: inizio applicazione non disponibile'
+          continue
         }
 
-        if (processo.inizioApplicazione && processo.fineProcesso) {
-          processo.durataApplicazioneSecondi = secondsBetween(
-            processo.inizioApplicazione,
-            processo.fineProcesso
-          )
-
-          processo.durataApplicazione = formatDuration(
-            processo.durataApplicazioneSecondi
-          )
+        if (!processo.fineProcesso) {
+          processo.note = 'Fine processo non trovata: manca il Cmd413 successivo'
+          continue
         }
+
+        processo.durataApplicazioneSecondi = secondsBetween(
+          processo.inizioApplicazione,
+          processo.fineProcesso
+        )
+
+        processo.durataApplicazione = formatDuration(
+          processo.durataApplicazioneSecondi
+        )
       }
     }
   }
