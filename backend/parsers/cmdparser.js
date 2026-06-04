@@ -45,19 +45,19 @@ const CMD_EVENTS = {
   },
   Cmd203: {
     name: 'Resume Material Change',
-    description: 'Riprende il cambio materiale.'
+    description: 'color change'
   },
   Cmd204: {
     name: 'Cancel Material Change',
-    description: 'Annulla il cambio materiale.'
+    description: 'anulla color change'
   },
   Cmd302: {
     name: 'Applicatore ON',
-    description: 'Abilita l applicatore vernice.'
+    description: 'Abilita l applicatore '
   },
   Cmd303: {
     name: 'Applicatore OFF',
-    description: 'Disabilita l applicatore vernice.'
+    description: 'Disabilita l applicatore '
   },
   Cmd314: {
     name: 'HV ON',
@@ -69,7 +69,7 @@ const CMD_EVENTS = {
   },
   Cmd401: {
     name: 'Carico materiale',
-    description: 'Carica un materiale nel robot.'
+    description: ''
   },
   Cmd405: {
     name: 'Programma prioritario',
@@ -77,7 +77,7 @@ const CMD_EVENTS = {
   },
   Cmd413: {
     name: 'External Start / Inizio applicazione',
-    description: 'Robot pronto, external start ricevuto. Inizio reale applicazione.'
+    description: 'Robot pronto, external start ricevuto'
   },
   Cmd421: {
     name: 'Job ricevuto',
@@ -85,11 +85,11 @@ const CMD_EVENTS = {
   },
   Cmd422: {
     name: 'Inserimento job',
-    description: 'Inserisce un job in una posizione specifica della coda.'
+    description: ''
   },
   Cmd750: {
     name: 'Cambio materiale',
-    description: 'Operazione avanzata del motore cambio materiale.'
+    description: 'Operazione avanzata nel cbs(lavaggio , fill solvent )'
   }
 }
 
