@@ -3,7 +3,8 @@ import { Loadmapdata } from '../services/loadermap.js'
 
 import {
   robot_chiavi as cmdRobotChiavi,
-  cmd421
+  cmd421,
+  parseProcessiByRobot
 } from './cmdparser.js'
 
 import {
@@ -24,6 +25,7 @@ export function buildSkidOverview(targetDate = '2026-05-18') {
   const cmdRaw = Loadcmddata()
   const cmdGrouped = cmdRobotChiavi(cmdRaw)
   const cmdParsed = cmd421(cmdGrouped)
+  const processiParsed = parseProcessiByRobot(cmdGrouped)
 
   const mapRaw = Loadmapdata()
   const mapParsed = parseMapByRobot(mapRaw)
@@ -60,7 +62,8 @@ export function buildSkidOverview(targetDate = '2026-05-18') {
           events: {
             syslog: [],
             cmd421: [],
-            maplog: []
+            maplog: [],
+            processo: []
           }
         }
       }
@@ -99,6 +102,28 @@ export function buildSkidOverview(targetDate = '2026-05-18') {
     }
   }
 
+  for (const robotKey of Object.keys(processiParsed)) {
+    const [cabina, robot] = robotKey.split('_')
+
+    if (excludedCabine.includes(cabina)) continue
+    if (!result[cabina]) continue
+    if (!result[cabina][robot]) continue
+
+    for (const skidKey of Object.keys(processiParsed[robotKey])) {
+      const skid = Number(skidKey)
+
+      if (skid > 300) continue
+      if (!result[cabina][robot][skidKey]) continue
+
+      const processi = processiParsed[robotKey][skidKey].filter(processo => {
+        const timestamp = String(processo.jobRicevuto || '')
+        return timestamp.startsWith(targetDate)
+      })
+
+      result[cabina][robot][skidKey].events.processo = processi
+    }
+  }
+
   for (const cabina of Object.keys(result)) {
     for (const robot of Object.keys(result[cabina])) {
       for (const skidKey of Object.keys(result[cabina][robot])) {
@@ -111,20 +136,6 @@ export function buildSkidOverview(targetDate = '2026-05-18') {
           return timestamp.startsWith(targetDate) && skid <= 300
         })
       }
-    }
-  }
-
-  console.log('CABINE FINALI:', Object.keys(result))
-
-  for (const cabina of Object.keys(result)) {
-    console.log(cabina, Object.keys(result[cabina]))
-
-    for (const robot of Object.keys(result[cabina])) {
-      console.log(
-        `${cabina}_${robot}`,
-        'skid:',
-        Object.keys(result[cabina][robot]).length
-      )
     }
   }
 

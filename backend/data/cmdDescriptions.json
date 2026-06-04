@@ -1,0 +1,90 @@
+{
+  "Cmd1": {
+    "name": "Mastership Acquire",
+    "description": "Richiede il controllo esclusivo del controller ABB."
+  },
+  "Cmd2": {
+    "name": "Mastership Release",
+    "description": "Rilascia il controllo esclusivo del controller."
+  },
+  "Cmd101": {
+    "name": "Reset",
+    "description": "Reset del controller."
+  },
+  "Cmd102": {
+    "name": "Stop",
+    "description": "Quick stop dei robot coinvolti nel processo."
+  },
+  "Cmd103": {
+    "name": "Continue",
+    "description": "Riprende produzione, programma o cambio materiale."
+  },
+  "Cmd106": {
+    "name": "Auto Mode Ack",
+    "description": "Conferma il passaggio a modalità automatica."
+  },
+  "Cmd107": {
+    "name": "Start",
+    "description": "Riavvia il task principale e abilita i motori."
+  },
+  "Cmd110": {
+    "name": "Motors On",
+    "description": "Accensione motori robot."
+  },
+  "Cmd140": {
+    "name": "Request Manual",
+    "description": "Richiede modalità manuale a velocità ridotta."
+  },
+  "Cmd141": {
+    "name": "Request Auto",
+    "description": "Richiede modalità automatica."
+  },
+  "Cmd203": {
+    "name": "Resume Material Change",
+    "description": "Riprende il cambio materiale."
+  },
+  "Cmd204": {
+    "name": "Cancel Material Change",
+    "description": "Annulla il cambio materiale."
+  },
+  "Cmd302": {
+    "name": "Applicator Enable",
+    "description": "Abilita l'applicatore vernice."
+  },
+  "Cmd303": {
+    "name": "Applicator Disable",
+    "description": "Disabilita l'applicatore vernice."
+  },
+  "Cmd314": {
+    "name": "HV Enable",
+    "description": "Abilita l'alta tensione degli applicatori."
+  },
+  "Cmd315": {
+    "name": "HV Disable",
+    "description": "Disabilita l'alta tensione degli applicatori."
+  },
+  "Cmd401": {
+    "name": "Material Load",
+    "description": "Carica un materiale nel robot."
+  },
+  "Cmd405": {
+    "name": "High Priority Program",
+    "description": "Inserisce un programma prioritario."
+  },
+  "Cmd413": {
+    "name": "Program Loaded",
+    "description": "Robot pronto e in attesa dello start esterno."
+  },
+  "Cmd421": {
+    "name": "Append Job",
+    "description": "Inserisce un job in coda."
+  },
+  "Cmd422": {
+    "name": "Insert Job",
+    "description": "Inserisce un job in una posizione specifica della coda."
+  },
+  "Cmd750": {
+    "name": "Material Change Operation",
+    "description": "Operazioni avanzate del motore cambio materiale."
+  }
+}
