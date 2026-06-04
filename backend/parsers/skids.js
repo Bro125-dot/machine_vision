@@ -26,6 +26,8 @@ export function buildSkidOverview(targetDate = '2026-05-18') {
   const cmdGrouped = cmdRobotChiavi(cmdRaw)
   const cmdParsed = cmd421(cmdGrouped)
   const processiParsed = parseProcessiByRobot(cmdGrouped)
+  console.log('PROCESSI PARSED KEYS:', Object.keys(processiParsed))
+  console.log('PROCESSI BC0_R12:', processiParsed['BC0_R12'])
 
   const mapRaw = Loadmapdata()
   const mapParsed = parseMapByRobot(mapRaw)
