@@ -247,6 +247,18 @@ function Pageskid() {
                       <div style={{ fontSize: 12, opacity: 0.7 }}>
                         {item.comando} - {item.categoria}
                       </div>
+
+                      {item.description && (
+                        <div style={{ marginTop: 6, fontSize: 13 }}>
+                          {item.description}
+                        </div>
+                      )}
+
+                      {item.note && (
+                        <div style={{ marginTop: 6, fontSize: 12, opacity: 0.75 }}>
+                          {item.note}
+                        </div>
+                      )}
                     </Card>
                   ))}
                 </div>
